@@ -1227,27 +1227,28 @@ Unfortunately, they unplugged him during a match of Rugby Rampage 4. The mental 
 -->
 
 	<Nerd92>
-		<title>Nerd</title>
-		<titleShort>Nerd</titleShort>
-		<desc>NAME was curious about everything. While other kids played tag in the suburbs of their industrial city, NAME read every book he could find about technology, robots, and weapons - whatever looked coolest.
+		<title>Ботан</title>
+		<titleShort>Ботан</titleShort>
+		<desc>NAME был любознательна(лен) до всего. Пока другие дети резвились в салки в окресностях своих индустриальных городов, NAME читал(а) книгу по технологии, роботам и оружию, что получалось найти, любая казалась отличнейшей.
 
-His strong French accent kept him from making real friends.</desc>
+Сильный акцент удерживал NAME от приобретения настоящих друзей.</desc>
 	</Nerd92>
+	<!-- Про французкий акцент поймут только канадцы -->
 
 	<StateEngineer74>
-		<title>State engineer</title>
-		<titleShort>Engineer</titleShort>
-		<desc>NAME enrolled in the state weapons research program.
+		<title>Штатный инженер</title>
+		<titleShort>Инженер</titleShort>
+		<desc>NAME записан в государственную программу оружейных разработок.
 
-While brilliant in his work, he was so enthusiastic in testing his creations that he accidentally wounded some colleagues and was marked as unfit for service.</desc>
+Брилиант в своём деле HE столь увлечённо проверял(а) свои творения, что неумышленно ранил(а) некоторых сослуживцев и был(а) отмеченна как непригодная для работы.</desc>
 	</StateEngineer74>
 
 	<RebelSlave42>
-		<title>Rebel slave</title>
-		<titleShort>Rebel</titleShort>
-		<desc>NAME was born into corporate slavery and raised to perform menial tasks for minimum pay. HECAP was just another cog in the machine.
+		<title>Восставший раб</title>
+		<titleShort>Мятежник</titleShort>
+		<desc>NAME родился(ась) в рабстве корпорации и взощена для выполнения низкоквалифицированной работы за минимальную плату. HECAP лишь ещё один зубец в шестерёнке.
 
-NAME found his freedom by joining a rebel organization whose goal was to break free from their corporate masters.</desc>
+NAME обрёл(а) свободу, примкнув к повстанцеской организации, целью которой было освобождение от корпоративных хозяев.</desc>
 	</RebelSlave42>
 
 	<CombatNegotiator51>
