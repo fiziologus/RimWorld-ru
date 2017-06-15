@@ -17,30 +17,30 @@
 	<Bullet.deathMessage>{0} застрелен.</Bullet.deathMessage>
 
 	<Arrow.label>стрела</Arrow.label>
-	<Arrow.deathMessage>{0} убит из лука.</Arrow.deathMessage>
+	<Arrow.deathMessage>{0} застрелен.</Arrow.deathMessage>
 
 	<Scratch.label>царапина</Scratch.label>
 	<Scratch.deathMessage>{0} разорван.</Scratch.deathMessage>
 
 	<Bite.label>укус</Bite.label>
-	<Bite.deathMessage>{0} искусан.</Bite.deathMessage>
+	<Bite.deathMessage>{0} загрызан.</Bite.deathMessage>
 
 	<ToxicBite.label>ядовитый укус</ToxicBite.label>
-	<ToxicBite.deathMessage>{0} умер от отравления.</ToxicBite.deathMessage>
+	<ToxicBite.deathMessage>{0} загрызан.</ToxicBite.deathMessage>
 
 	<Bomb.label>взрыв</Bomb.label>
 	<Bomb.deathMessage>{0} убит взрывом.</Bomb.deathMessage>
 
-	<Flame.label>огонь</Flame.label>
+	<Flame.label>пламя</Flame.label>
 	<Flame.deathMessage>{0} сгорел.</Flame.deathMessage>
 
 	<Burn.label>ожог</Burn.label>
-	<Burn.deathMessage>{0} ожёгся.</Burn.deathMessage>
+	<Burn.deathMessage>{0} сгорел.</Burn.deathMessage>
 
 	<Frostbite.label>обморожение</Frostbite.label>
-	<Frostbite.deathMessage>{0} стал жертвой обморожения.</Frostbite.deathMessage>
+	<Frostbite.deathMessage>{0} замёрз.</Frostbite.deathMessage>
 
-	<SurgicalCut.label>хирургический порез</SurgicalCut.label>
+	<SurgicalCut.label>хирургический разрез</SurgicalCut.label>
 	<SurgicalCut.deathMessage>{0} умер во время операции.</SurgicalCut.deathMessage>
 
 	<ExecutionCut.label>разрез от казни</ExecutionCut.label>
