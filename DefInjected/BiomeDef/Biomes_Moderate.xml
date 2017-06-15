@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<TemperateForest.label>умеренные леса</TemperateForest.label>
-	<TemperateForest.description>Преимущественно лиственные леса, перемежающиеся плодородными полянами. Среди деревьев и на равнинах обитает множество видов животных. Зимой движение затруднено из-за снега.</TemperateForest.description>
+	<TemperateForest.label>умеренный лес</TemperateForest.label>
+	<TemperateForest.description>Лиственные леса, перемежающиеся плодородными полянами. Среди деревьев и на равнинах бегант множество видов животных. Зимой движение затруднено из-за снега.</TemperateForest.description>
 
-	<TropicalRainforest.label>тропические леса</TropicalRainforest.label>
-	<TropicalRainforest.description>Плотные, влажные джунгли. Густая растительность и агрессивная фауна сильно усложняют строительство и выживание. Существует постоянный риск опасных болезней.</TropicalRainforest.description>
+	<TropicalRainforest.label>влажный тропический лес</TropicalRainforest.label>
+	<TropicalRainforest.description>Густые, влажные джунгли. Несмотря на внешнюю красоту, это крайне опасный биом. Непроходимые дебри, агрессивная фауна и постоянные болезни – то, из-за чего некоторые исследователи зовут это место "зелёный ад".</TropicalRainforest.description>
 
 </LanguageData>
