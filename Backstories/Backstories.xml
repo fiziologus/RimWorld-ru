@@ -1252,55 +1252,55 @@ NAME обрёл(а) свободу, примкнув к повстанцеско
 	</RebelSlave42>
 
 	<CombatNegotiator51>
-		<title>Combat negotiator</title>
-		<titleShort>Negotiator</titleShort>
-		<desc>After escaping his homeworld, NAME took his skills to the stars.
+		<title>Военный переговорщик</title>
+		<titleShort>Переговорщик</titleShort>
+		<desc>После бегства из своего родного мира NAME обратил(а) взор на звёзды.
 
-He chose to operate as a hired gun, working for various rebel organizations, enslaved groups, and merchant enclaves. His specialty was negotiation in combat situations.</desc>
+HECAP выбрал путь солдата удачи, работая на различные на различные повстанческие организации, порабощённые группы и торговые анклавы. HISCAP специализацией было ведение переговоров в боевых условиях.</desc>
 	</CombatNegotiator51>
 
 	<MedievalPlower12>
-		<title>Medieval plower</title>
-		<titleShort>Plower</titleShort>
-		<desc>NAME lived on a planet where kings and queens ruled with little regard for the peasants beneath them. HISCAP family owned a large farm, but the king took most of the food it produced. This left NAME's family poor, and unable to pay for HIS education. Instead, HE was required to work the fields with HIS parents, and never had time to practice creativity.</desc>
+		<title>Землепашец</title>
+		<titleShort>Пахарь</titleShort>
+		<desc>NAME жил(а) на планете, где властвовали короли и королевы не особо жаловали крестьян под их правлением. HISCAP семья владела большой фермой, но король забирал большую часть произведённой пищи. Это разорило семью NAME, не давая возвожности оплатить HIS образование. NAME вместо этого пришлось работать с родителями на полях, не имея времени заниматься творчеством.</desc>
 	</MedievalPlower12>
 
 	<SpaceStationCook63>
-		<title>Space station cook</title>
-		<titleShort>Cook</titleShort>
-		<desc>The space station NAME came from was far from any populated planets, and was in itself understaffed. For this reason, NAME was forced to learn how to cook in order to keep the crew alive. While HE appreciated this learning opportunity, HE didn't appreciate the criticism which came with it, and has had self-esteem issues ever since.</desc>
+		<title>Повар космостанции</title>
+		<titleShort>Повар</titleShort>
+		<desc>Космическая станция NAME появилась вдали от какой-либо населённой планеты и имела неполный экипаж. По этой причине NAME пришлось научится готовить пищу, чтобы сохранить жизнь членам команды. И хотя HE оценил(а) эту возможность чему-то выучится, пришедшей с ней критику HE не оценил(а), и с тех пор имеет проблемы с самооценкой.</desc>
 	</SpaceStationCook63>
 
 	<SonOfAHuntress96>
-		<title>Son of a huntress</title>
-		<titleShort>Hunter</titleShort>
-		<desc>In the mountains of the planet Ticonderoga, Jon was raised by his tribal mother. She taught him survival skills - trapping, tracking, shooting, skinning, cooking and healing.
+		<title>Сын охотницы</title>
+		<titleShort>Охотник</titleShort>
+		<desc>NAME был поднят на ноги матерью племени в горах планеты Тикондерога. Она обучила HIS навыкам выживания: как ставить ловушки, идти по следу, стрелять, снимать шкуры, готовить пищу, излечиваться.
 
-His departed father had left behind an old bolt-action rifle, and Jon practiced with it every chance he got.</desc>
+Ушедший отец оставил старое стреляющее болтами ружьё, и NAME практиковался с ним при каждом удобном случае.</desc>
 	</SonOfAHuntress96>
+<!-- departed => двоякий смысл у фразы, возьмём нейтральное "ушедший" -->
 
 	<SpaceHunter67>
-		<title>Space hunter</title>
-		<titleShort>Huntsman</titleShort>
-		<desc>Now a man as well as proficient hunter and marksman, Jon yearned for more. He took leave from his birth world, traveling the great expanse in search of exotic game.</desc>
+		<title>Космоохотник</title>
+		<titleShort>Ловчий</titleShort>
+		<desc>Ныне взрослый(ая), а заодно и умелый охотник и стрелок, NAME жаждал(а) большего. HECAP оставил(а) мир, где родился(лась), странствуя по просторам вселенной в поисках диковиной дичи.</desc>
 	</SpaceHunter67>
 
 	<StudentSocialite73>
-		<title>Student socialite</title>
-		<titleShort>Socialite</titleShort>
-		<desc>Matis learned politics in an elite training school for socially gifted students on Kalthas IV.
+		<title>Светский человек</title>
+		<titleShort>Знаменитость</titleShort>
+		<desc>NAME изучал поликику в элитной спецшколе для социально одарённых студентов на Калтанас IV.
 
-While he was naturally adept at reading and manipulating people, he found no joy in it. He left the academy several years before graduation.</desc>
+Хоть и от рождения знаток в понимании и манипуляции людьми, радости в этом HE не находил(а). NAME покинул академию за несколько лет до окончания учёбы.</desc>
 	</StudentSocialite73>
 
 	<PoliticalAssassin87>
-		<title>Political assassin</title>
-		<titleShort>Deathjack</titleShort>
-		<desc>Matis realized that his true calling was in physical solutions to diplomatic problems. He sought training from the assassins guild on Ceti V.
+		<title>Политассасин</title>
+		<titleShort>Джек-смерть</titleShort>
+		<desc>NAME понял(а), что HIS истинное призвание в физическом разрешении дипломатических проблем. Обучение этому HE попробовал(а) найти в гильдии ассасинов на Сети V.
 
-He was a quick study at the arts of subterfuge and death. He soon earned the guild rank of Deathjack.</desc>
+NAME быстро изучил(а) искусства уловки и смерти. Вскоре HE получил в гильдии ранк Джек-смерть.</desc>
 	</PoliticalAssassin87>
--->
 
 	<AwkwardNerd12>
 		<title>Неуклюжий «ботаник»</title>
