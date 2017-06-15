@@ -8,15 +8,15 @@
 	<InsectHead.label>голова</InsectHead.label>
 	<SnakeBody.label>тело</SnakeBody.label>
 	<SnakeHead.label>голова</SnakeHead.label>
-	<SnakeMouth.label>рот</SnakeMouth.label>
+	<SnakeMouth.label>пасть</SnakeMouth.label>
 	<InsectHeart.label>сердце</InsectHeart.label>
-	<InsectNostril.label>ноздря</InsectNostril.label>
+	<InsectNostril.label>дыхальце</InsectNostril.label>
 	<InsectMouth.label>рот</InsectMouth.label>
 	<AnimalJaw.label>пасть</AnimalJaw.label>
 	<Jowl.label>челюсть</Jowl.label>
 	<Tail.label>хвост</Tail.label>
-	<LeftAntenna.label>левый усик</LeftAntenna.label>
-	<RightAntenna.label>правый усик</RightAntenna.label>
+	<LeftAntenna.label>левая антенна</LeftAntenna.label>
+	<RightAntenna.label>правый антенна</RightAntenna.label>
 	<Pronotum.label>переднеспинка</Pronotum.label>
 	<Shell.label>панцирь</Shell.label>
 	<LeftElytra.label>левое надкрылье</LeftElytra.label>
@@ -25,10 +25,10 @@
 	<RightTusk.label>правый бивень</RightTusk.label>
 	<Trunk.label>хобот</Trunk.label>
 	<Horn.label>рог</Horn.label>
-	<HeadClaw.label>клешня</HeadClaw.label>
+	<HeadClaw.label>жвала</HeadClaw.label>
 	<Hump.label>горб</Hump.label>
 	<TurtleShell.label>панцирь</TurtleShell.label>
-	<Plastron.label>нижний щит</Plastron.label>
+	<Plastron.label>пластон</Plastron.label>
 	<TurtleBeak.label>клюв</TurtleBeak.label>
 
 	<!-- Ноги животных (40 строк) -->
