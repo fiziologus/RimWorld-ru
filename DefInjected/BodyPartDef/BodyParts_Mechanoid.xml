@@ -4,8 +4,8 @@
 	<!-- 35 строк -->
 
 	<MechanicalThorax.label>грудная клетка</MechanicalThorax.label>
-	<LeftBlade.label>левый клинок</LeftBlade.label>
-	<RightBlade.label>правый клинок</RightBlade.label>
+	<LeftBlade.label>левое лезвие</LeftBlade.label>
+	<RightBlade.label>правое лезвие</RightBlade.label>
 	<MechanicalNeck.label>шея</MechanicalNeck.label>
 	<MechanicalHead.label>голова</MechanicalHead.label>
 	<LeftSightSensor.label>левый оптический датчик</LeftSightSensor.label>
