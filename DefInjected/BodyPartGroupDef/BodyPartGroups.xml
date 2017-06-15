@@ -23,11 +23,11 @@
 	<FrontRightLeg.label>правая передняя нога</FrontRightLeg.label>
 	<FrontLeftClaws.label>левые передние когти</FrontLeftClaws.label>
 	<FrontRightClaws.label>правые передние когти</FrontRightClaws.label>
-	<LeftBlade.label>левый клинок</LeftBlade.label>
-	<RightBlade.label>правый клинок</RightBlade.label>
+	<LeftBlade.label>левое лезвие</LeftBlade.label>
+	<RightBlade.label>правое лезвие</RightBlade.label>
 	<TuskAttackTool.label>бивни</TuskAttackTool.label>
 	<HornAttackTool.label>рог</HornAttackTool.label>
-	<HeadClaw.label>клешня</HeadClaw.label>
+	<HeadClaw.label>жвала</HeadClaw.label>
 	<TurtleBeakAttackTool.label>клюв</TurtleBeakAttackTool.label>
 	<Beak.label>клюв</Beak.label>
 
