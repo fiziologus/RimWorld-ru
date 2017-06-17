@@ -1,24 +1,24 @@
-Subject class: Health revival, sourced midworld 2M+
-Planet: Euterpe
+Класс субьекта: полностью здоровый пробуженный из среднемира 2M+
+Планета: Эвтерпа
 
-      Introduction
+      Введение
 
-Hello, _______________________.
+Здравствуйте, _______________________.
 
-You’ve awoken from your cryptosleep sarcophagus, scraped off the slime, and now you find yourself in a quiet room. Now you’re reading this document. And you’ve got questions. What’s going on? Where am I? How long was I asleep?
-To start with some good news - your terminal illness, _____________________, has been cured. Congratulations!
-Beyond that, the situation is complex. Our studies have revealed that most people in your position respond better when given the time to read about and digest their situation at their own pace. To facilitate this process, we’ve created this document to familiarize you with the world you just woke up in.
-So order a warm beverage from the food panel on the wall, get comfortable, and take in this information as slowly as you want. You’ve been asleep a long time, a lot has changed - and a lot remains the same.
+Вы разбужены в своём саркофаге криптосна, соскоблили слизь и сейчас оказались в тихой комнате. В настоящий момент вы читаете этот документ. И у вас есть вопросы. Что происходит? Где я? Как долго я спал?
+Начнём с хорошей новости, ваша неизлечимая болезнь, _____________________, была вылечена. Поздравляем!
+Дальше ситуация непростая. Наши исследования обнаружили, что большинство людей на вашем месте лучше реагируют, когда им даётся время на восприятие и переваривание ситуации в привычном для них темпе. Для способствования этому процессу мы создали этот документ, ознакамливающий вас с миром, в котором вы только что проснулись.
+Поэтому закажите тёплый напиток в панели питания на стене, устраивайтесь поудобней и вбирайте эту информацию насколько хотите медленно. Вы проспали долгое время, и многое изменилось, но многое осталось и прежним.
 
-      The basics
+      Основы
 
-The best historians of the Ordo Historia believe that humanity first left its origin planet Earth about 3,400 years ago. Since then, we’ve spread across the galaxy on a fitful wavefront of colony ships, frontier worlds, robotic terraforming projects, and DNA-synthesizing probes.
-Today, mankind is smeared across a region of the galaxy about 1,200 light years wide. Our best models indicate that there is a general trend towards greater population density towards the center of the this region, where the stars were colonized earlier. At the edge of known space lie the rimworlds, drifting alone with few inhabited neighbors, mostly unvisited.
-We’ve created many new technologies, but despite milennia of effort by our best human minds, and even the most powerful archotechs, nobody has managed to make anything go faster than light.
-The lightspeed barrier separates us. Because travel times are so long, planets tend to be very disconnected from each other socially and technologically. The next star over could experience a catastrophic war, and you wouldn’t even know until ten years later when the news reports arrive. If you’re unlucky, you’d have already launched a journey towards that now-destroyed planet in a ship that cannot turn around.
-Many attempts have been made to create pan-galactic empires and republics. And some have worked, for a time. In the core worlds, an old, stable culture can create an interstellar empire of a few systems. But there are no great galactic empires stretching across the galaxy, for the same reason that no ancient empire of Earth held more than a sixth of the planet: one cannot govern people who are years distant by all means of travel and communication.
-So most people never travel between stars, and if they do, they do it once or twice, because each journey means leaving behind a life that you cannot return to for decades at least. With a few exceptions, each star system is essentially on its own.
-Mankind never discovered any truly alien lifeforms. However, given the ways we’ve changed ourselves, and created new forms of biological and technological intelligence, the universe is full of beings as alien as anything ever imagined.
+Лучшие историки Ордо Историа считают, что человечество впервые покинуло свой родину, планету Земля примерно 3400 лет назад. С тех пор мы распространились по галактике непостоянной волной из колонизационных судов, пограничных миров, роботизированных проектов тераморфирования и ДНК-синтезирующих зондов.
+В наши дни человеческий род расплылся по региону галактики примерно в 1200 световых лет шириной. Наши лучшие модели показывают, что существует повсеместная тенденция к увеличению плотности населения ближе к центру этого региона, где звёзды были колонизированы раньше. По краям известного космоса находятся обкраинные миры (комментарий к переводу: rim - внешняя, либо внутреняя часть края окружности), дрейфующие в одиночестве с немногочисленными обитаемыми соседями и, по большей части, непосещаемые.
+Мы создали множество новых технологий, но несмотря на тысячелетние усилия лучших человеческих умов и самых мощнейших архитехов, ни один не смог создать что-то быстрее света.
+Скорость света разделяет нас. Так как время путешествия столь велико, планеты склонны не быть очень уж связаны друг с другов в общественном и технологическом отношении. Соседняя звезда может пережить катастрофицескую войну, а вы даже не будете знать, пока десятилетие спустя не прибудут репортажи новостей. Если же вам не повезло уже отправится на корабле к той ныне уничтоженой планете, назад повернуть вы уже не сможете.
+Было сделано немало попыток создать пангалактические империи и республики. И некоторые какое-то время функционировали. В сердце миров старые, стабильные культуры смогли создать межзвёздные империи на несколько систем. Но нет великих галактических империй простирающихся на всю галактику по той же причине, почему не было древних империй на Земле занимающих больше одной шестой суши: никто не в силах управлять людьми, отдалёнными годами путешествий и сообщения. (fuzzy)
+Поэтому же большинство людей никогда не путешествовали между звёздами, а если и путешествовали, то раз или два, потому что каждая поездка это оставленная позади жизнь, в которую вы не сможете вернуться по меньшей мере на десятилетия. По существу каждая звёдная система, за некоторым исключением, самостоятельна.
+Человечество ни разу не обнаруживало истинно инопланетные формы жизни. Однако, если учесть, как мы изменяли сами себя и создавали новые формы биологического и технологического интеллекта, вселенная полна существ столь чуждых, как что-либо когда-либо представляемое.
 
     Planetary progression and regression
 
@@ -142,3 +142,6 @@ When a persona helps invent a technology, it can at least explain that technolog
 We’ve managed to classify technologies that have appeared repeatedly by their apparent effects, even if we don’t understand their mechanism of operation.
   * Vanometrics: Archotechs often develop some method of interacting with spacetime at a quantum level that allows repeated violation of conservation laws. Somehow, they coax the quantum foam substructure of the universe to break its usual pattern and yield more energy than it consumes. We’re not sure if the energy is being taken from another dimension, or pulled from another location, or if the system really is somehow making one plus one equal three. In any case, vanometric power tech seems to generate energy forever with no fuel. Archotechs seem reluctant to scale this power source up past a certain level, however, which indicates that there may be some cost to it that they don’t want to pay.
   * Psychics: Archotechnology seems to be able to interact directly with the mental-informational processes of biological beings, even at a distance. Basic versions of this technology can simply knock someone unconscious, or flood their mind with a single emotion. More complex interactions have been reported but are not well-verified as it is difficult to separate such cases from simple madness. We’re also not sure if this means archotechs can read our minds, or whether their psychic power only allows them to send thoughts. The mechanism for this is unknown and nearly impossible to study, since it happens on a cellular level inside living intelligent brains. Monists believe the archotechs are using some sort of long-range quantum manipulation to push atoms around inside the brain to create this effect; dualists believe that the archotechs have learned to manipulate the ethereal substructure of consciousness itself.
+
+Оригинал взят с https://docs.google.com/document/d/1fUO3KKbAbTxMP1lqphnnodY0NPoOVblCUkDw-54MDUc/pub
+:encode UTF-8
