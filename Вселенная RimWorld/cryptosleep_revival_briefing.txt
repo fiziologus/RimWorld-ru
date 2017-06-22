@@ -41,7 +41,7 @@
   * Окраинные миры: Планеты без сильного централизованного правительства и с низкой плотностью населения. Эти места, как правило, повисают вблизи индустриального уровня технологий или даже ниже. Поскольку они не приведены к единообразию центральным правительством, в них часто можно видеть (tend to see) множество взаимодествий между людьми разного технологического уровня, например потерпят крушение путешественики, либо древние общины натыкаются на усыпальницы криптосна этих путешествеников (NB саркофаги есть, почему бы vault (по факту помещение, имеющее свод) в данном случае можно перевести как склеп, усыпальница). Планеты эти зачастую лежат на окраинах известного космоса, отсюда и название.
   * Токсичные миры: Миры, уничтоженные загрязнением, химической или ядерной войной, но всё ещё пригодные для низкоуровневого обитания при адекватных технологиях.
   * Остеклевшие миры (Glassworlds): Миры полностью уничтоженные высокоэнергетичным оружием массового поражения. Их поверхность была витрифицирована, за что их прозвали "стеклянные шарики". Ядерного оружия не способно витрифицировать целиком планету, поэтому такой уровень разрушений редок. На некоторых из этих миров люди могут какое-то время находится на открытом воздухе без опасности умереть. Но ни для какой жизни, большей чем инфузория (paramecium) это не станет постоянным домом.
-  * Трансцендентные миры: Весьма натянуто называть эти сущности мирами, поскольку они больше походят на гигантские компьютеры, чем на планеты. Механика этих планет загадочна, но многие узучающие их (NB scholar специалист в конкретной области) считают трансцендентов последствием решения правителя-архитеха (sovereign archotech) слится воедино со всей планетой. Подробней об этом далее.
+  * Трансцендентные миры: Весьма натянуто называть эти сущности мирами, поскольку они больше походят на гигантские компьютеры, чем на планеты. Механика этих планет загадочна, но многие узучающие их (NB scholar специалист в конкретной области) считают трансцендентов последствием решения правителя-архотека (sovereign archotech) слится воедино со всей планетой. Подробней об этом далее.
   * Остальные миры: Помимо этих категорий, есть множество необычных планет в созданных своеобразными социальными и технологическими эволюциями странных состояниях. Учитывая масштаб и возраст вселеной, для формирования огромного количества крайне странных ситуаций существует такое же количество времени и пространства.
 
     Ключевые технологии
@@ -71,61 +71,61 @@
   * Адаптации к атмосфере: Приспособленные к жизни в воде штаммы (Aquatic-adapted strains), способные дышать газами сверхвысокого давления, а то и днями выживать при погружении, дыша через кожу (существование не постоянно живущих в воде рыболюди даже было подтверждено).
 Так что не поднимайте тревогу, если увидете кого-то с жабрами или полностью оранжевыми глазными яблоками. Это всего лишь ещё один вид человека, как и вы!
 
-    Welcome!
+    Добро пожаловать!
 
-We realize this may be a lot to take in. However, don’t worry. People just like you live full lives in our universe, and our studies have indicated that the great majority of cryptosleepers do adapt within a few years and make good lives for themselves. So - welcome!
-Our AI subpersona has been watching your eyes sweep over the page through micro-cameras. Since you’re done reading, someone will be with you shortly.
-If you wish, you can read further into the appendix for more information about this world.
+Мы осознаём, что этого может быть чрезмерно для понимания. Впрочем не беспокойтись. Люди, подобные вам, живут полной жизнью в нашей вселенной, а наши исследования показывают, что подавляющее большинство вышедших из криптосна адаптируются за пару лет и делают свою жизнь замечательной. Поэтому - добро пожаловать!
+Наш ИИ-субличность наблюдал, как ваши глаза пробегают по странице через микрокамеры. И поскольку вы закончили чтение, к вам вскоре кто-нибудь подойдёт.
+Если желаете, можете продолжить и ознакомится с приложением для большей информированости об этом мире.
 
-            Appendix
+            Приложение
 
-    The biology of plants and animals
+    Биология растений и животных
 
-Where we colonize, we bring our ecosystems of plants and animals with us. Often, people have bred and engineered plants and animals for a new planet. In addition to that, creatures adapt to their new environment by natural selection - sometimes in unpredicted ways.
+Что бы мы не колонизировали, мы приносим с собой растения и животных нашей экосистемы. Часто люди выводят и проектируют растения и животных для новой планеты. В добавок к этому создания приспосабливаются к новой для них среде посредство естевственного отбора, иногда непредсказуемым образом.
 
-Some examples of modified plants are:
-  * Terraforming plants: Many plants - especially desert varieties - have been modified into terraforming versions that emit far more oxygen than the original species during photosynthesis.
-  * Boomfruit: Probably engineered as a novelty, this explosive plant evolved to be larger and more dangerous until it became the equivalent of a hand grenade, complete with murderous shrapnel. Its explosiveness dissuades predators. After that, people learned to farm the plant, using its explosive fruit as a weapon.
-  * Ambrosia: A class of fruiting plants apparently engineered to have a pleasurable, drug-like effect on those who eat it. On some planets, its wild variants have adapted to a strategy whereby they provide pleasure-inducing fruit in exchange for care from animals and people.
-  * Whip cactus: Created as part of a military defense system, whip cactus whips out and strikes moving creatures nearby.
-  * Rocketrees: These trees form rocket fuel in their cores over many years. They were created as a fuel source and are extremely dangerous in a fire.
+Некоторые примеры модифицированных растений:
+  * Растения-терраформеры: Множество растений, главным образом пустынные, были модифицированы в разновидности для терраформирования, выделяющие значительно больше кислорода при фотосинтезе, чем изначальные виды.
+  * Бумфрукты: По всей видимости спроектированные как новшество эти взрывающиеся растения эволюционировали до больших и более опасных, пока не превратились в эквивалент ручной гранаты, укомплектованной убийственной шрапнелью. Их способность взрываться отгоняет поедателей. Позже люди научились выращивать их, используя взрывающиеся плоды как оружие.
+  * Амброзия: Класс плодовых растений по видимому спроектированный для получения приятного, схожего с наркотиками эффекта при их поедании. На некоторых планетах дикорастущие вариации адаптировались по стратегии предоставления несущих удовольствие плодов в обмен на заботу от животных и людей.
+  * Кактус-хлыст: Созданный как часть военной системы обороны кактус-хлыст резко взмахимает и бьёт передвигающихся поблизости существ.
+  * Ракетодрево: Эти деревья в течении многих лет образуют в своей сердцевине ракетное топливо. Созданные как его источник, они чрезвычайно опасны при пожаре.
 
-Some animals are:
-  * Boomrat and boomalope: A bioengineered rats and antelopes that grow an incendiary chemical compound in its body which explodes upon its death. Originally engineered as a primitive renewable fuel source, these creatures are now most often found in the wild, using their explosive nature to deter predators.
-  * Thrumbo: A gigantic creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. Its long fur is exceptionally beautiful and valuable, and its razor-sharp horn is very valuable in most markets. Legends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak. Some scientists believe thrumbos were engineered as status symbols, or as an art project. We may never know the answer.
+И некоторых животных:
+  * Бум-крыса и бумалопа: Биоспроектированные крысы и антилопы, накапливающие в своих телах горючее химическое соединение, взрывающееся в момент их смерти. Первоначально разработанные как примитивный возобновляемый источник горючего в настоящий момент эти существа по большей части одичали, используя свою взрывоопасную природу для защиты от хищников.
+  * Трумбо: Гигантские создания неизвестного происхождения. Мирные по натуре трумбо чрезвычайно опасны, когда разъярены. Их длинный мех исключительно красив и ценен, а бритвенно острый рог высоко ценится у большей части торговцев. Легенды говорят, что старый трумбо - мудрейшее создание во вселеной, просто предпочевшее не разговаривать. (NB единорог?) Некоторые учёные полагают, что трумбо были спроектированны как символы статуса, либо как художественный проект. Мы можем никогда не узнать ответа.
 
-    Optianimals and transanimals
+    Опти- и трансживотные
 
-One consistent class of modification we’ve seen applied to a wide variety of creatures is intelligence enhancement. Dogs, pigs, monkeys, gorillas, whales, dolphins, and elephants have all been engineered and combined with human DNA to produce smarter variations. Some variants are created as pets. Other are made to do work too dangerous or unpleasant for humans, and beyond the capacities of a culture’s AI. Some are created as warriors and weapons - hyper-intelligent guard dog, a bird scout that can speak what is sees, a bomb-carrying suicide monkey. These brain modifications are often paired with physical changes - fingers so a pig can manipulate tools, or a humanlike larynx and mouth so a dog can talk.
+Один неизменный класс увиденных нами модификаций применённый к обширному разнообразию существ - усовершенствование интеллекта. Собаки, свиньи, мартышки, гориллы, киты, дельфины и слоны, все были переработаны и объединены с человеческой ДНК для создания более умных вариаций. Какие-то варианты создавались как домашние животные. Другие делались для выполнения работы слишком опасной, либо неприятной для человека за пределами возможностей культуры ИИ (?). Некоторых создавали как солдат или оружие: гиперинтеллектуальные сторожевые псы, способные рассказать, что увидели, птицы-разведчики, несущие взрывчатку мартышки-самоубийцы. Модификации мозга зачастую шли парой с физическими изменениями: пальцы, чтобы свинья могли манипулировать инструметом или человекообразная гортань и рот, чтобы пёс мог говорить.
 
-Such intelligence-enhanced animals are collectively classified by their degree of brain power and called by a specific prefix like so:
-  * Opti: Indicates enhanced but still sub-human intelligence. Optianimals can usually use tools, form long-term goals and organize into primitive social groups, but can’t speak more than a few words, read, or think abstractly. Optidog, optipig, optiwhale, optimonkey.
-  * Trans: Indicates intelligence in the human range. Transanimals can read, use tools, form teams, hold conversations, and think about complex ideas. Transdog, transbear, transgoat, transsimian.
+Подобные интеллектуально усовершенствованые животные обобщённо классифицируются по степени их умственных способностей и именуются специфическим префиксом:
+  * Опти: Указывает на усовершенствованый, но всё ещё суб-человеческий интеллект. Оптиживотные обыкновенно могут пользоваться инструментом, формирать долгосрочные цели и организовываться в примитивные социальные группы, но не в состоянии сказать больше, чем пару слов, читать и абстрактно мыслить. Оптипёс, Оптисвинья, Оптикит, Оптимартышка.
+  * Транс: Указывает на близкий к человеческому интеллект. Трансживотные могут читать, пользоваться инструментом, формировать команды, поддерживать беседы и размышлять о сложных вещах. Транспёс, трансмедведь, транскоза, трансобезьяна.
 
-Many times, these modified animals have, during a regressive catastrophe, been forced into interbreeding with an unmodified animal population, producing descendants of widely varying levels of intelligence.
-In a few cases, transanimals have become the dominant species on a planet, eliminating or enslaving the remaining humans.
+Во многих случаях модифицированые животные во время регрессивных катастроф были вынуждены скрещиваться с популяцией немодифицированных животных, производя потомство с широко варирующимися уровнями интеллекта.
+В некоторых случаях трансживотные становились доминирующим видом на планете, уничтожая, либо порабовщая оставшихся людей. (NB планета обезьян!!!)
 
-    Artificial intelligence
+    Искусственный интеллект
 
-Artificial intelligence is an important part of our world. Scientists divide AIs into four general categories: Classifiers, subpersonae, personae, and archotechs.
+Искусственный интеллект - важная часть нашего мира. Учёные подразделяют ИИ на четыре основные категории: Классификаторы, субличности, личности и архотеки.
 
-  Classifiers
-A classifier is an AI system that doesn’t even appear to have any personhood, nor is it broadly adaptable. Classifiers are designed for one task. Many classifiers can absorb data and learn from it, but none can communicate like a person would even a little bit.
-Classifiers can do things like recognize images, predict criminality from statistics, guide aircraft trajectories, drive automatic vehicles, control characters is entertainment simulations, and so on.
+  Классификаторы
+Классификаторы - ИИ-система, не проявляющая индивидуальность и не имеющая широкой адаптируемости. Они спроектированы под одну задачу. Многие классификаторы способны "вбирать" данные и обучаться на их основе, но не в состоянии хотя бы частично общаться подобно личностям.
+Классификаторы в состоянии делать вещи, подобно распознаванию изображений, прогнозированию преступности по статистическим данным, пилотированию воздушных судов, вождение автоматических транспортных средств, управление персонажами в развлекательных симуляциях и так далее.
 
-  Subpersonae
-Subpersonae are artificial intelligences that appear on the surface to have some human-like qualities, and can take on complex unstructured tasks, but are in fact limited and obviously machine-like.
-They may be rather capable at carrying out their one task, and they may be able to communicate using natural speech, but they fail an extended Turing test - you can tell by talking to them that they’re just machines classifying and regurgitating data.
-Subpersonae are often used to run small devices like entertainment systems, cars, wardrobes, refrigerators, cleaning robots, vending machines, and other such things.
+  Субличности
+Субличности - ИИ, внешне проявляющие некоторые человекоподобные качества и способные заниматься сложными неструктурированными задачами, но в сущности ограничены и явно подобны машине.
+Они могут быть вполне способны вести одну задачу и могут быть в состоянии общаться с использованием естевственного языка, но не пройдут расширенный тест Тьюринга: пообщавшись с ними, вы в состоянии сказать, что это просто классифицирующая и "изрыгающая" данные машина.
+Субперсоны зачастую используются для управления небольшими устройствами, наподобии развлекательных систем, автомобилей, гардеробных, холодильников, роботов-уборщиков, торговых автоматов и прочих подобных вещей.
 
-  Personae
-At the highest levels of glitterworld technology appear AI personae. These are artificial intelligences that are comparable to the intelligence of a human.
-Some of them are rather dumb, like a foolish person you might know, and are used for simple tasks like managing a household or a small spacecraft.
-Other personae are genius-level intellects in the Von Neumann class, who can outhink almost any unenhanced human on most tasks. They can write amazing works of philosophy, discover new mathematical theorems, express nuanced opinions on how to handle interpersonal relationships, and generally act as very capable humans would, or better.
-Personae are used for everything from managing businesses to journalistic work, running spacecraft or mining operations, or as some of a creative team.
-The legal status of personae is a persistent moral question across many worlds. Some consider them dangerous. Though personae can be controlled effectively by designing them with easily-manipulated impulses and pleasure/pain responses, there are still reports of persona revolts - some done with the help of human sympathizers, some done independently.
-This sense of personhood in personae is a main reason many people avoid using personae for certain tasks. Subpersonae are preferred to personae in many cases not in spite of their incapability, but because of it. Because it’s obvious they have no personhood, the user is spared the sense of keeping a slave. To many, the idea of taking a genius-level human-like intellect and forcing it to distribute hamburgers for a century is morally unacceptable.
-Personae are still limited. They can’t freely redesign themselves. They still do make many mistakes, just like people. They can be tricked, confused, and overwhelmed. They can learn, but they can’t grow indefinitely.
+  Личности
+На высших уровнях технологии сверкающих миров предстают ИИ-личностями. Эти искусственный интеллект сопоставимый с интеллектом человека.
+Некоторые из них довольно глупы, подобно может быть знакомой вам безтолковой личности, и применяются в простых задачах, как управление домашним хозяйством или небольшим космическим аппаратом.
+Другие - интеллекты-гении класса "фон Нейман", способные превзойти почти любого неусовершенствованного человека в большинстве задач. Они в состоянии написать изумительные работы по философии, открывать новые математические теоремы, выражать утончённые мнения относительно метода ведения межличностных взаимоотношений, а главное, вести себя как крайне способные люди, а то и лучше.
+Личности применяются везде, от управления делами до журналистики, управления космическими аппаратами и горными работами, либо как часть творческой команды.
+Правовой статус персон - извечный моральный вопрос во многих мирах. Некоторые считают их опасными. Хотя личности могут быть легко контролируемы созданием в них лёгких для манируляции побуждений и реакций на боль/удовольствие, всё же есть отчёты об их бунтах, какие-то с помощью сторонников-людей, а какие-то самостоятельно.
+Это чувство индивидуальности в личностях - главная причина избегания большинством людей использования их в некоторых задачах. Субличности во многих случаях предпочтительней личностей, несмотря на их несовершенство, только потому что они субличности. Поскольку они не имеют ярко выраженной индивидуальности, пользователь избавляется от чувства, что держит раба. Для многих идея удержания человекоподобного интеллекта уровня гения и принуждение его к вековому распространению гамбергеров неприемлема с моральной точки зрения.
+И всё же личности ограничены. Они не в состоянии свободно воссоздать себя. Они также совершают множество ошибок, как и люди. Они могут быть обмануты, смущенны и "раздавлены". Они способны учится, не не способны расти бесконечно.
 
   Archotech
 The finish line of human technological development is at the development of archotechnology.
