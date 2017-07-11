@@ -1,11 +1,26 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<? xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<Muffalo.label>муффало</Muffalo.label>
-	<Muffalo.labelPlural>муффало</Muffalo.labelPlural>
-	<Muffalo.lifeStages.0.label>детёныш муффало</Muffalo.lifeStages.0.label>
-	<Muffalo.lifeStages.1.label>молодой муффало</Muffalo.lifeStages.1.label>
-	<Muffalo.lifeStages.2.label>муффало</Muffalo.lifeStages.2.label>
+	<Muffalo.label>муйвол</Muffalo.label>
+	<Muffalo.labelPlural>муйволы</Muffalo.labelPlural>
+	<Muffalo.lifeStages.0.label>муйволёнок</Muffalo.lifeStages.0.label>
+	<Muffalo.lifeStages.0.labelPlural>муйволята</Muffalo.lifeStages.0.labelPlural>
+	<Muffalo.lifeStages.1.label>телёнок муйвола</Muffalo.lifeStages.1.label>
+	<Muffalo.lifeStages.1.labelPlural>телята муйволов</Muffalo.lifeStages.1.labelPlural>
+	<Muffalo.lifeStages.1.labelMale>телок муйвола</Muffalo.lifeStages.0.labelMale>
+	<Muffalo.lifeStages.1.labelMalePlural>телки муйволов</Muffalo.lifeStages.0.labelMalePlural>
+	<Muffalo.lifeStages.1.labelFemale>тёлка муйвола</Muffalo.lifeStages.0.labelFemale>
+	<Muffalo.lifeStages.1.labelFemalePlural>тёлки муйволов</Muffalo.lifeStages.0.labelFemalePlural>
+	<Muffalo.lifeStages.2.label>муйвол</Muffalo.lifeStages.2.label>
+	<Muffalo.lifeStages.2.labelPlural>муйволы</Muffalo.lifeStages.2.labelPlural>
+	<Muffalo.lifeStages.2.labelMale>муйвол</Muffalo.lifeStages.2.labelMale>
+	<Muffalo.lifeStages.2.labelMalePlural>муйволы</Muffalo.lifeStages.2.labelMalePlural>
+	<Muffalo.lifeStages.2.labelFemale>муйволица</Muffalo.lifeStages.2.labelFemale>
+	<Muffalo.lifeStages.2.labelFemalePlural>муйволицы</Muffalo.lifeStages.2.labelFemalePlural>
+	<Muffalo.labelMale>муйвол</Muffalo.labelMale>
+	<Muffalo.labelMalePlural>муйволы</Muffalo.labelMalePlural>
+	<Muffalo.labelFemale>муйволица</Muffalo.labelFemale>
+	<Muffalo.labelFemalePlural>муйволицы</Muffalo.labelFemalePlural>
 
 	<Gazelle.label>газель</Gazelle.label>
 	<Gazelle.labelPlural>газели</Gazelle.labelPlural>
