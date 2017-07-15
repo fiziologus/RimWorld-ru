@@ -1,49 +1,56 @@
-﻿<? xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
 	<Muffalo.label>муйвол</Muffalo.label>
 	<Muffalo.labelPlural>муйволы</Muffalo.labelPlural>
-	<Muffalo.lifeStages.0.label>муйволёнок</Muffalo.lifeStages.0.label>
-	<Muffalo.lifeStages.0.labelPlural>муйволята</Muffalo.lifeStages.0.labelPlural>
-	<Muffalo.lifeStages.1.label>телёнок муйвола</Muffalo.lifeStages.1.label>
-	<Muffalo.lifeStages.1.labelPlural>телята муйволов</Muffalo.lifeStages.1.labelPlural>
-	<Muffalo.lifeStages.1.labelMale>телок муйвола</Muffalo.lifeStages.0.labelMale>
-	<Muffalo.lifeStages.1.labelMalePlural>телки муйволов</Muffalo.lifeStages.0.labelMalePlural>
-	<Muffalo.lifeStages.1.labelFemale>тёлка муйвола</Muffalo.lifeStages.0.labelFemale>
-	<Muffalo.lifeStages.1.labelFemalePlural>тёлки муйволов</Muffalo.lifeStages.0.labelFemalePlural>
+	<Muffalo.lifeStages.0.label>муйволёнок</Muffalo.lifeStages.0.labelale>
+	<!-- Можно телок/тёлка, но кому это (мальчик или девочка малыш) надо -->
+	<Muffalo.lifeStages.1.label>молодой муйвол</Muffalo.lifeStages.1.label>
+	<Muffalo.lifeStages.1.labelMale>молодой муйвол</Muffalo.lifeStages.1.labelMale>
+	<Muffalo.lifeStages.1.labelFemale>молодая муйволица</Muffalo.lifeStages.1.labelFemale>
 	<Muffalo.lifeStages.2.label>муйвол</Muffalo.lifeStages.2.label>
-	<Muffalo.lifeStages.2.labelPlural>муйволы</Muffalo.lifeStages.2.labelPlural>
 	<Muffalo.lifeStages.2.labelMale>муйвол</Muffalo.lifeStages.2.labelMale>
-	<Muffalo.lifeStages.2.labelMalePlural>муйволы</Muffalo.lifeStages.2.labelMalePlural>
 	<Muffalo.lifeStages.2.labelFemale>муйволица</Muffalo.lifeStages.2.labelFemale>
-	<Muffalo.lifeStages.2.labelFemalePlural>муйволицы</Muffalo.lifeStages.2.labelFemalePlural>
-	<Muffalo.labelMale>муйвол</Muffalo.labelMale>
-	<Muffalo.labelMalePlural>муйволы</Muffalo.labelMalePlural>
-	<Muffalo.labelFemale>муйволица</Muffalo.labelFemale>
-	<Muffalo.labelFemalePlural>муйволицы</Muffalo.labelFemalePlural>
 
 	<Gazelle.label>газель</Gazelle.label>
 	<Gazelle.labelPlural>газели</Gazelle.labelPlural>
-	<Gazelle.lifeStages.0.label>детёныш газели</Gazelle.lifeStages.0.label>
+	<Gazelle.lifeStages.0.label>телёнок газели</Gazelle.lifeStages.0.label>
 	<Gazelle.lifeStages.1.label>молодая газель</Gazelle.lifeStages.1.label>
+	<Gazelle.lifeStages.1.labelMale>молодой самец газели</Gazelle.lifeStages.1.labelMale>
+	<Gazelle.lifeStages.1.labelFemale>молодая самка газели</Gazelle.lifeStages.1.labelFemale>
 	<Gazelle.lifeStages.2.label>газель</Gazelle.lifeStages.2.label>
+	<Gazelle.lifeStages.2.labelMale>самец газели</Gazelle.lifeStages.2.labelMale>
+	<Gazelle.lifeStages.2.labelFemale>самка газели</Gazelle.lifeStages.2.labelFemale>
 
 	<Iguana.label>игуана</Iguana.label>
 	<Iguana.labelPlural>игуаны</Iguana.labelPlural>
 	<Iguana.lifeStages.0.label>детёныш игуаны</Iguana.lifeStages.0.label>
 	<Iguana.lifeStages.1.label>молодая игуана</Iguana.lifeStages.1.label>
+	<Iguana.lifeStages.1.labelMale>молодой самец игуаны</Iguana.lifeStages.1.labelMale>
+	<Iguana.lifeStages.1.labelFemale>молодая самка игуаны</Iguana.lifeStages.1.labelFemale>
 	<Iguana.lifeStages.2.label>игуана</Iguana.lifeStages.2.label>
+	<Iguana.lifeStages.2.labelMale>самец игуаны</Iguana.lifeStages.2.labelMale>
+	<Iguana.lifeStages.2.labelFemale>самка игуаны</Iguana.lifeStages.2.labelFemale>
 
 	<Rhinoceros.label>носорог</Rhinoceros.label>
 	<Rhinoceros.labelPlural>носороги</Rhinoceros.labelPlural>
 	<Rhinoceros.lifeStages.0.label>детёныш носорога</Rhinoceros.lifeStages.0.label>
 	<Rhinoceros.lifeStages.1.label>молодой носорог</Rhinoceros.lifeStages.1.label>
+	<Rhinoceros.lifeStages.1.labelMale>молодой самец носорога</Rhinoceros.lifeStages.1.labelMale>
+	<Rhinoceros.lifeStages.1.labelFemale>молодая самка носорога</Rhinoceros.lifeStages.1.labelFemale>
 	<Rhinoceros.lifeStages.2.label>носорог</Rhinoceros.lifeStages.2.label>
+	<Rhinoceros.lifeStages.2.labelMale>самец носорога</Rhinoceros.lifeStages.2.labelMale>
+	<Rhinoceros.lifeStages.2.labelFemale>самка носорога</Rhinoceros.lifeStages.2.labelFemale>
 
+<!-- Дромадер. Но, пока нет бактриана, сойдёт и более удобный вариант --> 
 	<Dromedary.label>верблюд</Dromedary.label>
 	<Dromedary.labelPlural>верблюды</Dromedary.labelPlural>
-	<Dromedary.lifeStages.0.label>детёныш верблюда</Dromedary.lifeStages.0.label>
+	<Dromedary.lifeStages.0.label>верблюжонок</Dromedary.lifeStages.0.label>
 	<Dromedary.lifeStages.1.label>молодой верблюд</Dromedary.lifeStages.1.label>
+	<Dromedary.lifeStages.1.labelMale>молодой верблюд</Dromedary.lifeStages.1.labelMale>
+	<Dromedary.lifeStages.1.labelFemale>молодая верблюдица</Dromedary.lifeStages.1.labelFemale>
 	<Dromedary.lifeStages.2.label>верблюд</Dromedary.lifeStages.2.label>
+	<Dromedary.lifeStages.2.labelMale>верблюд</Dromedary.lifeStages.2.labelMale>
+	<Dromedary.lifeStages.2.labelFemale>верблюдица</Dromedary.lifeStages.2.labelFemale>
 
 </LanguageData>

@@ -1,16 +1,25 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
 	<GrizzlyBear.label>гризли</GrizzlyBear.label>
 	<GrizzlyBear.labelPlural>гризли</GrizzlyBear.labelPlural>
 	<GrizzlyBear.lifeStages.0.label>медвежонок гризли</GrizzlyBear.lifeStages.0.label>
 	<GrizzlyBear.lifeStages.1.label>молодой гризли</GrizzlyBear.lifeStages.1.label>
+	<GrizzlyBear.lifeStages.1.labelMale>молодой гризли</GrizzlyBear.lifeStages.1.labelMale>
+	<GrizzlyBear.lifeStages.1.labelFemale>молодая гризли</GrizzlyBear.lifeStages.1.labelFemale>
 	<GrizzlyBear.lifeStages.2.label>гризли</GrizzlyBear.lifeStages.2.label>
+	<GrizzlyBear.lifeStages.2.labelMale>медведь гризли</GrizzlyBear.lifeStages.2.labelMale>
+	<GrizzlyBear.lifeStages.2.labelFemale>медведица гризли</GrizzlyBear.lifeStages.2.labelFemale>
 
+<!-- нанук у эскимосов (хозяин Арктики), ошкуй у зыряк (правда это ещё и скупец) и умка у чукчей (взрослый самец) -->
 	<PolarBear.label>белый медведь</PolarBear.label>
 	<PolarBear.labelPlural>белые медведи</PolarBear.labelPlural>
-	<PolarBear.lifeStages.0.label>детёныш белого медведя</PolarBear.lifeStages.0.label>
+	<PolarBear.lifeStages.0.label>белый медвежонок</PolarBear.lifeStages.0.label>
 	<PolarBear.lifeStages.1.label>молодой белый медведь</PolarBear.lifeStages.1.label>
+	<PolarBear.lifeStages.1.labelMale>молодой белый медведь</PolarBear.lifeStages.1.labelMale>
+	<PolarBear.lifeStages.1.labelFemale>молодая белая медведица</PolarBear.lifeStages.1.labelFemale>
 	<PolarBear.lifeStages.2.label>белый медведь</PolarBear.lifeStages.2.label>
+	<PolarBear.lifeStages.2.labelMale>белый медведь</PolarBear.lifeStages.2.labelMale>
+	<PolarBear.lifeStages.2.labelFemale>белая медведица</PolarBear.lifeStages.2.labelFemale>
 
 </LanguageData>
