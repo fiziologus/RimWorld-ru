@@ -4,20 +4,22 @@
 	<Level>Уровень</Level>
 	<ProgressToNextLevel>Прогресс до след. уровня</ProgressToNextLevel>
 	<Experience>Опыт</Experience>
-	<Passion>Интерес</Passion>
-	<PassionNone>отсутствует (скорость обучения — {0})</PassionNone>
-	<PassionMinor>средний (скорость обучения — {0}, доставляет радость)</PassionMinor>
-	<PassionMajor>горячий (скорость обучения — {0}, доставляет двойную радость)</PassionMajor>
+	<Passion>Увлечёность</Passion>
+	<PassionNone>нет (скорость обучения — {0})</PassionNone>
+	<PassionMinor>интересуется (скорость обучения — {0}, доставляет радость)</PassionMinor>
+	<PassionMajor>жгучая (скорость обучения — {0}, доставляет двойную радость)</PassionMajor>
 	<LearnedMaxToday>Достигнут предел на сегодня ({0}/{1}, дальнейшая скорость обучения — {2})</LearnedMaxToday>
 	<EffectsAtLevel>Параметры на уровне {0}</EffectsAtLevel>
 	<SkillMax>Максимум</SkillMax>
 
-	<Skill0>неумёха</Skill0>
-	<Skill1>некомпетентный</Skill1>
-	<Skill2>общие знания</Skill2>
+	<Skill0>чё то слышал</Skill0>
+<!-- ближе к оригиналу -->
+	<Skill1>начинающий</Skill1>
+	<Skill2>новичок</Skill2>
+<!-- начинающий == только что, новичок == недавно -->
 	<Skill3>базовое ознакомление</Skill3>
-	<Skill4>начинающий</Skill4>
-	<Skill5>любитель</Skill5>
+	<Skill4>любитель</Skill4>
+	<Skill5>опытный любитель</Skill5>
 	<Skill6>практик</Skill6>
 	<Skill7>опытный практик</Skill7>
 	<Skill8>профессионал</Skill8>
@@ -30,8 +32,8 @@
 	<Skill15>мастер планетарного масштаба</Skill15>
 	<Skill16>мастер звёздного масштаба</Skill16>
 	<Skill17>заслуженный мастер</Skill17>
-	<Skill18>гений</Skill18>
+	<Skill18>кудесник</Skill18>
 	<Skill19>легендарный</Skill19>
-	<Skill20>божественный</Skill20>
+	<Skill20>богоподобный</Skill20>
 
 </LanguageData>
