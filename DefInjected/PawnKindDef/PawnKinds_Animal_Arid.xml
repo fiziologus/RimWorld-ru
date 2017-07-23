@@ -3,7 +3,7 @@
 
 	<Muffalo.label>муйвол</Muffalo.label>
 	<Muffalo.labelPlural>муйволы</Muffalo.labelPlural>
-	<Muffalo.lifeStages.0.label>муйволёнок</Muffalo.lifeStages.0.labelale>
+	<Muffalo.lifeStages.0.label>муйволёнок</Muffalo.lifeStages.0.label>
 	<!-- Можно телок/тёлка, но кому это (мальчик или девочка малыш) надо -->
 	<Muffalo.lifeStages.1.label>молодой муйвол</Muffalo.lifeStages.1.label>
 	<Muffalo.lifeStages.1.labelMale>молодой муйвол</Muffalo.lifeStages.1.labelMale>
