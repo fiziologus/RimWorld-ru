@@ -2,69 +2,80 @@
 <LanguageData>
 
 	<Nudist.degreeDatas.0.label>нудист</Nudist.degreeDatas.0.label>
-	<Nudist.degreeDatas.0.description>NAME наслаждается чувством свободы от одежды. HECAP может носить одежду, но без нее будет чувствовать себя гораздо счастливее.</Nudist.degreeDatas.0.description>
+	<Nudist.degreeDatas.0.description>NAME наслаждается ощущением свободы, что приходит с обнажённым телом. HECAP может носить одежду, но будет счасливее без неё.</Nudist.degreeDatas.0.description>
 
 	<Bloodlust.degreeDatas.0.label>кровожадность</Bloodlust.degreeDatas.0.label>
-	<Bloodlust.degreeDatas.0.description>NAME входит в раж, причиняя людям боль. HIMCAP безразличен вид крови или смерти.</Bloodlust.degreeDatas.0.description>
+	<Bloodlust.degreeDatas.0.description>NAME входит в раж, причиняя людям боль, а зрелища крови или смерти HIS не пугают. HECAP вдвое чаще ввязывается в перепалку.</Bloodlust.degreeDatas.0.description>
+	<!-- добавочное предложение -->
 
 	<Kind.degreeDatas.0.label>добряк</Kind.degreeDatas.0.label>
-	<Kind.degreeDatas.0.description>NAME — хороший человек. HECAP скрашивет день окружающим и никогда не оскорбляет других.</Kind.degreeDatas.0.description>
+	<Kind.degreeDatas.0.description>NAME — славный малый. HECAP делает день светлее и никогда никого не оскорбляет.</Kind.degreeDatas.0.description>
+	<!-- скрашивать == убирать недостатки, а добряк осветляет -->
 
 	<Psychopath.degreeDatas.0.label>психопат</Psychopath.degreeDatas.0.label>
-	<Psychopath.degreeDatas.0.description>NAME чуждо сопереживание. Страдания других совсем не волнуют HIS. HIMCAP безразлично, если кого-то пустят на мясо, оставят непохороненным, посадят в тюрьму или продадут в рабство, если HIS лично это не касается. HECAP также не получает удовольствия от общения с другими.</Psychopath.degreeDatas.0.description>
+	<Psychopath.degreeDatas.0.description>NAME чуждо сопереживание. Страдания других совсем HIS не трогают. HIMCAP безразлично, если кого-то пустят на мясо, оставят непохороненным, посадят в тюрьму или продадут в рабство, если HIS лично это не касается. Также HE не получает подъёма настроения от общения.</Psychopath.degreeDatas.0.description>
 
-	<Cannibal.degreeDatas.0.label>каннибал</Cannibal.degreeDatas.0.label>
+	<Cannibal.degreeDatas.0.label>людоед</Cannibal.degreeDatas.0.label>
 	<Cannibal.degreeDatas.0.description>NAME учили, что есть человеческое мясо неправильно и ужасно. Но однажды, давным-давно, HE попробовал(а) его... и HIM понравилось.</Cannibal.degreeDatas.0.description>
 
-	<Abrasive.degreeDatas.0.label>грубость</Abrasive.degreeDatas.0.label>
-	<Abrasive.degreeDatas.0.description>NAME всегда говорит в точности то, что думает, особенно, если это HIS раздражает. Обычно это влияет на окружающих не в лучшую сторону.</Abrasive.degreeDatas.0.description>
+	<Abrasive.degreeDatas.0.label>резкий</Abrasive.degreeDatas.0.label>
+	<Abrasive.degreeDatas.0.description>NAME всегда говорит ровно то, что думает, особенно, если HIS это раздражает. Обычно это влияет на окружающих не в лучшую сторону.</Abrasive.degreeDatas.0.description>
+	<!-- резкость, а не грубость -->
 
 	<TooSmart.degreeDatas.0.label>умник</TooSmart.degreeDatas.0.label>
 	<TooSmart.degreeDatas.0.description>NAME страдает от собственного ума. HECAP обучается всему гораздо быстрее остальных, но время от времени совершает разные чудачества.</TooSmart.degreeDatas.0.description>
 
 	<Brawler.degreeDatas.0.label>драчун</Brawler.degreeDatas.0.label>
-	<Brawler.degreeDatas.0.description>NAME любит ближний бой в полный контакт. HISCAP точность в ближнем бою значительно повышена, но HE терпеть не может стрелковое оружие.</Brawler.degreeDatas.0.description>
+	<Brawler.degreeDatas.0.description>NAME нравится драться лицом к лицу. В ближнем бою HE бьёт значительно точней, но терпеть не может пользоваться стрелковым оружием.</Brawler.degreeDatas.0.description>
+	<!-- up close and personal == лицом к лицу (тесней, чем хотелось бы, в оригинале) -->
 
 	<Masochist.degreeDatas.0.label>мазохист</Masochist.degreeDatas.0.label>
-	<Masochist.degreeDatas.0.description>Для NAME боль — это что-то возбуждающее. HECAP не знает почему, просто HIS голова работает по-другому.</Masochist.degreeDatas.0.description>
+	<Masochist.degreeDatas.0.description>Для NAME есть нечто волнующее в получении боли. HECAP не знает почему, просто ощущения работают по-другому.</Masochist.degreeDatas.0.description>
 
 	<Prosthophile.degreeDatas.0.label>протезофил</Prosthophile.degreeDatas.0.label>
-	<Prosthophile.degreeDatas.0.description>NAME чувствует себя ограниченно в своём немощном человеческом теле. HECAP часто мечтает стать биоником.</Prosthophile.degreeDatas.0.description>
+	<Prosthophile.degreeDatas.0.description>NAME чувствует себя ограниченно в немощном человеческом теле. HECAP часто мечтает стать биоником.</Prosthophile.degreeDatas.0.description>
 
 	<Prosthophobe.degreeDatas.0.label>протезофоб</Prosthophobe.degreeDatas.0.label>
-	<Prosthophobe.degreeDatas.0.description>NAME верит, что человеческое тело ограничено не просто так. Бионические части HIM кажутся не этичными.</Prosthophobe.degreeDatas.0.description>
+	<Prosthophobe.degreeDatas.0.description>NAME верит, что человеческое тело ограничено не просто так. Для нHER бионические части тела неэтичны.</Prosthophobe.degreeDatas.0.description>
 
-	<GreenThumb.degreeDatas.0.label>садовод</GreenThumb.degreeDatas.0.label>
-	<GreenThumb.degreeDatas.0.description>NAME испытывает страсть к садоводству. HECAP получает бонус к настроению за каждое посаженное растение.</GreenThumb.degreeDatas.0.description>
+	<GreenThumb.degreeDatas.0.label>«зелёная рука»</GreenThumb.degreeDatas.0.label>
+	<GreenThumb.degreeDatas.0.description>У NAME страсть к садоводству. HECAP получает подъём настроения с каждым посаженным растением.</GreenThumb.degreeDatas.0.description>
+	<!-- green thumb зелёная рука -->
 
 	<NightOwl.degreeDatas.0.label>сова</NightOwl.degreeDatas.0.label>
-	<NightOwl.degreeDatas.0.description>NAME любит работать ночью. У нHIS поднимается настроение, если HE бодрствует ночью, и портится, если HE бодрствует днём.</NightOwl.degreeDatas.0.description>
+	<NightOwl.degreeDatas.0.description>NAME нравится просыпатся ночью и спать днём./n/nБодрствуя ночью (с 23 до 6), HE получает подьём настроения, а, если не спит днём (с 11 до 18), настроение падает.</NightOwl.degreeDatas.0.description>
 
 	<Greedy.degreeDatas.0.label>жадность</Greedy.degreeDatas.0.label>
-	<Greedy.degreeDatas.0.description>NAME нуждается в царских условиях. У нHIS портится настроение, если HE не получает то, что хочет.</Greedy.degreeDatas.0.description>
+	<Greedy.degreeDatas.0.description>NAME нужна по настоящему впечатляющая спальня. Если HE не получает, что хочет, настроение HIS падает.</Greedy.degreeDatas.0.description>
 
-	<Jealous.degreeDatas.0.label>зависть</Jealous.degreeDatas.0.label>
-	<Jealous.degreeDatas.0.description>Для NAME унизительно, если кто-то живёт лучше нHIS. HECAP получает штраф к настроению, если чья-то комната лучше, чем HIS.</Jealous.degreeDatas.0.description>
+	<Jealous.degreeDatas.0.label>завистливый</Jealous.degreeDatas.0.label>
+	<Jealous.degreeDatas.0.description>Для NAME унизительно иметь менее впечатляющую, чем у кого-то, спальню. HISCAP настроение падает, если у любого из колонистов более впечатляющая спальня.</Jealous.degreeDatas.0.description>
+	<!-- зависть == завистливый -->
 
-	<Ascetic.degreeDatas.0.label>аскетизм</Ascetic.degreeDatas.0.label>
-	<Ascetic.degreeDatas.0.description>NAME предпочитает жить скромно. У нHIS портится настроение, если HIS спальня слишком впечетляющая.</Ascetic.degreeDatas.0.description>
+	<Ascetic.degreeDatas.0.label>аскет</Ascetic.degreeDatas.0.label>
+	<Ascetic.degreeDatas.0.description>NAME больше нравится аскетичную жизнь. HECAP придёт в уныние, если HIS спальня слишком впечетляющая. Также NAME не жалует причудливую пищу, предпочитая есть сырую, и сырая еда не сильно HIS беспокоит.</Ascetic.degreeDatas.0.description>
+	<!-- аскетизм == аскет + добавочное предложение (пища) -->
 
 	<Gay.degreeDatas.0.label>гомосексуалист</Gay.degreeDatas.0.label>
-	<Gay.degreeDatas.0.description>NAME привлекают люди HIS же пола.</Gay.degreeDatas.0.description>
+	<Gay.degreeDatas.0.description>NAME испытывает романтичегое влечение к людям своего пола.</Gay.degreeDatas.0.description>
 
-	<DislikesMen.degreeDatas.0.label>мужененависть</DislikesMen.degreeDatas.0.label>
-	<DislikesMen.degreeDatas.0.description>NAME действительно не любит и не доверяет мужчинам.</DislikesMen.degreeDatas.0.description>
+	<DislikesMen.degreeDatas.0.label>мизандрия</DislikesMen.degreeDatas.0.label>
+	<DislikesMen.degreeDatas.0.description>NAME испытывает настоящую неприязнь и недоверие к мужчинам.</DislikesMen.degreeDatas.0.description>
 
-	<DislikesWomen.degreeDatas.0.label>женоненависть</DislikesWomen.degreeDatas.0.label>
-	<DislikesWomen.degreeDatas.0.description>NAME действительно не любит и не доверяет женщинам.</DislikesWomen.degreeDatas.0.description>
+	<DislikesWomen.degreeDatas.0.label>мизогиния</DislikesWomen.degreeDatas.0.label>
+	<DislikesWomen.degreeDatas.0.description>NAME испытывает настоящую неприязнь и недоверие к женщинам.</DislikesWomen.degreeDatas.0.description>
 
 	<AnnoyingVoice.degreeDatas.0.label>противный голос</AnnoyingVoice.degreeDatas.0.label>
-	<AnnoyingVoice.degreeDatas.0.description>У NAME резкий гнусавый голос, и HE общается рявкая какие-то обрывистые фразы. Неудивительно, что HE не нравится другим.</AnnoyingVoice.degreeDatas.0.description>
+	<AnnoyingVoice.degreeDatas.0.description>Голос NAME скрипучий и гнусавый, а разговаривает HE, рявкая и искажая слова. За это окружающие HIS недолюбливают.</AnnoyingVoice.degreeDatas.0.description>
 
-	<CreepyBreathing.degreeDatas.0.label>жутковатое дыхание</CreepyBreathing.degreeDatas.0.label>
-	<CreepyBreathing.degreeDatas.0.description>NAME всегда тяжело дышит и потеет. Люди считают это страшным.</CreepyBreathing.degreeDatas.0.description>
+	<CreepyBreathing.degreeDatas.0.label>жуткое дыхание</CreepyBreathing.degreeDatas.0.label>
+	<CreepyBreathing.degreeDatas.0.description>NAME всё время тяжело дышит и постоянно потеет. Люди находят это жутким..</CreepyBreathing.degreeDatas.0.description>
 
 	<Pyromaniac.degreeDatas.0.label>пироман</Pyromaniac.degreeDatas.0.label>
-	<Pyromaniac.degreeDatas.0.description>NAME любит огонь. HECAP будет иногда устраивать пожары и никогда не будет тушить огонь.</Pyromaniac.degreeDatas.0.description>
+	<Pyromaniac.degreeDatas.0.description>NAME любит пламя. Временами HE будет устраивать пожары и никогда не будет их тушить.</Pyromaniac.degreeDatas.0.description>
+
+	<Wimp.degreeDatas.0.label>слабак</Wimp.degreeDatas.0.label>
+	<Wimp.degreeDatas.0.description>NAME слаб и малодушен. Даже лёгкая боль парализует HIM.</Wimp.degreeDatas.0.description>
+	<!-- этого куска нет -->
 
 </LanguageData>
