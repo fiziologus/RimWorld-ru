@@ -1,73 +1,73 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<SpeedOffset.degreeDatas.0.label>медлительность</SpeedOffset.degreeDatas.0.label>
-	<SpeedOffset.degreeDatas.0.description>NAME всегда плетётся позади группы, когда и куда бы они не шли.</SpeedOffset.degreeDatas.0.description>
-	<SpeedOffset.degreeDatas.1.label>ходок</SpeedOffset.degreeDatas.1.label>
-	<SpeedOffset.degreeDatas.1.description>NAME любит ходить пешком. HECAP ходит быстрее, чем большинство людей.</SpeedOffset.degreeDatas.1.description>
+	<SpeedOffset.degreeDatas.0.label>медлительный</SpeedOffset.degreeDatas.0.label>
+	<SpeedOffset.degreeDatas.0.description>Куда бы HE не шёл, NAME всегда плетётся в хвосте группы.</SpeedOffset.degreeDatas.0.description>
+	<SpeedOffset.degreeDatas.1.label>скороход</SpeedOffset.degreeDatas.1.label>
+	<SpeedOffset.degreeDatas.1.description>NAME нравится ходить. HECAP передвигается быстрее, чем большинство людей.</SpeedOffset.degreeDatas.1.description>
 	<SpeedOffset.degreeDatas.2.label>бегун</SpeedOffset.degreeDatas.2.label>
-	<SpeedOffset.degreeDatas.2.description>NAME всегда спешит. Да так сильно, что остальные угнаться не могут.</SpeedOffset.degreeDatas.2.description>
+	<SpeedOffset.degreeDatas.2.description>NAME всегда бежит, как на пожар... да так быстро, что остальные не могут угнаться.</SpeedOffset.degreeDatas.2.description>
 
-	<DrugDesire.degreeDatas.0.label>тяжёлая аддикция</DrugDesire.degreeDatas.0.label>
-	<DrugDesire.degreeDatas.0.description>NAME зависим(а) от алкоголя, наркотиков и других сомнительных вещей. HECAP будет употреблять их при первой же возможности, что наверняка приведёт к загулу.</DrugDesire.degreeDatas.0.description>
-	<DrugDesire.degreeDatas.1.label>лёгкая аддикция</DrugDesire.degreeDatas.1.label>
-	<DrugDesire.degreeDatas.1.description>NAME любит выпить, имеет пристрастие к наркотикам и другим сомнительным вещам. HECAP будет употреблять их чаще, чем другие поселенцы, что может привести к загулу.</DrugDesire.degreeDatas.1.description>
+	<DrugDesire.degreeDatas.0.label>увлечение «химией»</DrugDesire.degreeDatas.0.label>
+	<DrugDesire.degreeDatas.0.description>NAME имеет сильную увлечённость химическими источниками удовольствия. Потреблять HE их будет значительно больше и чаще, а временами и устраивать долгие алкогольные, либо наркотические марафоны. HECAP не обращает внимания на указания не использовать доставляющие удовольствия препараты.</DrugDesire.degreeDatas.0.description>
+	<DrugDesire.degreeDatas.1.label>интерес к «химии»</DrugDesire.degreeDatas.1.label>
+	<DrugDesire.degreeDatas.1.description>У NAME необычный интерес к химическим источникам удовольствия.  Потреблять HE их будет побольше и почаще, а временами расслабляться с их помощью дольше, чем надо. HECAP не обращает внимания на указания не использовать доставляющие удовольствия препараты.</DrugDesire.degreeDatas.1.description>
 	<DrugDesire.degreeDatas.2.label>трезвенник</DrugDesire.degreeDatas.2.label>
-	<DrugDesire.degreeDatas.2.description>NAME не приемлет идею получения удовольствия от химии и держится подальше от алкоголя и наркотиков.</DrugDesire.degreeDatas.2.description>
+	<DrugDesire.degreeDatas.2.description>NAME отвратительна сама идея получения удовольствия с помощью химических веществ, и HE держится подальше от алкоголя и доставляющих удовольствие препаратов.</DrugDesire.degreeDatas.2.description>
 
 	<NaturalMood.degreeDatas.0.label>сангвиник</NaturalMood.degreeDatas.0.label>
-	<NaturalMood.degreeDatas.0.description>NAME всегда в приподнятом настроении, что бы ни происходило вокруг.</NaturalMood.degreeDatas.0.description>
+	<NaturalMood.degreeDatas.0.description>NAME от природы почти всегда с юмором относится к своему положению, каким бы оно не было.</NaturalMood.degreeDatas.0.description>
 	<NaturalMood.degreeDatas.1.label>оптимист</NaturalMood.degreeDatas.1.label>
-	<NaturalMood.degreeDatas.1.description>NAME оптимист от природы. HIMCAP сложно испортить настроение.</NaturalMood.degreeDatas.1.description>
+	<NaturalMood.degreeDatas.1.description>NAME оптимист от природы. HISCAP тяжело «сломать».</NaturalMood.degreeDatas.1.description>
 	<NaturalMood.degreeDatas.2.label>пессимист</NaturalMood.degreeDatas.2.label>
-	<NaturalMood.degreeDatas.2.description>NAME видит жизнь только с плохой стороны.</NaturalMood.degreeDatas.2.description>
+	<NaturalMood.degreeDatas.2.description>NAME почти всегда видит жизнь только с плохой стороны.</NaturalMood.degreeDatas.2.description>
 	<NaturalMood.degreeDatas.3.label>подавленность</NaturalMood.degreeDatas.3.label>
-	<NaturalMood.degreeDatas.3.description>NAME всегда в плохом настроении. И оно редко улучшается, даже когда всё хорошо.</NaturalMood.degreeDatas.3.description>
+	<NaturalMood.degreeDatas.3.description>NAME всегда несчастлив. Даже, когда всё в порядке, HIM сложно быть счастливым.</NaturalMood.degreeDatas.3.description>
 
-	<Nerves.degreeDatas.0.label>железные нервы</Nerves.degreeDatas.0.label>
-	<Nerves.degreeDatas.0.description>Воля NAME как железный щит. HECAP продолжает идти в огонь и воду, когда остальные давно сдались.</Nerves.degreeDatas.0.description>
-	<Nerves.degreeDatas.1.label>уравновешенность</Nerves.degreeDatas.1.label>
-	<Nerves.degreeDatas.1.description>NAME обладает психической устойчивостью к стрессам, которых большинство не выдерживает.</Nerves.degreeDatas.1.description>
+	<Nerves.degreeDatas.0.label>железная воля</Nerves.degreeDatas.0.label>
+	<Nerves.degreeDatas.0.description>Воля NAME — железный щит. HECAP пройдёт огонь и воду, когда остальные давно будут сломлены.</Nerves.degreeDatas.0.description>
+	<Nerves.degreeDatas.1.label>стойкость</Nerves.degreeDatas.1.label>
+	<Nerves.degreeDatas.1.description>NAME душевно стоек и не сломается от потрясений, что переломят большинство людей.</Nerves.degreeDatas.1.description>
 	<Nerves.degreeDatas.2.label>нервность</Nerves.degreeDatas.2.label>
-	<Nerves.degreeDatas.2.description>NAME может сорваться при сильном моральном давлении.</Nerves.degreeDatas.2.description>
-	<Nerves.degreeDatas.3.label>невротик</Nerves.degreeDatas.3.label>
-	<Nerves.degreeDatas.3.description>NAME всегда на пределе. Малейшая опасность может закончиться нервным срывом.</Nerves.degreeDatas.3.description>
+	<Nerves.degreeDatas.2.description>Под нажимом NAME может и сломаться.</Nerves.degreeDatas.2.description>
+	<Nerves.degreeDatas.3.label>взрывной характер</Nerves.degreeDatas.3.label>
+	<Nerves.degreeDatas.3.description>NAME всегда на пределе. HECAP первый, кого сломит любая сложная ситуация.</Nerves.degreeDatas.3.description>
 
 	<Neurotic.degreeDatas.0.label>лёгкая неврастения</Neurotic.degreeDatas.0.label>
-	<Neurotic.degreeDatas.0.description>NAME любит всё делать правильно, отчего работает больше и усерднее остальных. Такое напряжение иногда приводит к нервными срывам.</Neurotic.degreeDatas.0.description>
+	<Neurotic.degreeDatas.0.description>NAME любит всё делать на совесть. Для достижения этого HE работает усердней остальных, но нервы HIS не настолько хороши.</Neurotic.degreeDatas.0.description>
 	<Neurotic.degreeDatas.1.label>тяжёлая неврастения</Neurotic.degreeDatas.1.label>
-	<Neurotic.degreeDatas.1.description>Постоянные переживания о качестве своей работы заставляют NAME выполнять её идеально, что приводит к частым нервным расстройствам.</Neurotic.degreeDatas.1.description>
+	<Neurotic.degreeDatas.1.description>NAME постоянные переживает о любой вещи, что делает. Чтобы достичь нужного результата HE работает невероятно усердно, но тревоги могут легко HIS побороть.</Neurotic.degreeDatas.1.description>
 
-	<Industriousness.degreeDatas.0.label>усердие</Industriousness.degreeDatas.0.label>
-	<Industriousness.degreeDatas.0.description>NAME легко концентрируется на работе и выполняет задачи гораздо быстрее обычных людей.</Industriousness.degreeDatas.0.description>
-	<Industriousness.degreeDatas.1.label>трудоголизм</Industriousness.degreeDatas.1.label>
+	<Industriousness.degreeDatas.0.label>усердность</Industriousness.degreeDatas.0.label>
+	<Industriousness.degreeDatas.0.description>NAME легко концентрируется на работе и выполняет что-либо гораздо быстрее обычных людей.</Industriousness.degreeDatas.0.description>
+	<Industriousness.degreeDatas.1.label>работяга</Industriousness.degreeDatas.1.label>
 	<Industriousness.degreeDatas.1.description>Обладая природным трудолюбием, NAME выполняет работу быстрее остальных.</Industriousness.degreeDatas.1.description>
 	<Industriousness.degreeDatas.2.label>леность</Industriousness.degreeDatas.2.label>
-	<Industriousness.degreeDatas.2.description>NAME иногда ленится.</Industriousness.degreeDatas.2.description>
+	<Industriousness.degreeDatas.2.description>NAME немного ленится.</Industriousness.degreeDatas.2.description>
 	<Industriousness.degreeDatas.3.label>праздность</Industriousness.degreeDatas.3.label>
-	<Industriousness.degreeDatas.3.description>NAME любит бездельничать и ненавидит работать. HECAP двигается медленно и редко концентрируется на задаче.</Industriousness.degreeDatas.3.description>
+	<Industriousness.degreeDatas.3.description>NAME любит безделье и ненавидит всё остальное. HECAP медленно двигается и редко концентрируется на задаче.</Industriousness.degreeDatas.3.description>
 
 	<PsychicSensitivity.degreeDatas.0.label>гиперчувствительность</PsychicSensitivity.degreeDatas.0.label>
-	<PsychicSensitivity.degreeDatas.0.description>Разум NAME отзывчив, словно тонко настроенный музыкальный инструмент. HECAP чрезвычайно чувствителен(а) к психическим явлениям.</PsychicSensitivity.degreeDatas.0.description>
+	<PsychicSensitivity.degreeDatas.0.description>Разум NAME подобен камертону. NAME обладает чрезвычайной чувствительностью к психическим феноменам.</PsychicSensitivity.degreeDatas.0.description>
 	<PsychicSensitivity.degreeDatas.1.label>восприимчивость</PsychicSensitivity.degreeDatas.1.label>
-	<PsychicSensitivity.degreeDatas.1.description>Разум NAME чувствителен к психическим явлениям.</PsychicSensitivity.degreeDatas.1.description>
+	<PsychicSensitivity.degreeDatas.1.description>Разум NAME необычайно чувствителен к психическим феноменам.</PsychicSensitivity.degreeDatas.1.description>
 	<PsychicSensitivity.degreeDatas.2.label>психическая вялость</PsychicSensitivity.degreeDatas.2.label>
-	<PsychicSensitivity.degreeDatas.2.description>NAME — психически устойчивая личность, которую мало что способно потревожить.</PsychicSensitivity.degreeDatas.2.description>
+	<PsychicSensitivity.degreeDatas.2.description>Разум NAME настроен не как у всех. NAME не так сильно затрагивают психические феномены.</PsychicSensitivity.degreeDatas.2.description>
 	<PsychicSensitivity.degreeDatas.3.label>психическая глухота</PsychicSensitivity.degreeDatas.3.label>
-	<PsychicSensitivity.degreeDatas.3.description>Разум NAME работает на волне, отличной от всех остальных. HECAP не подвергается влиянию психических явлений.</PsychicSensitivity.degreeDatas.3.description>
+	<PsychicSensitivity.degreeDatas.3.description>Разум NAME работает на волне, отличной от волны кого-либо ещё. Психические феномены HIS не затрагивают.</PsychicSensitivity.degreeDatas.3.description>
 
 	<ShootingAccuracy.degreeDatas.0.label>аккуратный стрелок</ShootingAccuracy.degreeDatas.0.label>
-	<ShootingAccuracy.degreeDatas.0.description>NAME — весьма хороший стрелок, но HIM нужно время, чтобы хорошенько прицелиться.</ShootingAccuracy.degreeDatas.0.description>
+	<ShootingAccuracy.degreeDatas.0.description>При стрельбе NAME нужно больше времени на прицеливание. HECAP стреляет реже остальных, но значительно точнее.</ShootingAccuracy.degreeDatas.0.description>
 	<ShootingAccuracy.degreeDatas.1.label>беспечный стрелок</ShootingAccuracy.degreeDatas.1.label>
-	<ShootingAccuracy.degreeDatas.1.description>Пиу-пиу-пиу! NAME — ужасный стрелок, но HIS это не волнует, потому что пушки — это здорово!</ShootingAccuracy.degreeDatas.1.description>
+	<ShootingAccuracy.degreeDatas.1.description>Пиу-пиу-пиу! NAME прямо таки любит жать на курок. HECAP стреляет чаще остальных, но менее точно.</ShootingAccuracy.degreeDatas.1.description>
 
-	<Beauty.degreeDatas.0.label>невероятная красота</Beauty.degreeDatas.0.label>
-	<Beauty.degreeDatas.0.description>NAME невероятно красив(а). HISCAP лицо имеет несколько экзотичную, но в то же время очень располагающую структуру, а взгляд так и притягивает к себе. Люди тянутся к NAME ещё до того, как HE что-нибудь произнесёт.</Beauty.degreeDatas.0.description>
-	<Beauty.degreeDatas.1.label>красота</Beauty.degreeDatas.1.label>
-	<Beauty.degreeDatas.1.description>У NAME красивое личико, что притягивает к нHIM людей.</Beauty.degreeDatas.1.description>
+	<Beauty.degreeDatas.0.label>красота</Beauty.degreeDatas.0.label>
+	<Beauty.degreeDatas.0.description>NAME обладает исключительной красотой, с необычным, но в тоже время знакомым лицом и приковывающим взглядом. HECAP привлекает людей ещё до того, как откроет рот.</Beauty.degreeDatas.0.description>
+	<Beauty.degreeDatas.1.label>симпатичность</Beauty.degreeDatas.1.label>
+	<Beauty.degreeDatas.1.description>У NAME симпатичная, распологающая к себе мордашка.</Beauty.degreeDatas.1.description>
 	<Beauty.degreeDatas.2.label>уродство</Beauty.degreeDatas.2.label>
-	<Beauty.degreeDatas.2.description>NAME некрасив(а). Это отталкивает других.</Beauty.degreeDatas.2.description>
+	<Beauty.degreeDatas.2.description>NAME не обладает красотой. И это неуловимо отталкивает окружающих.</Beauty.degreeDatas.2.description>
 	<Beauty.degreeDatas.3.label>невероятное уродство</Beauty.degreeDatas.3.label>
-	<Beauty.degreeDatas.3.description>NAME ужасно уродлив(а). HISCAP его лицо — что-то среднее между рисунком бездарного ребёнка, заспиртованным в банке уродцем и произведением современного искусства. Людям приходится прикладывать усилие, чтобы просто смотреть HIM в лицо при разговоре.</Beauty.degreeDatas.3.description>
+	<Beauty.degreeDatas.3.description>NAME обладает невероятным уродством. HISCAP лицо — нечто среднее между рисунком бездарного ребёнка, плохо сформировавшимся эмбрионом в банке с формальдегидом и образцом современного искусства. Людям приходится прилагать усилия, чтобы смотреть в HIS сторону при разговоре.</Beauty.degreeDatas.3.description>
 
 </LanguageData>
