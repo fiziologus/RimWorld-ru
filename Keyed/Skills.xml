@@ -1,12 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<Level>Уровень</Level>
-	<ProgressToNextLevel>Прогресс до след. уровня</ProgressToNextLevel>
+	<ProgressToNextLevel>Прогресс до нового уровня</ProgressToNextLevel>
 	<Experience>Опыт</Experience>
 	<Passion>Увлечёность</Passion>
 	<PassionNone>нет (скорость обучения — {0})</PassionNone>
-	<PassionMinor>интересуется (скорость обучения — {0}, доставляет радость)</PassionMinor>
+	<PassionMinor>привлекающая (скорость обучения — {0}, доставляет радость)</PassionMinor>
 	<PassionMajor>жгучая (скорость обучения — {0}, доставляет двойную радость)</PassionMajor>
 	<LearnedMaxToday>Достигнут предел на сегодня ({0}/{1}, дальнейшая скорость обучения — {2})</LearnedMaxToday>
 	<EffectsAtLevel>Параметры на уровне {0}</EffectsAtLevel>
