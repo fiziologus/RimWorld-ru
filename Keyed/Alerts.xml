@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<ClickToJumpToProblem>Нажмите для перехода к проблеме</ClickToJumpToProblem>
@@ -6,107 +6,107 @@
 	<BreakRiskMinor>Риск лёгкого нервного срыва</BreakRiskMinor>
 	<BreakRiskMajor>Риск серьёзного нервного срыва</BreakRiskMajor>
 	<BreakRiskExtreme>Риск тяжёлого нервного срыва</BreakRiskExtreme>
-	<BreakRiskMinorDesc>Эти поселенцы в плохом настроении и могут получить лёгкий нервный срыв в любой момент:\n\n{0}</BreakRiskMinorDesc>
-	<BreakRiskMajorDesc>Эти поселенцы в очень плохом настроении и могут получить серьёзный нервный срыв в любой момент:\n\n{0}</BreakRiskMajorDesc>
-	<BreakRiskExtremeDesc>Эти поселенцы испытывают сильный стресс и могут получить тяжёлый нервный срыв, который в любой момент может привести к насилию.\n\n{0}</BreakRiskExtremeDesc>
-	<BreakRiskDescEnding>Проверьте вкладку «Нужды», чтобы понять, что их беспокоит.\n\nЧтобы поселенцы чувствовали себя лучше, вы можете приготовить хорошие блюда, дать им больше свободного времени, обеспечить их более качественными развлечениями и улучшить их среду обитания, даже позволить им пить и курить, или же придумать что-то ещё.</BreakRiskDescEnding>
+	<BreakRiskMinorDesc>Эти поселенцы не в настроении и в любой момент могут сорваться:\n\n{0}</BreakRiskMinorDesc>
+	<BreakRiskMajorDesc>Эти поселенцы сильно не в духе и в любой момент полыхнуть:\n\n{0}</BreakRiskMajorDesc>
+	<BreakRiskExtremeDesc>Эти поселенцы на пределе и в любой момент могут (возможно и с насилием) взорваться:\n\n{0}</BreakRiskExtremeDesc>
+	<BreakRiskDescEnding>Проверьте «Нужды» этих поселенцев, чтобы понять, что их беспокоит.\n\nЧтобы сделать поселенцев счастливее, вы можете, скажем, приготовить им изысканные блюда, дать лучших развлечений и больше времени на них, поместить в радующее глаз окружение, позволить выпивать и курить и ещё много чего.</BreakRiskDescEnding>
 
 	<ColonistNeedsRescue>Поселенцу нужна помощь</ColonistNeedsRescue>
 	<ColonistsNeedRescue>Поселенцам нужна помощь</ColonistsNeedRescue>
-	<ColonistsNeedRescueDesc>Эти поселенцы травмированы и лежат на земле:\n\n{0}\nПошлите другого поселенца, чтобы спасти их и оттащить в кровати.\n\n(Для спасения выберите другого поселенца, затем щёлкните правой кнопкой мыши на пострадавшем и выберите «Спасти»).</ColonistsNeedRescueDesc>
+	<ColonistsNeedRescueDesc>Эти поселенцы на земле и не способны двигаться:\n\n{0}\nОтошлите другого поселенца, чтобы спасти их и оттащить в кровати.\n\n(Для спасения выделите другого поселенца, затем щёлкните правой кнопкой мыши на пострадавшем и выберите «Спасти»).</ColonistsNeedRescueDesc>
 
-	<NeedDefenses>Нужны оборонительные сооружения</NeedDefenses>
-	<NeedDefensesDesc>Вы здесь уже относительно давно и вас, скорее всего, заметили. Скоро начнутся нападения.\n\nНужно подготовить оборонительные сооружения: ловушки, турели, укрепления из мешков с песком.</NeedDefensesDesc>
+	<NeedDefenses>Нужны защитные сооружения</NeedDefenses>
+	<NeedDefensesDesc>Вы здесь уже какоето-время и вероятно замечены. Налёты пиратов не заставят себя ждать.\n\nНужно подготовить оборонительные сооружения: ловушки, мешки с песком, либо турели.</NeedDefensesDesc>
 
 	<NeedDoctor>Нужен врач</NeedDoctor>
-	<NeedDoctorDesc>Этим пациентам нужна медицинская помощь. У вас нет здоровых поселенцев, назначенных врачами.\n\n{0}\nВо вкладке «Работа» выберите здорового поселенца и поставьте галочку в колонке «Врач» напротив его имени. Иначе оставленные без ухода пациенты могут умереть или же остаться больными на всю жизнь.</NeedDoctorDesc>
+	<NeedDoctorDesc>Эти поселенцы нуждаются в медицинском уходе, но никто из здоровых поселенцев у нас, не назначенн врачом.\n\n{0}\nНазначьте здоровому поселенцу тип работы «Доктор». Ранения без какого-либо ухода могут зажить не полностью, а то и вообще не защить.</NeedDoctorDesc>
 
-	<NeedMiner>Нужен шахтёр</NeedMiner>
-	<NeedMinerDesc>Вы разметили скалы для проведения горных работ, но никого не назначили шахтёром.\n\nВо вкладке «Работа» назначьте хотя бы одного поселенца, поставив галочку в колонке «Шахтёр» напротив его имени.</NeedMinerDesc>
+	<NeedMiner>Нужен горняк</NeedMiner>
+	<NeedMinerDesc>Вы разметили кое-какие скалы для разработки, но поселенца с типом работы «Горняк» у вас нет.\n\nНазначьте поселенцу тип работы «Горняк».</NeedMinerDesc>
 
 	<NeedWarden>Нужен надзиратель</NeedWarden>
-	<NeedWardenDesc>У вас есть заключённый, но нет надзирателя.\n\nВо вкладке «Работа» назначьте хотя бы одного поселенца, поставив галочку в колонке «Надзор» напротив его имени.</NeedWardenDesc>
+	<NeedWardenDesc>У вас есть заключённый, но нет поселенца с типом работы «Надзиратель».\n\nНазначьте поселенцу тип работы «Надзиратель».</NeedWardenDesc>
 
-	<LowFood>Мало пищи</LowFood>
-	<LowFoodDesc>У поселения мало продовольствия.\n\n  Готовой провизии на складе: {0} единиц.\n  Поселенцы и заключённые получают {1} единиц.\n   Этого хватит на {2} дней.\n\nНайдите пропитание любым способом: вырастите, добудьте на охоте, отыщите или купите. Потом приготовьте побольше блюд.</LowFoodDesc>
+	<LowFood>Мало еды</LowFood>
+	<LowFoodDesc>У вас опасно мало продовольствия.\n\n  Готовой провизии хранится: {0} единиц.\n  Поселенцы и заключённые получают {1} единиц.\n   Пищи хватит на {2} дней.\n\nВырастите, купите, найдите, либо убейте немного еды.</LowFoodDesc>
 
 	<LowMedicine>Мало лекарств</LowMedicine>
-	<LowMedicineDesc>У вас осталось мало лекарств: {0} единиц(ы) в хранилищах.\n\nКупите больше медикаментов у торговцев.</LowMedicineDesc>
-	<NoMedicineDesc>У вас на складах нет медикаментов.\n\nКупите больше лекарственных препаратов у торговцев.</NoMedicineDesc>
+	<LowMedicineDesc>На складах осталось лишь {0} лечебных средств.\n\nПриобретите больше медикаментов у торговцев.</LowMedicineDesc>
+	<NoMedicineDesc>На складах нет медикаментов.\n\nКупите больше лекарственных препаратов у торговцев.</NoMedicineDesc>
 
-	<NeedColonistBeds>Нужны кровати</NeedColonistBeds>
-	<NeedColonistBedsDesc>У вас больше поселенцев, чем кроватей для них. Кому-то не хватит места для сна.\n\nЛибо разместите больше кроватей, либо назначьте поселенцам часть кроватей заключённых.\n\nВ крайнем случае воспользуйтесь спальными мешками — они бесплатны и размещаются мгновенно.</NeedColonistBedsDesc>
+	<NeedColonistBeds>Поселенцам нужны кровати</NeedColonistBeds>
+	<NeedColonistBedsDesc>У вас больше поселенцев, чем кроватей для них. И кому-то не хватит места для сна.\n\nЛибо создайте больше кроватей, либо отдайте кровати для заключённых поселенцам.\n\nЕсли же у вас нет ресурсов, спальные месте их не трубуют и могут быть размещены сразу же.</NeedColonistBedsDesc>
 
-	<HunterLacksWeapon>У охотника нет оружия дальнего боя</HunterLacksWeapon>
-	<HunterLacksWeaponDesc>Поселенец назначен охотником, но у него нет оружия дальнего боя.\n\nОн не будет охотиться, пока не получит такое оружие.</HunterLacksWeaponDesc>
+	<HunterLacksWeapon>Охотник без стрелкового оружия</HunterLacksWeapon>
+	<HunterLacksWeaponDesc>Поселенец назначен охотником, но не имеет оружия дальнего боя.\n\nОн не будет охотиться, пока не получит такое оружие.</HunterLacksWeaponDesc>
 
-	<AlertTatteredApparel>Носит рваную одежду</AlertTatteredApparel>
-	<AlertTatteredApparelDesc>Эти поселенцы одеты в изодранные лохмотья, и это не может их не огорчать.\n\n{0}\nРаздобудьте для них не изношенную одежду.\n\nВы можете сшить её за столом портного или на швейной машинке, либо купить у торговцев.</AlertTatteredApparelDesc>
+	<AlertTatteredApparel>Потрёпанная одежда</AlertTatteredApparel>
+	<AlertTatteredApparelDesc>На этих поселенцах потрёпанная одежда, и это не может их не огорчать.\n\n{0}\nРаздобудьте для них не настолько изношенную одежду.\n\nОдежду можно сшить за пошивочным столом или приобрести у торговцев.</AlertTatteredApparelDesc>
 
-	<AlertUnhappyNudity>Без одежды</AlertUnhappyNudity>
-	<AlertUnhappyNudityDesc>На этих поселенцах совсем нет одежды, и им это не нравится:\n\n{0}\nРаздобудьте для них одежду.\n\nВы можете сшить её за столом портного или на швейной машинке, либо купить у торговцев.</AlertUnhappyNudityDesc>
+	<AlertUnhappyNudity>Горестная нагота</AlertUnhappyNudity>
+	<AlertUnhappyNudityDesc>Эти поселенцы наги, и им это не нравится:\n\n{0}\nРаздобудьте для них одежду.\n\nОдежду можно сшить за пошивочным столом или приобрести у торговцев.</AlertUnhappyNudityDesc>
 
-	<Starvation>Голод</Starvation>
-	<StarvationDesc>Эти поселенцы голодают:\n\n{0}\nРаздобудьте им немного еды. Вам нужен источник пищи, например, дозатор пасты (с приделанной к нему загрузочной воронкой) и немного сырых продуктов для его наполнения. Также убедитесь, что голодающие поселенцы не находятся в боевом режиме.</StarvationDesc>
+	<Starvation>Голодание</Starvation>
+	<StarvationDesc>Эти поселенцы голодают:\n\n{0}\nРаздобудьте им немного еды.</StarvationDesc>
 
-	<StarvationAnimals>Голодание животных</StarvationAnimals>
-	<StarvationAnimalsDesc>Эти животные голодают:\n\n{0}\nРаздобудьте им еды.</StarvationAnimalsDesc>
+	<StarvationAnimals>Животные голодают</StarvationAnimals>
+	<StarvationAnimalsDesc>Эти животные в поселении голодают:\n\n{0}\nРаздобудьте им еды.</StarvationAnimalsDesc>
 
 	<Exhaustion>Изнеможение</Exhaustion>
-	<ExhaustionDesc>Эти поселенцы измождены и нуждаются в отдыхе:\n\n{0}\nДайте им немного отдохнуть. Им понадобится кровать, отмеченная для использования поселенцами. Также убедитесь, что они не находятся в боевом режиме.</ExhaustionDesc>
+	<ExhaustionDesc>Эти поселенцы измождены и нуждаются в отдыхе:\n\n{0}\nДайте им немного отдохнуть. Им понадобится кровать, отмеченная для использования поселенцами. Также убедитесь, что они не в режиме призыва.</ExhaustionDesc>
 
-	<NeedFoodHopper>Нужна загрузочная воронка</NeedFoodHopper>
-	<NeedFoodHopperDesc>Рядом с дозатором пасты нет загрузочной воронки.\n\nДля работы дозатора в соседней с ним клетке должна стоять загрузочная воронка, наполненная сырыми продуктами.\n\nПостройте её рядом с дозатором пасты.</NeedFoodHopperDesc>
+	<NeedFoodHopper>Нужен загрузчик еды</NeedFoodHopper>
+	<NeedFoodHopperDesc>У вашего раздатчика питания нет загрузчика для еды.\n\nДля работы раздатчик пасты должен снабжаться из расположенного рядом загрузчика, наполненного сырыми продуктами.\n\nПостройте загрузкик рядом с раздатчиком.</NeedFoodHopperDesc>
 
 	<NeedMealSource>Нужна готовая еда</NeedMealSource>
-	<NeedMealSourceDesc>У вас негде готовить еду.\n\nПостройте дозатор пасты или кухонную плиту.\n\n(Они не должны находиться в камере для заключённых, иначе поселенцы не смогут их использовать).</NeedMealSourceDesc>
+	<NeedMealSourceDesc>У вас негде приготовить еду из сырых продуктов.\n\nПостройте кухоную плиту, костёр, либо раздатчик питания.\n\n(Не в камере для заключённых, иначе поселенцы не смогут этим пользоваться).</NeedMealSourceDesc>
 
-	<NeedJoySource>Нужно место для развлечений</NeedJoySource>
-	<NeedJoySourceDesc>Вашим поселенцам нужно как-то развлекаться, но вы не построили для этого никаких приспособлений.\n\nСоздайте площадку для метания подков, шахматный столик или что-нибудь ещё.</NeedJoySourceDesc>
+	<NeedJoySource>Нужен источник развлечения</NeedJoySource>
+	<NeedJoySourceDesc>Вашим поселенцам хочется и развлекаться, но для этого ничего не создано.\n\nПомогите им, создав площадку для метания подков, шахматный столик, либо что-нибудь ещё.</NeedJoySourceDesc>
 
 	<NeedBatteries>Нужны аккумуляторы</NeedBatteries>
-	<NeedBatteriesDesc>У вас есть солнечные панели или ветровые генераторы, но нет аккумуляторов. Это значит, что ваше поселение будет оставаться без энергии каждый раз, как зайдёт солнце или стихнет ветер.\n\nПостройте один или несколько аккумуляторов, чтобы иметь запас энергии.</NeedBatteriesDesc>
+	<NeedBatteriesDesc>У вас есть солнечные панели или ветрогенераторы, но нет аккумуляторов. Что подразумевает, что всякий раз, когда зайдёт солнце или стихнет ветер, вы останетесь без электричества.\n\nПостройте один-два аккумулятора, чтобы обеспечить постоянную подачу электроэнергии.</NeedBatteriesDesc>
 
-	<BrawlerHasRangedWeapon>Драчун носит оружие дальнего боя</BrawlerHasRangedWeapon>
-	<BrawlerHasRangedWeaponDesc>Один из ваших поселенцев предпочитает сражаться врукопашную, но он вооружён оружием дальнего боя. Это раздражает его.</BrawlerHasRangedWeaponDesc>
+	<BrawlerHasRangedWeapon>У драчуна стрелковое оружие</BrawlerHasRangedWeapon>
+	<BrawlerHasRangedWeaponDesc>Черта одного из ваших поселенцев — драчун, но он вооружён стрелковым оружием. И это крайне его раздражает.</BrawlerHasRangedWeaponDesc>
 
-	<ShieldUserHasRangedWeapon>Человек со щитом носит оружие дальнего боя</ShieldUserHasRangedWeapon>
-	<ShieldUserHasRangedWeaponDesc>Один из ваших поселенцев имеет личный щит и вооружён оружием дальнего боя. Он не сможет стрелять из него через щит (кроме целей, стоящих вплотную).</ShieldUserHasRangedWeaponDesc>
+	<ShieldUserHasRangedWeapon>У несущего щит стрелковое оружие</ShieldUserHasRangedWeapon>
+	<ShieldUserHasRangedWeaponDesc>Один из поселенцев имеет пояс-щит и вооружён стрелковым оружием. Он не сможет стрелять из него через щит (кроме как по целям, стоящим вплотную).</ShieldUserHasRangedWeaponDesc>
 
 	<NeedResearchProject>Не назначено исследование</NeedResearchProject>
 	<NeedResearchProjectDesc>У вас есть оборудование для исследований, но не выбран проект.\n\nОткройте вкладку «Технологии» и назначьте проект.</NeedResearchProjectDesc>
 
 	<ColonistsIdle>Поселенцев бездельничает: {0}</ColonistsIdle>
-	<ColonistsIdleDesc>Эти поселенцы блуждают без дела:\n\n{0}\nВозможно, следует назначить им продуктивное занятие.</ColonistsIdleDesc>
+	<ColonistsIdleDesc>Эти поселенцы скитаются без дела:\n\n{0}\nВозможно, стоит найти им продуктивное занятие.</ColonistsIdleDesc>
 
 	<ColonistNeedsTreatment>Нужно лечение</ColonistNeedsTreatment>
-	<ColonistNeedsTreatmentDesc>Эти поселенцы нуждаются в медицинской помощи. Без неё они могут умереть от ран или же слишком долго от них оправляться.\n\n{0}\nВылечите поселенцев, отправив их в медицинские кровати.\n\n(Сначала сделайте какую-нибудь кровать медицинской, выбрав её и переключив в медицинский режим. Затем, выберите раненых поселенцев и щёлкните правой кнопкой мыши на медицинской кровати, чтобы сделать их пациентами.)</ColonistNeedsTreatmentDesc>
+	<ColonistNeedsTreatmentDesc>Эти поселенцы нуждаются в медицинской помощи. Без неё они могут умереть от ран, либо ранения их могут и не зажить.\n\n{0}\nВылечите поселенцев, отправив их в медицинские кровати.\n\n(Сперва назначте медицинскую кровать, выбрав какую-нибудь кровать и переключив её медицинскую. Затем, выберите раненых поселенцев и, щёлкнув правой кнопкой мыши на медицинскую кровать, переведите их в пациенты.)</ColonistNeedsTreatmentDesc>
 
-	<AlertHypothermia>Гипотермия</AlertHypothermia>
-	<AlertHypothermiaDesc>Эти поселенцы страдают от гипотермии:\n\n{0}\nУбедитесь, что они одеты по погоде, а ваши помещения обогреваются должным образом.</AlertHypothermiaDesc>
+	<AlertHypothermia>Переохлаждение</AlertHypothermia>
+	<AlertHypothermiaDesc>Эти поселенцы страдают от переохлаждения:\n\n{0}\nУбедитесь, что они одеты по погоде, а внутренние помещения обогреваются должным образом.</AlertHypothermiaDesc>
 
-	<PatientsAwaitingMedicalOperation>В очереди на мед. операцию: {0} человек.</PatientsAwaitingMedicalOperation>
-	<PatientsAwaitingMedicalOperationDesc>Эти поселенцы ожидают медицинских операций:\n\n{0}\nУбедитесь, что у вас есть все необходимые медицинские инструменты и свободный врач.</PatientsAwaitingMedicalOperationDesc>
+	<PatientsAwaitingMedicalOperation>Пациенты ({0}) ожидают операцию</PatientsAwaitingMedicalOperation>
+	<PatientsAwaitingMedicalOperationDesc>Эти пациенты ожидают медицинскую операцию:\n\n{0}\nУбедитесь, что у вас есть все необходимые медицинские принадлежности и имеется свободный врач.</PatientsAwaitingMedicalOperationDesc>
 
 	<FireInHomeArea>Пожар!</FireInHomeArea>
-	<FireInHomeAreaDesc>Пожар в домашней области.</FireInHomeAreaDesc>
+	<FireInHomeAreaDesc>Огонь в домашней области.</FireInHomeAreaDesc>
 
-	<PawnsWithLifeThreateningDisease>Смертельные болезни</PawnsWithLifeThreateningDisease>
-	<PawnsWithLifeThreateningDiseaseDesc>Люди, подверженные смертельному риску из-за тяжёлых болезней:\n\n{0}\nУбедитесь, что они получают самый лучший врачебный уход.</PawnsWithLifeThreateningDiseaseDesc>
-	<PawnsWithLifeThreateningDiseaseAmputationDesc>Люди, подверженные смертельному риску из-за серьёзных болезней:\n\n{0}\nЕсли у них инфицированы конечности, подумайте об их ампутации или замене, чтобы поселенцы выжили.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+	<PawnsWithLifeThreateningDisease>Серьёзное заболевание</PawnsWithLifeThreateningDisease>
+	<PawnsWithLifeThreateningDiseaseDesc>Люди, рискующие умереть из-за тяжёлой болезни:\n\n{0}\nУбедитесь, что они получают лучшее лечение, какое только возможно.</PawnsWithLifeThreateningDiseaseDesc>
+	<PawnsWithLifeThreateningDiseaseAmputationDesc>Люди, рискующие умереть из-за тяжёлой болезни:\n\n{0}\nПо возможности, подумайте об их ампутации или замене инфицированной конечности, чтобы сохранить поселенцам жизнь.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
-	<BilliardsNeedsSpace>Для бильярдного стола нужно больше места</BilliardsNeedsSpace>
-	<BilliardsNeedsSpaceDesc>Один из бильярдных столов невозможно использовать.\n\nПространство вокруг стола должно быть свободно.</BilliardsNeedsSpaceDesc>
+	<BilliardsNeedsSpace>Бильярдному столу нужно пространство</BilliardsNeedsSpace>
+	<BilliardsNeedsSpaceDesc>Рядом с один из бильярдных столов есть препятствие, мешающее поселенцам его использовать.\n\nПространство вокруг стола должно быть свободно со всех сторон.</BilliardsNeedsSpaceDesc>
 
-	<HunterHasShieldAndRangedWeapon>Охотник носит щит и оружие</HunterHasShieldAndRangedWeapon>
-	<HunterHasShieldAndRangedWeaponDesc>Один из ваших охотников носит персональный щит вместе с оружием дальнего боя.\n\nОн не сможет охотиться до тех пор, пока не снимет щит или не возьмёт оружие ближнего боя.</HunterHasShieldAndRangedWeaponDesc>
+	<HunterHasShieldAndRangedWeapon>У охотника щит и стрелковое оружие</HunterHasShieldAndRangedWeapon>
+	<HunterHasShieldAndRangedWeaponDesc>У одиного из ваших охотников стрелковое оружие и надет пояс-щит, мещающий стрелять по дальним целям.\n\nОн будет не в состоянии охотиться, пока не снимет щит.</HunterHasShieldAndRangedWeaponDesc>
 
 	<NeedWarmClothes>Нужна тёплая одежда</NeedWarmClothes>
-	<NeedWarmClothesDesc1>Как минимум у {0} из ваших поселенцев не будет тёплой одежды к наступлению холодов.</NeedWarmClothesDesc1>
-	<NeedWarmClothesDesc1All>Ни у одного из ваших поселенцев не будет тёплой одежды к наступлению холодов.</NeedWarmClothesDesc1All>
-	<NeedWarmClothesDesc2>Температура за окном опустится до {0}.\n\nВы можете сшить тёплую одежду за столом портного или на швейной машинке, либо купить её у торговцев.</NeedWarmClothesDesc2>
+	<NeedWarmClothesDesc1>Как минимум у {0} из поселенцев не будет тёплой одежды с наступлением холодов.</NeedWarmClothesDesc1>
+	<NeedWarmClothesDesc1All>У всех поселенцев не будет тёплой одежды с наступлением холодов.</NeedWarmClothesDesc1All>
+	<NeedWarmClothesDesc2>Температура снаружи достигнет {0}.\n\nТёплую одежду можно сшить за пошивочным столом, либо приобрести у торговцев.</NeedWarmClothesDesc2>
 
-	<ImmobileCaravan>Неподвижный караван</ImmobileCaravan>
-	<ImmobileCaravanDesc>Один из ваших караванов не может передвигаться, так как несёт слишком много груза.\n\nЧтобы караван мог продолжить движение, придётся избавиться от некоторых вещей (вкладка «Груз»).</ImmobileCaravanDesc>
+	<ImmobileCaravan>Обездвиженный караван</ImmobileCaravan>
+	<ImmobileCaravanDesc>Один из караванов не может передвигаться, так как несёт слишком много груза.\n\nЧтобы караван мог продолжить движение, выбросите какие-нибудь вещи (вкладка «Груз»).</ImmobileCaravanDesc>
 
 </LanguageData>
