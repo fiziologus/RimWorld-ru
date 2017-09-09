@@ -1439,123 +1439,132 @@ HECAP оборонял суда корпорации от пиратов и пр
 	<!-- Vaska "Vas" Neemor -->
 
 	<HiveWorldChild62>
-		<title>Hive world child</title>
-		<titleShort>Hiver</titleShort>
-		<desc>NAME had an isolated upbringing in an urbworld hive city. His hatred of heights kept him indoors often, and made him an introverted child.
+		<title>Детство в муравейнике</title>
+		<titleShort>Муравей</titleShort>
+		<desc>NAME воспитывался, почти не общаясь с окружающими, в людском муравейнике, городе мира-мегаполиса. Ненависть к высоткам почти всегда удерживала HIS дома, превратив в ребёнка-интроверта.
 
-When HE did go out onto the catwalks of the city, HE enjoyed playing war games, becoming proficient with various simulation weapons.</desc>
+На узкие городские улочки NAME вышел, чтобы насладиться игрой в военные игры, стов умелым в обращении с разнообразным виртуальным оружием.</desc>
 	</HiveWorldChild62>
+	<!-- TODO: Hiver -->
 
 	<Microbiologist37>
-		<title>Microbiologist</title>
-		<titleShort>Biologist</titleShort>
-		<desc>A plague struck NAME's native urbworld. NAME and other researchers revealed that the illness was a bioweapon, but the people turned on them, blaming them for the sickness.
+		<title>Микробиолог</title>
+		<titleShort>Биолог</titleShort>
+		<desc>Чума поразила городской мир, где родился NAME. HECAP и остальные исследователи разузнали, что мор был вызван биооружием, но люди ополчились на них и обвинили в причине болезни.
 
-NAME barely escaped his homeworld as it fell into chaos.</desc>
+NAME едва успел покинуть родной мир, когда тот погрузился в хаос.</desc>
 	</Microbiologist37>
 	<!-- Jonathan "Jono" Rigby -->
 
 	<StarforceCadet91>
-		<title>Starforce cadet</title>
-		<titleShort>Cadet</titleShort>
-		<desc>Raised on Amen-Ti, glitterworld capital of the Star Empire, Sam Wissa had an easy childhood.
+		<title>Кадет Звёздных Сил</title>
+		<titleShort>Кадет</titleShort>
+		<desc>Детство выросшего на Амен-Ти, сверкающем мире и столице Звёздной Империи, NAME было беззаботным.
 
-As a youth, Sam decided that joining the Starforce would be his way of giving back to the Empire.</desc>
+Ещё ребёнком HE твёрдо решил, что служба в Звёздных Силах будет HIS способом вернуть долг Империи.</desc>
 	</StarforceCadet91>
 
 	<AceFighterPilot70>
-		<title>Ace fighter pilot</title>
-		<titleShort>Ace</titleShort>
-		<desc>NAME graduated from the Star Academy with honors and distinguished himself as an ace fighter pilot in three campaigns against more advanced aggressor cultures.
+		<title>Пилот-ас истребителя</title>
+		<titleShort>Ас</titleShort>
+		<desc>NAME с почестями окончил Звёздную Академия и отличился, как выдающийся пилот истребителя, в трёх кампаниях против более развитых культур-агрессоров.
 
-However, after one vicious battle, he found himself stranded and his carrier ship destroyed. With nowhere to go, he entered his escape pod and prayed.</desc>
+И всё же, после одной ожесточённое битвы HE оказался в затруднительном положении, а HIS корабль-носитель был уничтожен. Не зная, что делать дальше, NAME забрался в спасательную капсулу и начал молиться.</desc>
 	</AceFighterPilot70>
+	<!-- Sam "Nerhesi" Wissa -->
 
 	<Stableboy75>
-		<title>Stableboy</title>
-		<titleShort>Stableboy</titleShort>
-		<desc>NAME was a stableboy on a medieval planet, mucking dung almost every day to earn his keep.
+		<title>Конюх</title>
+		<titleShort>Конюх</titleShort>
+		<desc>NAME был конюхом на средневековой планете, изо дня в день убиравший навоз, чтобы заработать на жизнь.
 
-By the time HE was exiting childhood, NAME had saved up enough money to pay a space trader to take HIM offworld.</desc>
+Под конец своего детства HE скопил достаточно средств, чтобы заплатить космическому торговцу за место на корабле.</desc>
 	</Stableboy75>
 
 	<Brigand23>
-		<title>Brigand</title>
-		<titleShort>Brigand</titleShort>
-		<desc>NAME flew with a band of brigands HE called friends. HECAP even had a ship of HIS own - The Dung Mucker 2000.</desc>
+		<title>Разбойник</title>
+		<titleShort>Разбойник</titleShort>
+		<desc>NAME летал с группой разбойников, что называл друзьями. И даже заимел собственный корабль, «Дерьмогрёб 2000».</desc>
 	</Brigand23>
+	<!-- Viktor "Viktor" Valentine -->
 
 	<ArtfulDodger87>
-		<title>Artful dodger</title>
-		<titleShort>Dodger</titleShort>
-		<desc>Robin grew up on one of the urbworlds and had to fend for himself all his life. He never trusted anyone, relying on his persuasiveness and cunning to survive.
+		<title>Ушлый ловкац</title>
+		<titleShort>Ловкач</titleShort>
+		<desc>NAME вырос в одном из миров-мегаполисов и всю жизнь сам себя обеспечивал. Никому не веря, полагаясь, чтобы выжить, на собственные хитрость и умение убеждать.
 
-He soon became skilled with firearms and knives as well as words.</desc>
+Вскоре с ножом и пистолетом HE стал обращаться столь же умело, как и со словами.</desc>
 	</ArtfulDodger87>
 
 	<Assassin16>
-		<title>Assassin</title>
-		<titleShort>Assassin</titleShort>
-		<desc>Robin was specially trained as an operative to be used for high-risk assassinations. His skill with a rifle was unrivalled.
+		<title>Ассасин</title>
+		<titleShort>Ассасин</titleShort>
+		<desc>NAME прошёл особую тренировку, как оперативный сотрудник для работы в высоко рискованных операциях по устранению. HISCAP умение обращаться с винтовкой не имело себе равных.
 
-He was eventually betrayed by his superiors when a target found out about the hit and offered to fund their future projects. Robin swore to never trust anyone again.</desc>
+В конце концов NAME был предан собственным руководством, когда цель узнала, что на неё охотятся, и предложила профинансировать будущие проекты. HECAP поклялся более никому не верить.</desc>
 	</Assassin16>
+	<!-- Robin "Huntsman" Batchelor -->
 
 	<Pickpocket6>
-		<title>Pickpocket</title>
-		<titleShort>Pickpocket</titleShort>
-		<desc>Orphaned and abandoned on the tumultuous streets of his polluted, teeming homeworld, NAME survived by deft hand and fleet foot. A natural born thief and trickster, HE rose to prominence early, running the notorious and violent urchin gang 'Doomben Rats'.</desc>
+		<title>Карманник</title>
+		<titleShort>Карманник</titleShort>
+		<desc>Осиротевший и забытый на шумных улицах своего полного грязи и людей родного мира NAME выживал благодаря ловким рукам и быстрым ногам. Вор и плут от рождения HE быстро выбился на самый верх, сколотив жестокую и пользующуюся недоброй славой банду шпаны «Думбенские Крысы».</desc>
 	</Pickpocket6>
+	<!-- Doomben == https://www.racenet.com.au/tracks/qld/doomben/ -->
 
 	<BusinessGangster83>
-		<title>Business gangster</title>
-		<titleShort>Gangster</titleShort>
-		<desc>Staying one step ahead of the law, NAME became a legitimate businessman and silenced anyone who dared say otherwise. As proprietor of brothels, speakeasies and eateries, NAME's good fortune continued while his competition suffered a series of unfortunate and unexplained accidents.</desc>
+		<title>Гангстер-бизнесмен</title>
+		<titleShort>Гангстер</titleShort>
+		<desc>Всегда на шаг впереди закона NAME стал законопослушным бизнесменом и заставлял замолчать любого, кто смел сказать иначе. Фортуна улыбалась HIM, владельцу публичных домов, забегаловок и алкогольного бизнеса, в то время как конкуренты страдали от цепи непонятных и несчастливых происшествий.</desc>
 	</BusinessGangster83>
--->
-	<DisasterSurvivor58>
-		<title>Выживший в резне</title>
-		<titleShort>Выживший</titleShort>
-		<desc>Семейную ферму, на которой жил(а) NAME, атаковали мародёры, круша всё на своём пути и убивая фермеров точно так же, как и их скот.
+	<!-- Jimmy Lander, Pirate King -->
 
-Все, кого NAME знал(а), умерли, а HIS бросили среди развалин на произвол судьбы.</desc>
+	<DisasterSurvivor58>
+		<title>Переживший бедствие</title>
+		<titleShort>Выживший</titleShort>
+		<desc>NAME лишился корней, когда мародёры напали на ферму HIS семьи, круша технику и вырезая одиноково как скот, так и людей.
+
+После смерти всех, кого HE знал, NAME бросили среди развалин на произвол судьбы.</desc>
 	</DisasterSurvivor58>
 
 	<ParamilitaryAgent3>
-		<title>Специальный агент</title>
+		<title>Спецагент</title>
 		<titleShort>Агент</titleShort>
-		<desc>NAME едва сводил(а) концы с концами, занимаясь разными тёмными делишками, но затем HIS завербовали представители крупной военизированной группы, которая участвовала в войне в родном HIM мире. В HIS обязанности входили внедрение и сбор информации.</desc>
+		<desc>Поскребя на жизнь с разного рода сомнительными делами, NAME вступил в ряды крупной военизированной группы, чтобы сражаться в войне в своём родном мире. HIS занятиями были внедрение и сбор информации.</desc>
 	</ParamilitaryAgent3>
+	<!-- Steven "Steven" Wilcox -->
 
 	<HistoryStudent52>
 		<title>Студент-историк</title>
 		<titleShort>Студент</titleShort>
-		<desc>Ещё ребёнком NAME запоминал(а) множество художественных образов, в том числе в музыке и романах. Когда HE подрос(ла), то начал(а) изучать легенды HIS родного мира и, в частности, легенды о похожих на ящериц существах, на которых был основан весь местный фольклор.</desc>
+		<desc>Ребёнком NAME проводил время, обучаясь многим формам искусств, в том числе музыке и написанию новелл. Став постарше HE начал изучать легенды своего родного мира, легенды о похожих на ящеров существ, что были в центре сказаний HIS родной культуры.</desc>
 	</HistoryStudent52>
 
 	<Storyteller68>
-		<title>Рассказчик историй</title>
-		<titleShort>Фольклорист</titleShort>
-		<desc>NAME путешествовал(а) по своему миру, рассказывая об изученных легендах.
+		<title>Сказочник</title>
+		<titleShort>Сказитель</titleShort>
+		<desc>NAME путешествовал по родному миру, излагая изученные легенды.
 
-HECAP был(а) одержим(а) древними сказаниями своего народа и искал(а) того, кто поможет HIM отрастить чешую на коже, как у древних.</desc>
+Одержимый преданиями своего народа HE искал того, кто поможет отрастить чешую на HIS коже, чтобы NAME мог стать таким же, как древние.</desc>
 	</Storyteller68>
+	<!-- Ryusho "Ryu" Yosei == http://www.furaffinity.net/user/ryusho/ -->
 
 	<NobleWard25>
 		<title>Подкидыш</title>
 		<titleShort>Подкидыш</titleShort>
-		<desc>NAME был(а) воспитан(а) высокопоставленной семьёй, у двери которой HIS оставила мать.
+		<desc>NAME была удочерена видной дворянской семьёй, когда родная мать оставила HIS на пороге их дома.
 
-HECAP быстро выучил(а) секреты, передававшиеся людьми благородными словно дешёвые вина: о далёких мирах, языках, культурах и технологиях старых и новых.</desc>
+HECAP быстро изучила секреты, ходившие среди благородного сословия словно дешёвые вина: о других мирах, языках, культурах и технологиях как старых, так и новых.</desc>
 	</NobleWard25>
 
 	<InformationBroker88>
-		<title>Брокер</title>
+		<title>Информационный брокер</title>
 		<titleShort>Брокер</titleShort>
-		<desc>NAME нанял(а) корабль, следовавший к другой звёздной системе, и начал(а) полную путешествий жизнь. HECAP быстро собрал(а) обширную коллекцию знаний от людей всех народов и должностей.
+		<desc>NAME запрыгнула на судно до соседней звёздной системы и вступила в жизнь из путешествий и познания, быстро собрав обширную коллекцию знаний от людей всех форм и размеров.
 
-HECAP научился(ась) продавать эти знания задорого и стал(а) влиятельным информационным посредником.</desc>
+HECAP научилась с прибылью продавать эти знания и стала всесильным информационным посредником.</desc>
 	</InformationBroker88>
+	<!-- Pyrrha Trovatelli -->
 
 	<FeralChild63>
 		<title>Одичавший ребёнок</title>
@@ -1572,6 +1581,7 @@ HECAP научился(ась) продавать эти знания задор
 
 HECAP быстро отточил(а) свои умения, и HIS можно считать абсолютно дееспособным взрослым, если не замечать HIS неумение обращаться с огнём.</desc>
 	</VersatileWorker37>
+	<!-- Felix Mellor -->
 
 	<SpoiledChild32>
 		<title>Испорченный ребёнок</title>
