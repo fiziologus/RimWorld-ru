@@ -1,40 +1,40 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<Orders.label>приказы</Orders.label>
-	<Orders.description>Назначить действия с определёнными объектами.</Orders.description>
+	<Orders.description>Обозначить определённые взаимодействия с определёнными вещами.</Orders.description>
 
-	<Zone.label>области</Zone.label>
-	<Zone.description>Обозначить зоны для определённых видов работ.</Zone.description>
+	<Zone.label>зоны/области</Zone.label>
+	<Zone.description>Обозначить зоны и области, где поселенцы будут совершать какие-то действия.</Zone.description>
 
 	<Structure.label>постройка</Structure.label>
-	<Structure.description>Строительство стен и установка дверей.</Structure.description>
+	<Structure.description>Строительные конструкции, наподобии стен и дверей.</Structure.description>
 
 	<Production.label>производство</Production.label>
-	<Production.description>Рабочие столы, станки и другое оборудование для производства.</Production.description>
+	<Production.description>Конструкции, используемые для производства вещей.</Production.description>
 
-	<Furniture.label>мебель</Furniture.label>
-	<Furniture.description>Предметы обстановки жилых и общественных помещений.</Furniture.description>
+	<Furniture.label>обстановка</Furniture.label>
+	<Furniture.description>Небольшие конструкции</Furniture.description>
 
 	<Power.label>энергия</Power.label>
 	<Power.description>Производство, передача и управление электроэнергией.</Power.description>
 
-	<Security.label>защита</Security.label>
-	<Security.description>Защитные и боевые конструкции.</Security.description>
+	<Security.label>безопасность</Security.label>
+	<Security.description>Охранные и ориентированные на боевое применение конструкции.</Security.description>
 
 	<Misc.label>разное</Misc.label>
 	<Misc.description>Структуры различного назначения.</Misc.description>
 
-	<Floors.label>покрытие</Floors.label>
-	<Floors.description>Полы.</Floors.description>
+	<Floors.label>полы</Floors.label>
+	<Floors.description>Напольное покрытие.</Floors.description>
 
 	<Joy.label>развлечения</Joy.label>
-	<Joy.description>Занимательные или приятные вещи для развлечения поселенцев.</Joy.description>
+	<Joy.description>Занимательные или доставляющие удовольствие вещи для развлечения поселенцев.</Joy.description>
 
 	<Ship.label>корабль</Ship.label>
-	<Ship.description>Компоненты вашего спасательного корабля.</Ship.description>
+	<Ship.description>Компоненты для спасательного корабля.</Ship.description>
 
 	<Temperature.label>температура</Temperature.label>
-	<Temperature.description>Устройства для управления температурой.</Temperature.description>
+	<Temperature.description>Средства для управления температурой.</Temperature.description>
 
 </LanguageData>
