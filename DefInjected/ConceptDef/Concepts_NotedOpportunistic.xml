@@ -19,8 +19,8 @@
 	<Drafting.label>Подготовка к бою</Drafting.label>
 	<Drafting.helpText>Для прямого управления поселенцами в битве выберите их и нажмите кнопку «К бою».\n\nВ таком состоянии поселенец будет делать лишь то, что вы скажете и сможет выполнять только боевые действия. Поселенцы с оружием, когда это возможно, воспользуются им.\n\nНе оставляйте поселенецев в таком состоянии навечно: они начнут голодать и станут несчастными.</Drafting.helpText>
 
-	<BuildOrbitalTradeBeacon.label>Создание орбитального торгового маяка</BuildOrbitalTradeBeacon.label>
-	<BuildOrbitalTradeBeacon.helpText>Для отправки серебра и товаров орбитальным торговцам вам нужно построить ОРБИТАЛЬНЫЙ ТОРГОВЫЙ МАЯК и разместить рядом с ним склад с товарами.</BuildOrbitalTradeBeacon.helpText>
+	<BuildOrbitalTradeBeacon.label>Создание маяка орбитальной торговли</BuildOrbitalTradeBeacon.label>
+	<BuildOrbitalTradeBeacon.helpText>Для отправки серебра и товаров орбитальным торговцам вам нужно построить МАЯК ОРБИТАЛЬНОЙ ТОРГОВЛИ и разместить рядом с ним склад с товарами.</BuildOrbitalTradeBeacon.helpText>
 
 	<AnimalsDontAttackDoors.label>Животные не атакуют двери</AnimalsDontAttackDoors.label>
 	<AnimalsDontAttackDoors.helpText>Охотящиеся на людей животные обычно не атакуют двери или отключенные турели.\n\nВы можете скрыться от них, спрятавшись внутри здания или зайдя за стену. Однако они будут ждать, когда поселенцы снова выйдут наружу.</AnimalsDontAttackDoors.helpText>

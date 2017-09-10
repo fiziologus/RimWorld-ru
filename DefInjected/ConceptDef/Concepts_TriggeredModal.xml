@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<TradeGoodsMustBeNearBeacon.label>Обмен товарами и торговые маяки</TradeGoodsMustBeNearBeacon.label>
-	<TradeGoodsMustBeNearBeacon.helpText>Чтобы отправлять товары или серебро орбитальным торговцам, постройте торговый маяк и разместите рядом с ним склад с товарами.</TradeGoodsMustBeNearBeacon.helpText>
+	<TradeGoodsMustBeNearBeacon.helpText>Для отправки товаров или серебра орбитальным торговцам нужно построить МАЯК ОРБИТАЛЬНОЙ ТОРГОВЛИ и разместите рядом с ним склад с товарами.</TradeGoodsMustBeNearBeacon.helpText>
 
-	<ArrestingCreatesEnemies.label>Арест ухудшает отношения с фракциями</ArrestingCreatesEnemies.label>
-	<ArrestingCreatesEnemies.helpText>Внимание: Человек, которого вы попытаетесь арестовать, может начать сопротивляться.\n\nЕсли вы арестуете представителя другой фракции, вся эта фракция станет вашим врагом.</ArrestingCreatesEnemies.helpText>
+	<ArrestingCreatesEnemies.label>Арест ухудшает отношения с группами</ArrestingCreatesEnemies.label>
+	<ArrestingCreatesEnemies.helpText>Внимание: Человек, которого вы попытаетесь арестовать, может начать сопротивляться.\n\nЕсли вы арестуете не собственного поселенца, вся группа, к которой принадлежит этот человек, станет враждебна к вам.</ArrestingCreatesEnemies.helpText>
 
-	<SwitchFlickingDesignation.label>Приказ о переключении</SwitchFlickingDesignation.label>
-	<SwitchFlickingDesignation.helpText>Примечание: Это действие — лишь приказ поселенцам.\n\nНичего не произойдет, пока поселенец, назначенный оператором, не подойдёт и не переключит выключатель вручную.</SwitchFlickingDesignation.helpText>
+	<SwitchFlickingDesignation.label>Сказать переключить — это только указание</SwitchFlickingDesignation.label>
+	<SwitchFlickingDesignation.helpText>Обратите внимание: Это лишь указывает, что поселенец должен переключить.\n\nНичего не произойдет, пока поселенец с типом работы Оператор, не подойдёт и не переключит всё вручную.</SwitchFlickingDesignation.helpText>
 
-	<MaxNumberOfPlayerHomes.label>Максимальное число поселений</MaxNumberOfPlayerHomes.label>
-	<MaxNumberOfPlayerHomes.helpText>Внимание: RimWorld рассчитан на то, чтобы игрок управлял только одним поселением. Число поселений можно увеличить, но это может привести к потере быстродействия и проблемам с игровым балансом. Рекомендуется играть за одно поселение, хотя бы в первый раз.</MaxNumberOfPlayerHomes.helpText>
+	<MaxNumberOfPlayerHomes.label>Максимальное число поселений у игрока</MaxNumberOfPlayerHomes.label>
+	<MaxNumberOfPlayerHomes.helpText>Внимание: RimWorld задумывался, чтобы игрок управлял только одним поселением. Хотя и возможно иметь больше поселений, но это вероятней всего приведёт к снижению производительности и нарушению игрового баланса. Мы рекомендуем (по крайней мере в начале) играть в игру с только одним поселением.</MaxNumberOfPlayerHomes.helpText>
 
 </LanguageData>
