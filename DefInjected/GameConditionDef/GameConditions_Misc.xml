@@ -1,41 +1,41 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<SolarFlare.label>вспышка звезды</SolarFlare.label>
-	<SolarFlare.description>Вспышка звезды достигла планеты. Из-за сильных электромагнитных колебаний отключилось большинство электрических устройств.</SolarFlare.description>
-	<SolarFlare.endMessage>Вспышка звезды прошла.</SolarFlare.endMessage>
+	<SolarFlare.label>вспышка на солнце</SolarFlare.label>
+	<SolarFlare.description>Солнечная вспышка достигла планеты. Это создаст сверхсильные электрический помехи и воспрепятствует работе большинства электрических устройств.</SolarFlare.description>
+	<SolarFlare.endMessage>Вспышка завершилась..</SolarFlare.endMessage>
 
 	<Eclipse.label>затмение</Eclipse.label>
-	<Eclipse.description>Затмение накрыло поверхность планеты. Будет темно, даже в дневное время.</Eclipse.description>
+	<Eclipse.description>Затмение скрыло поверхность планеты от солнца. Темно будет, даже днём.</Eclipse.description>
 	<Eclipse.endMessage>Затмение прошло.</Eclipse.endMessage>
 
 	<PsychicDrone.label>гул</PsychicDrone.label>
-	<PsychicDrone.description>Неизвестный мощный ИИ излучает волны психической энергии, от которой люди могут сойти с ума.</PsychicDrone.description>
+	<PsychicDrone.description>Где-то вдалеке могущественный ИИ излучает волны влияющей на разум силы, что ведёт людей навстречу безумию.</PsychicDrone.description>
 	<PsychicDrone.endMessage>Гул прекратился.</PsychicDrone.endMessage>
 
-	<PsychicSoothe.label>умиротворение</PsychicSoothe.label>
-	<PsychicSoothe.description>Неизвестный мощный ИИ излучает волны психической энергии, которая успокаивает людей и стабилизирует их эмоциональное состояниие.</PsychicSoothe.description>
-	<PsychicSoothe.endMessage>Умиротворение закончилось.</PsychicSoothe.endMessage>
+	<PsychicSoothe.label>умиротворённость</PsychicSoothe.label>
+	<PsychicSoothe.description>Где-то вдалеке могущественный ИИ излучает волны влияющей на разум силы, что умиротворяет людей и укрепляет их умы.</PsychicSoothe.description>
+	<PsychicSoothe.endMessage>Умиротворённость прошла.</PsychicSoothe.endMessage>
 
-	<ToxicFallout.label>токсичный дождь</ToxicFallout.label>
-	<ToxicFallout.description>Недалеко от поселения произошёл выброс химических отходов. Любое существо, не защищённое крышей, будет получать химическое отравление и ожоги.</ToxicFallout.description>
-	<ToxicFallout.endMessage>Выпадение токсичных осадков прекратилось.</ToxicFallout.endMessage>
+	<ToxicFallout.label>токсичные осадки</ToxicFallout.label>
+	<ToxicFallout.description>Пришедшее откуда-то издалека облако токсичной пыли медленно оседает над всем регионом планеты. Любое существо под окрытым небом будет полегоньку получать отравление.</ToxicFallout.description>
+	<ToxicFallout.endMessage>Наиболее едкие токсичные осадки осели.</ToxicFallout.endMessage>
 
 	<VolcanicWinter.label>вулканическая зима</VolcanicWinter.label>
-	<VolcanicWinter.description>Произошло извержение вулкана.\n\nПотоки лавы не добрались до поселения, но вулканический пепел в течение многих месяцев будет заслонять свет звезды.</VolcanicWinter.description>
-	<VolcanicWinter.endMessage>Вулканический пепел осел.</VolcanicWinter.endMessage>
+	<VolcanicWinter.description>Заполнившие атмосферу вулканические дым и пепел сильно уменьшат количество солнечного света, доходящего до поверхности планеты. Температура понизится, а растения будут медленней расти.</VolcanicWinter.description>
+	<VolcanicWinter.endMessage>Большая часть вулканического пепла осела.</VolcanicWinter.endMessage>
 
-	<HeatWave.label>жара</HeatWave.label>
-	<HeatWave.description>Сильнейшая жара иссушает окресности.</HeatWave.description>
+	<HeatWave.label>зной</HeatWave.label>
+	<HeatWave.description>Волна зноя исжаривает местность.</HeatWave.description>
 	<HeatWave.endMessage>Жара прошла.</HeatWave.endMessage>
 
-	<ColdSnap.label>резкое похолодание</ColdSnap.label>
-	<ColdSnap.description>Необычайно резкое похолодание накрывает местность.</ColdSnap.description>
+	<ColdSnap.label>холода</ColdSnap.label>
+	<ColdSnap.description>Необычайные холода вымораживают окрестности.</ColdSnap.description>
 	<ColdSnap.endMessage>Заморозки закончились.</ColdSnap.endMessage>
 
-	<Flashstorm.label>грозовой шторм</Flashstorm.label>
-	<Flashstorm.description>Крайне большое количество ударов молнии по небольшой площади.</Flashstorm.description>
-	<Flashstorm.endMessage>Грозовой шторм прошёл.</Flashstorm.endMessage>
+	<Flashstorm.label>сухая гроза</Flashstorm.label>
+	<Flashstorm.description>Запредельное количество ударов молнии по небольшой площади.</Flashstorm.description>
+	<Flashstorm.endMessage>Сухая гроза прошла.</Flashstorm.endMessage>
 
 	<ClimateCycle.label>климатический цикл</ClimateCycle.label>
 	<ClimateCycle.description>Многолетние регулярные колебания климата из-за эллиптичности орбиты.</ClimateCycle.description>
