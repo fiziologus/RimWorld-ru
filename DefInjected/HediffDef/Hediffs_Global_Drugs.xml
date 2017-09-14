@@ -3,98 +3,99 @@
 
 	<!-- Alcohol -->
 
-	<AlcoholHigh.label>алкоголь</AlcoholHigh.label>
-	<AlcoholHigh.stages.0.label>почти трезв</AlcoholHigh.stages.0.label>
+	<AlcoholHigh.label>опьянение</AlcoholHigh.label>
+	<AlcoholHigh.stages.0.label>даже не чувствуется</AlcoholHigh.stages.0.label>
 	<AlcoholHigh.stages.1.label>навеселе</AlcoholHigh.stages.1.label>
-	<AlcoholHigh.stages.2.label>подвыпивший</AlcoholHigh.stages.2.label>
+	<AlcoholHigh.stages.2.label>поддатый</AlcoholHigh.stages.2.label>
 	<AlcoholHigh.stages.3.label>пьяный</AlcoholHigh.stages.3.label>
-	<AlcoholHigh.stages.4.label>сильно пьяный</AlcoholHigh.stages.4.label>
-	<AlcoholHigh.stages.5.label>без сознания</AlcoholHigh.stages.5.label>
+	<AlcoholHigh.stages.4.label>в дупель</AlcoholHigh.stages.4.label>
+	<AlcoholHigh.stages.5.label>готов</AlcoholHigh.stages.5.label>
 
 	<Hangover.label>похмелье</Hangover.label>
 	<Hangover.stages.0.label>лёгкое</Hangover.stages.0.label>
 	<Hangover.stages.1.label>сильное</Hangover.stages.1.label>
-	<Hangover.stages.2.label>убийственное</Hangover.stages.2.label>
+	<Hangover.stages.2.label>трясучка</Hangover.stages.2.label>
 
 	<AlcoholTolerance.label>толерантность к алкоголю</AlcoholTolerance.label>
 	<AlcoholTolerance.stages.1.label>небольшая</AlcoholTolerance.stages.1.label>
 	<AlcoholTolerance.stages.2.label>средняя</AlcoholTolerance.stages.2.label>
-	<AlcoholTolerance.stages.3.label>сильная</AlcoholTolerance.stages.3.label>
+	<AlcoholTolerance.stages.3.label>огромная</AlcoholTolerance.stages.3.label>
 
 	<AlcoholAddiction.label>алкоголизм</AlcoholAddiction.label>
-	<AlcoholAddiction.stages.1.label>алкогольная ломка</AlcoholAddiction.stages.1.label>
+	<AlcoholAddiction.stages.1.label>абстиненция</AlcoholAddiction.stages.1.label>
 
 	<!-- GoJuice -->
 
-	<GoJuiceHigh.label>под действием Go-сока</GoJuiceHigh.label>
+	<GoJuiceHigh.label>под горючкой</GoJuiceHigh.label>
 
-	<GoJuiceTolerance.label>толерантность к Go-соку</GoJuiceTolerance.label>
+	<GoJuiceTolerance.label>толерантность к горючке</GoJuiceTolerance.label>
 	<GoJuiceTolerance.stages.1.label>небольшая</GoJuiceTolerance.stages.1.label>
 	<GoJuiceTolerance.stages.2.label>средняя</GoJuiceTolerance.stages.2.label>
-	<GoJuiceTolerance.stages.3.label>сильная</GoJuiceTolerance.stages.3.label>
+	<GoJuiceTolerance.stages.3.label>огромная</GoJuiceTolerance.stages.3.label>
 
-	<GoJuiceAddiction.label>зависимость от Go-сока</GoJuiceAddiction.label>
+	<GoJuiceAddiction.label>зависимость от горючки</GoJuiceAddiction.label>
 	<GoJuiceAddiction.stages.1.label>ломка</GoJuiceAddiction.stages.1.label>
 
+	<!-- Люциферий и пеноксициклин - медпрепараты -->
 	<!-- Luciferium -->
 
-	<LuciferiumHigh.label>под действием люциферия</LuciferiumHigh.label>
+	<LuciferiumHigh.label>принят люциферий</LuciferiumHigh.label>
 
 	<LuciferiumAddiction.label>необходим люциферий</LuciferiumAddiction.label>
 	<LuciferiumAddiction.stages.1.label>потребность</LuciferiumAddiction.stages.1.label>
 
 	<!-- Penoxycyline -->
 
-	<PenoxycylineHigh.label>под действием пеноксицилина</PenoxycylineHigh.label>
+	<PenoxycylineHigh.label>принят пеноксицилин</PenoxycylineHigh.label>
 
 	<!-- Psychine Flake -->
 
-	<FlakeHigh.label>под кайфом (хлопья психина)</FlakeHigh.label>
+	<FlakeHigh.label>под «чещуйками»</FlakeHigh.label>
 
 	<!-- Psychine Yayo -->
 
-	<YayoHigh.label>под кайфом (порошок психина)</YayoHigh.label>
+	<YayoHigh.label>под йаё</YayoHigh.label>
 
 	<PsychiteTolerance.label>толерантность к психину</PsychiteTolerance.label>
 	<PsychiteTolerance.stages.1.label>небольшая</PsychiteTolerance.stages.1.label>
 	<PsychiteTolerance.stages.2.label>средняя</PsychiteTolerance.stages.2.label>
-	<PsychiteTolerance.stages.3.label>сильная</PsychiteTolerance.stages.3.label>
+	<PsychiteTolerance.stages.3.label>огромная</PsychiteTolerance.stages.3.label>
 
 	<PsychiteAddiction.label>психиновая зависимость</PsychiteAddiction.label>
 	<PsychiteAddiction.stages.1.label>ломка</PsychiteAddiction.stages.1.label>
 
 	<!-- Smokeleaf -->
 
-	<SmokeleafHigh.label>под кайфом от дымолиста</SmokeleafHigh.label>
+	<SmokeleafHigh.label>под дымолистом</SmokeleafHigh.label>
 
 	<SmokeleafTolerance.label>толерантность к дымолисту</SmokeleafTolerance.label>
 	<SmokeleafTolerance.stages.1.label>небольшая</SmokeleafTolerance.stages.1.label>
 	<SmokeleafTolerance.stages.2.label>средняя</SmokeleafTolerance.stages.2.label>
-	<SmokeleafTolerance.stages.3.label>сильная</SmokeleafTolerance.stages.3.label>
+	<SmokeleafTolerance.stages.3.label>огромная</SmokeleafTolerance.stages.3.label>
 
 	<SmokeleafAddiction.label>зависимость от дымолиста</SmokeleafAddiction.label>
 	<SmokeleafAddiction.stages.1.label>ломка</SmokeleafAddiction.stages.1.label>
 
 	<!-- WakeUp -->
 
-	<WakeUpHigh.label>под действием бодрина</WakeUpHigh.label>
+	<WakeUpHigh.label>под бодрином</WakeUpHigh.label>
 
 	<WakeUpTolerance.label>толерантность к бодрину</WakeUpTolerance.label>
 	<WakeUpTolerance.stages.1.label>небольшая</WakeUpTolerance.stages.1.label>
 	<WakeUpTolerance.stages.2.label>средняя</WakeUpTolerance.stages.2.label>
-	<WakeUpTolerance.stages.3.label>сильная</WakeUpTolerance.stages.3.label>
+	<WakeUpTolerance.stages.3.label>огромная</WakeUpTolerance.stages.3.label>
 
 	<WakeUpAddiction.label>бодриновая зависимость</WakeUpAddiction.label>
 	<WakeUpAddiction.stages.1.label>ломка</WakeUpAddiction.stages.1.label>
 
 	<!-- Ambrosia -->
 
-	<AmbrosiaHigh.label>тепло амброзии</AmbrosiaHigh.label>
+	<AmbrosiaHigh.label>теплота амброзии</AmbrosiaHigh.label>
 
 	<AmbrosiaTolerance.label>толерантность к амброзии</AmbrosiaTolerance.label>
 	<AmbrosiaTolerance.stages.1.label>небольшая</AmbrosiaTolerance.stages.1.label>
 	<AmbrosiaTolerance.stages.2.label>средняя</AmbrosiaTolerance.stages.2.label>
-	<AmbrosiaTolerance.stages.3.label>сильная</AmbrosiaTolerance.stages.3.label>
+	<AmbrosiaTolerance.stages.3.label>огромная</AmbrosiaTolerance.stages.3.label>
 
 	<AmbrosiaAddiction.label>зависимость от амброзии</AmbrosiaAddiction.label>
 	<AmbrosiaAddiction.stages.1.label>ломка</AmbrosiaAddiction.stages.1.label>

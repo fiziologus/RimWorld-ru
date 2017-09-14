@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<TraumaSavant.label>посттравматическая одарённость</TraumaSavant.label>
+	<TraumaSavant.label>травматическая одарённость</TraumaSavant.label>
 
-	<ChemicalDamageBrain.label>химическое повреждение</ChemicalDamageBrain.label>
+	<ChemicalDamageModerate.label>токсическое воздействие</ChemicalDamageModerate.label>
 
-	<ChemicalDamageKidney.label>химическое повреждение</ChemicalDamageKidney.label>
+	<ChemicalDamageSevere.label>токсическое воздействие</ChemicalDamageSevere.label>
 
 	<Cirrhosis.label>цирроз</Cirrhosis.label>
 
