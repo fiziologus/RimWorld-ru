@@ -19,7 +19,7 @@
 	<Arrow.label>стрела</Arrow.label>
 	<Arrow.deathMessage>{0} застрелен.</Arrow.deathMessage>
 
-	<Scratch.label>царапина</Scratch.label>
+	<Scratch.label>разрыв</Scratch.label>
 	<Scratch.deathMessage>{0} разорван.</Scratch.deathMessage>
 
 	<Bite.label>укус</Bite.label>
