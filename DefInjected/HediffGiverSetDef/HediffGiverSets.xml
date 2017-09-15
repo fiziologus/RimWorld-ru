@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<OrganicStandard.hediffGivers.4.letterLabel>Одарённость после травмы</OrganicStandard.hediffGivers.4.letterLabel>
-	<OrganicStandard.hediffGivers.4.letter>Травма мозга NAME вызвала у HIM странную одарённость.</OrganicStandard.hediffGivers.4.letter>
+	<OrganicStandard.hediffGivers.4.letterLabel>травматическая одарённость</OrganicStandard.hediffGivers.4.letterLabel>
+	<OrganicStandard.hediffGivers.4.letter>Повреждение мозга NAME привело к развитию необычных, похожих на одарённость способностей.</OrganicStandard.hediffGivers.4.letter>
 
 </LanguageData>
