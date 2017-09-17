@@ -2,17 +2,17 @@
 <LanguageData>
 
 	<Ambush.label>засада</Ambush.label>
-	<Ambush.letterText>Ваш караван поджидали в засаде {0} из фракции {1}!</Ambush.letterText>
+	<Ambush.letterText>На ваш караван напали из засады {0} {1}!</Ambush.letterText>
 	<Ambush.letterLabel>Караван попал в засаду</Ambush.letterLabel>
 
-	<ManhunterAmbush.label>нападение животных</ManhunterAmbush.label>
-	<ManhunterAmbush.letterText>Испытывая жажду человеческой крови, на ваш караван нападает {0}. Осторожно, это животное может вести с собой целую стаю!</ManhunterAmbush.letterText>
-	<ManhunterAmbush.letterLabel>На караван напали животные</ManhunterAmbush.letterLabel>
+	<ManhunterAmbush.label>нападение животных-людоедов</ManhunterAmbush.label>
+	<ManhunterAmbush.letterText>Жаждя человеческой крови, на ваш караван напали из засады {0}!</ManhunterAmbush.letterText>
+	<ManhunterAmbush.letterLabel>Караван попал в засаду животных-людоедов</ManhunterAmbush.letterLabel>
 
-	<CaravanMeeting.label>встреча караванов</CaravanMeeting.label>
+	<CaravanMeeting.label>встречен другой караван</CaravanMeeting.label>
 
-	<CaravanDemand.label>требование платы</CaravanDemand.label>
-	<CaravanDemand.letterText>Ваш караван поджидали {0} из фракции {1}! Они требуют платы за проход.</CaravanDemand.letterText>
+	<CaravanDemand.label>требование мзды</CaravanDemand.label>
+	<CaravanDemand.letterText>На ваш караван напали из засады {0} {1}!</CaravanDemand.letterText>
 	<CaravanDemand.letterLabel>Караван попал в засаду</CaravanDemand.letterLabel>
 
 </LanguageData>

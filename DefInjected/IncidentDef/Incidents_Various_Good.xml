@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+	<!-- Incidents_Map_Special.xml -->
 
 	<!--=============== ShipChunkDrop =============-->
 
@@ -7,34 +8,38 @@
 
 	<!--=============== OrbitalVisitor =============-->
 
-	<OrbitalTraderArrival.label>орбитальный торговец</OrbitalTraderArrival.label>
+	<OrbitalTraderArrival.label>прибыл орбитальный торговец</OrbitalTraderArrival.label>
 
 	<!--================= AllyArrival ================-->
 
-	<TraderCaravanArrival.label>торговый караван</TraderCaravanArrival.label>
+	<TraderCaravanArrival.label>прибыл торговый караван</TraderCaravanArrival.label>
 
-	<VisitorGroup.label>группа посетителей</VisitorGroup.label>
+	<VisitorGroup.label>гости</VisitorGroup.label>
 
-	<TravelerGroup.label>группа путешественников</TravelerGroup.label>
+	<TravelerGroup.label>путники</TravelerGroup.label>
+
+	<!--================= AllyAssistance ================-->
+
+	<RaidFriendly.label>внезапная помощь</RaidFriendly.label>
+
+	<!-- Incidents_Map_Misc.xml -->
 
 	<!--================= Misc ================-->
 
 	<ResourcePodCrash.label>падение грузовых контейнеров</ResourcePodCrash.label>
 
-	<RaidFriendly.label>дружественный рейд</RaidFriendly.label> <!-- Шта? -->
+	<PsychicSoothe.label>умиротворение</PsychicSoothe.label>
+
+	<SelfTame.label>самоодомашнивание</SelfTame.label>
+
+	<AmbrosiaSprout.label>побеги амброзии</AmbrosiaSprout.label>
+	<AmbrosiaSprout.letterLabel>Побеги амброзии</AmbrosiaSprout.letterLabel>
+	<AmbrosiaSprout.letterText>Неподалёку появились побеги целой рощи загадочного кустарника амброзии! Если подождать, пока он вырастет, удастся собрать лакомые, доставляющие удовольствие и слегка вызывающие привыкание плоды.</AmbrosiaSprout.letterText>
+
+	<FarmAnimalsWanderIn.label>животные присоединились</FarmAnimalsWanderIn.label>
 
 	<WandererJoin.label>пополнение</WandererJoin.label>
 
 	<RefugeePodCrash.label>падение капсулы с беженцем</RefugeePodCrash.label>
-
-	<PsychicSoothe.label>успокоение</PsychicSoothe.label>
-
-	<SelfTame.label>животное одомашнилось</SelfTame.label>
-
-	<AmbrosiaSprout.label>заросли амброзии</AmbrosiaSprout.label>
-	<AmbrosiaSprout.letterLabel>Заросли амброзии</AmbrosiaSprout.letterLabel>
-	<AmbrosiaSprout.letterText>Заросли загадочного кустарника, амброзии, раскинулись неподалёку! Если вы подождёте, пока она созреет, вы сможете собрать её соблазнительные, лакомые и слегка вызывающие привыкание плоды.</AmbrosiaSprout.letterText>
-
-	<FarmAnimalsWanderIn.label>животные присоединились</FarmAnimalsWanderIn.label>
 
 </LanguageData>
