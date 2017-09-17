@@ -1,22 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<RaidEnemy.label>рейд</RaidEnemy.label>
+	<RaidEnemy.label>налёт</RaidEnemy.label>
 
-	<Infestation.label>жуки</Infestation.label>
-	<Infestation.letterLabel>Жуки!</Infestation.letterLabel>
-	<Infestation.letterText>Неподалёку от лагеря образовали свою колонию жуки!\n\nОни будут медленно плодиться там, а со временем создавать и новые ульи. Если вы не хотите, чтобы в будущем вся местность кишела жуками, вам стоит собрать свои силы и избавиться от этих паразитов. Но будьте осторожны: жуки будут защищать свой улей.</Infestation.letterText>
+	<Infestation.label>ивазия</Infestation.label>
+	<Infestation.letterLabel>Инвазия</Infestation.letterLabel>
+	<Infestation.letterText>Появилась колония жуков!\n\nВ ней потихоньку будут плодиться жуки, а также создаваться новые колонии. Если не желаете, чтобы жуками кишела вся местность, собирайте людей и уничтожте её. Но будьте осторожны: жуки будут защищать свою колонию.</Infestation.letterText>
 
-	<ManhunterPack.label>животные-людоеды</ManhunterPack.label>
+	<ManhunterPack.label>стая животных-людоедов</ManhunterPack.label>
 
 	<PsychicEmanatorShipPartCrash.label>падение части корабля (психо)</PsychicEmanatorShipPartCrash.label>
 	<PsychicEmanatorShipPartCrash.letterLabel>Психокорабль</PsychicEmanatorShipPartCrash.letterLabel>
-	<PsychicEmanatorShipPartCrash.letterText>Большой фрагмент древнего судна упал неподалёку.\n\nВаши поселенцы невольно испытывают, как что-то из глубин сознания подталкивает их совершать немыслимые вещи. Должно быть, на борту корабля находится действующий ИИ с невероятной психической силой, явно настроенный не дружественно.\n\nУничтожьте его как можно скорее.</PsychicEmanatorShipPartCrash.letterText>
+	<PsychicEmanatorShipPartCrash.letterText>Неподалёку упал крупный обломок древнего судна.\n\nВаши поселенцы, подталкиваемые к невыразимым словами действиям, подсозназнательно что-то чувствуют. Это должно быть бортовая ИИ-личность со способностью проецировать мысли прямо внутрь разума. И личность эта настроена не дружелюбно.\n\nУничтожьте её как можно скорее.</PsychicEmanatorShipPartCrash.letterText>
 
 	<PoisonShipPartCrash.label>падение части корабля (яд)</PoisonShipPartCrash.label>
-	<PoisonShipPartCrash.letterLabel>Заражённый корабль</PoisonShipPartCrash.letterLabel>
-	<PoisonShipPartCrash.letterText>Фрагмент древнего судна упал неподалёку.\n\nВытекающая из него ядовитая жидкость постепенно уничтожает все растения в растущем радиусе вокруг корабля.\n\nУничтожьте его как можно скорее.</PoisonShipPartCrash.letterText>
+	<PoisonShipPartCrash.letterLabel>Ядовитое судно</PoisonShipPartCrash.letterLabel>
+	<PoisonShipPartCrash.letterText>Неподалёку упал крупный обломок древнего судна.\n\nИз него сочатся токсины, уничтожая все растения всё дальше и дальше от обломка.\n\nУничтожьте обломок как можно скорее.</PoisonShipPartCrash.letterText>
 
-	<AnimalInsanityMass.label>массовое бешенство животных</AnimalInsanityMass.label>
+	<AnimalInsanityMass.label>массовое помешательство животных</AnimalInsanityMass.label>
 
 </LanguageData>
