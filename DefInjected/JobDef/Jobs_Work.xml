@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<!-- Item hauling -->
@@ -9,61 +9,61 @@
 	<!-- Special hauling -->
 
 	<Steal.reportString>крадёт TargetA.</Steal.reportString>
-	<Kidnap.reportString>похищает TargetA.</Kidnap.reportString>
+	<Kidnap.reportString>забирает TargetA.</Kidnap.reportString>
 	<CarryDownedPawnToExit.reportString>уносит TargetA.</CarryDownedPawnToExit.reportString>
 
 	<!-- Pawn hauling -->
 
 	<Rescue.reportString>спасает TargetA.</Rescue.reportString>
-	<CarryToCryptosleepCasket.reportString>несёт TargetA в контейнер криптосна.</CarryToCryptosleepCasket.reportString>
+	<CarryToCryptosleepCasket.reportString>переносит TargetA в контейнер криптосна.</CarryToCryptosleepCasket.reportString>
 	<Capture.reportString>захватывает TargetA.</Capture.reportString>
 	<Arrest.reportString>арестовывает TargetA.</Arrest.reportString>
-	<ReleasePrisoner.reportString>отпускает TargetA.</ReleasePrisoner.reportString>
-	<EscortPrisonerToBed.reportString>сопровождает заключённого TargetA.</EscortPrisonerToBed.reportString>
-	<TakeWoundedPrisonerToBed.reportString>относит раненого заключённого TargetA.</TakeWoundedPrisonerToBed.reportString>
-	<TakeToBedToOperate.reportString>относит TargetA на кровать.</TakeToBedToOperate.reportString>
+	<ReleasePrisoner.reportString>выпускает TargetA.</ReleasePrisoner.reportString>
+	<EscortPrisonerToBed.reportString>конвоирует TargetA.</EscortPrisonerToBed.reportString>
+	<TakeWoundedPrisonerToBed.reportString>переносит раненого заключённого TargetA.</TakeWoundedPrisonerToBed.reportString>
+	<TakeToBedToOperate.reportString>укладывает TargetA на кровать.</TakeToBedToOperate.reportString>
 
 	<!-- Animal handling -->
 
-	<Slaughter.reportString>закалывает TargetA.</Slaughter.reportString>
+	<Slaughter.reportString>режет TargetA.</Slaughter.reportString>
 	<Milk.reportString>доит TargetA.</Milk.reportString>
-	<Shear.reportString>стрижёт TargetA.</Shear.reportString>
+	<Shear.reportString>остригает TargetA.</Shear.reportString>
 	<Tame.reportString>приручает TargetA.</Tame.reportString>
-	<Train.reportString>тренирует TargetA.</Train.reportString>
+	<Train.reportString>обучает TargetA.</Train.reportString>
 
 	<!-- Construction and repair -->
 
-	<PlaceNoCostFrame.reportString>строит TargetA.</PlaceNoCostFrame.reportString>
+	<PlaceNoCostFrame.reportString>сооружает TargetA.</PlaceNoCostFrame.reportString>
 	<FinishFrame.reportString>строит TargetA.</FinishFrame.reportString>
 	<Deconstruct.reportString>разбирает TargetA.</Deconstruct.reportString>
-	<Uninstall.reportString>удаляет TargetA.</Uninstall.reportString>
-	<Repair.reportString>чинит TargetA.</Repair.reportString>
+	<Uninstall.reportString>убирает TargetA.</Uninstall.reportString>
+	<Repair.reportString>ремонтирует TargetA.</Repair.reportString>
 	<FixBrokenDownBuilding.reportString>заменяет поломанные части в TargetA.</FixBrokenDownBuilding.reportString>
 	<BuildRoof.reportString>сооружает крышу.</BuildRoof.reportString>
-	<RemoveRoof.reportString>разбирает крышу.</RemoveRoof.reportString>
+	<RemoveRoof.reportString>снимает крышу.</RemoveRoof.reportString>
 
 	<!-- Medical -->
 
-	<FeedPatient.reportString>скармливает TargetA TargetB.</FeedPatient.reportString>
+	<FeedPatient.reportString>даёт TargetA TargetB.</FeedPatient.reportString>
 	<TendPatient.reportString>лечит TargetA.</TendPatient.reportString>
 
 	<!-- Misc -->
 
 	<DeliverFood.reportString>несёт TargetA для TargetB.</DeliverFood.reportString>
 	<DoBill.reportString>делает необходимое для TargetA.</DoBill.reportString>
-	<OperateDeepDrill.reportString>выполняет бурение, используя TargetA.</OperateDeepDrill.reportString>
-	<Clean.reportString>убирает TargetA.</Clean.reportString>
+	<OperateDeepDrill.reportString>бурит, используя TargetA.</OperateDeepDrill.reportString>
+	<Clean.reportString>прибирает TargetA.</Clean.reportString>
 	<Research.reportString>исследует.</Research.reportString>
 	<Hunt.reportString>охотится на TargetA.</Hunt.reportString>
 	<UseCommsConsole.reportString>использует консоль связи.</UseCommsConsole.reportString>
 	<Mine.reportString>копает TargetA.</Mine.reportString>
-	<SmoothFloor.reportString>шлифует полы.</SmoothFloor.reportString>
+	<SmoothFloor.reportString>выравнивает пол.</SmoothFloor.reportString>
 	<RemoveFloor.reportString>снимает полы.</RemoveFloor.reportString>
 	<Sow.reportString>сажает TargetA.</Sow.reportString>
 	<Harvest.reportString>собирает TargetA.</Harvest.reportString>
 	<CutPlant.reportString>рубит TargetA.</CutPlant.reportString>
-	<PrisonerFriendlyChat.reportString>разговаривает с заключённым TargetA.</PrisonerFriendlyChat.reportString>
-	<PrisonerAttemptRecruit.reportString>пытается завербовать TargetA.</PrisonerAttemptRecruit.reportString>
+	<PrisonerFriendlyChat.reportString>болтает с заключённым TargetA.</PrisonerFriendlyChat.reportString>
+	<PrisonerAttemptRecruit.reportString>пытается переманить TargetA.</PrisonerAttemptRecruit.reportString>
 	<PrisonerExecution.reportString>казнит TargetA.</PrisonerExecution.reportString>
 	<BuryCorpse.reportString>хоронит TargetA.</BuryCorpse.reportString>
 
