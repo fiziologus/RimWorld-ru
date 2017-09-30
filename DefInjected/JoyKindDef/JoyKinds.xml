@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<Work.label>работа</Work.label>
-	<Meditative.label>задумчивость</Meditative.label>
-	<Lewd.label>непристойность</Lewd.label>
-	<Social.label>социальность</Social.label>
+	<Meditative.label>размышление</Meditative.label>
+	<Lewd.label>похоть</Lewd.label>
+	<Social.label>общение</Social.label>
 	<Chemical.label>химия</Chemical.label>
 	<Gluttonous.label>вкусность</Gluttonous.label>
 	<GamingDexterity.label>игры на ловкость</GamingDexterity.label>
-	<GamingCerebral.label>интеллектуальные игры</GamingCerebral.label>
-	<Passive.label>пассивность</Passive.label>
-	<Study.label>учёба</Study.label>
+	<GamingCerebral.label>игры на сообразительность</GamingCerebral.label>
+	<Passive.label>бездействие</Passive.label>
+	<Study.label>наблюдение</Study.label>
 
 </LanguageData>
