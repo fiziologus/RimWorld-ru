@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<MechanoidFullyFormed.label>полностью сформированный</MechanoidFullyFormed.label>
+	<MechanoidFullyFormed.label>полностью собранный</MechanoidFullyFormed.label>
 
-	<HumanlikeBaby.label>младенец</HumanlikeBaby.label>
+	<HumanlikeBaby.label>кроха</HumanlikeBaby.label>
 	<HumanlikeToddler.label>малыш</HumanlikeToddler.label>
 	<HumanlikeChild.label>ребёнок</HumanlikeChild.label>
 	<HumanlikeTeenager.label>подросток</HumanlikeTeenager.label>
@@ -12,7 +12,7 @@
 	<HumanlikeAdult.label>взрослый</HumanlikeAdult.label>
 
 	<EusocialInsectLarva.label>личинка</EusocialInsectLarva.label>
-	<EusocialInsectJuvenile.label>незрелый</EusocialInsectJuvenile.label>
+	<EusocialInsectJuvenile.label>нимфа</EusocialInsectJuvenile.label>
 	<EusocialInsectAdult.label>взрослый</EusocialInsectAdult.label>
 
 	<AnimalBabyTiny.label>новорождённый</AnimalBabyTiny.label>
