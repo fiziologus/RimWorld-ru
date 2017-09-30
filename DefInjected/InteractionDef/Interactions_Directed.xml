@@ -5,8 +5,8 @@
 	<BuildRapport.logRulesInitiator.rulesStrings.0>logentry->Попытка наладить отношения с [other_nameShortIndef].</BuildRapport.logRulesInitiator.rulesStrings.0>
 	<BuildRapport.logRulesRecipient.rulesStrings.0>logentry->Выслушивание, как [other_nameShortIndef] пытается наладить со мной отношения.</BuildRapport.logRulesRecipient.rulesStrings.0>
 
-	<RecruitAttempt.label>попытка вербовки</RecruitAttempt.label>
-	<RecruitAttempt.logRulesInitiator.rulesStrings.0>logentry->Вербовка [other_nameShortIndef].</RecruitAttempt.logRulesInitiator.rulesStrings.0>
+	<RecruitAttempt.label>попытка переманить</RecruitAttempt.label>
+	<RecruitAttempt.logRulesInitiator.rulesStrings.0>logentry->Переманивание [other_nameShortIndef].</RecruitAttempt.logRulesInitiator.rulesStrings.0>
 	<RecruitAttempt.logRulesRecipient.rulesStrings.0>logentry->Выслушивание вербовочной болтовни [other_nameShortIndef].</RecruitAttempt.logRulesRecipient.rulesStrings.0>
 
 </LanguageData>
