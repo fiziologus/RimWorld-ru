@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<!-- In-game camera -->
@@ -15,7 +15,7 @@
 	<TakeScreenshot.label>сделать снимок экрана</TakeScreenshot.label>
 	<ToggleScreenshotMode.label>переключить режим снимков экрана</ToggleScreenshotMode.label>
 	<SelectNextInCell.label>выбрать следующее в ячейке</SelectNextInCell.label>
-	<TogglePause.label>остановить/возобновить игру</TogglePause.label>
+	<TogglePause.label>приостановить/возобновить игру</TogglePause.label>
 	<TimeSpeedNormal.label>скорость игры: нормальная</TimeSpeedNormal.label>
 	<TimeSpeedFast.label>скорость игры: быстрая</TimeSpeedFast.label>
 	<TimeSpeedSuperfast.label>скорость игры: очень быстрая</TimeSpeedSuperfast.label>
@@ -43,6 +43,8 @@
 	<CommandTogglePower.label>вкл./выкл. питание</CommandTogglePower.label>
 	<CommandItemForbid.label>разрешить/запретить</CommandItemForbid.label>
 	<CommandColonistDraft.label>к бою/роспуск</CommandColonistDraft.label>
+	<ModifierIncrement10x.label>изменить на 10x</ModifierIncrement10x.label>
+	<ModifierIncrement100x.label>изменить на 100x</ModifierIncrement100x.label>
 
 	<!-- Architect: Common -->
 
@@ -53,9 +55,9 @@
 
 	<!-- Debug -->
 
-	<ToggleDebugLog.label>показать/скрыть журнал</ToggleDebugLog.label>
-	<TickOnce.label>отладка: следующий тик</TickOnce.label>
+	<TickOnce.label>следующий тик</TickOnce.label>
 	<ToggleGodMode.label>вкл/выкл режим бога</ToggleGodMode.label>
+	<ToggleDebugLog.label>показать/скрыть журнал отладки</ToggleDebugLog.label>
 	<ToggleDebugActionsMenu.label>показать/скрыть отладочные действия</ToggleDebugActionsMenu.label>
 	<ToggleDebugLogMenu.label>показать/скрыть меню журнала</ToggleDebugLogMenu.label>
 	<ToggleDebugInspector.label>показать/скрыть инспектор</ToggleDebugInspector.label>
@@ -70,9 +72,7 @@
 	<MainTab_Animals.label>показать/скрыть вкладку «Животные»</MainTab_Animals.label>
 	<MainTab_World.label>показать/скрыть вкладку «Мир»</MainTab_World.label>
 	<MainTab_History.label>показать/скрыть вкладку «История»</MainTab_History.label>
-	<MainTab_Factions.label>показать/скрыть вкладку «Фракции»</MainTab_Factions.label>
+	<MainTab_Factions.label>показать/скрыть вкладку «Группы»</MainTab_Factions.label>
 
-	<ModifierIncrement100x.label>изменить на 100x</ModifierIncrement100x.label>
-	<ModifierIncrement10x.label>изменить на 10x</ModifierIncrement10x.label>
 
 </LanguageData>
