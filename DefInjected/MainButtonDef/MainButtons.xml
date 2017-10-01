@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<Inspect.label>инспектировать</Inspect.label>
+	<Inspect.label>осмотреть</Inspect.label>
 
 	<Architect.label>проекты</Architect.label>
 	<Architect.description>Указания поселенцам по строительству, выращиванию и хранению</Architect.description>
@@ -27,8 +27,8 @@
 	<History.label>история</History.label>
 	<History.description>История поселения в числах и графиках</History.description>
 
-	<Factions.label>фракции</Factions.label>
-	<Factions.description>Известные поселению фракции и отношения между ними</Factions.description>
+	<Factions.label>группы</Factions.label>
+	<Factions.description>Известные поселению группы и отношения между ними</Factions.description>
 
 	<Menu.label>меню</Menu.label>
 	<Menu.description>Настройки, сохранение, загрузка или выход из игры</Menu.description>
