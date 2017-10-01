@@ -1,58 +1,58 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<!-- Mental breaks: extreme -->
 
-	<Berserk.label>ярость</Berserk.label>
-	<Berserk.beginLetterLabel>ярость</Berserk.beginLetterLabel>
-	<Berserk.beginLetter>{0} в ярости кидается на всех.</Berserk.beginLetter>
-	<Berserk.recoveryMessage>{0} успокоился(ась).</Berserk.recoveryMessage>
-	<Berserk.baseInspectLine>Душевное состояние: приступ ярости</Berserk.baseInspectLine>
+	<Berserk.label>неистовство</Berserk.label>
+	<Berserk.beginLetterLabel>неистовство</Berserk.beginLetterLabel>
+	<Berserk.beginLetter>{0} впадает в неистовство!</Berserk.beginLetter>
+	<Berserk.recoveryMessage>Приступ неистовства у {0} подошёл к концу.</Berserk.recoveryMessage>
+	<Berserk.baseInspectLine>Душевное состояние: Неистовство</Berserk.baseInspectLine>
 
-	<FireStartingSpree.label>приступ пиромании</FireStartingSpree.label>
-	<FireStartingSpree.beginLetterLabel>приступ пиромании</FireStartingSpree.beginLetterLabel>
-	<FireStartingSpree.beginLetter>{0} поджигает всё подряд.</FireStartingSpree.beginLetter>
-	<FireStartingSpree.recoveryMessage>{0} больше не поджигает всё подряд.</FireStartingSpree.recoveryMessage>
-	<FireStartingSpree.baseInspectLine>Душевное состояние: приступ пиромании</FireStartingSpree.baseInspectLine>
+	<FireStartingSpree.label>упоение огнём</FireStartingSpree.label>
+	<FireStartingSpree.beginLetterLabel>упоение огнём</FireStartingSpree.beginLetterLabel>
+	<FireStartingSpree.beginLetter>{0} с упоением поджигает всё вокруг.</FireStartingSpree.beginLetter>
+	<FireStartingSpree.recoveryMessage>{0} не ощущает больше безудержного веселья от поджогов.</FireStartingSpree.recoveryMessage>
+	<FireStartingSpree.baseInspectLine>Душевное состояние: Упоение огнём</FireStartingSpree.baseInspectLine>
 
-	<GiveUpExit.label>уход</GiveUpExit.label>	<!-- Note: disabled -->
-	<GiveUpExit.beginLetterLabel>уход</GiveUpExit.beginLetterLabel>
-	<GiveUpExit.beginLetter>{0} бросил(а) всё и покидает поселение.</GiveUpExit.beginLetter>
-	<GiveUpExit.recoveryMessage>{0} изменил(а) свое мнение и возвращается в поселение.</GiveUpExit.recoveryMessage>
-	<GiveUpExit.baseInspectLine>Душевное состояние: сдался и уходит</GiveUpExit.baseInspectLine>
+	<GiveUpExit.label>сдаётся и уходит</GiveUpExit.label>	<!-- Note: disabled -->
+	<GiveUpExit.beginLetterLabel>капитуляция</GiveUpExit.beginLetterLabel>
+	<GiveUpExit.beginLetter>{0} покидает поселение.</GiveUpExit.beginLetter>
+	<GiveUpExit.recoveryMessage>{0} меняется во мнении и возвращается в поселение.</GiveUpExit.recoveryMessage>
+	<GiveUpExit.baseInspectLine>Душевное состояние: Сдаётся и уходит</GiveUpExit.baseInspectLine>
 
 	<BingingDrugExtreme.label>тяга к наркотикам</BingingDrugExtreme.label>
-	<BingingDrugExtreme.baseInspectLine>Душевное состояние: тяга к {0}</BingingDrugExtreme.baseInspectLine>
+	<BingingDrugExtreme.baseInspectLine>Душевное состояние: Тяга к {0}</BingingDrugExtreme.baseInspectLine>
 
 	<!-- Mental breaks: major -->
 
-	<BingingDrugMajor.label>тяга к лёгким наркотикам</BingingDrugMajor.label>
-	<BingingDrugMajor.baseInspectLine>Душевное состояние: тяга к {0}</BingingDrugMajor.baseInspectLine>
+	<BingingDrugMajor.label>тяга к наркотикам</BingingDrugMajor.label>
+	<BingingDrugMajor.baseInspectLine>Душевное состояние: Тяга к {0}</BingingDrugMajor.baseInspectLine>
 
-	<WanderPsychotic.label>растерянность</WanderPsychotic.label>
-	<WanderPsychotic.beginLetterLabel>растерянность</WanderPsychotic.beginLetterLabel>
-	<WanderPsychotic.beginLetter>{0} сломлен(а) и растерянно бродит.</WanderPsychotic.beginLetter>
-	<WanderPsychotic.recoveryMessage>{0} больше не растерян(а).</WanderPsychotic.recoveryMessage>
-	<WanderPsychotic.baseInspectLine>Душевное состояние: растерянно бродит</WanderPsychotic.baseInspectLine>
+	<WanderPsychotic.label>бродит в растерянности</WanderPsychotic.label>
+	<WanderPsychotic.beginLetterLabel>ошеломление</WanderPsychotic.beginLetterLabel>
+	<WanderPsychotic.beginLetter>{0} слоняется в растерянности.</WanderPsychotic.beginLetter>
+	<WanderPsychotic.recoveryMessage>{0} больше не бродит в растерянности.</WanderPsychotic.recoveryMessage>
+	<WanderPsychotic.baseInspectLine>Душевное состояние: Бродит в растерянности</WanderPsychotic.baseInspectLine>
 
 	<!-- Mental breaks: minor -->
 
-	<BingingFood.label>обжорство</BingingFood.label>
+	<BingingFood.label>тяга к еде</BingingFood.label>
 	<BingingFood.beginLetterLabel>обжорство</BingingFood.beginLetterLabel>
-	<BingingFood.beginLetter>{0} объедается.</BingingFood.beginLetter>
-	<BingingFood.recoveryMessage>{0} перестал(а) объедаться.</BingingFood.recoveryMessage>
-	<BingingFood.baseInspectLine>Душевное состояние: объедается</BingingFood.baseInspectLine>
+	<BingingFood.beginLetter>{0} обжирается, как свинья.</BingingFood.beginLetter>
+	<BingingFood.recoveryMessage>{0} перестаёт обжираться.</BingingFood.recoveryMessage>
+	<BingingFood.baseInspectLine>Душевное состояние: Обжорство</BingingFood.baseInspectLine>
 
-	<WanderSad.label>уныние</WanderSad.label>
-	<WanderSad.beginLetterLabel>уныние</WanderSad.beginLetterLabel>
-	<WanderSad.beginLetter>{0} бродит в печали.</WanderSad.beginLetter>
-	<WanderSad.recoveryMessage>{0} больше не грустит.</WanderSad.recoveryMessage>
-	<WanderSad.baseInspectLine>Душевное состояние: бродит в печали</WanderSad.baseInspectLine>
+	<WanderSad.label>бродит в уныние</WanderSad.label>
+	<WanderSad.beginLetterLabel>бродит в уныние</WanderSad.beginLetterLabel>
+	<WanderSad.beginLetter>{0} слоняется в печали.</WanderSad.beginLetter>
+	<WanderSad.recoveryMessage>{0} больше не бродит в уныние.</WanderSad.recoveryMessage>
+	<WanderSad.baseInspectLine>Душевное состояние: бродит в уныние</WanderSad.baseInspectLine>
 
 	<WanderOwnRoom.label>уединение</WanderOwnRoom.label>
-	<WanderOwnRoom.beginLetterLabel>уединение</WanderOwnRoom.beginLetterLabel>
-	<WanderOwnRoom.beginLetter>{0} скрывается в своей комнате.</WanderOwnRoom.beginLetter>
-	<WanderOwnRoom.recoveryMessage>{0} больше не прячется в своей комнате.</WanderOwnRoom.recoveryMessage>
-	<WanderOwnRoom.baseInspectLine>Душевное состояние: скрывается в комнате</WanderOwnRoom.baseInspectLine>
+	<WanderOwnRoom.beginLetterLabel>прячется в комнате</WanderOwnRoom.beginLetterLabel>
+	<WanderOwnRoom.beginLetter>{0} прячется в своей комнате.</WanderOwnRoom.beginLetter>
+	<WanderOwnRoom.recoveryMessage>{0} больше не скрывается у себя комнате.</WanderOwnRoom.recoveryMessage>
+	<WanderOwnRoom.baseInspectLine>Душевное состояние: прячется в комнате</WanderOwnRoom.baseInspectLine>
 
 </LanguageData>
