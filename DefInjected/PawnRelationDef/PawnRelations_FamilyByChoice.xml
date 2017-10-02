@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
 	<!-- spouse / lover -->
@@ -22,8 +22,9 @@
 
 	<!-- in-law -->
 
-	<ParentInLaw.label>тесть</ParentInLaw.label>
-	<ParentInLaw.labelFemale>свекровь</ParentInLaw.labelFemale>
+	<!-- заглушка -->
+	<ParentInLaw.label>отец половинки</ParentInLaw.label>
+	<ParentInLaw.labelFemale>мать половинки</ParentInLaw.labelFemale>
 
 	<ChildInLaw.label>зять</ChildInLaw.label>
 	<ChildInLaw.labelFemale>невестка</ChildInLaw.labelFemale>
@@ -33,7 +34,6 @@
 	<ExSpouse.label>бывший муж</ExSpouse.label>
 	<ExSpouse.labelFemale>бывшая жена</ExSpouse.labelFemale>
 
-	<ExLover.label>бывший</ExLover.label>
-	<ExLover.labelFemale>бывшая</ExLover.labelFemale>
+	<ExLover.label>бывшая любовь</ExLover.label>
 
 </LanguageData>

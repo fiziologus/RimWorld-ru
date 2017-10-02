@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
 	<!-- close family -->
@@ -32,26 +32,28 @@
 
 	<!-- distant family -->
 
-	<GreatGrandparent.label>прадедушка</GreatGrandparent.label>
-	<GreatGrandparent.labelFemale>прабабушка</GreatGrandparent.labelFemale>
+	<GreatGrandparent.label>прадед</GreatGrandparent.label>
+	<GreatGrandparent.labelFemale>прабабка</GreatGrandparent.labelFemale>
 
 	<GreatGrandchild.label>правнук</GreatGrandchild.label>
 	<GreatGrandchild.labelFemale>правнучка</GreatGrandchild.labelFemale>
 
-	<GranduncleOrGrandaunt.label>прадядя</GranduncleOrGrandaunt.label>
-	<GranduncleOrGrandaunt.labelFemale>пратётя</GranduncleOrGrandaunt.labelFemale>
+	<GranduncleOrGrandaunt.label>двоюродный дед</GranduncleOrGrandaunt.label>
+	<GranduncleOrGrandaunt.labelFemale>двоюродная бабка</GranduncleOrGrandaunt.labelFemale>
 
-	<GrandnephewOrGrandniece.label>праплемянник</GrandnephewOrGrandniece.label>
-	<GrandnephewOrGrandniece.labelFemale>праплемянница</GrandnephewOrGrandniece.labelFemale>
+	<GrandnephewOrGrandniece.label>внучатый племянник</GrandnephewOrGrandniece.label>
+	<GrandnephewOrGrandniece.labelFemale>внучатая племянница</GrandnephewOrGrandniece.labelFemale>
 
-	<CousinOnceRemoved.label>двоюродный племянник</CousinOnceRemoved.label>
-	<CousinOnceRemoved.labelFemale>двоюродная племянница</CousinOnceRemoved.labelFemale>
+	<!-- может быть и двоюродным племяником (внук дяди)
+	     и двоюродным дядей (сын брата деда) -->
+	<CousinOnceRemoved.label>близкий родственник</CousinOnceRemoved.label>
+	<CousinOnceRemoved.labelFemale>близкая родственница</CousinOnceRemoved.labelFemale>
 
 	<SecondCousin.label>троюродный брат</SecondCousin.label>
 	<SecondCousin.labelFemale>троюродная сестра</SecondCousin.labelFemale>
 
 	<!-- kin -->
 
-	<Kin.label>родственник</Kin.label>
+	<Kin.label>родня</Kin.label>
 
 </LanguageData>
