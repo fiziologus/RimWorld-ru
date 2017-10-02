@@ -1,8 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Drifter.label>бродяга</Drifter.label>
+	<Drifter.label>скиталец</Drifter.label>
 	<Scavenger.label>стервятник</Scavenger.label>
+	<!-- TODO: thrashe - молотить -->
 	<Thrasher.label>вышибала</Thrasher.label>
 	<Pirate.label>пират</Pirate.label>
 
