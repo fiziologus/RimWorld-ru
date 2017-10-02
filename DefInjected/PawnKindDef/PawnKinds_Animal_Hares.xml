@@ -2,24 +2,24 @@
 <LanguageData>
 
 <!-- Здесь зайцы; чтобы не городить огород, делим их на русака и беляка -->
-	<Hare.label>заяц-русак</Hare.label>
-	<Hare.labelPlural>зайцы-русаки</Hare.labelPlural>
+	<Hare.label>русак</Hare.label>
+	<Hare.labelPlural>русаки</Hare.labelPlural>
 	<Hare.lifeStages.0.label>зайчонок-русак</Hare.lifeStages.0.label>
 	<Hare.lifeStages.1.label>молодой русак</Hare.lifeStages.1.label>
-	<Hare.lifeStages.1.labelMale>молодой заяц</Hare.lifeStages.1.labelMale>
-	<Hare.lifeStages.1.labelFemale>молодая заячиха</Hare.lifeStages.1.labelFemale>
+	<Hare.lifeStages.1.labelMale>молодой заяц-русак</Hare.lifeStages.1.labelMale>
+	<Hare.lifeStages.1.labelFemale>молодая заячиха-русак</Hare.lifeStages.1.labelFemale>
 	<Hare.lifeStages.2.label>русак</Hare.lifeStages.2.label>
-	<Hare.lifeStages.2.labelMale>заяц</Hare.lifeStages.2.labelMale>
-	<Hare.lifeStages.2.labelFemale>заячиха</Hare.lifeStages.2.labelFemale>
+	<Hare.lifeStages.2.labelMale>заяц-русак</Hare.lifeStages.2.labelMale>
+	<Hare.lifeStages.2.labelFemale>заячиха-русак</Hare.lifeStages.2.labelFemale>
 
-	<Snowhare.label>заяц-беляк</Snowhare.label>
-	<Snowhare.labelPlural>зайцы-беляки</Snowhare.labelPlural>
+	<Snowhare.label>беляк</Snowhare.label>
+	<Snowhare.labelPlural>беляки</Snowhare.labelPlural>
 	<Snowhare.lifeStages.0.label>заячонок-беляк</Snowhare.lifeStages.0.label>
 	<Snowhare.lifeStages.1.label>молодой беляк</Snowhare.lifeStages.1.label>
-	<Snowhare.lifeStages.1.labelMale>молодой заяц</Snowhare.lifeStages.1.labelMale>
-	<Snowhare.lifeStages.1.labelFemale>молодая заячиха</Snowhare.lifeStages.1.labelFemale>
+	<Snowhare.lifeStages.1.labelMale>молодой заяц-беляк</Snowhare.lifeStages.1.labelMale>
+	<Snowhare.lifeStages.1.labelFemale>молодая заячиха-беляк</Snowhare.lifeStages.1.labelFemale>
 	<Snowhare.lifeStages.2.label>беляк</Snowhare.lifeStages.2.label>
-	<Snowhare.lifeStages.2.labelMale>заяц</Snowhare.lifeStages.2.labelMale>
-	<Snowhare.lifeStages.2.labelFemale>заячиха</Snowhare.lifeStages.2.labelFemale>
+	<Snowhare.lifeStages.2.labelMale>заяц-беляк</Snowhare.lifeStages.2.labelMale>
+	<Snowhare.lifeStages.2.labelFemale>заячиха-беляк</Snowhare.lifeStages.2.labelFemale>
 
 </LanguageData>

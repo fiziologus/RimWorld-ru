@@ -3,7 +3,7 @@
 
 <!-- псовые -->
 
-<!-- Варг — слегка переросший волк (примерно в телёнка или больше) -->
+<!-- Варг — слегка переросший волк (примерно с телёнка или больше) -->
 <!-- Кстати Фенрир Великий Волк был варгом, а не волком --> 
 	<Warg.label>варг</Warg.label>
 	<Warg.labelPlural>варги</Warg.labelPlural>
@@ -20,21 +20,21 @@
 	<WolfTimber.labelPlural>лесные волки</WolfTimber.labelPlural>
 	<WolfTimber.lifeStages.0.label>лесной волчонок</WolfTimber.lifeStages.0.label>
 	<WolfTimber.lifeStages.1.label>молодой лесной волк</WolfTimber.lifeStages.1.label>
-	<WolfTimber.lifeStages.1.labelMale>молодой волк</WolfTimber.lifeStages.1.labelMale>
-	<WolfTimber.lifeStages.1.labelFemale>молодой волчица</WolfTimber.lifeStages.1.labelFemale>
+	<WolfTimber.lifeStages.1.labelMale>молодой лесной волк</WolfTimber.lifeStages.1.labelMale>
+	<WolfTimber.lifeStages.1.labelFemale>молодой лесная волчица</WolfTimber.lifeStages.1.labelFemale>
 	<WolfTimber.lifeStages.2.label>лесной волк</WolfTimber.lifeStages.2.label>
-	<WolfTimber.lifeStages.2.labelMale>волк</WolfTimber.lifeStages.2.labelMale>
-	<WolfTimber.lifeStages.2.labelFemale>волчица</WolfTimber.lifeStages.2.labelFemale>
+	<WolfTimber.lifeStages.2.labelMale>лесной волк</WolfTimber.lifeStages.2.labelMale>
+	<WolfTimber.lifeStages.2.labelFemale>лесная волчица</WolfTimber.lifeStages.2.labelFemale>
 
 	<WolfArctic.label>полярный волк</WolfArctic.label>
 	<WolfArctic.labelPlural>полярные волки</WolfArctic.labelPlural>
 	<WolfArctic.lifeStages.0.label>полярный волчонок</WolfArctic.lifeStages.0.label>
 	<WolfArctic.lifeStages.1.label>молодой полярный волк</WolfArctic.lifeStages.1.label>
-	<WolfArctic.lifeStages.1.labelMale>молодой волк</WolfArctic.lifeStages.1.labelMale>
-	<WolfArctic.lifeStages.1.labelFemale>молодая волчица</WolfArctic.lifeStages.1.labelFemale>
+	<WolfArctic.lifeStages.1.labelMale>молодой полярный волк</WolfArctic.lifeStages.1.labelMale>
+	<WolfArctic.lifeStages.1.labelFemale>молодая полярная волчица</WolfArctic.lifeStages.1.labelFemale>
 	<WolfArctic.lifeStages.2.label>полярный волк</WolfArctic.lifeStages.2.label>
-	<WolfArctic.lifeStages.2.labelMale>волк</WolfArctic.lifeStages.2.labelMale>
-	<WolfArctic.lifeStages.2.labelFemale>волчица</WolfArctic.lifeStages.2.labelFemale>
+	<WolfArctic.lifeStages.2.labelMale>полярный волк</WolfArctic.lifeStages.2.labelMale>
+	<WolfArctic.lifeStages.2.labelFemale>полярная волчица</WolfArctic.lifeStages.2.labelFemale>
 
 	<FoxFennec.label>фенек</FoxFennec.label>
 	<FoxFennec.labelPlural>фенеки</FoxFennec.labelPlural>
