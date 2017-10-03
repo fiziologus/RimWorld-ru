@@ -20,7 +20,7 @@
 	<Arrest.reportString>арестовывает TargetA.</Arrest.reportString>
 	<ReleasePrisoner.reportString>выпускает TargetA.</ReleasePrisoner.reportString>
 	<EscortPrisonerToBed.reportString>конвоирует TargetA.</EscortPrisonerToBed.reportString>
-	<TakeWoundedPrisonerToBed.reportString>переносит раненого заключённого TargetA.</TakeWoundedPrisonerToBed.reportString>
+	<TakeWoundedPrisonerToBed.reportString>переносит раненого пленного TargetA.</TakeWoundedPrisonerToBed.reportString>
 	<TakeToBedToOperate.reportString>укладывает TargetA на кровать.</TakeToBedToOperate.reportString>
 
 	<!-- Animal handling -->
@@ -62,7 +62,7 @@
 	<Sow.reportString>сажает TargetA.</Sow.reportString>
 	<Harvest.reportString>собирает TargetA.</Harvest.reportString>
 	<CutPlant.reportString>рубит TargetA.</CutPlant.reportString>
-	<PrisonerFriendlyChat.reportString>болтает с заключённым TargetA.</PrisonerFriendlyChat.reportString>
+	<PrisonerFriendlyChat.reportString>болтает с пленным TargetA.</PrisonerFriendlyChat.reportString>
 	<PrisonerAttemptRecruit.reportString>пытается переманить TargetA.</PrisonerAttemptRecruit.reportString>
 	<PrisonerExecution.reportString>казнит TargetA.</PrisonerExecution.reportString>
 	<BuryCorpse.reportString>хоронит TargetA.</BuryCorpse.reportString>
