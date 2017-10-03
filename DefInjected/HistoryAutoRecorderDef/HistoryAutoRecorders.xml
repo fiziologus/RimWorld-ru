@@ -5,7 +5,7 @@
 	<WealthItems.label>предметы</WealthItems.label>
 	<WealthBuildings.label>сооружения</WealthBuildings.label>
 	<FreeColonists.label>свободные поселенцы</FreeColonists.label>
-	<Prisoners.label>заключённые</Prisoners.label>
+	<Prisoners.label>пленные</Prisoners.label>
 	<ColonistMood.label>настроение</ColonistMood.label>
 
 </LanguageData>
