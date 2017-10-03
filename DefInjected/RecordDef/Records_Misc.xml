@@ -1,142 +1,142 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<!-- Combat -->
 
 	<Kills.label>убито</Kills.label>
-	<Kills.description>Количество убитых мной существ.</Kills.description>
+	<Kills.description>Сколько мной убито созданий.</Kills.description>
 
-	<KillsHumanlikes.label>убито человек</KillsHumanlikes.label>
-	<KillsHumanlikes.description>Количество убитых мной людей.</KillsHumanlikes.description>
+	<KillsHumanlikes.label>убито людей</KillsHumanlikes.label>
+	<KillsHumanlikes.description>Сколько мной убито людей.</KillsHumanlikes.description>
 
 	<KillsAnimals.label>убито животных</KillsAnimals.label>
-	<KillsAnimals.description>Количество убитых мной животных.</KillsAnimals.description>
+	<KillsAnimals.description>Сколько мной убито животных.</KillsAnimals.description>
 
 	<KillsMechanoids.label>убито механоидов</KillsMechanoids.label>
-	<KillsMechanoids.description>Количество убитых мной механоидов.</KillsMechanoids.description>
+	<KillsMechanoids.description>Сколько мной убито механоидов.</KillsMechanoids.description>
 
-	<PawnsDowned.label>оглушено</PawnsDowned.label>
-	<PawnsDowned.description>Количество оглушённых мной существ.</PawnsDowned.description>
+	<PawnsDowned.label>сражено противников</PawnsDowned.label>
+	<PawnsDowned.description>Сколько существ мной сражено.</PawnsDowned.description>
 
-	<PawnsDownedHumanlikes.label>оглушено человек</PawnsDownedHumanlikes.label>
-	<PawnsDownedHumanlikes.description>Количество оглушённых мной людей.</PawnsDownedHumanlikes.description>
+	<PawnsDownedHumanlikes.label>сражено противников-людей</PawnsDownedHumanlikes.label>
+	<PawnsDownedHumanlikes.description>Сколько мной сражено людей.</PawnsDownedHumanlikes.description>
 
-	<PawnsDownedAnimals.label>оглушено животных</PawnsDownedAnimals.label>
-	<PawnsDownedAnimals.description>Количество оглушённых мной животных.</PawnsDownedAnimals.description>
+	<PawnsDownedAnimals.label>сражено противников-животных</PawnsDownedAnimals.label>
+	<PawnsDownedAnimals.description>Сколько мной сражено животных.</PawnsDownedAnimals.description>
 
-	<PawnsDownedMechanoids.label>оглушено механоидов</PawnsDownedMechanoids.label>
-	<PawnsDownedMechanoids.description>Количество оглушённых мной механоидов.</PawnsDownedMechanoids.description>
+	<PawnsDownedMechanoids.label>сражено противников-механоидов</PawnsDownedMechanoids.label>
+	<PawnsDownedMechanoids.description>Сколько мной сражено механоидов.</PawnsDownedMechanoids.description>
 
-	<ShotsFired.label>выстрелов</ShotsFired.label>
-	<ShotsFired.description>Количество произведённых мной выстрелов.</ShotsFired.description>
+	<ShotsFired.label>выстрелов сделано</ShotsFired.label>
+	<ShotsFired.description>Сколько выстрелов мной произведено.</ShotsFired.description>
 
-	<Headshots.label>выстрелов в голову</Headshots.label>
-	<Headshots.description>Количество моих попаданий в голову противнику.</Headshots.description>
+	<Headshots.label>выстрелов наповал</Headshots.label>
+	<Headshots.description>Сколько выстрелов наповал мной сделано.</Headshots.description>
 
 	<DamageDealt.label>урона нанесено</DamageDealt.label>
-	<DamageDealt.description>Сумма нанесённого мной урона.</DamageDealt.description>
+	<DamageDealt.description>Количество нанесённого мной урона.</DamageDealt.description>
 
 	<DamageTaken.label>урона получено</DamageTaken.label>
-	<DamageTaken.description>Сумма полученного мной урона.</DamageTaken.description>
+	<DamageTaken.description>Количество нанесённого мне урона.</DamageTaken.description>
 
 	<!-- Excitement -->
 
-	<TimesInMentalState.label>душевных срывов перенесено</TimesInMentalState.label>
-	<TimesInMentalState.description>Количество пережитых мной душевных срывов.</TimesInMentalState.description>
+	<TimesInMentalState.label>срывался раз</TimesInMentalState.label>
+	<TimesInMentalState.description>Сколько мной перенесено срывов.</TimesInMentalState.description>
 
-	<TimesOnFire.label>горений пережито</TimesOnFire.label>
-	<TimesOnFire.description>Количество пережитых мной горений.</TimesOnFire.description>
+	<TimesOnFire.label>в огне раз</TimesOnFire.label>
+	<TimesOnFire.description>Как часто меня охватывал огонь.</TimesOnFire.description>
 
 	<FiresExtinguished.label>пожаров потушено</FiresExtinguished.label>
-	<FiresExtinguished.description>Количество потушенных мной пожаров.</FiresExtinguished.description>
+	<FiresExtinguished.description>Сколько пожаров мной потушено.</FiresExtinguished.description>
 
 	<!-- Work -->
 
 	<OperationsReceived.label>операций перенесено</OperationsReceived.label>
-	<OperationsReceived.description>Количество сделанных мне операций.</OperationsReceived.description>
+	<OperationsReceived.description>Сколько мной перенесено операций.</OperationsReceived.description>
 
 	<OperationsPerformed.label>операций проведено</OperationsPerformed.label>
-	<OperationsPerformed.description>Количество проведённых мной операций.</OperationsPerformed.description>
+	<OperationsPerformed.description>Сколько мной проведено операций.</OperationsPerformed.description>
 
 	<TimesTendedTo.label>медицинской помощи получено</TimesTendedTo.label>
-	<TimesTendedTo.description>Сколько раз мне оказывали медицинскую помощь.</TimesTendedTo.description>
+	<TimesTendedTo.description>Сколько раз меня лечили.</TimesTendedTo.description>
 
 	<TimesTendedOther.label>медицинской помощи оказано</TimesTendedOther.label>
-	<TimesTendedOther.description>Сколько раз я оказывал медицинскую помощь.</TimesTendedOther.description>
+	<TimesTendedOther.description>Сколько мной проведено лечебных процедур.</TimesTendedOther.description>
 
-	<PeopleCaptured.label>людей захвачено</PeopleCaptured.label>
-	<PeopleCaptured.description>Количество захваченных мной людей.</PeopleCaptured.description>
+	<PeopleCaptured.label>людей пленено</PeopleCaptured.label>
+	<PeopleCaptured.description>Сколько мной захвачено в плен людей.</PeopleCaptured.description>
 
-	<PrisonersRecruited.label>заключённых завербовано</PrisonersRecruited.label>
-	<PrisonersRecruited.description>Количество завербованных мной заключённых.</PrisonersRecruited.description>
+	<PrisonersRecruited.label>пленников переманено</PrisonersRecruited.label>
+	<PrisonersRecruited.description>Сколько пленников мной переманено.</PrisonersRecruited.description>
 
-	<PrisonersChatted.label>беседы с заключёнными</PrisonersChatted.label>
-	<PrisonersChatted.description>Количество моих бесед с заключёнными.</PrisonersChatted.description>
+	<PrisonersChatted.label>бесед с пленными</PrisonersChatted.label>
+	<PrisonersChatted.description>Сколько бесед с пленными мной проведено.</PrisonersChatted.description>
 
 	<AnimalsTamed.label>животных приручено</AnimalsTamed.label>
-	<AnimalsTamed.description>Количество прирученных мной животных.</AnimalsTamed.description>
+	<AnimalsTamed.description>Сколько мной приручено животных.</AnimalsTamed.description>
 
-	<AnimalsSlaughtered.label>животных заколото</AnimalsSlaughtered.label>
-	<AnimalsSlaughtered.description>Количество заколотых мной животных.</AnimalsSlaughtered.description>
+	<AnimalsSlaughtered.label>животных забито</AnimalsSlaughtered.label>
+	<AnimalsSlaughtered.description>Сколько животных мной забито.</AnimalsSlaughtered.description>
 
 	<MealsCooked.label>блюд приготовлено</MealsCooked.label>
-	<MealsCooked.description>Количество приготовленных мной блюд.</MealsCooked.description>
+	<MealsCooked.description>Сколько мной приготовлено блюд.</MealsCooked.description>
 
-	<ThingsConstructed.label>построено</ThingsConstructed.label>
-	<ThingsConstructed.description>Количество сконструированных мной построек.</ThingsConstructed.description>
+	<ThingsConstructed.label>сооружено</ThingsConstructed.label>
+	<ThingsConstructed.description>Сколько предметов мной сооружено.</ThingsConstructed.description>
 
-	<ThingsInstalled.label>предметов установлено</ThingsInstalled.label>
-	<ThingsInstalled.description>Количество установленных мной предметов.</ThingsInstalled.description>
+	<ThingsInstalled.label>предметов поставлено</ThingsInstalled.label>
+	<ThingsInstalled.description>Сколько мной поставлено предметов.</ThingsInstalled.description>
 
-	<ThingsRepaired.label>ремонтов произведено</ThingsRepaired.label>
-	<ThingsRepaired.description>Количество отремонтированных мной механизмов.</ThingsRepaired.description>
+	<ThingsRepaired.label>отремонтировано</ThingsRepaired.label>
+	<ThingsRepaired.description>Сколько мной отремонтировано вещей.</ThingsRepaired.description>
 
 	<ThingsCrafted.label>предметов сделано</ThingsCrafted.label>
-	<ThingsCrafted.description>Количество сделанных мной предметов.</ThingsCrafted.description>
+	<ThingsCrafted.description>Сколько мной сделано предметов.</ThingsCrafted.description>
 
-	<ThingsHauled.label>предметов перенесено</ThingsHauled.label>
-	<ThingsHauled.description>Количество перенесённых мной предметов.</ThingsHauled.description>
+	<ThingsHauled.label>предметов перетащено</ThingsHauled.label>
+	<ThingsHauled.description>Сколько мной перетащено предметов.</ThingsHauled.description>
 
 	<PlantsSown.label>растений посажено</PlantsSown.label>
-	<PlantsSown.description>Количество посаженных мной растений.</PlantsSown.description>
+	<PlantsSown.description>Сколько мной посажено растений.</PlantsSown.description>
 
-	<PlantsHarvested.label>растений собрано</PlantsHarvested.label>
-	<PlantsHarvested.description>Количество собранных мной растений.</PlantsHarvested.description>
+	<PlantsHarvested.label>сборов с растений</PlantsHarvested.label>
+	<PlantsHarvested.description>Сколько раз мной что-то собрано с растений.</PlantsHarvested.description>
 
-	<CellsMined.label>раскопано</CellsMined.label>
-	<CellsMined.description>Количество раскопанных мной клеток.</CellsMined.description>
+	<CellsMined.label>вырыто</CellsMined.label>
+	<CellsMined.description>Какое пространство мной раскопано.</CellsMined.description>
 
-	<MessesCleaned.label>мусора убрано</MessesCleaned.label>
-	<MessesCleaned.description>Количество убранной мной грязи.</MessesCleaned.description>
+	<MessesCleaned.label>грязи убрано</MessesCleaned.label>
+	<MessesCleaned.description>Сколько пятен грязи мной убрано.</MessesCleaned.description>
 
-	<ResearchPointsResearched.label>очков исследования</ResearchPointsResearched.label>
-	<ResearchPointsResearched.description>Моё количество очков исследования.</ResearchPointsResearched.description>
+	<ResearchPointsResearched.label>вклад в исследования</ResearchPointsResearched.label>
+	<ResearchPointsResearched.description>Мой количественный вклад в исследования.</ResearchPointsResearched.description>
 
 	<CorpsesBuried.label>похоронено</CorpsesBuried.label>
-	<CorpsesBuried.description>Количество похороненных мной трупов.</CorpsesBuried.description>
+	<CorpsesBuried.description>Сколько тел я похоронил.</CorpsesBuried.description>
 
-	<NutritionEaten.label>съедено</NutritionEaten.label>
-	<NutritionEaten.description>Количество съеденной мной еды.</NutritionEaten.description>
+	<NutritionEaten.label>питания получено</NutritionEaten.label>
+	<NutritionEaten.description>Сколько питательных веществ мной получено.</NutritionEaten.description>
 
-	<TrapsRearmed.label>ловушек перезаряжено</TrapsRearmed.label>
-	<TrapsRearmed.description>Количество перезаряженных мной ловушек.</TrapsRearmed.description>
+	<TrapsRearmed.label>ловушек взведено</TrapsRearmed.label>
+	<TrapsRearmed.description>Сколько мной взведено ловушек.</TrapsRearmed.description>
 
 	<BodiesStripped.label>раздето</BodiesStripped.label>
-	<BodiesStripped.description>Количество раздетых мной тел.</BodiesStripped.description>
+	<BodiesStripped.description>Со скольких тел мной снята одежда.</BodiesStripped.description>
 
-	<ThingsUninstalled.label>предметов демонтировано</ThingsUninstalled.label>
-	<ThingsUninstalled.description>Количество демонтированных мной предметов.</ThingsUninstalled.description>
+	<ThingsUninstalled.label>предметов убрано</ThingsUninstalled.label>
+	<ThingsUninstalled.description>Сколько мной убрано предметов.</ThingsUninstalled.description>
 
 	<ThingsDeconstructed.label>предметов разобрано</ThingsDeconstructed.label>
-	<ThingsDeconstructed.description>Количество разобранных предметов.</ThingsDeconstructed.description>
+	<ThingsDeconstructed.description>Сколько предметов мной разобрано.</ThingsDeconstructed.description>
 
 	<ArtifactsActivated.label>артефактов активировано</ArtifactsActivated.label>
-	<ArtifactsActivated.description>Количество активированных мной артефактов.</ArtifactsActivated.description>
+	<ArtifactsActivated.description>Сколько артефактов мной активировано.</ArtifactsActivated.description>
 
 	<ContainersOpened.label>контейнеров открыто</ContainersOpened.label>
-	<ContainersOpened.description>Количество открытых мной контейнеров.</ContainersOpened.description>
+	<ContainersOpened.description>Сколько мной открыто контейнеров.</ContainersOpened.description>
 
 	<SwitchesFlicked.label>выключателей переключено</SwitchesFlicked.label>
-	<SwitchesFlicked.description>Количество переключенных мной выключателей.</SwitchesFlicked.description>
+	<SwitchesFlicked.description>Сколько переключателей мной щёлкнуто.</SwitchesFlicked.description>
 
 </LanguageData>
