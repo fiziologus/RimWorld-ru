@@ -2,23 +2,23 @@
 <LanguageData>
 
 	<CookMealSimple.label>приготовить простое блюдо</CookMealSimple.label>
-	<CookMealSimple.description>Приготовить простое блюдо из одного ингредиента.</CookMealSimple.description>
+	<CookMealSimple.description>Приготовить незамысловатое блюдо из одного ингредиента.</CookMealSimple.description>
 	<CookMealSimple.jobString>Готовит простое блюдо.</CookMealSimple.jobString>
 
-	<CookMealSimpleCampfire.label>Приготовить жареное блюдо</CookMealSimpleCampfire.label>
-	<CookMealSimpleCampfire.description>Приготовить жареное блюдо из одного ингредиента.</CookMealSimpleCampfire.description>
-	<CookMealSimpleCampfire.jobString>Готовит жареное блюдо.</CookMealSimpleCampfire.jobString>
+	<CookMealSimpleCampfire.label>приготовить простое блюдо</CookMealSimpleCampfire.label>
+	<CookMealSimpleCampfire.description>Приготовить незамысловатое блюдо из одного ингредиента.</CookMealSimpleCampfire.description>
+	<CookMealSimpleCampfire.jobString>Готовит простое блюдо.</CookMealSimpleCampfire.jobString>
 
-	<CookMealFine.label>приготовить вкусное блюдо</CookMealFine.label>
-	<CookMealFine.description>Приготовить вкусное блюдо из мяса и растений.</CookMealFine.description>
-	<CookMealFine.jobString>Готовит вкусное блюдо.</CookMealFine.jobString>
+	<CookMealFine.label>приготовить прекрасное блюдо</CookMealFine.label>
+	<CookMealFine.description>Приготовить что-то замысловатое из сочетания животных и растительных ингредиентов.</CookMealFine.description>
+	<CookMealFine.jobString>Готовит прекрасное блюдо.</CookMealFine.jobString>
 
 	<CookMealLavish.label>приготовить шикарное блюдо</CookMealLavish.label>
-	<CookMealLavish.description>Приготовить очень сложное блюдо из мяса и растений. Большая часть ингредиентов уйдёт впустую.</CookMealLavish.description>
+	<CookMealLavish.description>Приготовить очень сложное блюдо из сочетания животных и растительных ингредиентов. Большая часть продуктов уйдёт впустую.</CookMealLavish.description>
 	<CookMealLavish.jobString>Готовит шикарное блюдо.</CookMealLavish.jobString>
 
-	<CookMealSurvival.label>приготовить сухпаёк</CookMealSurvival.label>
-	<CookMealSurvival.description>Приготовить запечатанный сухпаёк из мяса и растений. Большая часть ингредиентов уйдёт впустую.</CookMealSurvival.description>
-	<CookMealSurvival.jobString>Готовит сухпаёк.</CookMealSurvival.jobString>
+	<CookMealSurvival.label>приготовить сухой паёк</CookMealSurvival.label>
+	<CookMealSurvival.description>Приготовить сухой паёк из сочетания животной и растительной пищи. Большая часть ингредиентов уйдёт впустую.</CookMealSurvival.description>
+	<CookMealSurvival.jobString>Готовит сухой паёк.</CookMealSurvival.jobString>
 
 </LanguageData>

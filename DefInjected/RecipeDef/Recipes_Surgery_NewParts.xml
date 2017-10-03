@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<!-- natural -->
@@ -21,40 +21,40 @@
 
 	<!-- artificial -->
 
-	<InstallPegLeg.label>установить деревянную ногу</InstallPegLeg.label>
-	<InstallPegLeg.description>Установить деревянную ногу.</InstallPegLeg.description>
-	<InstallPegLeg.jobString>Устанавливает деревянную ногу.</InstallPegLeg.jobString>
+	<InstallPegLeg.label>поставить деревянную ногу</InstallPegLeg.label>
+	<InstallPegLeg.description>Поставить деревянную ногу.</InstallPegLeg.description>
+	<InstallPegLeg.jobString>Ставит деревянную ногу.</InstallPegLeg.jobString>
 
-	<InstallBionicEye.label>вживить бионический глаз</InstallBionicEye.label>
-	<InstallBionicEye.description>Вживить бионический глаз.</InstallBionicEye.description>
-	<InstallBionicEye.jobString>Вживляет бионический глаз.</InstallBionicEye.jobString>
+	<InstallBionicEye.label>установить бионический глаз</InstallBionicEye.label>
+	<InstallBionicEye.description>Установить бионический глаз.</InstallBionicEye.description>
+	<InstallBionicEye.jobString>Устанавливает бионический глаз.</InstallBionicEye.jobString>
 
-	<InstallBionicArm.label>вживить бионическую руку</InstallBionicArm.label>
-	<InstallBionicArm.description>Вживить бионическую руку.</InstallBionicArm.description>
-	<InstallBionicArm.jobString>Вживляет бионическую руку.</InstallBionicArm.jobString>
+	<InstallBionicArm.label>установить бионическую руку</InstallBionicArm.label>
+	<InstallBionicArm.description>Установить бионическую руку.</InstallBionicArm.description>
+	<InstallBionicArm.jobString>Устанавливает бионическую руку.</InstallBionicArm.jobString>
 
-	<InstallBionicLeg.label>вживить бионическую ногу</InstallBionicLeg.label>
-	<InstallBionicLeg.description>Вживить бионическую ногу.</InstallBionicLeg.description>
-	<InstallBionicLeg.jobString>Вживляет бионическую ногу.</InstallBionicLeg.jobString>
+	<InstallBionicLeg.label>установить бионическую ногу</InstallBionicLeg.label>
+	<InstallBionicLeg.description>Установить бионическую ногу.</InstallBionicLeg.description>
+	<InstallBionicLeg.jobString>Устанавливает бионическую ногу.</InstallBionicLeg.jobString>
 
-	<InstallSimpleProstheticLeg.label>установить простой протез ноги</InstallSimpleProstheticLeg.label>
-	<InstallSimpleProstheticLeg.description>Установить простой протез ноги.</InstallSimpleProstheticLeg.description>
-	<InstallSimpleProstheticLeg.jobString>Устанавливает простой протез ноги.</InstallSimpleProstheticLeg.jobString>
+	<InstallSimpleProstheticLeg.label>поставить протез ноги</InstallSimpleProstheticLeg.label>
+	<InstallSimpleProstheticLeg.description>Поставить протез ноги.</InstallSimpleProstheticLeg.description>
+	<InstallSimpleProstheticLeg.jobString>Ставит протез ноги.</InstallSimpleProstheticLeg.jobString>
 
-	<InstallSimpleProstheticArm.label>установить простой протез руки</InstallSimpleProstheticArm.label>
-	<InstallSimpleProstheticArm.description>Установить простой протез руки.</InstallSimpleProstheticArm.description>
-	<InstallSimpleProstheticArm.jobString>Устанавливает простой протез руки.</InstallSimpleProstheticArm.jobString>
+	<InstallSimpleProstheticArm.label>поставить протез руки</InstallSimpleProstheticArm.label>
+	<InstallSimpleProstheticArm.description>Поставить протез руки.</InstallSimpleProstheticArm.description>
+	<InstallSimpleProstheticArm.jobString>Ставит протез руки.</InstallSimpleProstheticArm.jobString>
 
 	<InstallDenture.label>установить зубной протез</InstallDenture.label>
 	<InstallDenture.description>Установить зубной протез.</InstallDenture.description>
-	<InstallDenture.jobString>Устанавливает зубной протез.</InstallDenture.jobString>
+	<InstallDenture.jobString>Ставит зубной протез.</InstallDenture.jobString>
 
-	<InstallPowerClaw.label>установить силовую клешню</InstallPowerClaw.label>
-	<InstallPowerClaw.description>Установить силовую клешню.</InstallPowerClaw.description>
-	<InstallPowerClaw.jobString>Устанавливает силовую клешню.</InstallPowerClaw.jobString>
+	<InstallPowerClaw.label>вживить когти</InstallPowerClaw.label>
+	<InstallPowerClaw.description>Вживить когти.</InstallPowerClaw.description>
+	<InstallPowerClaw.jobString>Вживляет когти.</InstallPowerClaw.jobString>
 
-	<InstallScytherBlade.label>установить клинок жнеца</InstallScytherBlade.label>
-	<InstallScytherBlade.description>Установить клинок жнеца.</InstallScytherBlade.description>
-	<InstallScytherBlade.jobString>Устанавливает клинок жнеца.</InstallScytherBlade.jobString>
+	<InstallScytherBlade.label>вживить клинок жнеца</InstallScytherBlade.label>
+	<InstallScytherBlade.description>вживить клинок жнеца.</InstallScytherBlade.description>
+	<InstallScytherBlade.jobString>Вживляет клинок жнеца.</InstallScytherBlade.jobString>
 
 </LanguageData>

@@ -3,73 +3,77 @@
 
 	<!-- Скульптуры -->
 
-	<Make_SculptureSmall.label>сделать малую скульптуру</Make_SculptureSmall.label>
-	<Make_SculptureSmall.description>Сделать малую скульптуру.</Make_SculptureSmall.description>
-	<Make_SculptureSmall.jobString>Делает скульптуру.</Make_SculptureSmall.jobString>
+	<Make_SculptureSmall.label>создать небольшую скульптуру</Make_SculptureSmall.label>
+	<Make_SculptureSmall.description>Сделать небольшую скульптуру.</Make_SculptureSmall.description>
+	<Make_SculptureSmall.jobString>Делает небольшую скульптуру.</Make_SculptureSmall.jobString>
 
-	<Make_SculptureLarge.label>сделать большую скульптуру</Make_SculptureLarge.label>
+	<Make_SculptureLarge.label>создать большую скульптуру</Make_SculptureLarge.label>
 	<Make_SculptureLarge.description>Сделать большую скульптуру.</Make_SculptureLarge.description>
-	<Make_SculptureLarge.jobString>Делает скульптуру.</Make_SculptureLarge.jobString>
+	<Make_SculptureLarge.jobString>Делает большую скульптуру.</Make_SculptureLarge.jobString>
 
-	<Make_SculptureGrand.label>сделать огромную скульптуру</Make_SculptureGrand.label>
-	<Make_SculptureGrand.description>Сделать огромную скульптуру.</Make_SculptureGrand.description>
-	<Make_SculptureGrand.jobString>Делает скульптуру.</Make_SculptureGrand.jobString>
+	<Make_SculptureGrand.label>создать грандиозную скульптуру</Make_SculptureGrand.label>
+	<Make_SculptureGrand.description>Сделать грандиозную скульптуру.</Make_SculptureGrand.description>
+	<Make_SculptureGrand.jobString>Делает грандиозную скульптуру.</Make_SculptureGrand.jobString>
 
 	<!-- Шляпы-->
 
 	<Make_Apparel_CowboyHat.label>сделать ковбойскую шляпу</Make_Apparel_CowboyHat.label>
-	<Make_Apparel_CowboyHat.description>Сделать ковбойскую шляпу.</Make_Apparel_CowboyHat.description>
-	<Make_Apparel_CowboyHat.jobString>Делает ковбойскую шляпу.</Make_Apparel_CowboyHat.jobString>
+	<Make_Apparel_CowboyHat.description>Сшить ковбойскую шляпу.</Make_Apparel_CowboyHat.description>
+	<Make_Apparel_CowboyHat.jobString>Шьёт ковбойскую шляпу.</Make_Apparel_CowboyHat.jobString>
 
 	<Make_Apparel_BowlerHat.label>сделать шляпу-котелок</Make_Apparel_BowlerHat.label>
-	<Make_Apparel_BowlerHat.description>сделать шляпу-котелок.</Make_Apparel_BowlerHat.description>
-	<Make_Apparel_BowlerHat.jobString>Делает шляпу-котелок.</Make_Apparel_BowlerHat.jobString>
+	<Make_Apparel_BowlerHat.description>Сшить шляпу-котелок.</Make_Apparel_BowlerHat.description>
+	<Make_Apparel_BowlerHat.jobString>Шьёт котелок.</Make_Apparel_BowlerHat.jobString>
 
 	<Make_Apparel_Tuque.label>сделать вязаную шапку</Make_Apparel_Tuque.label>
-	<Make_Apparel_Tuque.description>Сделать вязаную шапку.</Make_Apparel_Tuque.description>
-	<Make_Apparel_Tuque.jobString>Делает вязаную шапку.</Make_Apparel_Tuque.jobString>
+	<Make_Apparel_Tuque.description>Связать шапочку.</Make_Apparel_Tuque.description>
+	<Make_Apparel_Tuque.jobString>Вяжет шапочку.</Make_Apparel_Tuque.jobString>
 
-	<Make_Apparel_PowerArmorHelmet.label>сделать шлем силовой брони</Make_Apparel_PowerArmorHelmet.label>
-	<Make_Apparel_PowerArmorHelmet.description>Сделать шлем силовой брони.</Make_Apparel_PowerArmorHelmet.description>
+	<!-- Шлемы -->
+
+	<Make_Apparel_SimpleHelmet.label>сделать каску</Make_Apparel_SimpleHelmet.label>
+	<Make_Apparel_SimpleHelmet.description>Сделать каску.</Make_Apparel_SimpleHelmet.description>
+	<Make_Apparel_SimpleHelmet.jobString>Делает каску.</Make_Apparel_SimpleHelmet.jobString>
+
+	<Make_Apparel_AdvancedHelmet.label>сделать шлем</Make_Apparel_AdvancedHelmet.label>
+	<Make_Apparel_AdvancedHelmet.description>Собрать шлем.</Make_Apparel_AdvancedHelmet.description>
+	<Make_Apparel_AdvancedHelmet.jobString>Делает шлем.</Make_Apparel_AdvancedHelmet.jobString>
+
+	<Make_Apparel_PowerArmorHelmet.label>сделать шлем к силовой броне</Make_Apparel_PowerArmorHelmet.label>
+	<Make_Apparel_PowerArmorHelmet.description>Собрать шлем к силовой броне.</Make_Apparel_PowerArmorHelmet.description>
 	<Make_Apparel_PowerArmorHelmet.jobString>Делает шлем силовой брони.</Make_Apparel_PowerArmorHelmet.jobString>
-
-	<Make_Apparel_KevlarHelmet.label>сделать кевларовый шлем</Make_Apparel_KevlarHelmet.label>
-	<Make_Apparel_KevlarHelmet.description>Сделать кевларовый шлем.</Make_Apparel_KevlarHelmet.description>
-	<Make_Apparel_KevlarHelmet.jobString>Делает кевларовый шлем.</Make_Apparel_KevlarHelmet.jobString>
-
-	<Make_Apparel_MilitaryHelmet.label>сделать военный шлем</Make_Apparel_MilitaryHelmet.label>
-	<Make_Apparel_MilitaryHelmet.description>Сделать военный шлем.</Make_Apparel_MilitaryHelmet.description>
-	<Make_Apparel_MilitaryHelmet.jobString>Делает военный шлем.</Make_Apparel_MilitaryHelmet.jobString>
 
 	<!-- Одежда -->
 
+	<Make_Apparel_Parka.label>сделать парка</Make_Apparel_Parka.label>
+	<Make_Apparel_Parka.description>Сшить парку.</Make_Apparel_Parka.description>
+	<Make_Apparel_Parka.jobString>Шьёт парку.</Make_Apparel_Parka.jobString>
+
 	<Make_Apparel_Pants.label>сделать штаны</Make_Apparel_Pants.label>
-	<Make_Apparel_Pants.description>Сделать штаны.</Make_Apparel_Pants.description>
-	<Make_Apparel_Pants.jobString>Делает штаны.</Make_Apparel_Pants.jobString>
+	<Make_Apparel_Pants.description>Сшить штаны.</Make_Apparel_Pants.description>
+	<Make_Apparel_Pants.jobString>Шьёт штаны.</Make_Apparel_Pants.jobString>
 
 	<Make_Apparel_BasicShirt.label>сделать футболку</Make_Apparel_BasicShirt.label>
-	<Make_Apparel_BasicShirt.description>Сделать футболку.</Make_Apparel_BasicShirt.description>
-	<Make_Apparel_BasicShirt.jobString>Делает футболку.</Make_Apparel_BasicShirt.jobString>
+	<Make_Apparel_BasicShirt.description>Сшить футболку.</Make_Apparel_BasicShirt.description>
+	<Make_Apparel_BasicShirt.jobString>Шьёт футболку.</Make_Apparel_BasicShirt.jobString>
 
 	<Make_Apparel_CollarShirt.label>сделать рубашку</Make_Apparel_CollarShirt.label>
-	<Make_Apparel_CollarShirt.description>Сделать рубашку.</Make_Apparel_CollarShirt.description>
-	<Make_Apparel_CollarShirt.jobString>Делает рубашку.</Make_Apparel_CollarShirt.jobString>
+	<Make_Apparel_CollarShirt.description>Сшить рубашку.</Make_Apparel_CollarShirt.description>
+	<Make_Apparel_CollarShirt.jobString>Шьёт рубашку.</Make_Apparel_CollarShirt.jobString>
 
 	<Make_Apparel_Duster.label>сделать плащ</Make_Apparel_Duster.label>
-	<Make_Apparel_Duster.description>Сделать плащ.</Make_Apparel_Duster.description>
-	<Make_Apparel_Duster.jobString>Делает плащ.</Make_Apparel_Duster.jobString>
+	<Make_Apparel_Duster.description>Сшить плащ.</Make_Apparel_Duster.description>
+	<Make_Apparel_Duster.jobString>Шьёт плащ.</Make_Apparel_Duster.jobString>
 
 	<Make_Apparel_Jacket.label>сделать куртку</Make_Apparel_Jacket.label>
-	<Make_Apparel_Jacket.description>Сделать куртку.</Make_Apparel_Jacket.description>
-	<Make_Apparel_Jacket.jobString>Делает куртку.</Make_Apparel_Jacket.jobString>
-
-	<Make_Apparel_Parka.label>сделать пуховик</Make_Apparel_Parka.label>
-	<Make_Apparel_Parka.description>Сделать пуховик.</Make_Apparel_Parka.description>
-	<Make_Apparel_Parka.jobString>Делает пуховик.</Make_Apparel_Parka.jobString>
+	<Make_Apparel_Jacket.description>Сшить куртку.</Make_Apparel_Jacket.description>
+	<Make_Apparel_Jacket.jobString>Шьёт куртку.</Make_Apparel_Jacket.jobString>
 
 	<Make_Apparel_TribalA.label>сделать тунику</Make_Apparel_TribalA.label>
 	<Make_Apparel_TribalA.description>Сделать тунику.</Make_Apparel_TribalA.description>
 	<Make_Apparel_TribalA.jobString>Делает тунику.</Make_Apparel_TribalA.jobString>
+
+	<!-- Броня -->
 
 	<Make_Apparel_VestPlate.label>сделать бронежилет</Make_Apparel_VestPlate.label>
 	<Make_Apparel_VestPlate.description>Сделать бронежилет.</Make_Apparel_VestPlate.description>
@@ -78,6 +82,8 @@
 	<Make_Apparel_PowerArmor.label>сделать силовую броню</Make_Apparel_PowerArmor.label>
 	<Make_Apparel_PowerArmor.description>Сделать силовую броню.</Make_Apparel_PowerArmor.description>
 	<Make_Apparel_PowerArmor.jobString>Делает силовую броню.</Make_Apparel_PowerArmor.jobString>
+
+	<!-- Пояса -->
 
 	<Make_Apparel_ShieldBelt.label>сделать пояс-щит</Make_Apparel_ShieldBelt.label>
 	<Make_Apparel_ShieldBelt.description>Сделать пояс-щит.</Make_Apparel_ShieldBelt.description>
@@ -89,33 +95,33 @@
 
 	<!-- Оружие ближнего боя -->
 
-	<Make_MeleeWeapon_Gladius.label>сделать гладиус</Make_MeleeWeapon_Gladius.label>
-	<Make_MeleeWeapon_Gladius.description>Сделать гладиус.</Make_MeleeWeapon_Gladius.description>
-	<Make_MeleeWeapon_Gladius.jobString>Делает гладиус.</Make_MeleeWeapon_Gladius.jobString>
-
-	<Make_MeleeWeapon_LongSword.label>сделать длинный меч</Make_MeleeWeapon_LongSword.label>
-	<Make_MeleeWeapon_LongSword.description>Сделать длинный меч.</Make_MeleeWeapon_LongSword.description>
-	<Make_MeleeWeapon_LongSword.jobString>Делает длинный меч.</Make_MeleeWeapon_LongSword.jobString>
-
-	<Make_MeleeWeapon_Mace.label>сделать булаву</Make_MeleeWeapon_Mace.label>
-	<Make_MeleeWeapon_Mace.description>Сделать булаву.</Make_MeleeWeapon_Mace.description>
-	<Make_MeleeWeapon_Mace.jobString>Делает булаву.</Make_MeleeWeapon_Mace.jobString>
+	<Make_MeleeWeapon_Shiv.label>сделать заточку</Make_MeleeWeapon_Shiv.label>
+	<Make_MeleeWeapon_Shiv.description>Сделать заточку.</Make_MeleeWeapon_Shiv.description>
+	<Make_MeleeWeapon_Shiv.jobString>Делает заточку.</Make_MeleeWeapon_Shiv.jobString>
 
 	<Make_MeleeWeapon_Knife.label>сделать нож</Make_MeleeWeapon_Knife.label>
 	<Make_MeleeWeapon_Knife.description>Сделать нож.</Make_MeleeWeapon_Knife.description>
 	<Make_MeleeWeapon_Knife.jobString>Делает нож.</Make_MeleeWeapon_Knife.jobString>
 
-	<Make_MeleeWeapon_Shiv.label>сделать заточку</Make_MeleeWeapon_Shiv.label>
-	<Make_MeleeWeapon_Shiv.description>Сделать заточку.</Make_MeleeWeapon_Shiv.description>
-	<Make_MeleeWeapon_Shiv.jobString>Делает заточку.</Make_MeleeWeapon_Shiv.jobString>
+	<Make_MeleeWeapon_Club.label>сделать дубину</Make_MeleeWeapon_Club.label>
+	<Make_MeleeWeapon_Club.description>Сделать дубину.</Make_MeleeWeapon_Club.description>
+	<Make_MeleeWeapon_Club.jobString>Делает дубину.</Make_MeleeWeapon_Club.jobString>
+
+	<Make_MeleeWeapon_Mace.label>сделать булаву</Make_MeleeWeapon_Mace.label>
+	<Make_MeleeWeapon_Mace.description>Сделать булаву.</Make_MeleeWeapon_Mace.description>
+	<Make_MeleeWeapon_Mace.jobString>Делает булаву.</Make_MeleeWeapon_Mace.jobString>
+
+	<Make_MeleeWeapon_Gladius.label>сделать гладиус</Make_MeleeWeapon_Gladius.label>
+	<Make_MeleeWeapon_Gladius.description>Выковать гладиус.</Make_MeleeWeapon_Gladius.description>
+	<Make_MeleeWeapon_Gladius.jobString>Выковывает гладиус.</Make_MeleeWeapon_Gladius.jobString>
 
 	<Make_MeleeWeapon_Spear.label>сделать копьё</Make_MeleeWeapon_Spear.label>
 	<Make_MeleeWeapon_Spear.description>Сделать копьё.</Make_MeleeWeapon_Spear.description>
 	<Make_MeleeWeapon_Spear.jobString>Делает копьё.</Make_MeleeWeapon_Spear.jobString>
 
-	<Make_MeleeWeapon_Club.label>сделать дубину</Make_MeleeWeapon_Club.label>
-	<Make_MeleeWeapon_Club.description>Сделать дубину.</Make_MeleeWeapon_Club.description>
-	<Make_MeleeWeapon_Club.jobString>Делает дубину.</Make_MeleeWeapon_Club.jobString>
+	<Make_MeleeWeapon_LongSword.label>сделать длинный меч</Make_MeleeWeapon_LongSword.label>
+	<Make_MeleeWeapon_LongSword.description>Выковать длинный меч.</Make_MeleeWeapon_LongSword.description>
+	<Make_MeleeWeapon_LongSword.jobString>Выковывает длинный меч.</Make_MeleeWeapon_LongSword.jobString>
 
 	<!-- Оружие дальнего боя -->
 
@@ -134,90 +140,90 @@
 	<!-- Огнестрельное оружие -->
 
 	<Make_Gun_Pistol.label>сделать пистолет</Make_Gun_Pistol.label>
-	<Make_Gun_Pistol.description>Сделать пистолет.</Make_Gun_Pistol.description>
-	<Make_Gun_Pistol.jobString>Делает пистолет.</Make_Gun_Pistol.jobString>
+	<Make_Gun_Pistol.description>Собрать пистолет.</Make_Gun_Pistol.description>
+	<Make_Gun_Pistol.jobString>Собирает пистолет.</Make_Gun_Pistol.jobString>
 
-	<Make_Gun_MachinePistol.label>сделать автоматический пистолет</Make_Gun_MachinePistol.label>
-	<Make_Gun_MachinePistol.description>Cделать автоматический пистолет.</Make_Gun_MachinePistol.description>
-	<Make_Gun_MachinePistol.jobString>Делает автоматический пистолет.</Make_Gun_MachinePistol.jobString>
+	<Make_Gun_MachinePistol.label>сделать пистолет-пулемёт</Make_Gun_MachinePistol.label>
+	<Make_Gun_MachinePistol.description>Cобрать пистолет-пулемёт.</Make_Gun_MachinePistol.description>
+	<Make_Gun_MachinePistol.jobString>Собирает пистолет-пулемёт.</Make_Gun_MachinePistol.jobString>
 
-	<Make_Gun_HeavySMG.label>сделать пистолет-пулемёт</Make_Gun_HeavySMG.label>
-	<Make_Gun_HeavySMG.description>Сделать пистолет-пулемёт.</Make_Gun_HeavySMG.description>
-	<Make_Gun_HeavySMG.jobString>Делает пистолет-пулемёт.</Make_Gun_HeavySMG.jobString>
+	<Make_Gun_HeavySMG.label>сделать крупнокалиберный пистолет-пулемёт</Make_Gun_HeavySMG.label>
+	<Make_Gun_HeavySMG.description>Собрать крупнокалиберный пистолет-пулемёт.</Make_Gun_HeavySMG.description>
+	<Make_Gun_HeavySMG.jobString>Собирает крупнокалиберный пистолет-пулемёт.</Make_Gun_HeavySMG.jobString>
 
-	<Make_Gun_PumpShotgun.label>сделать дробовик</Make_Gun_PumpShotgun.label>
-	<Make_Gun_PumpShotgun.description>Сделать дробовик.</Make_Gun_PumpShotgun.description>
-	<Make_Gun_PumpShotgun.jobString>Делает дробовик.</Make_Gun_PumpShotgun.jobString>
+	<Make_Gun_PumpShotgun.label>сделать помповое ружьё</Make_Gun_PumpShotgun.label>
+	<Make_Gun_PumpShotgun.description>Собрать помповое ружьё.</Make_Gun_PumpShotgun.description>
+	<Make_Gun_PumpShotgun.jobString>Собирает помповое ружьё.</Make_Gun_PumpShotgun.jobString>
 
 	<Make_Gun_ChainShotgun.label>сделать автоматический дробовик</Make_Gun_ChainShotgun.label>
-	<Make_Gun_ChainShotgun.description>Сделать автоматический дробовик.</Make_Gun_ChainShotgun.description>
-	<Make_Gun_ChainShotgun.jobString>Делает автоматический дробовик.</Make_Gun_ChainShotgun.jobString>
+	<Make_Gun_ChainShotgun.description>Собрать автоматический дробовик.</Make_Gun_ChainShotgun.description>
+	<Make_Gun_ChainShotgun.jobString>Собирает автоматический дробовик.</Make_Gun_ChainShotgun.jobString>
 
-	<Make_Gun_SurvivalRifle.label>сделать винтовку</Make_Gun_SurvivalRifle.label>
-	<Make_Gun_SurvivalRifle.description>Сделать винтовку.</Make_Gun_SurvivalRifle.description>
-	<Make_Gun_SurvivalRifle.jobString>Делает винтовку.</Make_Gun_SurvivalRifle.jobString>
+	<Make_Gun_BoltActionRifle.label>сделать винтовку</Make_Gun_BoltActionRifle.label>
+	<Make_Gun_BoltActionRifle.description>Собрать винтовку.</Make_Gun_BoltActionRifle.description>
+	<Make_Gun_BoltActionRifle.jobString>Собирает винтовку.</Make_Gun_BoltActionRifle.jobString>
 
 	<Make_Gun_AssaultRifle.label>сделать автомат</Make_Gun_AssaultRifle.label>
-	<Make_Gun_AssaultRifle.description>Сделать автомат.</Make_Gun_AssaultRifle.description>
-	<Make_Gun_AssaultRifle.jobString>Делает автомат.</Make_Gun_AssaultRifle.jobString>
+	<Make_Gun_AssaultRifle.description>Собрать автомат.</Make_Gun_AssaultRifle.description>
+	<Make_Gun_AssaultRifle.jobString>Собирает автомат.</Make_Gun_AssaultRifle.jobString>
 
 	<Make_Gun_SniperRifle.label>сделать снайперскую винтовку</Make_Gun_SniperRifle.label>
-	<Make_Gun_SniperRifle.description>Сделать снайперскую винтовку.</Make_Gun_SniperRifle.description>
-	<Make_Gun_SniperRifle.jobString>Делает снайперскую винтовку.</Make_Gun_SniperRifle.jobString>
+	<Make_Gun_SniperRifle.description>Собрать снайперскую винтовку.</Make_Gun_SniperRifle.description>
+	<Make_Gun_SniperRifle.jobString>Собирает снайперскую винтовку.</Make_Gun_SniperRifle.jobString>
 
 	<Make_Gun_IncendiaryLauncher.label>сделать реактивный огнемёт</Make_Gun_IncendiaryLauncher.label>
-	<Make_Gun_IncendiaryLauncher.description>Сделать реактивный огнемёт.</Make_Gun_IncendiaryLauncher.description>
-	<Make_Gun_IncendiaryLauncher.jobString>Делает реактивный огнемёт.</Make_Gun_IncendiaryLauncher.jobString>
+	<Make_Gun_IncendiaryLauncher.description>Собрать реактивный огнемёт.</Make_Gun_IncendiaryLauncher.description>
+	<Make_Gun_IncendiaryLauncher.jobString>Собирает реактивный огнемёт.</Make_Gun_IncendiaryLauncher.jobString>
 
 	<Make_Gun_LMG.label>сделать ручной пулемёт</Make_Gun_LMG.label>
-	<Make_Gun_LMG.description>Сделать ручной пулемёт.</Make_Gun_LMG.description>
-	<Make_Gun_LMG.jobString>Делает ручной пулемёт.</Make_Gun_LMG.jobString>
+	<Make_Gun_LMG.description>Собрать ручной пулемёт.</Make_Gun_LMG.description>
+	<Make_Gun_LMG.jobString>Собирает ручной пулемёт.</Make_Gun_LMG.jobString>
 
-	<Make_Gun_ChargeRifle.label>сделать энерговинтовку</Make_Gun_ChargeRifle.label>
-	<Make_Gun_ChargeRifle.description>Сделать энерговинтовку.</Make_Gun_ChargeRifle.description>
-	<Make_Gun_ChargeRifle.jobString>Делает энерговинтовку.</Make_Gun_ChargeRifle.jobString>
+	<Make_Gun_ChargeRifle.label>сделать зарядовое ружьё</Make_Gun_ChargeRifle.label>
+	<Make_Gun_ChargeRifle.description>Собрать зарядовое ружье.</Make_Gun_ChargeRifle.description>
+	<Make_Gun_ChargeRifle.jobString>Собирает зарядовое ружьё.</Make_Gun_ChargeRifle.jobString>
 
 	<Make_Gun_Minigun.label>сделать миниган</Make_Gun_Minigun.label>
-	<Make_Gun_Minigun.description>Сделать миниган.</Make_Gun_Minigun.description>
-	<Make_Gun_Minigun.jobString>Делает миниган.</Make_Gun_Minigun.jobString>
+	<Make_Gun_Minigun.description>Собрать миниган.</Make_Gun_Minigun.description>
+	<Make_Gun_Minigun.jobString>Собирает миниган.</Make_Gun_Minigun.jobString>
 
 	<!-- Препараты -->
 
 	<Make_SmokeleafJoint.label>скрутить косяк</Make_SmokeleafJoint.label>
 	<Make_SmokeleafJoint.description>Скрутить косяк.</Make_SmokeleafJoint.description>
-	<Make_SmokeleafJoint.jobString>Крутит косяк.</Make_SmokeleafJoint.jobString>
+	<Make_SmokeleafJoint.jobString>Скручивает косяк.</Make_SmokeleafJoint.jobString>
 
 	<Make_Penoxycyline.label>сделать пеноксицилин</Make_Penoxycyline.label>
 	<Make_Penoxycyline.description>Сделать пеноксицилин.</Make_Penoxycyline.description>
-	<Make_Penoxycyline.jobString>Делает пеноксицилин.</Make_Penoxycyline.jobString>
+	<Make_Penoxycyline.jobString>Готовит пеноксицилин.</Make_Penoxycyline.jobString>
 
-	<Make_Flake.label>сделать хлопья психина</Make_Flake.label>
-	<Make_Flake.description>Cделать хлопья психина.</Make_Flake.description>
-	<Make_Flake.jobString>Делает хлопья психина.</Make_Flake.jobString>
+	<Make_Flake.label>сделать «чешуйки»</Make_Flake.label>
+	<Make_Flake.description>Сделать «чешуйки».</Make_Flake.description>
+	<Make_Flake.jobString>Готовит «чешуйки».</Make_Flake.jobString>
 
-	<Make_Yayo.label>сделать порошок психина</Make_Yayo.label>
-	<Make_Yayo.description>Cделать порошок психина.</Make_Yayo.description>
-	<Make_Yayo.jobString>Делает порошок психина.</Make_Yayo.jobString>
+	<Make_Yayo.label>сделать йаё</Make_Yayo.label>
+	<Make_Yayo.description>Cделать йаё.</Make_Yayo.description>
+	<Make_Yayo.jobString>Готовит йаё.</Make_Yayo.jobString>
 
 	<Make_WakeUp.label>сделать бодрин</Make_WakeUp.label>
 	<Make_WakeUp.description>Cделать бодрин.</Make_WakeUp.description>
-	<Make_WakeUp.jobString>Делает бодрин.</Make_WakeUp.jobString>
+	<Make_WakeUp.jobString>Готовит бодрин.</Make_WakeUp.jobString>
 
 	<Make_Medicine.label>сделать медикаменты</Make_Medicine.label>
 	<Make_Medicine.description>Cделать медикаменты.</Make_Medicine.description>
 	<Make_Medicine.jobString>Делает медикаменты.</Make_Medicine.jobString>
 
-	<Make_GoJuice.label>сделать Go-сок</Make_GoJuice.label>
-	<Make_GoJuice.description>Сделать Go-сок.</Make_GoJuice.description>
-	<Make_GoJuice.jobString>Делает Go-сок.</Make_GoJuice.jobString>
+	<Make_GoJuice.label>сделать горючку</Make_GoJuice.label>
+	<Make_GoJuice.description>Сделать горючку.</Make_GoJuice.description>
+	<Make_GoJuice.jobString>Готовит горючку.</Make_GoJuice.jobString>
 
 	<!-- Назначения -->
 
 	<Administer_Beer.label>назначить пиво</Administer_Beer.label>
 	<Administer_Beer.jobString>Даёт пиво.</Administer_Beer.jobString>
 
-	<Administer_GoJuice.label>назначить Go-сок</Administer_GoJuice.label>
-	<Administer_GoJuice.jobString>Даёт Go-сок.</Administer_GoJuice.jobString>
+	<Administer_GoJuice.label>назначить горючку</Administer_GoJuice.label>
+	<Administer_GoJuice.jobString>Даёт горючку.</Administer_GoJuice.jobString>
 
 	<Administer_Luciferium.label>назначить люциферий</Administer_Luciferium.label>
 	<Administer_Luciferium.jobString>Даёт люциферий.</Administer_Luciferium.jobString>
@@ -225,13 +231,13 @@
 	<Administer_Penoxycyline.label>назначить пеноксицилин</Administer_Penoxycyline.label>
 	<Administer_Penoxycyline.jobString>Даёт пеноксицилин.</Administer_Penoxycyline.jobString>
 
-	<Administer_Flake.label>назначить хлопья психина</Administer_Flake.label>
-	<Administer_Flake.jobString>Даёт хлопья психина.</Administer_Flake.jobString>
+	<Administer_Flake.label>назначить «чешуйки»</Administer_Flake.label>
+	<Administer_Flake.jobString>Даёт «чешуйки».</Administer_Flake.jobString>
 
-	<Administer_Yayo.label>назначить порошок психина</Administer_Yayo.label>
-	<Administer_Yayo.jobString>Даёт порошок психина.</Administer_Yayo.jobString>
+	<Administer_Yayo.label>назначить йаё</Administer_Yayo.label>
+	<Administer_Yayo.jobString>Даёт йаё.</Administer_Yayo.jobString>
 
-	<Administer_SmokeleafJoint.label>назначить дымолист</Administer_SmokeleafJoint.label>
+	<Administer_SmokeleafJoint.label>назначить курить дымолист</Administer_SmokeleafJoint.label>
 	<Administer_SmokeleafJoint.jobString>Даёт косяк.</Administer_SmokeleafJoint.jobString>
 
 	<Administer_WakeUp.label>назначить бодрин</Administer_WakeUp.label>
