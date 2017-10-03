@@ -11,27 +11,27 @@
 	<RemoveMechanoidBodyPart.description>Отсоединить часть тела.</RemoveMechanoidBodyPart.description>
 	<RemoveMechanoidBodyPart.jobString>Отсоединяет часть тела.</RemoveMechanoidBodyPart.jobString>
 
+	<!-- anesthetize -->
+
+	<Anesthetize.label>наркоз</Anesthetize.label>
+	<Anesthetize.description>Ввести существо в бессознательное состояние с помощью анастетиков.</Anesthetize.description>
+	<Anesthetize.jobString>Проводит обезболиание.</Anesthetize.jobString>
+
 	<!-- euthanasia -->
 
 	<Euthanize.label>эвтаназия</Euthanize.label>
-	<Euthanize.description>Провести эвтаназию.</Euthanize.description>
+	<Euthanize.description>Провести хирургическое умерщвление.</Euthanize.description>
 	<Euthanize.jobString>Проводит эвтаназию.</Euthanize.jobString>
 
-	<ShutDownMechanoid.label>выключение</ShutDownMechanoid.label>
-	<ShutDownMechanoid.description>Выключить механоида.</ShutDownMechanoid.description>
-	<ShutDownMechanoid.jobString>Выключает механоида.</ShutDownMechanoid.jobString>
+	<ShutDownMechanoid.label>отключение</ShutDownMechanoid.label>
+	<ShutDownMechanoid.description>Отключить механоида.</ShutDownMechanoid.description>
+	<ShutDownMechanoid.jobString>Отключает механоида.</ShutDownMechanoid.jobString>
 
 	<!-- removing hediffs (e.g. diseases) -->
 
-	<ExciseCarcinoma.label>удалить карциному</ExciseCarcinoma.label>
-	<ExciseCarcinoma.description>Удалить карциному.</ExciseCarcinoma.description>
-	<ExciseCarcinoma.jobString>Удаляет карциному.</ExciseCarcinoma.jobString>
-	<ExciseCarcinoma.successfullyRemovedHediffMessage>{0} успешно удалил(а) карциному у {1}.</ExciseCarcinoma.successfullyRemovedHediffMessage>
-
-  <!-- anesthetize -->
-
-	<Anesthetize.label>наркоз</Anesthetize.label>
-	<Anesthetize.description>Ввести в наркоз, используя имеющиеся медицинские средства.</Anesthetize.description>
-	<Anesthetize.jobString>Вводит в наркоз.</Anesthetize.jobString>
+	<ExciseCarcinoma.label>иссечь карциному</ExciseCarcinoma.label>
+	<ExciseCarcinoma.description>Вырезать карциному.</ExciseCarcinoma.description>
+	<ExciseCarcinoma.jobString>Иссекает карциному.</ExciseCarcinoma.jobString>
+	<ExciseCarcinoma.successfullyRemovedHediffMessage>{0} успешно вырезает карциному у {1}.</ExciseCarcinoma.successfullyRemovedHediffMessage>
 
 </LanguageData>
