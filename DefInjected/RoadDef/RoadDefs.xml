@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<DirtPath.label>тропа</DirtPath.label>
 
-	<DirtRoad.label>грунтовка</DirtRoad.label>
+	<DirtRoad.label>грунтовая дорого</DirtRoad.label>
 
 	<StoneRoad.label>каменная дорога</StoneRoad.label>
 
-	<AncientAsphaltRoad.label>древняя асфальтовая дорога</AncientAsphaltRoad.label>
+	<AncientAsphaltRoad.label>старое шоссе</AncientAsphaltRoad.label>
 
-	<AncientAsphaltHighway.label>древнее шоссе</AncientAsphaltHighway.label>
+	<AncientAsphaltHighway.label>старая магистраль</AncientAsphaltHighway.label>
 
 </LanguageData>
