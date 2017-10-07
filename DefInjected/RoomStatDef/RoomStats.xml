@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<Impressiveness.label>впечатление</Impressiveness.label>
-	<Impressiveness.scoreStages.0.label>омерзительно 0/9</Impressiveness.scoreStages.0.label>
-	<Impressiveness.scoreStages.1.label>ужасно 1/9</Impressiveness.scoreStages.1.label>
-	<Impressiveness.scoreStages.2.label>посредственно 2/9</Impressiveness.scoreStages.2.label>
-	<Impressiveness.scoreStages.3.label>неплохо 3/9</Impressiveness.scoreStages.3.label>
-	<Impressiveness.scoreStages.4.label>хорошо 4/9</Impressiveness.scoreStages.4.label>
-	<Impressiveness.scoreStages.5.label>отлично 5/9</Impressiveness.scoreStages.5.label>
-	<Impressiveness.scoreStages.6.label>прекрасно 6/9</Impressiveness.scoreStages.6.label>
-	<Impressiveness.scoreStages.7.label>восхитительно 7/9</Impressiveness.scoreStages.7.label>
-	<Impressiveness.scoreStages.8.label>великолепно 8/9</Impressiveness.scoreStages.8.label>
-	<Impressiveness.scoreStages.9.label>чудесно 9/9</Impressiveness.scoreStages.9.label>
+	<Impressiveness.label>выразительность</Impressiveness.label>
+	<Impressiveness.scoreStages.0.label>ужастно</Impressiveness.scoreStages.0.label>
+	<Impressiveness.scoreStages.1.label>тускло</Impressiveness.scoreStages.1.label>
+	<Impressiveness.scoreStages.2.label>посредственно</Impressiveness.scoreStages.2.label>
+	<Impressiveness.scoreStages.3.label>пристойно</Impressiveness.scoreStages.3.label>
+	<Impressiveness.scoreStages.4.label>малость впечатляет</Impressiveness.scoreStages.4.label>
+	<Impressiveness.scoreStages.5.label>впечатляет</Impressiveness.scoreStages.5.label>
+	<Impressiveness.scoreStages.6.label>очень впечатляюще</Impressiveness.scoreStages.6.label>
+	<Impressiveness.scoreStages.7.label>крайне впечатляюще</Impressiveness.scoreStages.7.label>
+	<Impressiveness.scoreStages.8.label>невероятно впечатляет</Impressiveness.scoreStages.8.label>
+	<Impressiveness.scoreStages.9.label>чертовски впечатляет</Impressiveness.scoreStages.9.label>
 
 	<Wealth.label>богатство</Wealth.label>
-	<Wealth.scoreStages.0.label>бедно 0/8</Wealth.scoreStages.0.label>
-	<Wealth.scoreStages.1.label>скудно 1/8</Wealth.scoreStages.1.label>
-	<Wealth.scoreStages.2.label>посредственно 2/8</Wealth.scoreStages.2.label>
-	<Wealth.scoreStages.3.label>почти богато 3/8</Wealth.scoreStages.3.label>
-	<Wealth.scoreStages.4.label>богато 4/8</Wealth.scoreStages.4.label>
-	<Wealth.scoreStages.5.label>роскошно 5/8</Wealth.scoreStages.5.label>
-	<Wealth.scoreStages.6.label>очень роскошно 6/8</Wealth.scoreStages.6.label>
-	<Wealth.scoreStages.7.label>невероятно роскошно 7/8</Wealth.scoreStages.7.label>
-	<Wealth.scoreStages.8.label>невообразимо роскошно 8/8</Wealth.scoreStages.8.label>
+	<Wealth.scoreStages.0.label>убого</Wealth.scoreStages.0.label>
+	<Wealth.scoreStages.1.label>бедновато</Wealth.scoreStages.1.label>
+	<Wealth.scoreStages.2.label>посредственно</Wealth.scoreStages.2.label>
+	<Wealth.scoreStages.3.label>богатенько</Wealth.scoreStages.3.label>
+	<Wealth.scoreStages.4.label>богато</Wealth.scoreStages.4.label>
+	<Wealth.scoreStages.5.label>роскошно</Wealth.scoreStages.5.label>
+	<Wealth.scoreStages.6.label>очень роскошно</Wealth.scoreStages.6.label>
+	<Wealth.scoreStages.7.label>крайне роскошно</Wealth.scoreStages.7.label>
+	<Wealth.scoreStages.8.label>невообразимо роскошно</Wealth.scoreStages.8.label>
 
 	<Space.label>пространство</Space.label>
-	<Space.scoreStages.0.label>тесно 0/6</Space.scoreStages.0.label>
-	<Space.scoreStages.1.label>весьма тесно 1/6</Space.scoreStages.1.label>
-	<Space.scoreStages.2.label>средне 2/6</Space.scoreStages.2.label>
-	<Space.scoreStages.3.label>вполне просторно 3/6</Space.scoreStages.3.label>
-	<Space.scoreStages.4.label>просторно 4/6</Space.scoreStages.4.label>
-	<Space.scoreStages.5.label>очень просторно 5/6</Space.scoreStages.5.label>
-	<Space.scoreStages.6.label>чрезвычайно просторно 6/6</Space.scoreStages.6.label>
+	<Space.scoreStages.0.label>тесно</Space.scoreStages.0.label>
+	<Space.scoreStages.1.label>темновато</Space.scoreStages.1.label>
+	<Space.scoreStages.2.label>средне</Space.scoreStages.2.label>
+	<Space.scoreStages.3.label>просторненько</Space.scoreStages.3.label>
+	<Space.scoreStages.4.label>вполне просторно</Space.scoreStages.4.label>
+	<Space.scoreStages.5.label>очень просторно</Space.scoreStages.5.label>
+	<Space.scoreStages.6.label>крайне просторно</Space.scoreStages.6.label>
 
 	<Beauty.label>красота</Beauty.label>
-	<Beauty.scoreStages.0.label>отвратительно 0/7</Beauty.scoreStages.0.label>
-	<Beauty.scoreStages.1.label>безобразно 1/7</Beauty.scoreStages.1.label>
-	<Beauty.scoreStages.2.label>нейтрально 2/7</Beauty.scoreStages.2.label>
-	<Beauty.scoreStages.3.label>очень мило 3/7</Beauty.scoreStages.3.label>
-	<Beauty.scoreStages.4.label>красиво 4/7</Beauty.scoreStages.4.label>
-	<Beauty.scoreStages.5.label>очень красиво 5/7</Beauty.scoreStages.5.label>
-	<Beauty.scoreStages.6.label>прекрасно 6/7</Beauty.scoreStages.6.label>
-	<Beauty.scoreStages.7.label>восхитительно 7/7</Beauty.scoreStages.7.label>
+	<Beauty.scoreStages.0.label>отвратно</Beauty.scoreStages.0.label>
+	<Beauty.scoreStages.1.label>уродливо</Beauty.scoreStages.1.label>
+	<Beauty.scoreStages.2.label>нейтрально</Beauty.scoreStages.2.label>
+	<Beauty.scoreStages.3.label>симпатично</Beauty.scoreStages.3.label>
+	<Beauty.scoreStages.4.label>красиво</Beauty.scoreStages.4.label>
+	<Beauty.scoreStages.5.label>очень красиво</Beauty.scoreStages.5.label>
+	<Beauty.scoreStages.6.label>прекрасно</Beauty.scoreStages.6.label>
+	<Beauty.scoreStages.7.label>невообразимо прекрасно</Beauty.scoreStages.7.label>
 
 	<Cleanliness.label>чистота</Cleanliness.label>
-	<Cleanliness.scoreStages.0.label>очень грязно 0/4</Cleanliness.scoreStages.0.label>
-	<Cleanliness.scoreStages.1.label>грязно 1/4</Cleanliness.scoreStages.1.label>
-	<Cleanliness.scoreStages.2.label>грязновато 2/4</Cleanliness.scoreStages.2.label>
-	<Cleanliness.scoreStages.3.label>чисто 3/4</Cleanliness.scoreStages.3.label>
-	<Cleanliness.scoreStages.4.label>стерильно 4/4</Cleanliness.scoreStages.4.label>
+	<Cleanliness.scoreStages.0.label>очень грязно</Cleanliness.scoreStages.0.label>
+	<Cleanliness.scoreStages.1.label>грязно</Cleanliness.scoreStages.1.label>
+	<Cleanliness.scoreStages.2.label>грязновато</Cleanliness.scoreStages.2.label>
+	<Cleanliness.scoreStages.3.label>чисто</Cleanliness.scoreStages.3.label>
+	<Cleanliness.scoreStages.4.label>стерильно</Cleanliness.scoreStages.4.label>
 
 	<InfectionChanceFactor.label>шанс возникновения инфекции</InfectionChanceFactor.label>
 	<SurgerySuccessChanceFactor.label>модификатор успешности операции</SurgerySuccessChanceFactor.label>
