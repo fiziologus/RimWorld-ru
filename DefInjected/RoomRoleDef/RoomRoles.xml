@@ -1,18 +1,18 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<None.label>ничего</None.label>
-	<Room.label>комната</Room.label>
+	<Room.label>помещение</Room.label>
 	<Bedroom.label>Спальня</Bedroom.label>  <!-- Костыль,чтобы выводилось "Спальня Вася", с большой буквы -->
-	<PrisonCell.label>Камера</PrisonCell.label>  <!-- Костыль,чтобы выводилось "Камера Вася", с большой буквы -->
+	<PrisonCell.label>Каземат</PrisonCell.label>  <!-- Костыль,чтобы выводилось "Камера Вася", с большой буквы -->
 
 	<DiningRoom.label>столовая</DiningRoom.label>
 	<RecRoom.label>комната отдыха</RecRoom.label>
 	<Hospital.label>больница</Hospital.label>
 	<Laboratory.label>лаборатория</Laboratory.label>
 	<Workshop.label>мастерская</Workshop.label>
-	<Barracks.label>Общая спальня</Barracks.label>  <!-- Костыль,чтобы выводилось "Общая спальня Вася, Маша, Петя", с большой буквы -->
-	<PrisonBarracks.label>тюрьма</PrisonBarracks.label>
+	<Barracks.label>Бараки</Barracks.label>  <!-- Костыль,чтобы выводилось "Общая спальня Вася, Маша, Петя", с большой буквы -->
+	<PrisonBarracks.label>тюремные бараки</PrisonBarracks.label>
 	<Kitchen.label>кухня</Kitchen.label>
 	<Tomb.label>склеп</Tomb.label>
 	<Barn.label>хлев</Barn.label>
