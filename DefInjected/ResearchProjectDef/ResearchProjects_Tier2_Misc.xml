@@ -1,79 +1,79 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
 	<!--================================ Tier 2: Non-electric ====================================-->
 
 	<PsychiteRefining.label>переработка психина</PsychiteRefining.label>
-	<PsychiteRefining.description>Переработка психолистьев в хлопья и порошок — различные формы эйфорического наркотика психина.</PsychiteRefining.description>
+	<PsychiteRefining.description>Переработка листьев психоида в чешуйки и йаё, различные формы эйфорического наркотика психина.</PsychiteRefining.description>
 
 	<WakeUpProduction.label>производство бодрина</WakeUpProduction.label>
-	<WakeUpProduction.description>Ваши химики узнают формулу и технологию синтеза бодрина — наркотика, повышающего работоспособность и общую выносливость организма.</WakeUpProduction.description>
+	<WakeUpProduction.description>Ваши химики узнают формулу и технологии синтеза бодрина, повышающего работоспособность препарата.</WakeUpProduction.description>
 
-	<GoJuiceProduction.label>производство Go-сока</GoJuiceProduction.label>
- 	<GoJuiceProduction.description>Обучение изготовлению Go-сока — синтетического наркотика, усиливающего боевые способности.</GoJuiceProduction.description>
+	<GoJuiceProduction.label>производство горючки</GoJuiceProduction.label>
+ 	<GoJuiceProduction.description>Изучение технологии производства горючки, искуственного, усиливающего боевые способности наркотика.</GoJuiceProduction.description>
 
 	<PenoxycylineProduction.label>призводство пеноксицилина</PenoxycylineProduction.label>
-	<PenoxycylineProduction.description>Обучение изготовлению пеноксицилина - препарата, помогающего бороться с различными болезнями.</PenoxycylineProduction.description>
+	<PenoxycylineProduction.description>Изучение технологии производства пеноксицилина, предотвращающего болезни препарата.</PenoxycylineProduction.description>
 
 	<!--================================ Tier 2: Basic electricity ====================================-->
 
 	<Batteries.label>аккумуляторы</Batteries.label>
 	<Batteries.description>Изготовление аккумуляторов для хранения электроэнергии.</Batteries.description>
 
-	<Refining.label>получение химтоплива</Refining.label>
-	<Refining.description>Конструирование перегонных аппаратов для перегонки дерева в химическое топливо.</Refining.description>
-
-	<SmokepopBelt.label>пояса-дымзавесы</SmokepopBelt.label>
-	<SmokepopBelt.description>Изготовление поясов с дымовыми шашками, которые автоматически устанавливают дымовую завесу при обстреле носителя.</SmokepopBelt.description>
+	<Refining.label>перегонка</Refining.label>
+	<Refining.description>Конструирование перегонных аппаратов для получения химтопливо из древесины.</Refining.description>
 
 	<NutrientPaste.label>питательная паста</NutrientPaste.label>
-	<NutrientPaste.description>Создание дозаторов для эффективного производства пищевых блюд из различного питательного сырья.</NutrientPaste.description>
-
-	<PackagedSurvivalMeal.label>сухие пайки</PackagedSurvivalMeal.label>
-	<PackagedSurvivalMeal.description>Производство сухпайков — консервированной и герметично упакованной еды, которая не портится. Идеально подходит для путешествий.</PackagedSurvivalMeal.description>
+	<NutrientPaste.description>Создание раздатчиков питательной пасты для эффективного производства пригодной в пищу еды из сырого пищевого сырья.</NutrientPaste.description>
 
 	<SolarPanels.label>солнечные панели</SolarPanels.label>
-	<SolarPanels.description>Конструирование панелей с солнечными батареями для выработки электроэнергии.</SolarPanels.description>
+	<SolarPanels.description>Сборка солнечных панелей для выработки электроэнергии.</SolarPanels.description>
 
 	<AirConditioning.label>кондиционеры</AirConditioning.label>
-	<AirConditioning.description>Позволяет устанавливать кондиционеры для охлаждения помещений в жару или организации холодильников.</AirConditioning.description>
+	<AirConditioning.description>Позволяет устанавливать кондиционеры для охлаждения помещений в жару или создания холодильников.</AirConditioning.description>
 
 	<Autodoors.label>автодвери</Autodoors.label>
-	<Autodoors.description>Позволяет поселенцам устанавливать двери, которые открываются автоматически, что позволит проходить через них без задержки.</Autodoors.description>
+	<Autodoors.description>Создание автоматических дверей, позволяющих проходить через них без задержки.</Autodoors.description>
 
 	<Hydroponics.label>гидропоника</Hydroponics.label>
 	<Hydroponics.description>Создание гидропонных резервуаров для быстрого выращивания растений в помещении вне зависимости от почвы и погоды снаружи.</Hydroponics.description>
 
 	<ElectricSmelting.label>электроплавка</ElectricSmelting.label>
-	<ElectricSmelting.description>Позволяет строить электрические плавильни и кузни.\n\nЭлектрокузни позволяют ковать предметы без затрат топлива, а электроплавильни — извлекать металл из металлолома и других предметов при помощи сильных электромагнитов и высоких температур.</ElectricSmelting.description>
+	<ElectricSmelting.description>Создание электрических кузней и плавилен.\n\nЭлектрические кузницы позволяют выковать предметы без топлива. Электроплавильни используют жар и мощные электромагниты для извлечения пригодного к использованию металла из металлолома и различных предметов.</ElectricSmelting.description>
 
-	<ElectricCremation.label>кремация</ElectricCremation.label>
-	<ElectricCremation.description>Строительство крематориев, в которых можно сжигать ненужные трупы.</ElectricCremation.description>
+	<PackagedSurvivalMeal.label>сухие пайки</PackagedSurvivalMeal.label>
+	<PackagedSurvivalMeal.description>Изучение технологии производства сухих пайков, консервированной и герметично упакованной еды, которая никогда не испортится. Великолепно подходит для путешествий.</PackagedSurvivalMeal.description>
+
+	<ElectricCremation.label>электрокремация</ElectricCremation.label>
+	<ElectricCremation.description>Строительство крематориев, в которых можно превражать в газ ненужные тела.</ElectricCremation.description>
 
 	<ColoredLights.label>цветное освещение</ColoredLights.label>
-	<ColoredLights.description>Создание цветных ламп для украшения помещений.</ColoredLights.description>
+	<ColoredLights.description>Позволяет поселенцам создавать для укращения освещение разных цветов.</ColoredLights.description>
 
-	<Machining.label>механика</Machining.label>
-	<Machining.description>Позволяет создавать верстаки, на которых может быть собрано оружие и оборудование, а мёртвые механоиды могут быть разобраны на металл.</Machining.description>
+	<Machining.label>станки</Machining.label>
+	<Machining.description>Создание верстаков для сборки оружия и оборудование, либо разборки нерабочих механоидов.</Machining.description>
 
-	<IEDBomb.label>осколочные СВУ</IEDBomb.label>
-	<IEDBomb.description>Изготовление самодельных взрывных устройств-ловушек из артиллерийских снарядов.</IEDBomb.description>
+	<IEDBomb.label>самодельные мины</IEDBomb.label>
+	<IEDBomb.description>Позволяет поселенцам создавать самодельные мины из миномётных снарядов.</IEDBomb.description>
 
-	<IEDIncendiary.label>зажигательные СВУ</IEDIncendiary.label>
-	<IEDIncendiary.description>Позволяет поселенцам конструировать зажигательные ловушки из артиллерийских снарядов.</IEDIncendiary.description>
+	<IEDIncendiary.label>самодельные «зажигалки»</IEDIncendiary.label>
+	<IEDIncendiary.description>Позволяет поселенцам собирать зажигательные мины из миномётных снарядов.</IEDIncendiary.description>
 
 	<Mortars.label>миномёты</Mortars.label>
-	<Mortars.description>Конструирование миномётов, которые позволяют запускать снаряды на большие расстояния поверх препятствий.</Mortars.description>
+	<Mortars.description>Изучение технологии сборки миномётов, которые позволяют перебрасывать снаряды через стены на большие расстояния.</Mortars.description>
+
+	<SmokepopBelt.label>пояса-дымзавесы</SmokepopBelt.label>
+	<SmokepopBelt.description>Изучение технологии сборки поясов с дымовыми шашками, которые автоматически устанавливают дымовую завесу для защиты.</SmokepopBelt.description>
 
 	<MicroelectronicsBasics.label>основы микроэлектроники</MicroelectronicsBasics.label>
-	<MicroelectronicsBasics.description>Основы работы с тонкой и сложной электроникой. Это знание открывает высокотехнологичный исследовательский верстак, консоль связи, а также другие проекты, такие как телевидение и контейнеры криптосна.</MicroelectronicsBasics.description>
+	<MicroelectronicsBasics.description>Основы работы с тонкой и сложной электроникой. Это ключ к высокотехнологичному исследовательскому столу, консоли связи и прочим проектам, наподобие телевидения, либо же рак криптосна.</MicroelectronicsBasics.description>
 
 	<!--=============================== Tier 2.5 Microelectronics ===================================-->
 
-	<TubeTelevision.label>ЭЛТ телевидение</TubeTelevision.label>
-	<TubeTelevision.description>Изготовление телевизоров на электронно-лучевых трубках.</TubeTelevision.description>
+	<TubeTelevision.label>телевидение</TubeTelevision.label>
+	<TubeTelevision.description>Позволяет собирать телевизоры на электронно-лучевых трубках.</TubeTelevision.description>
 
 	<GunTurrets.label>пулемётные турели</GunTurrets.label>
-	<GunTurrets.description>Позволяет конструировать автоматизированные пулемётные турели.</GunTurrets.description>
+	<GunTurrets.description>Позволяет создавать автоматические оружейные турели.</GunTurrets.description>
 
 </LanguageData>
