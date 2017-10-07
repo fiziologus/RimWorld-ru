@@ -30,8 +30,8 @@
 	<MakeChemfuelFromOrganics.description>Извлекая биогорючее из органического сырья, создать партию химтоплива.</MakeChemfuelFromOrganics.description>
 	<MakeChemfuelFromOrganics.jobString>Выделяет химтопливо из органики.</MakeChemfuelFromOrganics.jobString>
 
-	<MakeComponent.label>сделать деталь</MakeComponent.label>
-	<MakeComponent.description>Сделать деталь.</MakeComponent.description>
-	<MakeComponent.jobString>Делает деталь.</MakeComponent.jobString>
+	<MakeComponent.label>создать составляющие</MakeComponent.label>
+	<MakeComponent.description>Сделать составляющие.</MakeComponent.description>
+	<MakeComponent.jobString>Делает составляющие.</MakeComponent.jobString>
 
 </LanguageData>
