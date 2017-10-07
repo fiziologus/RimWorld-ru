@@ -1,32 +1,32 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
 	<!--========================= Tier 4: Hit-tech research bench with multi-analyzer ===================================-->
 
 	<GroundPenetratingScanner.label>глубинные сканеры</GroundPenetratingScanner.label>
-	<GroundPenetratingScanner.description>Позволяет конструировать сканеры, которые способны обнаруживать полезные ископаемые глубоко под землёй.</GroundPenetratingScanner.description>
+	<GroundPenetratingScanner.description>Позволяет создавать глубинные сканеры, способные обнаружить полезные ископаемые глубоко под землёй.</GroundPenetratingScanner.description>
 
 	<DeepDrilling.label>глубокое бурение</DeepDrilling.label>
-	<DeepDrilling.description>Строительство буровых установок для извлечения полезных ископаемых из недр. Для обнаружения месторождений требуется глубинный сканер.</DeepDrilling.description>
+	<DeepDrilling.description>Позволяет строить буровые установки для извлечения полезных ископаемых из недр. Для обнаружения месторождений требуется глубинный сканер.</DeepDrilling.description>
 
-	<VitalsMonitor.label>мониторы жизн. показателей</VitalsMonitor.label>
-	<VitalsMonitor.description>Позволяет поселенцам конструировать мониторы жизненных показателей — приборы, улучшающие качество лечения пациентов при размещении рядом с медицинскими кроватями.</VitalsMonitor.description>
+	<VitalsMonitor.label>монитор пациента</VitalsMonitor.label>
+	<VitalsMonitor.description>Позволяет поселенцам создавать мониторы пациента, улучшающие качество лечения больных, если размещенны рядом с медицинскими кроватями.</VitalsMonitor.description>
 
-	<ComponentAssembly.label>сборка компонентов</ComponentAssembly.label>
-	<ComponentAssembly.description>Позволяет вам строить специальные верстаки, где поселенцы смогут собирать компоненты из простых материалов.</ComponentAssembly.description>
+	<ComponentAssembly.label>сборка составляющих</ComponentAssembly.label>
+	<ComponentAssembly.description>Позволяет строить сборочные вестаки, на которых поселенцы смогут создавать составляющие из простых материалов.</ComponentAssembly.description>
 
 	<MultibarrelWeapons.label>многоствольное оружие</MultibarrelWeapons.label>
 	<MultibarrelWeapons.description>Позволяет собирать миниганы.</MultibarrelWeapons.description>
 
-	<Cryptosleep.label>контейнеры криптосна</Cryptosleep.label>
-	<Cryptosleep.description>Позволяет поселенцам создавать контейнеры криптосна, которые могут погружать живых существ в состояние анабиоза.</Cryptosleep.description>
+	<Cryptosleep.label>раки криптосна</Cryptosleep.label>
+	<Cryptosleep.description>Позволяет поселенцам создавать раки криптосна, погволяющие погружать живых существ в состояние приостановленной жизнедеятельности.</Cryptosleep.description>
 
 	<PoweredArmor.label>силовая броня</PoweredArmor.label>
-	<PoweredArmor.description>Робототехника на основе нейронных систем и продвинутые технологии обработки пластали позволяют вам создавать силовую броню и шлемы силовой брони.</PoweredArmor.description>
+	<PoweredArmor.description>Робототехника на основе нейронных систем и передовые технологии плетения пластали позволяют создать силовую броню и шлемы к ней.</PoweredArmor.description>
 
-	<ChargedShot.label>энергетическое оружие</ChargedShot.label>
-	<ChargedShot.description>Понимание секретов импульсно-заряженных энергетических снарядов. Позволяет вам создавать энерговинтовки.</ChargedShot.description>
+	<ShieldBelt.label>пояс-щит</ShieldBelt.label>
+	<ShieldBelt.description>Технология отталкивающих полей позволяет создавать пояса-щиты, пресекающие дальнобойные атаки, приходящие как снаружи, так и изнутри.</ShieldBelt.description>
 
-	<ShieldBelt.label>поясные генераторы щита</ShieldBelt.label>
-	<ShieldBelt.description>Импульсно-репульсорная технология, позволяющая конструировать миниатюрные генераторы защитного поля, встраиваемые в пояс. Боец, носящий такой пояс-щит, защищён от дистанционных атак, однако и сам не может стрелять сквозь защитное поле. Обычно это снаряжение используется в ближнем бою.</ShieldBelt.description>
+	<ChargedShot.label>зарядовое оружие</ChargedShot.label>
+	<ChargedShot.description>Понимание секретов импульсных энерго и использующего материальные тела оружия и боеприпасов. Позволяет создавать зарядовые ружья.</ChargedShot.description>
 </LanguageData>
