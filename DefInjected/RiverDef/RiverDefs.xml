@@ -1,12 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<HugeRiver.label>широкая</HugeRiver.label>
+	<HugeRiver.label>широкая река</HugeRiver.label>
 
-	<LargeRiver.label>средняя</LargeRiver.label>
+	<LargeRiver.label>река</LargeRiver.label>
 
-	<River.label>узкая</River.label>
+	<River.label>речка</River.label>
 
-	<Creek.label>мелкий ручей</Creek.label>
+	<Creek.label>ручей</Creek.label>
 
 </LanguageData>
