@@ -12,28 +12,27 @@
 	<EffectsAtLevel>Параметры на уровне {0}</EffectsAtLevel>
 	<SkillMax>Максимум</SkillMax>
 
-	<Skill0>чё то слышал</Skill0>
+	<Skill0>Чёто слышалось</Skill0>
 <!-- ближе к оригиналу -->
-	<Skill1>начинающий</Skill1>
-	<Skill2>новичок</Skill2>
-<!-- начинающий == только что, новичок == недавно -->
-	<Skill3>базовое ознакомление</Skill3>
-	<Skill4>любитель</Skill4>
-	<Skill5>опытный любитель</Skill5>
-	<Skill6>практик</Skill6>
-	<Skill7>опытный практик</Skill7>
-	<Skill8>профессионал</Skill8>
-	<Skill9>квалифицированный профессионал</Skill9>
-	<Skill10>эксперт</Skill10>
-	<Skill11>опытный эксперт</Skill11>
-	<Skill12>профессиональный эксперт</Skill12>
-	<Skill13>мастер</Skill13>
-	<Skill14>хороший мастер</Skill14>
-	<Skill15>мастер планетарного масштаба</Skill15>
-	<Skill16>мастер звёздного масштаба</Skill16>
-	<Skill17>заслуженный мастер</Skill17>
-	<Skill18>кудесник</Skill18>
-	<Skill19>легендарный</Skill19>
-	<Skill20>богоподобный</Skill20>
+	<Skill1>Попервой</Skill1>
+	<Skill2>Новичок</Skill2>
+	<Skill3>Знает азы</Skill3>
+	<Skill4>Кое-что знает</Skill4>
+	<Skill5>Хорошо знает</Skill5>
+	<Skill6>Умелый любитель</Skill6>
+	<Skill7>Уже не любитель</Skill7>
+	<Skill8>Почти профи</Skill8>
+	<Skill9>Профессионал</Skill9>
+	<Skill10>Опытный профи</Skill10>
+	<Skill11>Умелец</Skill11>
+	<Skill12>Знаток</Skill12>
+	<Skill13>Дока</Skill13>
+	<Skill14>Мастер</Skill14>
+	<Skill15>Искустник</Skill15>
+	<Skill16>Узко известный мастер</Skill16>
+	<Skill17>Мастер всея края</Skill17>
+	<Skill18>Широко известный мастер</Skill18>
+	<Skill19>Мастер всея земли</Skill19>
+	<Skill20>Легендарный мастер</Skill20>
 
 </LanguageData>

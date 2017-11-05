@@ -14,10 +14,11 @@
 	<AbandonSliderText>Оставить {{0}}x {0}</AbandonSliderText>
 	<ConfirmAbandonItemDialog>Вы действительно хотите оставить {0}?\n\nОставленные вещи исчезнут, и их будет невозможно вернуть.</ConfirmAbandonItemDialog>
 	<AbandonTip>Оставить</AbandonTip>
+	<BanishTip>Прогнать</BanishTip>
 	<AbandonSpecificCountTip>Оставить указанное количество</AbandonSpecificCountTip>
 	<AbandonAllTip>Оставить всё</AbandonAllTip>
 	<AbandonItemTipExtraText>Оставленные вещи исчезнут, и их будет невозможно вернуть.</AbandonItemTipExtraText>
-	<AbandonTipWillDie>{0} скорее всего погибнет.</AbandonTipWillDie>
+	<BanishTipWillDie>{0} скорее всего погибнет.</BanishTipWillDie>
 
 	<!-- Caravan inspect -->
 	<CaravanColonists>Путешественники</CaravanColonists>
@@ -26,12 +27,13 @@
 	<OpenSpecificTabButtonTip>Нажмите, чтобы увидеть подробности.</OpenSpecificTabButtonTip>
 	<CaravanPrisoners>Заключённые</CaravanPrisoners>
 	<CaravanWeaponsAndApparel>Вещи</CaravanWeaponsAndApparel>
+	<NoneCapable>Нет способностей</NoneCapable>
 
 	<!-- Caravan gear -->
 	<DragToRearrange>Перетаскивайте, чтобы упорядочить предметы.</DragToRearrange>
 
 	<!-- Planet -->
 	<PlanetSeed>Зерно</PlanetSeed>
-	<PlanetCoverageShort>Размер карты</PlanetCoverageShort>
+	<PlanetCoverageShort>Охват</PlanetCoverageShort>
 
 </LanguageData>

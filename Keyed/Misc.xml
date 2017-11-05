@@ -32,6 +32,7 @@
 	<intervalDays>интервал (дней)</intervalDays>
 	<repeat>повторить</repeat>
 	<default>по умолчанию</default>
+	<distance>расстояние</distance>
 
 	<!-- Content generation-->
 
@@ -48,9 +49,9 @@
 	<RoughStoneTerrainLabel>неровный {0}</RoughStoneTerrainLabel>
 	<RoughStoneTerrainDesc>Невыровненный {0} пол.</RoughStoneTerrainDesc>
 	<RoughHewnStoneTerrainLabel>неотёсанный {0}</RoughHewnStoneTerrainLabel>
-	<RoughHewnStoneTerrainDesc>Неотёсанный {0} пол.</RoughHewnStoneTerrainDesc>
+	<RoughHewnStoneTerrainDesc>Грубо обтёсанный естественный {0} пол.</RoughHewnStoneTerrainDesc>
 	<SmoothStoneTerrainLabel>ровный {0}</SmoothStoneTerrainLabel>
-	<SmoothStoneTerrainDesc>Выровненный {0} пол.</SmoothStoneTerrainDesc>
+	<SmoothStoneTerrainDesc>Выровненный естественный {0} пол.</SmoothStoneTerrainDesc>
 
 	<BlueprintLabelExtra> (проект)</BlueprintLabelExtra>
 	<FrameLabelExtra> (постройка)</FrameLabelExtra>

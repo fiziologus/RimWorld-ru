@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<WorkTagNone>Отсутствует</WorkTagNone>
-	<WorkTagIntellectual>Умственная работа</WorkTagIntellectual>
-	<WorkTagManualDumb>Простая работа</WorkTagManualDumb>
-	<WorkTagManualSkilled>Квалифицированная работа</WorkTagManualSkilled>
-	<WorkTagViolent>Насилие</WorkTagViolent>
-	<WorkTagCaring>Уход</WorkTagCaring>
-	<WorkTagSocial>Общение</WorkTagSocial>
-	<WorkTagAnimals>Животноводство</WorkTagAnimals>
-	<WorkTagArtistic>Творчество</WorkTagArtistic>
-	<WorkTagCrafting>Ремесло</WorkTagCrafting>
-	<WorkTagCooking>Кулинария</WorkTagCooking>
-	<WorkTagFirefighting>Пожаротушение</WorkTagFirefighting>
-	<WorkTagCleaning>Уборка</WorkTagCleaning>
-	<WorkTagHauling>Переноска</WorkTagHauling>
-	<WorkTagPlantWork>Земледелие</WorkTagPlantWork>
-	<WorkTagMining>Горное дело</WorkTagMining>
+	<WorkTagNone>нет</WorkTagNone>
+	<WorkTagIntellectual>умственный труд</WorkTagIntellectual>
+	<WorkTagManualDumb>простая работа</WorkTagManualDumb>
+	<WorkTagManualSkilled>квалифицированная работа</WorkTagManualSkilled>
+	<WorkTagViolent>жестокость</WorkTagViolent>
+	<WorkTagCaring>уход</WorkTagCaring>
+	<WorkTagSocial>общение</WorkTagSocial>
+	<WorkTagAnimals>работа с животными</WorkTagAnimals>
+	<WorkTagArtistic>творчество</WorkTagArtistic>
+	<WorkTagCrafting>ремесло</WorkTagCrafting>
+	<WorkTagCooking>готовка</WorkTagCooking>
+	<WorkTagFirefighting>пожаротушение</WorkTagFirefighting>
+	<WorkTagCleaning>уборка</WorkTagCleaning>
+	<WorkTagHauling>переноска</WorkTagHauling>
+	<WorkTagPlantWork>земледелие</WorkTagPlantWork>
+	<WorkTagMining>горное дело</WorkTagMining>
 
 </LanguageData>

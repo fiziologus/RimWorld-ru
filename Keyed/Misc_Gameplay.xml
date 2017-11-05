@@ -53,6 +53,8 @@
 	<RuinedByTemperature>Испортилось из-за температурных условий.</RuinedByTemperature>
 	<CorpsePercentMissing>Отсутствуют части тела</CorpsePercentMissing>
 	<HiveReproducesIn>Расплодится через</HiveReproducesIn>
+	<DormantHiveNotReproducing>В спячке: не плодится.</DormantHiveNotReproducing>
+	<NextSpawnedItemIn>Следующий {0} через</NextSpawnedItemIn>
 	<BrokenDown>Сломано</BrokenDown>
 	<BondBrackets>(привяз-ть)</BondBrackets>
 	<Fuel>Топливо</Fuel>
@@ -79,6 +81,7 @@
 	<CaravanHoursPerTile>ч на клетку</CaravanHoursPerTile>
 	<CaravanBaseMovementTime>Базовое время пути</CaravanBaseMovementTime>
 	<CurrentTileMovementTime>Времени в текущей клетке</CurrentTileMovementTime>
+	<StealthFactor>Незаметность</StealthFactor>
 	<Temperature>Температура</Temperature>
 	<BadTemperature>неподходящая температура</BadTemperature>
 	<IdealFermentingTemperature>Идеальная температура для брожения</IdealFermentingTemperature>
@@ -123,6 +126,12 @@
 	<KnownSiteThreat>Угроза: {0}.</KnownSiteThreat>
 	<KnownSiteThreats>Угрозы: {0}.</KnownSiteThreats>
 	<KnownSiteThreatsNone>Угроз нет.</KnownSiteThreatsNone>
+	<SkillRequirements>Требование к Навыку</SkillRequirements>
+	<Products>Изделия</Products>
+	<DeepDrillExhausted>Глубинное месторождение выработанно.</DeepDrillExhausted>
+	<Relationship>{0} из {1}</Relationship>
+	<Prisoner>Узник</Prisoner>
+	<Refugee>Беженец</Refugee>
 
 	<!-- Fermentation barrel -->
 	<ContainsWort>Содержит {0} / {1} сусла.</ContainsWort>
@@ -178,25 +187,27 @@
 	<GunInstalled>Установлено</GunInstalled>
 	<MinimumRange>Минимальная дальность</MinimumRange>
 	<CanFireIn>Перезарядка через</CanFireIn>
-	<ShellLoaded>Заряжено</ShellLoaded>
+	<ShellLoaded>Заряжено: {0}</ShellLoaded>
 	<ShellNotLoaded>Не заряжено</ShellNotLoaded>
 
 	<!-- Job reports -->
-	<ReportHaulingTo>несёт {0} на {1}.</ReportHaulingTo>
-	<ReportHauling>несёт {0}.</ReportHauling>
+	<ReportHaulingTo>тащит {0} к {1}.</ReportHaulingTo>
+	<ReportHauling>тащит {0}.</ReportHauling>
+	<ReportHaulingUnknown>тащит.</ReportHaulingUnknown>
 	<ReportSleeping>спит.</ReportSleeping>
 	<ReportResting>отдыхает.</ReportResting>
-	<WatchingSunrise>наблюдет за восходом.</WatchingSunrise>
+	<WatchingSunrise>наблюдает восход.</WatchingSunrise>
 	<CloudWatching>наблюдает за облаками.</CloudWatching>
-	<WatchingSunset>наблюдает за закатом.</WatchingSunset>
+	<WatchingSunset>наблюдает закат.</WatchingSunset>
 	<Stargazing>смотрит на звёзды.</Stargazing>
-	<WatchingEclipse>наблюдает за затмением.</WatchingEclipse>
+	<WatchingEclipse>наблюдает затмение.</WatchingEclipse>
 	<UsingVerb>использует {0} на {1}.</UsingVerb>
 	<AreaLower>область</AreaLower>
 	<ReportCowering>ищет укрытие.</ReportCowering>
 	<ReportStanding>стоит.</ReportStanding>
 	<ReportExtinguishingFire>тушит пожар.</ReportExtinguishingFire>
 	<ReportExtinguishingFireOn>сбивает огонь с {0}.</ReportExtinguishingFireOn>
+	<ReportDiggingUpCorpse>откапывает тело.</ReportDiggingUpCorpse>
 
 	<!-- Lord job reports -->
 	<LordReportAttendingMarriageCeremony>Посещает церемонию бракосочетания</LordReportAttendingMarriageCeremony>
@@ -246,7 +257,8 @@
 	<Incapacitated>Повержен(а)</Incapacitated>
 	<InRestraints>В оковах (движение замедлено)</InRestraints>
 	<Carrying>Переносит</Carrying>
-	<AffectedBy>Влияющие факторы:</AffectedBy>
+	<AffectedBy>Затрагивается:</AffectedBy>
+	<Queued>В очереди</Queued>
 
 	<!-- Inspector general stuff -->
 	<SelectNextInSquareTip>Выбрать другой предмет на той же клетке.\n\nКлавиша: {0}\n\nТо же самое можно сделать, щёлкнув по этой клетке ещё раз.</SelectNextInSquareTip>
@@ -262,10 +274,11 @@
 	<!-- Power readout -->
 	<PowerNotConnected>Не подключено к сети.</PowerNotConnected>
 	<PowerConnectedRateStored>Мощность сети/аккумулировано: {0} Вт / {1} Вт*дней</PowerConnectedRateStored>
-	<PowerNeeded>Потребляемая мощность</PowerNeeded>
-	<PowerOutput>Энерговыработка</PowerOutput>
-	<PowerBatteryStored>Заряд</PowerBatteryStored>
-	<PowerBatteryEfficiency>КПД</PowerBatteryEfficiency>
+	<PowerNeeded>Необходимая мощность</PowerNeeded>
+	<PowerOutput>Выходная мощность</PowerOutput>
+	<PowerBatteryStored>Накоплено</PowerBatteryStored>
+	<PowerBatteryEfficiency>Эффективность</PowerBatteryEfficiency>
+	<SelfDischarging>Утечка</SelfDischarging>
 
 	<!-- Temperature control -->
 	<TargetTemperature>Заданная температура</TargetTemperature>
@@ -312,6 +325,8 @@
 	<GrowYearRound>Круглый год</GrowYearRound>
 	<GrowSeasonHereNow>Сейчас сезон роста.</GrowSeasonHereNow>
 	<CannotGrowBadSeasonTemperature>Не может расти (неподходящий температурный сезон).</CannotGrowBadSeasonTemperature>
+	<Blighted>Заражено</Blighted>
+	<DyingBecauseExposedToLight>Погибло оставленное на свету</DyingBecauseExposedToLight>
 
 	<!-- Zones -->
 	<Zone>Зона</Zone>
@@ -341,7 +356,8 @@
 	<ShowRoofOverlayToggleButton>Отображение крыш.</ShowRoofOverlayToggleButton>
 	<LockNorthUpToggleButton>Зафиксировать камеру так, чтобы север был сверху.</LockNorthUpToggleButton>
 	<UsePlanetDayNightSystemToggleButton>Отображение зон дня и ночи.</UsePlanetDayNightSystemToggleButton>
-	<ExpandingIconsToggleButton>Отображение раскрываемых иконок вместо обычных для далёких объектов.</ExpandingIconsToggleButton>
+	<ShowExpandingIconsToggleButton>Отображение раскрываемых иконок вместо обычных для отдалённых объектов.</ShowExpandingIconsToggleButton>
+	<ShowWorldFeaturesToggleButton>Видимость топонимов.</ShowWorldFeaturesToggleButton>
 
 	<!-- Fire -->
 	<Fire>Огонь</Fire>
@@ -380,7 +396,13 @@
 	<ShipReportCannotLaunch>Нельзя запустить.</ShipReportCannotLaunch>
 	<ShipReportCanLaunch>Готов к запуску.</ShipReportCanLaunch>
 	<ShipReportMissingPart>Нет критически важных модулей</ShipReportMissingPart>
+	<ShipReportMissingPartRequires>необходимо</ShipReportMissingPartRequires>
 	<ShipReportNoFullPods>Нет заполненных контейнеров криптосна.</ShipReportNoFullPods>
+	<ShipReportHibernating>Бездействующий модуль</ShipReportHibernating>
+	<ShipReportNotReady>Модуль ещё не готов</ShipReportNotReady>
+	<HibernateWarning>Шарлон Белокамень готов начать процедуру вывода реактора из сна.\n\nОн предупреждает, что этот процесс займёт около 15 дней, а энергетическая сигнатура будет видна на большом расстоянии отсюда. Такого рода энергосигнатура служит признаком способности к межзвёздным перелётам и привлечёт шайки отчаявшихся налётчиков и охотников за сокровищами. Вначале убедитесь, что готовы к обороне.</HibernateWarning>
+	<HibernateCompleteLabel>Реактор запущен</HibernateCompleteLabel>
+	<HibernateComplete>Шарлон Белокамень завершил процедуру вывода реактора из сна. В настоящий момент реактор готов к старту судна.</HibernateComplete>
 
 	<!-- Neurotrainer -->
 	<NeurotrainerUsed>{0} использовал {1} нейротренер, чтобы перейти с уровня {2} на уровень {3}.</NeurotrainerUsed>
@@ -489,5 +511,9 @@
 	<OutfitWorker>Рабочая одежда</OutfitWorker>
 	<OutfitSoldier>Солдатская экипировка</OutfitSoldier>
 	<OutfitNudist>Костюм нудиста</OutfitNudist>
+
+	<!-- Hibernatable -->
+	<HibernatableHibernating>Бездействует</HibernatableHibernating>
+	<HibernatableStartingUp>Запушен</HibernatableStartingUp>
 
 </LanguageData>

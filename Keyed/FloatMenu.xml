@@ -19,6 +19,7 @@
 	<IncapableOfViolenceLower>не способен(на) на насилие</IncapableOfViolenceLower>
 	<IsNotDraftedLower>{0} не призван</IsNotDraftedLower>
 	<CannotOrderNonControlledLower>нельзя отдавать приказы неподконтрольной единице</CannotOrderNonControlledLower>
+	<CannotAttackSelf>нападать на самого себя нельзя</CannotAttackSelf>
 
 	<OrderManThing>Занять {0}</OrderManThing>
 
@@ -32,13 +33,14 @@
 	<BurningLower>горит</BurningLower>
 	<NoEmptyPlaceLower>нет свободного места, настроенного для хранения этого</NoEmptyPlaceLower>
 	<AlreadyFilledLower>уже заполнен</AlreadyFilledLower>
-	<MissingMaterials>нужны материалы</MissingMaterials>
-	<MissingSkill>недостаточный уровень навыка</MissingSkill>
+	<MissingMaterials>нужны материал</MissingMaterials>
+	<MissingSkill>слишком низкий навык</MissingSkill>
 	<NoEmptyGraveLower>нет пустой могилы, предназначенной для этого</NoEmptyGraveLower>
 	<AnimalInteractedTooRecently>животное обучалось совсем недавно</AnimalInteractedTooRecently>
 	<NoUsableFood>нет применимой еды</NoUsableFood>
 	<NoFood>нет еды</NoFood>
-	<AnimalsSkillTooLow>низкий навык Животноводства</AnimalsSkillTooLow>
+	<AnimalsSkillTooLow>слишком низкий навык работы с животными</AnimalsSkillTooLow>
+	<ConstructionSkillTooLow>слишком низкий навык сборки</ConstructionSkillTooLow>
 	<NoComponentsToRepair>нужны компоненты</NoComponentsToRepair>
 	<NoFuelToRefuel>нужно {0}</NoFuelToRefuel>
 	<NoWort>нужно сусло</NoWort>
@@ -46,6 +48,10 @@
 	<NoFoodToFillHopper>нет подходящей еды</NoFoodToFillHopper>
 	<SelfTendDisabled>самолечение недоступно</SelfTendDisabled>
 	<ReservedForPrisoners>выделено для заключённых</ReservedForPrisoners>
+	<CannotReach>вне досягаемости</CannotReach>
+	<NotSurgeryReady>не проведена подготовка к операции</NotSurgeryReady>
+	<CantSowCavePlantBecauseOfLight>слишком ярко</CantSowCavePlantBecauseOfLight>
+	<CantSowCavePlantBecauseUnroofed>нет потолка</CantSowCavePlantBecauseUnroofed>
 
 	<ConsumeThing>Употребить {0}</ConsumeThing>
 
@@ -120,7 +126,9 @@
 
 	<EnterMap>Войти в {0}</EnterMap>
 	<VisitSettlement>Посетить {0}</VisitSettlement>
+	<VisitPeaceTalks>Посетить {0}</VisitPeaceTalks>
 	<VisitSite>Посетить {0}</VisitSite>
+	<VisitEscapeShip>Посетить {0}</VisitEscapeShip>
 	<AttackSite>Напасть на {0}</AttackSite>
 	<AttackSettlement>Напасть на {0}</AttackSettlement>
 
