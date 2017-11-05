@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<TemperateForest.label>умеренный лес</TemperateForest.label>
+	<TemperateForest.description>Лиственные леса, перемежающиеся плодородными полянами. Среди деревьев и на равнинах бегант множество видов животных. Зимой движение затруднено из-за снега.</TemperateForest.description>
+
+	<TemperateSwamp.label>Болота</TemperateSwamp.label>
+	<TemperateSwamp.description>Крайне плотная растительность и топкая почва делают возведение больших построек и передвижение здесь вельма затруднительным. На этой территории обитает множество видов животных.</TemperateSwamp.description>
+
+</LanguageData>
