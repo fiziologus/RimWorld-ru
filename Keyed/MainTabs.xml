@@ -11,6 +11,7 @@
 	<NoneBrackets>(отсутствуют)</NoneBrackets>
 	<IncapableOfWorkTypeBecauseOfCapacities>Этот поселенец не может выполнять работу такого типа из-за состояния своего здоровья.</IncapableOfWorkTypeBecauseOfCapacities>
 	<EmergencyWorkMarker>E</EmergencyWorkMarker>
+	<SelectedWorkTypeWithVeryBadSkill>Внимание: среднее значение соответствующих навыков слишком низкое.</SelectedWorkTypeWithVeryBadSkill>
 
 	<!-- Assign tab -->
 	<ManageOutfits>Гардероб</ManageOutfits>

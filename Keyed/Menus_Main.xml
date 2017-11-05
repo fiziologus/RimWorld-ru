@@ -138,17 +138,21 @@
 	<AvgSummerTemp>Температура летом</AvgSummerTemp>
 	<AvgWinterTemp>Температура зимой</AvgWinterTemp>
 	<Rainfall>Осадки</Rainfall>
-	<HasCoast0>Побережье с севера</HasCoast0>
-	<HasCoast1>Побережье с востока</HasCoast1>
-	<HasCoast2>Побережье с юга</HasCoast2>
-	<HasCoast3>Побережье с запада</HasCoast3>
+	<SpecialFeatures>Особенности</SpecialFeatures>
+	<HasCoast0>побережье с севера</HasCoast0>
+	<HasCoast1>побережье с востока</HasCoast1>
+	<HasCoast2>побережье с юга</HasCoast2>
+	<HasCoast3>побережье с запада</HasCoast3>
+	<HasCaves>пещеры</HasCaves>
 	<FactionBase>База фракции</FactionBase>
 	<StoneTypesHere>Типы пород</StoneTypesHere>
 	<TimeZone>Часовой пояс</TimeZone>
 	<MovementTimeNow>Текущее время прохождения</MovementTimeNow>
 	<MovementTimeSummer>Время прохождения летом</MovementTimeSummer>
 	<MovementTimeWinter>Время прохождения зимой</MovementTimeWinter>
-	<AnimalsCanGrazeNow>Животные могут пастить</AnimalsCanGrazeNow>
+	<AnimalsCanGrazeNow>Сейчас возможен выпас</AnimalsCanGrazeNow>
+	<AverageDiseaseFrequency>Средняя частота эпидемий</AverageDiseaseFrequency>
+	<PerYear>каждый год</PerYear>
 
 	<!--=========== Выбор персонажей ==========-->
 
@@ -171,6 +175,9 @@
 	<Pain>Боль</Pain>
 	<Health>Здоровье</Health>
 	<Relations>Отношения</Relations>
+	<TeamSkills>Навыки группы</TeamSkills>
+	<StartingPawnsSelected>Выбранны</StartingPawnsSelected>
+	<StartingPawnsLeftBehind>Оставленны</StartingPawnsLeftBehind>
 
 	<!--=========== Разное ==========-->
 

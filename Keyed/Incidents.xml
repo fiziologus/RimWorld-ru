@@ -6,10 +6,10 @@
 	<LetterLabelAnimalInsanitySingle>Бешеное животное</LetterLabelAnimalInsanitySingle>
 	<AnimalInsanitySingle>Животное, {0}, в бешенстве и будет атаковать любого, кого увидит.</AnimalInsanitySingle>
 	<LetterLabelAnimalInsanityMultiple>Бешеные животные!</LetterLabelAnimalInsanityMultiple>
-	<AnimalInsanityMultiple>Некое подобие психической волны прошло по земле. Ваши поселенцы в порядке, но...\n\nПохоже, многие представители вида {0} сошли с ума.</AnimalInsanityMultiple>
+	<AnimalInsanityMultiple>Некое подобие воздействующей на психику волны пронеслось по окресностям. Ваши поселенцы в порядке, однако...\n\nПохоже, многие {0} впали в безумее.</AnimalInsanityMultiple>
 
 	<LetterLabelCropBlight>Болезнь растений</LetterLabelCropBlight>
-	<CropBlight>Загадочное заболевание уничтожило все ваши посевы.</CropBlight>
+	<LetterCropBlight>Поселенец заметил, что посевы чем-то заражены! Необходимо срезать, либо сжечь заражённые растения прежде, чем болезнь распространится.</LetterCropBlight>
 
 	<LetterLabelMiracleHeal>Чудо</LetterLabelMiracleHeal>
 	<MiracleHeal>Чудесное исцеление снизошло на {0}.</MiracleHeal>
@@ -33,7 +33,9 @@
 	<CargoPodCrash>Вы засекли несколько грузовых контейнеров, упавших поблизости.\n\nВозможно, вы найдёте что-то полезное в обломках.</CargoPodCrash>
 
 	<AnElectricalConduit>электропроводке</AnElectricalConduit>
-	<ShortCircuit>Неисправность в {0} вызвала короткое замыкание.\n\nВсе {1} Вт*дней энергии в подключённых аккумуляторах потеряны.</ShortCircuit>
+	<ShortCircuit>Неисправность в {0} вызвало короткое замыкание.</ShortCircuit>
+	<ShortCircuitStartedFire>Неисправность в {0} вызвало короткое замыкание и последующий пожар.</ShortCircuitStartedFire>
+	<ShortCircuitDischargedEnergy>Все {0} Вт*дн в подключённых аккамуляторах разрядились в образовавшуюся искру.</ShortCircuitDischargedEnergy>
 	<ShortCircuitWasLarge>Из-за высокой мощности короткое замыкание вызвало вспышку, громкий хлопок и последующее возгорание.</ShortCircuitWasLarge>
 	<ShortCircuitWasHuge>Вот это фейерверк! Ничего себе!</ShortCircuitWasHuge>
 
@@ -56,7 +58,7 @@
 	<WandererJoin>{0} прибыл и решил присоединиться к поселению.\n\nHISCAP зовут NAME, и HE {1}.</WandererJoin>
 
 	<LetterLabelManhunterPackArrived>Животные-людоеды</LetterLabelManhunterPackArrived>
-	<ManhunterPackArrived>Свора животных ({0}-людоед) забрела на вашу территорию. Они жаждут человеческого мяса.\n\nЭти животные не смогут пройти через двери, поэтому внутри вы будете в безопасности. Они также не нападут на турели, если вы отключите их заранее.\n\nПодождите несколько дней, и животные уйдут.</ManhunterPackArrived>
+	<ManhunterPackArrived>Неподалёку появилась стая охотящихся на людей животных ({0}). Они будут скитаться по окресностям, охотясь до человеческой плоти.\n\nЭти животные не смогут пройти через двери, так что за стенами должно быть безопасносто. Они также не нападут на нерабочие турели, так что отключите, если хотите сохранить.\n\nЧерез несколько дней стая уйдёт отсюда.</ManhunterPackArrived>
 
 	<!-- Crashed ship part-->
 	<MessageAnimalInsanityPulse>Древнее сооружение испустило психический импульс, который вызвал ярость у ближайших животных.</MessageAnimalInsanityPulse>
@@ -121,7 +123,11 @@
 	<RansomDemand_Reject>Отказаться</RansomDemand_Reject>
 
 	<!-- Journey -->
-	<JourneyOffer>Дружелюбно настроенный ИИ, называющий себя именем Шарлон Вайтстоун, отправил вам сообщение!\n\nОн говорит, что на этой планете в тайном месте находится его корабль, и сообщает вам его координаты.\n\nЕсли вы доберётесь до него, Шарлон унесёт вас с этого периферийного мира вдаль, к звёздам.</JourneyOffer>
+	<JourneyOffer>Знающий вас дружелюбно настроенный ИИ, называющий себя Шарлон Белокамень, отправил вам сообщение!\n\nОн открылся, что на этой планете спрятан его корабль, и послал вам его координаты.\n\nВ настоящий момент судно находится в режиме глубокого сна. Вам нужно по прибытии разбудить его и оборонять от попытающихся украсть налётчиков до завершения процедуры активации.\n\nЕсли сумеете оторвать корабль от земли, Шарлон унесёт вас с этих окраин, к звёздам.</JourneyOffer>
+	<EscapeShipFoundLabel>Судно найдено</EscapeShipFoundLabel>
+	<EscapeShipFound>Вы достигли отосланных Шарлон Белокамень координат и отыскали спрятанный космический корабль.\n\nКорабельный реактор всё ещё в глубокой спячке, так что сразу взлететь не получится. Взаимодействовав с компьютерным ядром вы можете запустить его.\n\nШарлон Белокамень предупреждает, что процедура запуска займёт около 15 дней, а энергетическая сигнатура будет видна на большом растоянии отсюда. Такого рода энергосигнатура служит признаком способности к межзвёздным перелётам и привлечёт шайки отчаявшихся налётчиков и охотников за сокровищами. Вначале убедитесь, что готовы к обороне.</EscapeShipFound>
+	<EscapeShipLostLabel>Корабль уничтожен</EscapeShipLostLabel>
+	<EscapeShipLost>Шарлон Белокамень отправляет вам сообщение.\n\nОн увидел, что вы потеряли контроль над судном. Чтобы оно не попало не в те руки, он вынужден был запустить корабельный механизм самоуничтожения. Теперь вместо корабля дыра в земле.\n\nВам же нужно найти другой путь с этой планеты.</EscapeShipLost>
 
 	<!-- Caravan meeting -->
 	<CaravanMeetingTitle>Встреча караванов у {0}</CaravanMeetingTitle>
@@ -129,6 +135,7 @@
 	<CaravanMeeting_Trade>Торговать</CaravanMeeting_Trade>
 	<CaravanMeeting_Attack>Напасть</CaravanMeeting_Attack>
 	<CaravanMeeting_MoveOn>Идти дальше</CaravanMeeting_MoveOn>
+	<CaravanMeeting_TradeIncapable>нет способных к торговле участников каравана</CaravanMeeting_TradeIncapable>
 
 	<!-- Caravan request -->
 	<LetterLabelCaravanRequest>Запрос торгового каравана</LetterLabelCaravanRequest>
@@ -148,8 +155,6 @@
 	<ItemStashQuestFeeDemand>{0} предлагает вам информацию о местонахождении тайника с припасами в обмен на {1} серебра.</ItemStashQuestFeeDemand>
 	<ItemStashSitePart_Unknown>К сожалению, {0} не имеет ни малейшего представления, кто или что может охранять этот схрон.</ItemStashSitePart_Unknown>
 	<ItemStashSitePart_Nothing>{0} говорит, что тайник никем не охраняется.</ItemStashSitePart_Nothing>
-	<ItemStashSitePart_Outpost>{0} говорит, что рядом находится вражеский лагерь.</ItemStashSitePart_Outpost>
-	<ItemStashSitePart_Turrets>{0} говорит, что схрон окружён вражескими турелями.</ItemStashSitePart_Turrets>
-	<ItemStashSitePart_Manhunters>{0} говорит, что рядом бродит стая опасных животных.</ItemStashSitePart_Manhunters>
+	<ItemStashSitePart_Part>{0} говорит, что {1}.</ItemStashSitePart_Part>
 
 </LanguageData>

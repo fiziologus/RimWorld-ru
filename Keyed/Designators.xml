@@ -43,15 +43,14 @@
 	<DesignatorAreaHomeClear>Уменьшить домашнюю область</DesignatorAreaHomeClear>
 	<DesignatorAreaHomeClearDesc>Удалить клетки домашней области. Поселенцы больше не будут заниматься здесь уборкой, тушением пожаров и ремонтом объектов.</DesignatorAreaHomeClearDesc>
 
-	<DesignatorAreaBuildRoofExpand>Расширить область крыш</DesignatorAreaBuildRoofExpand>
+	<DesignatorAreaBuildRoofExpand>Построить крышу</DesignatorAreaBuildRoofExpand>
 	<DesignatorAreaBuildRoofExpandDesc>Поселенцы будут строить крыши в этой области.</DesignatorAreaBuildRoofExpandDesc>
-	<DesignatorAreaBuildRoofClear>Уменьшить область крыш</DesignatorAreaBuildRoofClear>
-	<DesignatorAreaBuildRoofClearDesc>Удалить клетки области постройки крыш. Существующие крыши останутся, но другие строиться уже не будут.</DesignatorAreaBuildRoofClearDesc>
 
-	<DesignatorAreaNoRoofExpand>Расширить область без крыш</DesignatorAreaNoRoofExpand>
+	<DesignatorAreaNoRoofExpand>Снять крышу</DesignatorAreaNoRoofExpand>
 	<DesignatorAreaNoRoofExpandDesc>Поселенцы уберут любые существующие здесь крыши. Толстую горную породу, находящуюся над данной областью, убрать нельзя.</DesignatorAreaNoRoofExpandDesc>
-	<DesignatorAreaNoRoofClear>Уменьшить область без крыш</DesignatorAreaNoRoofClear>
-	<DesignatorAreaNoRoofClearDesc>Удалить клетки области без крыши. Поселенцы больше не будут убирать крыши в этом месте.</DesignatorAreaNoRoofClearDesc>
+
+	<DesignatorAreaIgnoreRoofExpand>Не строить крышу</DesignatorAreaIgnoreRoofExpand>
+	<DesignatorAreaIgnoreRoofExpandDesc>Поселенцы не будут накрывать эту область крышей.</DesignatorAreaIgnoreRoofExpandDesc>
 
 	<DesignatorAreaSnowClearExpand>Расширить область без снега</DesignatorAreaSnowClearExpand>
 	<DesignatorAreaSnowClearExpandDesc>Эту область поселенцы будут чистить от снега.</DesignatorAreaSnowClearExpandDesc>
@@ -86,7 +85,7 @@
 	<DesignatorRearmTrapDesc>Зарядить капкан, чтобы он снова смог сработать.</DesignatorRearmTrapDesc>
 
 	<DesignatorOpen>Открыть</DesignatorOpen>
-	<DesignatorOpenDesc>Открыть заполненные контейнеры или могилы.</DesignatorOpenDesc>
+	<DesignatorOpenDesc>Открыть контейнеры.</DesignatorOpenDesc>
 
 	<DesignatorSlaughter>Заколоть</DesignatorSlaughter>
 	<DesignatorSlaughterDesc>Заколоть домашнее животное.</DesignatorSlaughterDesc>
@@ -121,6 +120,6 @@
 
 	<!-- Desc helpers -->
 	<TransmitsPower>Передаёт энергию</TransmitsPower>
-
+	<ConstructionNeeded>Нужен навык сборки</ConstructionNeeded>
 
 </LanguageData>

@@ -77,19 +77,22 @@
 	<CommandAllowSowDesc>Отключив этот параметр, вы запретите поселенцам сеять, однако они продолжат собирать урожай.</CommandAllowSowDesc>
 
 	<!-- Artillery -->
-	<CommandSetForceAttackTarget>Выбрать цель обстрела</CommandSetForceAttackTarget>
-	<CommandSetForceAttackTargetDesc>Устанавливает цель, которую эта турель будет атаковать непрерывно до тех пор, пока это будет возможно.</CommandSetForceAttackTargetDesc>
-	<CommandStopForceAttack>Отменить обстрел</CommandStopForceAttack>
+	<CommandSetForceAttackTarget>Задать цель</CommandSetForceAttackTarget>
+	<CommandSetForceAttackTargetDesc>Задать цель, которую эта турель будет атаковать так долго, как может.</CommandSetForceAttackTargetDesc>
+	<CommandStopForceAttack>Убрать цель</CommandStopForceAttack>
 	<CommandStopForceAttackDesc>Прекращает обстрел указанной цели и переводит турель в режим самонаведения.</CommandStopForceAttackDesc>
 	<CommandStopAttackFailNotForceAttacking>Сейчас невозможно остановить обстрел.</CommandStopAttackFailNotForceAttacking>
 	<MessageTargetBeyondMaximumRange>Слишком далеко.</MessageTargetBeyondMaximumRange>
 	<MessageTargetBelowMinimumRange>Слишком близко.</MessageTargetBelowMinimumRange>
+	<MessageTurretWontFireBecauseHoldFire>Внимание: Миномёт установлен в состояние «Прекратить огонь» и не будет стрелять.</MessageTurretWontFireBecauseHoldFire>
 
 	<!-- Ship computer core -->
 	<CommandShipLaunch>Запустить корабль</CommandShipLaunch>
 	<CommandShipLaunchDesc>Запустить корабль с текущей конфигурацией.</CommandShipLaunchDesc>
 	<CommandShipLaunchReport>Показать стартовый отчёт</CommandShipLaunchReport>
 	<CommandShipLaunchReportDesc>Показать отчёт о готовности корабля к запуску.</CommandShipLaunchReportDesc>
+	<CommandShipStartup>Активировать корабль</CommandShipStartup>
+	<CommandShipStartupDesc>Вывести из сна компоненты корабля.</CommandShipStartupDesc>
 
 	<!-- Pod -->
 	<CommandPodEject>Извлечь спящего</CommandPodEject>
@@ -134,8 +137,12 @@
 	<CommandSquadAttack>Атаковать</CommandSquadAttack>
 	<CommandSquadAttackDesc>Приказ выбранным поселенцам вместе атаковать заданную цель.</CommandSquadAttackDesc>
 
+	<!-- Melee attack -->
+	<CommandMeleeAttack>В рукопашную</CommandMeleeAttack>
+	<CommandMeleeAttackDesc>Приказать выбраному поселенцу атаковать указанную цель врукопашную.</CommandMeleeAttackDesc>
+
 	<!-- Hold fire -->
-	<CommandHoldFire>Остановить огонь</CommandHoldFire>
+	<CommandHoldFire>Прекратить огонь</CommandHoldFire>
 	<CommandHoldFireDesc>Прекратить все текущие атаки.</CommandHoldFireDesc>
 
 	<!-- Select plant to grow -->
@@ -162,7 +169,8 @@
 
 	<!-- Merge caravan -->
 	<CommandMergeCaravans>Объединиться</CommandMergeCaravans>
-	<CommandMergeCaravansDesc>Объединить выбранные караваны в один.</CommandMergeCaravansDesc>
+	<CommandMergeCaravansDesc>Объединить выбранные караваны.</CommandMergeCaravansDesc>
+	<CommandMergeCaravansFailCaravansNotSelected>Выберете всё караваны, которые должны быть объединены. Они должны быть поблизости друг от друга.</CommandMergeCaravansFailCaravansNotSelected>
 
 	<!-- Settle -->
 	<CommandSettle>Основать поселение</CommandSettle>
@@ -188,7 +196,7 @@
 	<!-- Trade -->
 	<CommandTrade>Торговать</CommandTrade>
 	<CommandTradeDesc>Торговать с этой фракцией.</CommandTradeDesc>
-	<CommandTradeFailNoNegotiator>Нет ни одного человека, способного вести переговоры и торговать, не сломленного и в сознании.</CommandTradeFailNoNegotiator>
+	<CommandTradeFailNoNegotiator>Нет никого в сознании и способного вести переговоры.</CommandTradeFailNoNegotiator>
 
 	<!-- Fulfill request -->
 	<CommandFulfillTradeOffer>Заключить сделку</CommandFulfillTradeOffer>

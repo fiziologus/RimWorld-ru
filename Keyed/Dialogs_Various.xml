@@ -7,8 +7,8 @@
 
 	<!-- Game updated to new version -->
 	<GameUpdatedToNewVersionInitial>RimWorld был обновлён с версии {0} до версии {1}.</GameUpdatedToNewVersionInitial>
-    <GameUpdatedToNewVersionSavesIncompatible>Из-за этого сохранения и модификации, относящиеся к более старой версии, могут перестать работать.</GameUpdatedToNewVersionSavesIncompatible>
-    <GameUpdatedToNewVersionSavesCompatible>Сохранения, относящиеся к более старой версии, совместимы с новой, но некоторые моды могут перестать работать.</GameUpdatedToNewVersionSavesCompatible>
+    <GameUpdatedToNewVersionSavesIncompatible>Из-за этого сохранения и модификации, относящиеся к предыдущей версии, могут перестать работать.</GameUpdatedToNewVersionSavesIncompatible>
+    <GameUpdatedToNewVersionSavesCompatible>Оставшиеся от старой версии сохранения должны быть совместимы с новой, но некоторые моды могут перестать работать.</GameUpdatedToNewVersionSavesCompatible>
     <GameUpdatedToNewVersionNonSteam>Так как это DRM-free версия игры, вы можете установить её в две разные папки и играть как в старые, так и в новые версии.</GameUpdatedToNewVersionNonSteam>
 	<GameUpdatedToNewVersionSteam>Если вы желаете продолжить играть в старую версию, вы можете сделать это при помощи возможности Steam «Бета версии».\n\n  1. В библиотеке игр Steam нажмите правой кнопкой мыши на RimWorld.\n  2. Нажмите «Свойства».\n  3. Выберите вкладку «Бета версии».\n  4. В выпадающем списке выберите желаемую версию.\n\nРано или поздно старые версии будут убираться из этого списка, однако мы не хотим просто так прерывать ваши текущие игры.\n\nИмейте ввиду, что в том случае, если авторы модов также обновляют их для новой версии игры, то они могут переставать работать в старой. Чтобы предотвратить это, вам понадобится отключить функцию автоматического обновления.</GameUpdatedToNewVersionSteam>
 
@@ -63,6 +63,8 @@
 	<SaveIsUnknownFormat>Данные сохранены в неизвестном формате и скорее всего не загрузятся корректно.</SaveIsUnknownFormat>
 	<ProblemSavingFile>Возникла проблема с сохранением файла {0}:\n\n{1} Для дополнительной информации посмотрите лог.</ProblemSavingFile>
 	<LoadAnyway>Загрузить в любом случае</LoadAnyway>
+	<ChangeLoadedMods>Загрузить список модификаций из сохранения</ChangeLoadedMods>
+	<MissingMods>Часть модификаций недоступна и должна быть установлена</MissingMods>
 
 	<!-- Player faction naming -->
 	<NamePlayerFactionMessage>{0} предлагает дать имя вашей фракции. Как её назвать?</NamePlayerFactionMessage>
@@ -147,13 +149,7 @@
 	<BillRequiresMayVary>Заметка: ингредиентов небольшого размера, например, золота, требуется в {0} раз больше.</BillRequiresMayVary>
 	<ThisIsSmallVolume>Этот ингредиент имеет небольшой размер. Это значит, что каждый «кусочек» — лишь от 1/{0} размера обычного ингредиента. Чтобы выполнить требования по ингредиентам вам понадобится в {0} раз больше материала.</ThisIsSmallVolume>
 	<UsableIngredients>ингредиенты</UsableIngredients>
-	<DoXTimes>Сделать X раз</DoXTimes>
-	<DoUntilYouHaveX>Повторять до X</DoUntilYouHaveX>
-	<DoForever>Бесконечно</DoForever>
 	<BillRepeatTargetCountShort>До {0}</BillRepeatTargetCountShort>
-	<BillStoreMode_DropOnFloor>Положить на пол</BillStoreMode_DropOnFloor>
-	<BillStoreMode_BestStockpile>Отнести на лучший склад</BillStoreMode_BestStockpile>
-	<BillStoreMode_NearestStockpileAnyPriority>Отнести на ближайший склад</BillStoreMode_NearestStockpileAnyPriority>
 
 	<PauseWhenSatisfied>Пауза по удовлетворении</PauseWhenSatisfied>
 	<UnpauseWhenYouHave>Продолжить при наличии</UnpauseWhenYouHave>
@@ -204,6 +200,13 @@
 	<Addictiveness>Степень вызывания привыкания</Addictiveness>
 	<PackAnimal>Вьючное животное</PackAnimal>
 	<PackAnimalExplanation>Это животное целесообразно использовать в караване для перевозки вещей на большие расстояния.</PackAnimalExplanation>
+	<Skill>Навык</Skill>
+	<SurgerySuccessChanceFactor>Множитель вероятности успеха</SurgerySuccessChanceFactor>
+	<SurgeryRequireBed>Необходима кровать</SurgeryRequireBed>
+	<WorkSpeedStat>На быстроту работы влияет</WorkSpeedStat>
+	<EfficiencyStat>На получаемое количество влияет</EfficiencyStat>
+	<ConstructionSkillRequired>Требуется навык сборки</ConstructionSkillRequired>
+	<ConstructionSkillRequiredExplanation>Для создания необходим данный уровень Сборки.</ConstructionSkillRequiredExplanation>
 
 	<!-- Trade -->
 	<PositiveBuysNegativeSells>Положительное число — покупка.\nОтрицательное число — продажа.</PositiveBuysNegativeSells>
@@ -222,7 +225,9 @@
 	<ColonyHasNoMore>Больше нечего продавать.</ColonyHasNoMore>
 	<TraderWillNotTrade>Торговец не желает торговать этим товаром.</TraderWillNotTrade>
 	<Negotiator>Переговорщик</Negotiator>
-	<NegotiatorTalkingImpaired>Ваш переговорщик {0} не может хорошо говорить из-за проблем со здоровьем.\n\nЭто отразится на ценах торговли.\n\nПодумайте над использованием более здорового переговорщика.</NegotiatorTalkingImpaired>
+	<NegotiatorTalkingImpaired>Ведущий переговоры {0} не может внятно говорить из-за неважного здоровья.</NegotiatorTalkingImpaired>
+	<NegotiatorHearingImpaired>Ведущий переговоры {0} не в состоянии хорошо слышать из-за неважного здоровья.</NegotiatorHearingImpaired>
+	<NegotiatorCapacityImpaired>Это отразится на торговых ценах.\n\nПодумайте над использованием более здорового посредника.</NegotiatorCapacityImpaired>
 	<ConfirmTraderShortFunds>У торговца недостаточно серебра, чтобы завершить эту сделку. Всё равно продолжить?</ConfirmTraderShortFunds>
 	<SortBy>Подбор по</SortBy>
 	<TraderTypePrice>тип торговца</TraderTypePrice>
@@ -259,9 +264,11 @@
 	<DaysWorthOfFoodTooltip>Приблизительное количество дней до момента, когда закончится еда.\n\nВ расчёт берётся еда как для людей, так и для животных. Рассматривается пессимистичный сценарий: именно через столько дней без еды останется как минимум один человек или животное.</DaysWorthOfFoodTooltip>
 	<DaysWorthOfFoodTooltip_CanEatLocalPlants>С учётом текущих времени года, температуры и типа местности, травоядные животные предположительно СМОГУТ питаться местными растениями. Хотя условия могут измениться в любой момент.</DaysWorthOfFoodTooltip_CanEatLocalPlants>
 	<DaysWorthOfFoodTooltip_CantEatLocalPlants>С учётом текущих времени года, температуры и типа местности, травоядные животные предположительно НЕ СМОГУТ питаться местными растениями. Хотя условия могут измениться в любой момент.</DaysWorthOfFoodTooltip_CantEatLocalPlants>
-	<DaysWorthOfFoodWarningDialog>Вашему каравану хватит еды только на {0} дней. Люди и животные очень скоро начнут голодать.\n\nВы уверены, что хотите отправить этот караван?</DaysWorthOfFoodWarningDialog>
-	<DaysWorthOfFoodWarningDialog_NoFood>Без еды люди и животные в караване очень скоро начнут голодать.\n\nВы уверены, что хотите отправить этот караван?</DaysWorthOfFoodWarningDialog_NoFood>
-	<CaravanFoodWillRotSoonWarningDialog>Значительная часть запасов еды скоро испортится.\n\nВы уверены, что хотите снарядить караван?</CaravanFoodWillRotSoonWarningDialog>
+	<DaysWorthOfFoodWarningDialog>У каравана провизии на {0} дней, и его участники очень быстро начнут голодать.</DaysWorthOfFoodWarningDialog>
+	<DaysWorthOfFoodWarningDialog_NoFood>У каравана не осталось провизии, и его участники быстро начнут голодать.</DaysWorthOfFoodWarningDialog_NoFood>
+	<CaravanFoodWillRotSoonWarningDialog>Львиная часть провизии вскоре испортится.</CaravanFoodWillRotSoonWarningDialog>
+	<CaravanIncapableOfSocial>Среди участников каравана нет способных к торговле, либо дипломатии.</CaravanIncapableOfSocial>
+	<CaravanAreYouSure>Уверены, что желаете создать караван?</CaravanAreYouSure>
 	<NoExitDirectionForCaravanChosen>Нужно выбрать направление выхода с карты.</NoExitDirectionForCaravanChosen>
 	<NoCaravanExitDirectionAvailable>(нет доступных направлений выхода)</NoCaravanExitDirectionAvailable>
 	<ExitDirection>Направление выхода</ExitDirection>
@@ -279,7 +286,7 @@
 	<PrisonersSection>Заключённые</PrisonersSection>
 	<AnimalsSection>Животные</AnimalsSection>
 	<EstimatedTimeToDestinationButton>Время пути до места назн.</EstimatedTimeToDestinationButton>
-
+	<AbandonButton>Бросить</AbandonButton>
 
 	<!-- Split caravan -->
 	<SplitCaravan>Разделить караван</SplitCaravan>
@@ -376,11 +383,11 @@
 	<ConfirmLeavePrisonersOrAnimalsBehind>В этом месте вы оставили кого-то из заключённых или животных. В данный момент ваш караван — единственная группа, к которой они могут присоединиться.\n\nЕсли вы двинетесь в путь, они не смогут покинуть это место, пока вы не вернётесь. Однако заключённые могут сбежать.\n\nЕсли вы подождёте, заключённые и животные присоединятся к каравану при первой возможности.\n\nВы уверены, что хотите двинуться в путь?</ConfirmLeavePrisonersOrAnimalsBehind>
 
 	<!-- Abandon pawn -->
-	<ConfirmAbandonPawnDialog>Вы действительно хотите оставить здесь {0}?</ConfirmAbandonPawnDialog>
-	<ConfirmAbandonPawnDialog_LeftToDie>{0} скорее всего погибнет.</ConfirmAbandonPawnDialog_LeftToDie>
-	<ConfirmAbandonPawnDialog_EquipmentAndApparel>{0} возьмёт себе следующие вещи:</ConfirmAbandonPawnDialog_EquipmentAndApparel>
-	<ConfirmAbandonPawnDialog_AllColonistsThoughts>Все поселенцы будет расстроены следующими мыслями:</ConfirmAbandonPawnDialog_AllColonistsThoughts>
-	<ConfirmAbandonPawnDialog_IndividualThoughts>То, что вы бросили {0} на произвол судьбы, отразится на настроении этих людей:</ConfirmAbandonPawnDialog_IndividualThoughts>
+	<ConfirmBanishPawnDialog>Действительно хотите выгнать вон {0}?</ConfirmBanishPawnDialog>
+	<ConfirmBanishPawnDialog_LeftToDie>{0} скорее всего погибнет.</ConfirmBanishPawnDialog_LeftToDie>
+	<ConfirmBanishPawnDialog_Items>{0} заберёт с собой:</ConfirmBanishPawnDialog_Items>
+	<ConfirmBanishPawnDialog_AllColonistsThoughts>Все поселенцы будут озабочены следующими мыслями:</ConfirmBanishPawnDialog_AllColonistsThoughts>
+	<ConfirmBanishPawnDialog_IndividualThoughts>Изгнание {0} озаботит этих людей как:</ConfirmBanishPawnDialog_IndividualThoughts>
 
 	<!-- Send transport pods which are not completely loaded -->
 	<ConfirmSendNotCompletelyLoadedPods>Группа капсул загружена не до конца. {0} отсутствует. Всё равно запустить?</ConfirmSendNotCompletelyLoadedPods>

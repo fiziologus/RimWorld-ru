@@ -78,6 +78,7 @@
 	<MessageMedicalOperationFailureCatastrophic>{0} совершил серьёзную ошибку во время оперирования {1}.</MessageMedicalOperationFailureCatastrophic>
 	<MessageMedicalOperationFailureMinor>{0} совершил ошибку во время оперирования {1}.</MessageMedicalOperationFailureMinor>
 	<MessageMedicalOperationFailureRidiculous>{0} совершил нелепую ошибку во время оперирования {1}.</MessageMedicalOperationFailureRidiculous>
+	<MessageMedicalOperationFailureFatal>При оперировании {1} {0} совершает роковую ошибку из-за неординарных проблем: {2}</MessageMedicalOperationFailureFatal>
 
 	<MessageMedicalOperationWillAngerFaction>Эта операция возмутит {0}.</MessageMedicalOperationWillAngerFaction>
 
@@ -133,6 +134,8 @@
 
 	<MessageNoLongerBingingOnDrug>У {0} прошло пристрастие к {1}.</MessageNoLongerBingingOnDrug>
 
+	<MessageNoLongerOnTargetedInsultingSpree>{0} более не чувствует радости, оскорбляя {1}.</MessageNoLongerOnTargetedInsultingSpree>
+
 	<MessageRottedAwayInStorage>{0} сгнило на складе.</MessageRottedAwayInStorage>
 
 	<MessageFoodPoisoning>{0} получил(а) пищевое отравление из-за того, что съел(а) {1}.</MessageFoodPoisoning>
@@ -146,7 +149,11 @@
 	<MessageMaxPlanetCoveragePerformanceWarning>Внимание: генерация целой планеты может занять много времени.</MessageMaxPlanetCoveragePerformanceWarning>
 
 	<MessagePlantDiedOfCold>Растение {0} погибло от холода.</MessagePlantDiedOfCold>
-	<MessagePlantDiedOfRot>Растение {0} сгнило, так как никто не собрал с него урожай вовремя.</MessagePlantDiedOfRot>
+	<MessagePlantDiedOfRot_LeftUnharvested>{0} сгнивает на корню, будучи несобранным.</MessagePlantDiedOfRot_LeftUnharvested>
+	<MessagePlantDiedOfRot_ExposedToLight>Оставленное на свету {0} погибает.</MessagePlantDiedOfRot_ExposedToLight>
+	<MessagePlantDiedOfRot>{0} сгнивает на корню.</MessagePlantDiedOfRot>
+	<MessagePlantDiedOfPoison>{0} погибает от яда.</MessagePlantDiedOfPoison>
+	<MessagePlantDiedOfBlight>{0} погибает из-за болезни.</MessagePlantDiedOfBlight>
 
 	<MessagePawnBeingBurned>{0} сожжен(а) перегретым воздухом!</MessagePawnBeingBurned>
 
@@ -196,7 +203,7 @@
 
 	<MessageReformedCaravan>Караван готов к пути.</MessageReformedCaravan>
 
-	<MessageCantAbandonLastColonist>Вы не можете бросить последнего поселенца.</MessageCantAbandonLastColonist>
+	<MessageCantBanishLastColonist>Последнего поселенца вы прогнать не сможете..</MessageCantBanishLastColonist>
 
 	<MessageCantEquipIncapableOfViolence>Невозможно взять {0}: этот поселенец неспособен к насилию.</MessageCantEquipIncapableOfViolence>
 	<MessageCantEquipIncapableOfManipulation>Поселенец не в состоянии взять это оружие.</MessageCantEquipIncapableOfManipulation>
@@ -225,5 +232,33 @@
 
 	<MessageSiteCountdownBecauseNoMoreEnemies>Вы победили всех противников. Через {0} караван продолжит свой путь.</MessageSiteCountdownBecauseNoMoreEnemies>
 	<MessageSiteCountdownBecauseNoEnemiesInitially>Через {0} караван продолжит путь. Вы можете досрочно отправить караван, перейдя на карту мира.</MessageSiteCountdownBecauseNoEnemiesInitially>
+
+	<MessageCantBanishDownedPawn>Невозможно прогнать {0}, пока HE не в состоянии ходить.</MessageCantBanishDownedPawn>
+
+	<MessageSleepingPawnsWokenUp>{0} просыпается.</MessageSleepingPawnsWokenUp>
+
+	<MessageCompSpawnerSpawnedItem>Произведён предмет: {0}.</MessageCompSpawnerSpawnedItem>
+
+	<MessageHediffCuredByItem>Излечено нездоровое состояние: {0}.</MessageHediffCuredByItem>
+	<MessageBodyPartCuredByItem>Востановлена часть тела: {0}.</MessageBodyPartCuredByItem>
+	<MessageResearchProjectFinishedByItem>Получена технология: {0}.</MessageResearchProjectFinishedByItem>
+
+	<MessagePawnResurrected>{0} возвращается к жизни!</MessagePawnResurrected>
+
+	<MessageFailedToRescueRelative>Вы не сумели спасти {0}. Из-за этого {1} впадает в уныние.</MessageFailedToRescueRelative>
+	<MessageRescuedRelative>Вы спасаете {0}. {1} радуется от этого.</MessageRescuedRelative>
+
+	<MessagePrisonerRescued>Вы вызволяете NAME и HE присоединяется к поселению.</MessagePrisonerRescued>
+
+	<MessageTornadoLeftMap>Смерч ушёл.</MessageTornadoLeftMap>
+	<MessageTornadoDissipated>Смерч развеялся.</MessageTornadoDissipated>
+
+	<MessagePeaceTalksNoDiplomat>Нет способного к переговорам находящегося в сознании</MessagePeaceTalksNoDiplomat>
+
+	<MessageWarningCavePlantsExposedToLight>Внимание: на свету {0} не может существовать.</MessageWarningCavePlantsExposedToLight>
+
+	<MessageTargetedTantrumChangedTarget>{0} не может добраться до {1}, и поэтому решает обратить свой гнев на {2}.</MessageTargetedTantrumChangedTarget>
+
+	<MessageTargetedInsultingSpreeChangedTarget>{0} не может добраться до {1}, и поэтому решает обратить свою злость на {2}.</MessageTargetedInsultingSpreeChangedTarget>
 
 </LanguageData>

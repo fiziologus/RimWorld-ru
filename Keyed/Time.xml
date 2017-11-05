@@ -13,22 +13,24 @@
 	<SeasonSummer>лето</SeasonSummer>
 	<SeasonFall>осень</SeasonFall>
 	<SeasonWinter>зима</SeasonWinter>
+	<SeasonPermanentSummer>вечное лето</SeasonPermanentSummer>
+	<SeasonPermanentWinter>вечная зима</SeasonPermanentWinter>
 
 	<!-- В именительном падеже, адаптировано для контекстов использования -->
-	<QuadrumAprimay>Мартомай</QuadrumAprimay>
-	<QuadrumJugust>Июгуст</QuadrumJugust>
-	<QuadrumSeptober>Сентоноябрь</QuadrumSeptober>
+	<QuadrumAprimay>Апремай</QuadrumAprimay>
+	<QuadrumJugust>Йюгуст</QuadrumJugust>
+	<QuadrumSeptober>Сентоябрь</QuadrumSeptober>
 	<QuadrumDecembary>Декавраль</QuadrumDecembary>
 
 	<Born>Дата рождения: {0}</Born>
-	<AgeChronological>Хронологический возраст: {0} лет, {1} кварталов, {2} дней</AgeChronological>
-	<AgeBiological>Биологический возраст: {0} лет, {1} кварталов, {2} дней</AgeBiological>
+	<AgeChronological>Хронологический возраст: {0} лет, {1} квадрумов, {2} дней</AgeChronological>
+	<AgeBiological>Биологический возраст: {0} лет, {1} квадрумов, {2} дней</AgeBiological>
 
 	<!-- Date periods -->
 	<Period1Year>1 год</Period1Year>
 	<PeriodYears>{0} лет</PeriodYears>
-	<Period1Quadrum>1 квартал</Period1Quadrum>
-	<PeriodQuadrums>{0} кварталов</PeriodQuadrums>
+	<Period1Quadrum>1 квадрум</Period1Quadrum>
+	<PeriodQuadrums>{0} квадрумов</PeriodQuadrums>
 	<Period1Day>1 день</Period1Day>
 	<PeriodDays>{0} дней</PeriodDays>
 	<Period1Hour>1 час</Period1Hour>
