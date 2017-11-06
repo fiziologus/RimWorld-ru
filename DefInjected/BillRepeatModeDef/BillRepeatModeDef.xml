@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<RepeatCount.label>сделать Х раз</RepeatCount.label>
+	<TargetCount.label>делать, пока не станет Х</TargetCount.label>
+	<Forever.label>постоянно делать</Forever.label>
+
+</LanguageData>
