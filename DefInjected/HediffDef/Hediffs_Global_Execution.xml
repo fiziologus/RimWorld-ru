@@ -2,5 +2,6 @@
 <LanguageData>
 
 	<ShutDown.label>отключение</ShutDown.label>
+	<ShutDown.labelNoun>команда на отключение</ShutDown.labelNoun>
 
 </LanguageData>

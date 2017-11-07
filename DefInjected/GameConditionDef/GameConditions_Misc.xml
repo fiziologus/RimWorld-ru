@@ -43,4 +43,7 @@
 	<Planetkiller.label>разрушитель планет</Planetkiller.label>
 	<Planetkiller.description>Межзвёздное оружие для уничтожения планет приближается. Как только оно соприкоснётся с поверхностью, всё живое здесь будет уничтожено.</Planetkiller.description>
 
+	<Aurora.label>северное сияние</Aurora.label>
+	<Aurora.description>Небо озаряет мощное северное сияние. Переливающиеся волнами цвета поднимают настроение у любого вышедшего на улицу посмотреть на них.</Aurora.description>
+
 </LanguageData>

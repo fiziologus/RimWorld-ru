@@ -2,14 +2,14 @@
 <LanguageData>
 
 	<Heatstroke.label>тепловой удар</Heatstroke.label>
-	<Heatstroke.stages.0.label>незаметный</Heatstroke.stages.0.label>
+	<Heatstroke.stages.0.label>начальный</Heatstroke.stages.0.label>
 	<Heatstroke.stages.1.label>начальный</Heatstroke.stages.1.label>
 	<Heatstroke.stages.2.label>лёгкий</Heatstroke.stages.2.label>
 	<Heatstroke.stages.3.label>серьёзный</Heatstroke.stages.3.label>
 	<Heatstroke.stages.4.label>чрезмерный</Heatstroke.stages.4.label>
 
 	<Hypothermia.label>переохлаждение</Hypothermia.label>
-	<Hypothermia.stages.0.label>потряхивает</Hypothermia.stages.0.label>
+	<Hypothermia.stages.0.label>дрожь</Hypothermia.stages.0.label>
 	<Hypothermia.stages.1.label>дрожь</Hypothermia.stages.1.label>
 	<Hypothermia.stages.2.label>лёгкое</Hypothermia.stages.2.label>
 	<Hypothermia.stages.3.label>серьёзное</Hypothermia.stages.3.label>
