@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<JourneyOffer.label>предложено путешествие</JourneyOffer.label>
+	<!--=============== ShipChunkDrop =============-->
+
+	<ShipChunkDrop.label>падение обломка корабля</ShipChunkDrop.label>
+
+	<!--=============== OrbitalVisitor =============-->
+
+	<OrbitalTraderArrival.label>прибыл орбитальный торговец</OrbitalTraderArrival.label>
+
+	<!--================= AllyArrival ================-->
+
+	<TraderCaravanArrival.label>прибыл торговый караван</TraderCaravanArrival.label>
+
+	<VisitorGroup.label>гости</VisitorGroup.label>
+
+	<TravelerGroup.label>путники</TravelerGroup.label>
+
+	<!--================= AllyAssistance ================-->
+
+	<RaidFriendly.label>внезапная помощь</RaidFriendly.label>
+
+	<!--============ Raid-beacon-attracted events ===========-->
+
+	<RaidEnemyEscapeShip.label>вражеский налёт</RaidEnemyEscapeShip.label>
 
 </LanguageData>

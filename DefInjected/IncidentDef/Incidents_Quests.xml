@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<QuestBanditCamp.label>нападение на лагерь бандитов</QuestBanditCamp.label>
+	<QuestBanditCamp.letterLabel>Нападение на лагерь бандитов</QuestBanditCamp.letterLabel>
+	<QuestBanditCamp.letterText>{0}, {1} группы {2}, отсылает сообщение.\n\nПо всей видимости разбившие неподалёку лагерь бандиты нападают на их караваны. {2} просят нас стереть их с лица земли, что есть уничтожить всех людей и турели.\n\nНаш успех улучшит их отношение к нам, а сами {2} вышлют награду:\n\n{3}</QuestBanditCamp.letterText>
+	<!-- 1 = имя, 2 = титул, 3 = группа -->
+
+	<QuestItemStash.label>схрон с предметами</QuestItemStash.label>
+	<QuestItemStash.letterLabel>Схрон с предметами</QuestItemStash.letterLabel>
+	<QuestItemStash.letterText>{0}, {1} группы {2} сообщает о комплекте ценных предметов неподалёку от нас. Комплект состоит из:\n\n{3}\n\nОднако долго они лежать не будут: если за {4} дней мы их не заберём, это сделают другие.\n\nВсё, что имеет цену, как правило, притягивает разные опасности, поэтому будьте начеку!\n\n{5}</QuestItemStash.letterText>
+
+	<QuestDownedRefugee.label>помощь раненому</QuestDownedRefugee.label>
+	<QuestDownedRefugee.letterLabel>Помощь раненому беженцу</QuestDownedRefugee.letterLabel>
+	<QuestDownedRefugee.letterText>С вами по радио связывается {0}. HECAP не может передвигаться из-за ранения. Без нашей помощи HE погибнет через {1} дней.\n\nНо осторожней: рядом с ним может быть опасность.</QuestDownedRefugee.letterText>
+
+	<QuestPrisonerWillingToJoin.label>спасение узника</QuestPrisonerWillingToJoin.label>
+	<QuestPrisonerWillingToJoin.letterLabel>Вызволение узника</QuestPrisonerWillingToJoin.letterLabel>
+	<QuestPrisonerWillingToJoin.letterText>Удерживаемый {0} узник сумел стащить радиостанцию и связаться с вами!\n\nNAME держат в лагере неподалёку под вооружённой охраной. Вызволите HIM, и HE присоединится к вашему поселению. HECAP — {2} в возрасте {1} лет.</QuestPrisonerWillingToJoin.letterText>
+
+	<QuestPeaceTalks.label>мирные переговоры</QuestPeaceTalks.label>
+	<QuestPeaceTalks.letterLabel>Мирные переговоры</QuestPeaceTalks.letterLabel>
+	<QuestPeaceTalks.letterText>NAME, {0} группы {1}, отсылает весточку. HECAP хочет встретиться с нами в местности неподалёку для беседы.\n\nЭто может стать прекрасной возможностью улучшить взаимоотношения с этой группой, но осторожней, плохой дипломат может принести больше вреда, чем пользы, а то и разозлить их.\n\nПредложение будет в силе {2} дней.</QuestPeaceTalks.letterText>
+
+</LanguageData>

@@ -2,12 +2,7 @@
 <LanguageData>
 
 	<Wealth.label>богатство</Wealth.label>
-	<Wealth.graphLabelY>Значение</Wealth.graphLabelY>
-
 	<Population.label>население</Population.label>
-	<Population.graphLabelY>Поселенцев</Population.graphLabelY>
-
 	<ColonistMood.label>настроение</ColonistMood.label>
-	<ColonistMood.graphLabelY>% настроения</ColonistMood.graphLabelY>
 
 </LanguageData>
