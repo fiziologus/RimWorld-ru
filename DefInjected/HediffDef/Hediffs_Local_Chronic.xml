@@ -2,35 +2,43 @@
 <LanguageData>
 
 	<BadBack.label>больная спина</BadBack.label>
+
 	<Frail.label>слабость</Frail.label>
+	<Frail.labelNoun>немощность</Frail.labelNoun>
+
 	<Cataract.label>катаракта</Cataract.label>
+	<Cataract.labelNoun>катаракта</Cataract.labelNoun>
+
+	<Blindness.label>слепота</Blindness.label> 
 	<HearingLoss.label>глухота</HearingLoss.label>
 	<Dementia.label>слабоумие</Dementia.label>
 
 	<Alzheimers.label>болезнь Альцгеймера</Alzheimers.label>
-	<Alzheimers.stages.0.label>начальная</Alzheimers.stages.0.label>
+	<Alzheimers.stages.0.label>лёгкая</Alzheimers.stages.0.label>
 	<Alzheimers.stages.1.label>лёгкая</Alzheimers.stages.1.label>
-	<Alzheimers.stages.2.label>средняя</Alzheimers.stages.2.label>
+	<Alzheimers.stages.2.label>тяжёлая</Alzheimers.stages.2.label>
 	<Alzheimers.stages.3.label>тяжёлая</Alzheimers.stages.3.label>
 
 	<Asthma.label>астма</Asthma.label>
 	<Asthma.stages.0.label>лёгкая</Asthma.stages.0.label>
-	<Asthma.stages.1.label>средняя</Asthma.stages.1.label>
+	<Asthma.stages.1.label>тяжёлая</Asthma.stages.1.label>
 	<Asthma.stages.2.label>тяжёлая</Asthma.stages.2.label>
 
 	<HeartArteryBlockage.label>сердечная недостаточность</HeartArteryBlockage.label>
-	<HeartArteryBlockage.stages.0.label>начальная</HeartArteryBlockage.stages.0.label>
+	<HeartArteryBlockage.labelNoun>сердечная недостаточность</HeartArteryBlockage.labelNoun>
+	<HeartArteryBlockage.stages.0.label>лёгкая</HeartArteryBlockage.stages.0.label>
 	<HeartArteryBlockage.stages.1.label>лёгкая</HeartArteryBlockage.stages.1.label>
-	<HeartArteryBlockage.stages.2.label>средняя</HeartArteryBlockage.stages.2.label>
+	<HeartArteryBlockage.stages.2.label>тяжёлая</HeartArteryBlockage.stages.2.label>
 	<HeartArteryBlockage.stages.3.label>тяжёлая</HeartArteryBlockage.stages.3.label>
-	<HeartArteryBlockage.stages.4.label>тяжелейшая</HeartArteryBlockage.stages.4.label>
+	<HeartArteryBlockage.stages.4.label>крайняя</HeartArteryBlockage.stages.4.label>
 
 	<Carcinoma.label>карцинома</Carcinoma.label>
-	<Carcinoma.stages.0.label>начальная стадия</Carcinoma.stages.0.label>
-	<Carcinoma.stages.1.label>начальная стадия</Carcinoma.stages.1.label>
-	<Carcinoma.stages.2.label>стадия развития</Carcinoma.stages.2.label>
-	<Carcinoma.stages.3.label>стадия развития</Carcinoma.stages.3.label>
-	<Carcinoma.stages.4.label>терминальная стадия</Carcinoma.stages.4.label>
-	<Carcinoma.stages.5.label>терминальная стадия</Carcinoma.stages.5.label>
+	<Carcinoma.labelNoun>карцинома</Carcinoma.labelNoun>
+	<Carcinoma.stages.0.label>лёгкая</Carcinoma.stages.0.label>
+	<Carcinoma.stages.1.label>лёгкая</Carcinoma.stages.1.label>
+	<Carcinoma.stages.2.label>тяжёлая</Carcinoma.stages.2.label>
+	<Carcinoma.stages.3.label>тяжёлая</Carcinoma.stages.3.label>
+	<Carcinoma.stages.4.label>крайняя</Carcinoma.stages.4.label>
+	<Carcinoma.stages.5.label>крайняя</Carcinoma.stages.5.label>
 
 </LanguageData>
