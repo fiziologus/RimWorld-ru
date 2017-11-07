@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Eclipse.label>затмение</Eclipse.label>
+	<Eclipse.letterLabel>Затмение</Eclipse.letterLabel>
+	<Eclipse.letterText>Одна из лун планеты заслоняет собой солнцем. Началось затмение.</Eclipse.letterText>
+
+	<SolarFlare.label>вспышка на солнце</SolarFlare.label>
+	<SolarFlare.letterLabel>Вспышка на солнце</SolarFlare.letterLabel>
+	<SolarFlare.letterText>Произошла вспышка на солнце.\n\nМощное излучение отключило все электрические устройства.\n\nЭто продлится около суток.</SolarFlare.letterText>
+
+</LanguageData>

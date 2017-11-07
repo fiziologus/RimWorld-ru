@@ -2,10 +2,21 @@
 <LanguageData>
 
 	<WealthTotal.label>богатство (всего)</WealthTotal.label>
+	<WealthTotal.graphLabelY>Количество</WealthTotal.graphLabelY>
+
 	<WealthItems.label>предметы</WealthItems.label>
+	<WealthItems.graphLabelY>Количество</WealthItems.graphLabelY>
+
 	<WealthBuildings.label>сооружения</WealthBuildings.label>
+	<WealthBuildings.graphLabelY>Количество</WealthBuildings.graphLabelY>
+
 	<FreeColonists.label>свободные поселенцы</FreeColonists.label>
-	<Prisoners.label>пленные</Prisoners.label>
+	<FreeColonists.graphLabelY>Поселенцы</FreeColonists.graphLabelY>
+
+	<Prisoners.label>узники</Prisoners.label>
+	<Prisoners.graphLabelY>Узники</Prisoners.graphLabelY>
+
 	<ColonistMood.label>настроение</ColonistMood.label>
+	<ColonistMood.graphLabelY>Проценты</ColonistMood.graphLabelY>
 
 </LanguageData>
