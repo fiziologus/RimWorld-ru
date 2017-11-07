@@ -278,7 +278,7 @@
 	<PowerOutput>Выходная мощность</PowerOutput>
 	<PowerBatteryStored>Накоплено</PowerBatteryStored>
 	<PowerBatteryEfficiency>Эффективность</PowerBatteryEfficiency>
-	<SelfDischarging>Утечка</SelfDischarging>
+	<SelfDischarging>Саморазряд</SelfDischarging>
 
 	<!-- Temperature control -->
 	<TargetTemperature>Заданная температура</TargetTemperature>
