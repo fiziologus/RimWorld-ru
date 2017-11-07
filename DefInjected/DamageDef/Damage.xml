@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- Damages_Environmental.xml -->
+
+	<Flame.label>пламя</Flame.label>
+	<Flame.deathMessage>{0} сгорает насмерть.</Flame.deathMessage>
+
+	<!-- от смертельных ожогов также сгорают -->
+	<Burn.label>ожог</Burn.label>
+	<Burn.deathMessage>{0} сгорает насмерть.</Burn.deathMessage>
+
+	<Frostbite.label>обморожение</Frostbite.label>
+	<Frostbite.deathMessage>{0} замерзает насмерть.</Frostbite.deathMessage>
+
+	<TornadoScratch.label>разрыв</TornadoScratch.label>
+	<TornadoScratch.deathMessage>{0} погибает в смерче.</TornadoScratch.deathMessage>
+
+	<!-- Damages_Medical.xml -->
+
+	<SurgicalCut.label>хирургический разрез</SurgicalCut.label>
+	<SurgicalCut.deathMessage>{0} умирает на операционном столе.</SurgicalCut.deathMessage>
+
+	<ExecutionCut.label>смертельный разрез</ExecutionCut.label>
+	<ExecutionCut.deathMessage>{0} погибает от руки палача.</ExecutionCut.deathMessage>
+
+	<!-- Damages_MeleeWeapon.xml -->
+
+	<Cut.label>порез</Cut.label>
+	<Cut.deathMessage>{0} прирезали.</Cut.deathMessage>
+
+	<Crush.label>давка</Crush.label>
+	<Crush.deathMessage>{0} раздавили насмерть.</Crush.deathMessage>
+
+	<Blunt.label>удар</Blunt.label>
+	<Blunt.deathMessage>{0} забили до смерти.</Blunt.deathMessage>
+
+	<Poke.label>удар</Poke.label>
+	<Poke.deathMessage>{0} забили до смерти.</Poke.deathMessage>
+
+	<Stab.label>укол</Stab.label>
+	<Stab.deathMessage>{0} закололи.</Stab.deathMessage>
+
+	<Scratch.label>разрыв</Scratch.label>
+	<Scratch.deathMessage>{0} разодрали.</Scratch.deathMessage>
+
+	<Bite.label>укус</Bite.label>
+	<Bite.deathMessage>{0} загрызли.</Bite.deathMessage>
+
+	<ToxicBite.label>ядовитый укус</ToxicBite.label>
+	<ToxicBite.deathMessage>{0} загрызли.</ToxicBite.deathMessage>
+
+	<!-- Damages_Misc.xml -->
+
+	<Deterioration.label>порча</Deterioration.label> 
+	<Mining.label>добыча</Mining.label>
+	<Rotting.label>гниение</Rotting.label> 
+	<Extinguish.label>тушение</Extinguish.label>
+
+	<Bomb.label>взрыв</Bomb.label>
+	<Bomb.deathMessage>{0} убило взрывом.</Bomb.deathMessage>
+
+	<Smoke.label>дым</Smoke.label>
+
+	<!-- Damages_RangedWeapon.xml -->
+
+	<RangedStab.label>укол</RangedStab.label>
+	<RangedStab.deathMessage>{0} закололи.</RangedStab.deathMessage>
+
+	<Bullet.label>пуля</Bullet.label>
+	<Bullet.deathMessage>{0} застрелили.</Bullet.deathMessage>
+
+	<Arrow.label>стрела</Arrow.label>
+	<Arrow.deathMessage>{0} застрелили.</Arrow.deathMessage>
+
+	<ArrowHighVelocity.label>стрела</ArrowHighVelocity.label>
+	<ArrowHighVelocity.deathMessage>{0} застрелили.</ArrowHighVelocity.deathMessage>
+
+	<!-- Damages_Stun.xml -->
+
+	<Stun.label>контузия</Stun.label>
+	<Stun.deathMessage>{0} контузило насмерть.</Stun.deathMessage>
+
+	<EMP.label>ЭМИ</EMP.label>
+	<EMP.deathMessage>{0) умирает от ЭМИ.</EMP.deathMessage>
+
+</LanguageData>
+
