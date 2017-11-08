@@ -4,6 +4,7 @@
 	<!-- Alcohol -->
 
 	<AlcoholHigh.label>опьянение</AlcoholHigh.label>
+	<AlcoholHigh.labelNoun>пьянство</AlcoholHigh.labelNoun>
 	<AlcoholHigh.stages.0.label>подвыпимши</AlcoholHigh.stages.0.label>
 	<AlcoholHigh.stages.1.label>согревающе</AlcoholHigh.stages.1.label>
 	<AlcoholHigh.stages.2.label>навеселе</AlcoholHigh.stages.2.label>
