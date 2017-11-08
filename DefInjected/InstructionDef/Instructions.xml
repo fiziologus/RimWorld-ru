@@ -6,7 +6,10 @@
 	<ChooseLandingSite.text>Здесь выбирается точка приземления.\n\nСеществует куча биомов, но сейчас дайте начнём с дружелюбного.\n\nВыберите место с умеренными лесами, как биомом, и равниной, а затем нажмите «Выбрать место».\n\nМожно воспользоваться вкладкой «Ландшафт», чтобы посмотреть сведения про выбранню клетку.</ChooseLandingSite.text>
 	<ChooseLandingSite.rejectInputMessage>Пожалуйста, выберите место с умеренными лесами и на равнине.</ChooseLandingSite.rejectInputMessage>
 
-	<RandomizeCharacter.text>Теперь создадим персонажей!\n\nПопробуйте создать какого получится персонажа с помощью кнопки «Случайно».</RandomizeCharacter.text>
+	<ReorderCharacters.text>Теперь можно выбрать персонажей!\n\nДля выбора доступных персонажей щёлкните по ним в левой области окна. Если нашли понравившегося, перетащите его наверх к ВЫБРАННЫМ персонажам.</ReorderCharacters.text>
+	<ReorderCharacters.rejectInputMessage>Попробуйте, пожалуйста, вначале выбрать персонажа.</ReorderCharacters.rejectInputMessage>
+
+	<RandomizeCharacter.text>Не нравится персонаж — создайте своего!\n\nПопробуйте создать какого получится персонажа с помощью кнопки «Случайно».</RandomizeCharacter.text>
 	<RandomizeCharacter.rejectInputMessage>Пожалуйста, попробуйте сначала создать персонажа со случайными характеристиками.</RandomizeCharacter.rejectInputMessage>
 
 	<AcceptStartingPawns.text>Великолепно!\n\nМожете попытать счастье еще разок, если хотите, но не пытайтесь получить совершенного персонажа. Изьяны есть у всех — повествование от этого становится только интереснее!\n\nВы также можете переименовать персонажей, нажав на их имена.\n\nНажмите «Начать», когда будете готовы.</AcceptStartingPawns.text>
@@ -37,7 +40,7 @@
 	<BuildRoomDoor.onMapInstruction>Разметьте дверь в одной из стен</BuildRoomDoor.onMapInstruction>
 	<BuildRoomDoor.rejectInputMessage>Пожалуйста, разместите деревянную дверь в одной из стен помещения.</BuildRoomDoor.rejectInputMessage>
 
-	<BuildBeds.text>Поселенцы вскоре достроят помещение!\n\nНо им надо на чём-то спать. Разместите три КРОВАТИ внутри помещения.\n\nНайдите их в разделе «Обстановка».</BuildBeds.text>
+	<BuildBeds.text>Поселенцы вскоре достроят помещение!\n\nНо им надо на чём-то спать. Разместите три КРОВАТИ внутри помещения.\n\nНайдите их в разделе «Обстановка».\n\nДля разворота строений можно использовать кнопки {Key:DesignatorRotateLeft} и {Key:DesignatorRotateRight}.</BuildBeds.text>
 	<BuildBeds.onMapInstruction>Разместите три кровати внутри помещения</BuildBeds.onMapInstruction>
 	<BuildBeds.rejectInputMessage>Пожалуйста, создайте деревянные кровати внутри этого помещения.</BuildBeds.rejectInputMessage>
 

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- General -->
+
+	<RandomGeneralGoods.label>обычные товары</RandomGeneralGoods.label>
+	<Apparel.label>одежда</Apparel.label>
+	<Weapons.label>оружие</Weapons.label>
+	<Artifacts.label>артефакты</Artifacts.label>
+	<RawResources.label>ресурсы</RawResources.label>
+	<Standard.label>предметы</Standard.label>
+	<Food.label>провизия</Food.label>
+
+	<!-- Specific -->
+
+	<AncientTempleContents.label>содержимое древнего храма</AncientTempleContents.label>
+	<AncientPodContents.label>содержимое древней капсулы</AncientPodContents.label>
+	<DebugCaravanInventory.label>вещи в караване (отладка)</DebugCaravanInventory.label>
+	<TraderStock.label>запасы торговца</TraderStock.label>
+	<CaravanRequestRewards.label>награда за караван</CaravanRequestRewards.label>
+	<BanditCampQuestRewards.label>награда за лагерь</BanditCampQuestRewards.label>
+	<ItemStashQuest.label>предметы в схроне</ItemStashQuest.label>
+	<ResourcePod.label>контейнер с ресурсами</ResourcePod.label>
+	<RefugeePod.label>капсула с беженцем</RefugeePod.label>
+	<PeaceTalksGift.label>дар с мирных переговоров</PeaceTalksGift.label>
+	<Meteorite.label>метеорит</Meteorite.label>
+
+</LanguageData>

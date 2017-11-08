@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<WorkFrenzy.label>рабочий раж</WorkFrenzy.label>
+	<WorkFrenzy.beginLetterLabel>Воодушевление: рабочий раж</WorkFrenzy.beginLetterLabel>
+	<WorkFrenzy.beginLetter>Только что {0} посещает воодушевление. В следующие 24 часа HE будет работать в 2.5 раза быстрее.</WorkFrenzy.beginLetter>
+	<WorkFrenzy.endMessage>Воодушевление (рабочий раж) у {0} угасло.</WorkFrenzy.endMessage>
+	<WorkFrenzy.baseInspectLine>Воодушевлённость: рабочий раж</WorkFrenzy.baseInspectLine>
+
+	<GoFrenzy.label>неистовство движением</GoFrenzy.label>
+	<GoFrenzy.beginLetterLabel>Воодушевление: неистовство движением</GoFrenzy.beginLetterLabel>
+	<GoFrenzy.beginLetter>Только что {0} посещает воодушевление. В следующие 24 часа HE будет передвигаться в 1.5 раза быстрее.</GoFrenzy.beginLetter>
+	<GoFrenzy.endMessage>Воодушевление (неистовство движением) у {0} угасло.</GoFrenzy.endMessage>
+	<GoFrenzy.baseInspectLine>Воодушевлённость: неистовство движением</GoFrenzy.baseInspectLine>
+
+	<ShootFrenzy.label>стрелковый раж</ShootFrenzy.label>
+	<ShootFrenzy.beginLetterLabel>Воодушевление: стрелковый раж</ShootFrenzy.beginLetterLabel>
+	<ShootFrenzy.beginLetter>Только что {0} посещает воодушевление. В следующие 3 дня стрелять HE будет точнее.</ShootFrenzy.beginLetter>
+	<ShootFrenzy.endMessage>Воодушевление (стрелковый раж) у {0} угасло.</ShootFrenzy.endMessage>
+	<ShootFrenzy.baseInspectLine>Воодушевлённость: стрелковый раж</ShootFrenzy.baseInspectLine>
+
+	<InspiredTrade.label>вдохновение купца</InspiredTrade.label>
+	<InspiredTrade.beginLetterLabel>Воодушевление: вдохновение купца</InspiredTrade.beginLetterLabel>
+	<InspiredTrade.beginLetter>Только что {0} посешает воодушевление. В следующей HIS торговой сделке цены будут существенно выгоднее.\n\nВоодушевление угаснет через 8 дней, либо после завершения торговли.</InspiredTrade.beginLetter>
+	<InspiredTrade.endMessage>Воодушевление (вдохновение купца) у {0} угасло.</InspiredTrade.endMessage>
+	<InspiredTrade.baseInspectLine>Воодушевлённость: вдохновение купца</InspiredTrade.baseInspectLine>
+
+	<InspiredRecruitment.label>вдохновение вербовщика</InspiredRecruitment.label>
+	<InspiredRecruitment.beginLetterLabel>Воодушевление: вдохновение вербовщика</InspiredRecruitment.beginLetterLabel>
+	<InspiredRecruitment.beginLetter>Только что {0} посещает воодушевление. Следующего узника HE переманит несмотря ни на что.\n\nВоодушевление угаснет через 8 дней, либо когда узник перейдёт на вашу сторону.</InspiredRecruitment.beginLetter>
+	<InspiredRecruitment.endMessage>Воодушевление (вдохновение вербовщика) у {0} угасло.</InspiredRecruitment.endMessage>
+	<InspiredRecruitment.baseInspectLine>Воодушевлённость: вдохновение вербовщика</InspiredRecruitment.baseInspectLine>
+
+	<InspiredSurgery.label>вдохновение хирурга</InspiredSurgery.label>
+	<InspiredSurgery.beginLetterLabel>Воодушевление: вдохновение хирурга</InspiredSurgery.beginLetterLabel>
+	<InspiredSurgery.beginLetter>Только что {0} посещает воодушевление. Не следующей операции вероятность совершить ошибку у нHIS будет в 10 раз ниже.\n\nВоодушевление угаснет через 8 дней, либо после завершения операции.</InspiredSurgery.beginLetter>
+	<InspiredSurgery.endMessage>Воодушевление (вдохновение хирурга) у {0} угасло.</InspiredSurgery.endMessage>
+	<InspiredSurgery.baseInspectLine>Воодушевлённость: вдохновение хирурга</InspiredSurgery.baseInspectLine>
+
+	<InspiredArt.label>вдохновение творца</InspiredArt.label>
+	<InspiredArt.beginLetterLabel>Воодушевление: вдохновение творца</InspiredArt.beginLetterLabel>
+	<InspiredArt.beginLetter>Только что {0} посещает воодушевление. Любое созданное {0} произведение искусства будет на 3 уровня качественее, чем обычно.\n\nВоодушевление угаснет через 8 дней, либо когда произведение искусства будет завершено.</InspiredArt.beginLetter>
+	<InspiredArt.endMessage>Воодушевление (вдохновение творца) у {0} угасло.</InspiredArt.endMessage>
+	<InspiredArt.baseInspectLine>Воодушевлённость: вдохновение творца.</InspiredArt.baseInspectLine>
+
+</LanguageData>
