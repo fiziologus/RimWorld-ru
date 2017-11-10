@@ -33,6 +33,7 @@
 	<EnterCryptosleepCasket.reportString>залезает в раку криптосна.</EnterCryptosleepCasket.reportString>
 	<UseNeurotrainer.reportString>использует нейротренер.</UseNeurotrainer.reportString>
 	<UseArtifact.reportString>активирует артефакт.</UseArtifact.reportString>
+	<UseItem.reportString>использует TargetA.</UseItem.reportString>
 	<TriggerFirefoamPopper.reportString>запускает хлопушку с пожарной пеной.</TriggerFirefoamPopper.reportString>
 	<ClearSnow.reportString>чистит снег.</ClearSnow.reportString>
 	<Vomit.reportString>блюёт.</Vomit.reportString>
@@ -41,6 +42,10 @@
 	<Flee.reportString>отбегает.</Flee.reportString>
 	<FleeAndCower.reportString>уносит ноги.</FleeAndCower.reportString>
 	<EnterTransporter.reportString>садится в TargetA.</EnterTransporter.reportString>
+	<Resurrect.reportString>возвращает к жизни TargetA.</Resurrect.reportString>
+	<Insult.reportString>поносит TargetA.</Insult.reportString>
+	<HaulCorpseToPublicPlace.reportString>волокёт TargetA.</HaulCorpseToPublicPlace.reportString>
+	<InducePrisonerToEscape.reportString>подначивает TargetA к побегу.</InducePrisonerToEscape.reportString>
 
 	<!-- Fire -->
 

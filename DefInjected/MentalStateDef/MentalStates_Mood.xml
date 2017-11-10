@@ -24,6 +24,24 @@
 	<BingingDrugExtreme.label>тяга к наркотикам</BingingDrugExtreme.label>
 	<BingingDrugExtreme.baseInspectLine>Душевное состояние: Тяга к {0}</BingingDrugExtreme.baseInspectLine>
 
+	<Jailbreaker.label>подбивание узников к побегу</Jailbreaker.label>
+	<Jailbreaker.beginLetterLabel>подговорщик</Jailbreaker.beginLetterLabel>
+	<Jailbreaker.beginLetter>{0} слетает с катушек и начинает поначивать узников к побегу.</Jailbreaker.beginLetter>
+	<Jailbreaker.recoveryMessage>{0} больше не подбивает узников к побегу.</Jailbreaker.recoveryMessage>
+	<Jailbreaker.baseInspectLine>Душевное состояние: Подговорщик</Jailbreaker.baseInspectLine>
+
+	<Slaughterer.label>мясник</Slaughterer.label>
+	<Slaughterer.beginLetterLabel>мясник</Slaughterer.beginLetterLabel>
+	<Slaughterer.beginLetter>{0} срывается и собирается выместить злобу на ваших животных.</Slaughterer.beginLetter>
+	<Slaughterer.recoveryMessage>{0} не режет больше какая под руку попадёт скотинку.</Slaughterer.recoveryMessage>
+	<Slaughterer.baseInspectLine>Душевное состояние: Мясник</Slaughterer.baseInspectLine>
+
+	<MurderousRage.label>кровавое буйство</MurderousRage.label>
+	<MurderousRage.beginLetterLabel>Кровавое буйство</MurderousRage.beginLetterLabel>
+	<MurderousRage.beginLetter>Кровь застилает глаза {0}. HECAP собирается убить {1}.</MurderousRage.beginLetter>
+	<MurderousRage.recoveryMessage>Кровавая пелена спала с глаз {0}.</MurderousRage.recoveryMessage>
+	<MurderousRage.baseInspectLine>Душевное состояние: Кровавое буйство</MurderousRage.baseInspectLine>
+
 	<!-- Mental breaks: major -->
 
 	<BingingDrugMajor.label>тяга к наркотикам</BingingDrugMajor.label>
@@ -34,6 +52,36 @@
 	<WanderPsychotic.beginLetter>{0} слоняется в растерянности.</WanderPsychotic.beginLetter>
 	<WanderPsychotic.recoveryMessage>{0} больше не бродит в растерянности.</WanderPsychotic.recoveryMessage>
 	<WanderPsychotic.baseInspectLine>Душевное состояние: Бродит в растерянности</WanderPsychotic.baseInspectLine>
+
+	<Tantrum.label>вспышка гнева</Tantrum.label>
+	<Tantrum.beginLetterLabel>вспышка гнева</Tantrum.beginLetterLabel>
+	<Tantrum.beginLetter>{0} вспыхивает от злости.</Tantrum.beginLetter>
+	<Tantrum.recoveryMessage>Вспышка гнева у {0} прошла.</Tantrum.recoveryMessage>
+	<Tantrum.baseInspectLine>Душевное состояние: Вспышка гнева</Tantrum.baseInspectLine>
+
+	<TargetedTantrum.label>вспышка гнева</TargetedTantrum.label>
+	<TargetedTantrum.beginLetterLabel>вспышка гнева</TargetedTantrum.beginLetterLabel>
+	<TargetedTantrum.beginLetter>{0} вспыхивает от злости. HECAP собирается разломать {1}.</TargetedTantrum.beginLetter>
+	<TargetedTantrum.recoveryMessage>Вспышка гнева у {0} прошла.</TargetedTantrum.recoveryMessage>
+	<TargetedTantrum.baseInspectLine>Душевное состояние: Вспышка гнева</TargetedTantrum.baseInspectLine>
+
+	<BedroomTantrum.label>вспышка гнева</BedroomTantrum.label>
+	<BedroomTantrum.beginLetterLabel>вспышка гнева</BedroomTantrum.beginLetterLabel>
+	<BedroomTantrum.beginLetter>{0} вспыхивает от злости. HECAP собирантся разнести мебель у себя в комнате.</BedroomTantrum.beginLetter>
+	<BedroomTantrum.recoveryMessage>Вспышка гнева у {0} прошла.</BedroomTantrum.recoveryMessage>
+	<BedroomBedroomTantrum.baseInspectLine>Душевное состояние: Вспышка гнева</BedroomTantrum.baseInspectLine>
+
+	<SadisticRage.label>садистский раж</SadisticRage.label>
+	<SadisticRage.beginLetterLabel>садистский раж</SadisticRage.beginLetterLabel>
+	<SadisticRage.beginLetter>{0} во власти приступа садизма. HECAP собирается выместить злость на узниках.</SadisticRage.beginLetter>
+	<SadisticRage.recoveryMessage>Приступ садизма у {0} проходит.</SadisticRage.recoveryMessage>
+	<SadisticRage.baseInspectLine>Душевное состояние: Садистский раж</SadisticRage.baseInspectLine>
+
+	<CorpseObsession.label>одержимость мёртвыми</CorpseObsession.label>
+	<CorpseObsession.beginLetterLabel>одержимость мёртвыми</CorpseObsession.beginLetterLabel>
+	<CorpseObsession.beginLetter>{0} тянется к мертвецам. HECAP собирается откопать одного.</CorpseObsession.beginLetter>
+	<CorpseObsession.recoveryMessage>Тяга к мертвецам у {0} проходит.</CorpseObsession.recoveryMessage>
+	<CorpseObsession.baseInspectLine>Душевное состояние: Одержимость мёртвыми</CorpseObsession.baseInspectLine>
 
 	<!-- Mental breaks: minor -->
 
@@ -47,12 +95,23 @@
 	<WanderSad.beginLetterLabel>бродит в уныние</WanderSad.beginLetterLabel>
 	<WanderSad.beginLetter>{0} слоняется в печали.</WanderSad.beginLetter>
 	<WanderSad.recoveryMessage>{0} больше не бродит в уныние.</WanderSad.recoveryMessage>
-	<WanderSad.baseInspectLine>Душевное состояние: бродит в уныние</WanderSad.baseInspectLine>
+	<WanderSad.baseInspectLine>Душевное состояние: Бродит в уныние</WanderSad.baseInspectLine>
 
 	<WanderOwnRoom.label>уединение</WanderOwnRoom.label>
 	<WanderOwnRoom.beginLetterLabel>прячется в комнате</WanderOwnRoom.beginLetterLabel>
 	<WanderOwnRoom.beginLetter>{0} прячется в своей комнате.</WanderOwnRoom.beginLetter>
 	<WanderOwnRoom.recoveryMessage>{0} больше не скрывается у себя комнате.</WanderOwnRoom.recoveryMessage>
-	<WanderOwnRoom.baseInspectLine>Душевное состояние: прячется в комнате</WanderOwnRoom.baseInspectLine>
+	<WanderOwnRoom.baseInspectLine>Душевное состояние: Прячется в комнате</WanderOwnRoom.baseInspectLine>
+
+	<InsultingSpree.label>поносительство</InsultingSpree.label>
+	<InsultingSpree.beginLetterLabel>поносительство</InsultingSpree.beginLetterLabel>
+	<InsultingSpree.beginLetter>{0} разражается безудержной бранью.</InsultingSpree.beginLetter>
+	<InsultingSpree.recoveryMessage>Поток брани у {0} иссяк.</InsultingSpree.recoveryMessage>
+	<InsultingSpree.baseInspectLine>Душевное состояние: поношение</InsultingSpree.baseInspectLine>
+
+	<TargetedInsultingSpree.label>поносительство</TargetedInsultingSpree.label>
+	<TargetedInsultingSpree.beginLetterLabel>поносительство</TargetedInsultingSpree.beginLetterLabel>
+	<TargetedInsultingSpree.beginLetter>{0} разражается безудержной бранью на {1}.</TargetedInsultingSpree.beginLetter>
+	<TargetedInsultingSpree.baseInspectLine>Душевное состояние: Поношение на {0}</TargetedInsultingSpree.baseInspectLine>
 
 </LanguageData>
