@@ -19,7 +19,10 @@
 	<MainTabs.label>основные вкладки</MainTabs.label>
 	<MainTabs.description>Клавиши для основных вкладок.</MainTabs.description>
 
-	<Development.label>разработка</Development.label>
+	<Modifiers.label>модификаторы</Modifiers.label>
+	<Modifiers.description>Клавиши для изменения поведения остальных действий.</Modifiers.description>
+
+	<Development.label>унструменты разработки</Development.label>
 	<Development.description>Управление для моддеров и разработчиков. Активно только в режиме разработчика.</Development.description>
 
 	<!-- GENERATED -->

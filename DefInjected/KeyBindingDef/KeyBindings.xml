@@ -43,8 +43,6 @@
 	<CommandTogglePower.label>вкл./выкл. питание</CommandTogglePower.label>
 	<CommandItemForbid.label>разрешить/запретить</CommandItemForbid.label>
 	<CommandColonistDraft.label>к бою/роспуск</CommandColonistDraft.label>
-	<ModifierIncrement10x.label>изменить на 10x</ModifierIncrement10x.label>
-	<ModifierIncrement100x.label>изменить на 100x</ModifierIncrement100x.label>
 
 	<!-- Architect: Common -->
 
@@ -52,6 +50,12 @@
 	<DesignatorDeconstruct.label>разобрать</DesignatorDeconstruct.label>
 	<DesignatorRotateLeft.label>повернуть влево</DesignatorRotateLeft.label>
 	<DesignatorRotateRight.label>повернуть вправо</DesignatorRotateRight.label>
+
+	<!-- Modifiers -->
+
+	<ModifierIncrement10x.label>изменить на 10x</ModifierIncrement10x.label>
+	<ModifierIncrement100x.label>изменить на 100x</ModifierIncrement100x.label>
+	<QueueOrder.label>очерёдность</QueueOrder.label>
 
 	<!-- Debug -->
 
@@ -70,6 +74,7 @@
 	<MainTab_Restrict.label>показать/скрыть вкладку «Ограничения»</MainTab_Restrict.label>
 	<MainTab_Assign.label>показать/скрыть вкладку «Назначения»</MainTab_Assign.label>
 	<MainTab_Animals.label>показать/скрыть вкладку «Животные»</MainTab_Animals.label>
+	<MainTab_Research.label>показать/скрыть вкладку «Исследования»</MainTab_Research.label>
 	<MainTab_World.label>показать/скрыть вкладку «Мир»</MainTab_World.label>
 	<MainTab_History.label>показать/скрыть вкладку «История»</MainTab_History.label>
 	<MainTab_Factions.label>показать/скрыть вкладку «Группы»</MainTab_Factions.label>
