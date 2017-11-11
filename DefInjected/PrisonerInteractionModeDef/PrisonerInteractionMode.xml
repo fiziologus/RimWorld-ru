@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<NoInteraction.label>не общаться</NoInteraction.label>
+	<Chat.label>болтать</Chat.label>
+	<AttemptRecruit.label>переманивать</AttemptRecruit.label>
+	<Release.label>отпустить</Release.label>
+	<Execution.label>казнить</Execution.label>
+
+</LanguageData>
