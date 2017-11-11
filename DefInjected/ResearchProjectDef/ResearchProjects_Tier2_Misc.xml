@@ -15,6 +15,12 @@
 	<PenoxycylineProduction.label>призводство пеноксицилина</PenoxycylineProduction.label>
 	<PenoxycylineProduction.description>Изучение технологии производства пеноксицилина, предотвращающего болезни препарата.</PenoxycylineProduction.description>
 
+	<LongBlades.label>длинные клинки</LongBlades.label>
+	<LongBlades.description>Создание длинных мечей и копий.</LongBlades.description>
+
+	<Greatbows.label>большие луки</Greatbows.label>
+	<Greatbows.description>Изучение производства мощных больших луков.</Greatbows.description>
+
 	<!--================================ Tier 2: Basic electricity ====================================-->
 
 	<Batteries.label>аккумуляторы</Batteries.label>
@@ -53,14 +59,26 @@
 	<Machining.label>станки</Machining.label>
 	<Machining.description>Создание верстаков для сборки оружия и оборудование, либо разборки нерабочих механоидов.</Machining.description>
 
-	<IEDBomb.label>самодельные мины</IEDBomb.label>
-	<IEDBomb.description>Позволяет поселенцам создавать самодельные мины из миномётных снарядов.</IEDBomb.description>
+	<IEDs.label>самодельные мины</IEDs.label>
+	<IEDs.description>Позволяет поселенцам создавать самодельные мины из миномётных снарядов.</IEDs.description>
 
 	<IEDIncendiary.label>самодельные «зажигалки»</IEDIncendiary.label>
 	<IEDIncendiary.description>Позволяет поселенцам собирать зажигательные мины из миномётных снарядов.</IEDIncendiary.description>
 
 	<Mortars.label>миномёты</Mortars.label>
 	<Mortars.description>Изучение технологии сборки миномётов, которые позволяют перебрасывать снаряды через стены на большие расстояния.</Mortars.description>
+
+	<Gunsmithing.label>огнестрельное оружие</Gunsmithing.label>
+	<Gunsmithing.description>Создание простого оружия, вроде револьверов, винтовок, помповых ружей и реактивных огнемётов.</Gunsmithing.description>
+
+	<BlowbackOperation.label>отдача затвора</BlowbackOperation.label>
+	<BlowbackOperation.description>Создание автоматического и полуавтоматического оружия, вроде пистолетов, пистолетов-пулемётов и автоматических пистолетов.</BlowbackOperation.description>
+
+	<GasOperation.label>отвод газов</GasOperation.label>
+	<GasOperation.description>Создание более совершенного автоматического и полуавтоматического оружия, вроде автоматических дробовиков и ручных пулемётов.</GasOperation.description>
+
+	<PrecisionRifling.label>точная нарезка ствола</PrecisionRifling.label>
+	<PrecisionRifling.description>Создание автоматов и снайперских ружей.</PrecisionRifling.description>
 
 	<SmokepopBelt.label>пояса-дымзавесы</SmokepopBelt.label>
 	<SmokepopBelt.description>Изучение технологии сборки поясов с дымовыми шашками, которые автоматически устанавливают дымовую завесу для защиты.</SmokepopBelt.description>
@@ -73,7 +91,7 @@
 	<TubeTelevision.label>телевидение</TubeTelevision.label>
 	<TubeTelevision.description>Позволяет собирать телевизоры на электронно-лучевых трубках.</TubeTelevision.description>
 
-	<GunTurrets.label>пулемётные турели</GunTurrets.label>
+	<GunTurrets.label>оружейные турели</GunTurrets.label>
 	<GunTurrets.description>Позволяет создавать автоматические оружейные турели.</GunTurrets.description>
 
 </LanguageData>

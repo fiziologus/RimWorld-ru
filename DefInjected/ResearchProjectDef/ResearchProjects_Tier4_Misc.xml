@@ -10,7 +10,7 @@
 	<DeepDrilling.description>Позволяет строить буровые установки для извлечения полезных ископаемых из недр. Для обнаружения месторождений требуется глубинный сканер.</DeepDrilling.description>
 
 	<VitalsMonitor.label>монитор пациента</VitalsMonitor.label>
-	<VitalsMonitor.description>Позволяет поселенцам создавать мониторы пациента, улучшающие качество лечения больных, если размещенны рядом с медицинскими кроватями.</VitalsMonitor.description>
+	<VitalsMonitor.description>Позволяет поселенцам создавать мониторы пациента, которые размещённые рядом с медкроватями улучшают качество лечения.</VitalsMonitor.description>
 
 	<ComponentAssembly.label>сборка составляющих</ComponentAssembly.label>
 	<ComponentAssembly.description>Позволяет строить сборочные вестаки, на которых поселенцы смогут создавать составляющие из простых материалов.</ComponentAssembly.description>

@@ -3,6 +3,9 @@
 
 	<!--=============================== Tier 1: pre-electricity ===================================-->
 
+	<RecurveBow.label>рекурсивный лук</RecurveBow.label>
+	<RecurveBow.description>Передовые методы сборки дают возможность создать рекурсивный лук, недорогое и действенное стрелковое оружие.</RecurveBow.description>
+
 	<Pemmican.label>пеммикан</Pemmican.label>
 	<Pemmican.description>Приготовление пеммикана, по особому обработанной смеси мяса и растительных продуктов, которая не портится в течение длительного времени. Великолепно подходит для путешествий.</Pemmican.description>
 
@@ -12,14 +15,23 @@
 	<Devilstrand.label>пряди дьявола</Devilstrand.label>
 	<Devilstrand.description>Позволяет поселенцам выращивать пряди дьявола, медленно растущий гриб, из которого добывают ценное растительное волокно.</Devilstrand.description>
 
+	<PsychoidBrewing.label>настой психолиста</PsychoidBrewing.label>
+	<PsychoidBrewing.description>Подготовленные листочки психолиста могут быть заварены в воде для приготовления вызывающего лёгкую эйфорию и небольшое привыкание чая.</PsychoidBrewing.description>
+
 	<Brewing.label>пивоварение</Brewing.label>
 	<Brewing.description>Позволяет строить пивоварни, чтобы превращать хмель во вкуснющее пиво.</Brewing.description>
+
+	<Bedrolls.label>спальник</Bedrolls.label>
+	<Bedrolls.description>Позволяет создавать спальные мешки</Bedrolls.description>
+
+	<Beds.label>кровати</Beds.label>
+	<Beds.description>Даёт возможность собирать кровати.</Beds.description>
 
 	<CarpetMaking.label>ковроткачество</CarpetMaking.label>
 	<CarpetMaking.description>Позволяет поселенцам создавать ковры, улучшая привлекательность окружающего их пространства.</CarpetMaking.description>
 
 	<Smithing.label>кузнечное дело</Smithing.label>
-	<Smithing.description>Создание кузниц для изготовления металлического оружия и инструментов.</Smithing.description>
+	<Smithing.description>Постройка кузниц для создания металлического оружия и инструментов.\n\nДаёт возможность создать простое оружие, вроде ножей, гладиев и булав.</Smithing.description>
 
 	<Stonecutting.label>обработка камня</Stonecutting.label>
 	<Stonecutting.description>Создание столов для резки камня, позволяющие превращать обломки камней в пригодные для строительства каменные блоки.</Stonecutting.description>
