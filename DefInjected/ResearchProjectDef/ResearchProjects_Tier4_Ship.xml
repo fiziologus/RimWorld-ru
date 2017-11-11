@@ -16,4 +16,7 @@
 	<ShipComputerCore.label>ядро бортового компьютера</ShipComputerCore.label>
 	<ShipComputerCore.description>Позволяет создать из существующей ИИ-личности пригодный к применению ИИ компьютерного ядра для корабельной навигации.</ShipComputerCore.description>
 
+	<ShipSensorCluster.label>судовые датчики</ShipSensorCluster.label>
+	<ShipSensorCluster.description>Позволяет собирать датчики дальнего действия для судна.</ShipSensorCluster.description>
+
 </LanguageData>
