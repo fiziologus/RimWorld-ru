@@ -25,9 +25,21 @@
 	<Make_Apparel_BowlerHat.description>Сшить шляпу-котелок.</Make_Apparel_BowlerHat.description>
 	<Make_Apparel_BowlerHat.jobString>Шьёт котелок.</Make_Apparel_BowlerHat.jobString>
 
+	<Make_Apparel_TribalHeaddress.label>сделать малахай</Make_Apparel_TribalHeaddress.label>
+	<Make_Apparel_TribalHeaddress.description>Сшить малахай.</Make_Apparel_TribalHeaddress.description>
+	<Make_Apparel_TribalHeaddress.jobString>Шьёт малахай.</Make_Apparel_TribalHeaddress.jobString>
+
 	<Make_Apparel_Tuque.label>сделать вязаную шапку</Make_Apparel_Tuque.label>
 	<Make_Apparel_Tuque.description>Связать шапочку.</Make_Apparel_Tuque.description>
 	<Make_Apparel_Tuque.jobString>Вяжет шапочку.</Make_Apparel_Tuque.jobString>
+
+	<Make_Apparel_WarMask.label>сделать боевую маску</Make_Apparel_WarMask.label>
+	<Make_Apparel_WarMask.description>Сделать боевую маску.</Make_Apparel_WarMask.description>
+	<Make_Apparel_WarMask.jobString>Делает боевую маску.</Make_Apparel_WarMask.jobString>
+
+	<Make_Apparel_WarVeil.label>сделать боевой покров</Make_Apparel_WarVeil.label>
+	<Make_Apparel_WarVeil.description>Сделать боевой покров.</Make_Apparel_WarVeil.description>
+	<Make_Apparel_WarVeil.jobString>Делает боевой покров.</Make_Apparel_WarVeil.jobString>
 
 	<!-- Шлемы -->
 
@@ -45,7 +57,7 @@
 
 	<!-- Одежда -->
 
-	<Make_Apparel_Parka.label>сделать парка</Make_Apparel_Parka.label>
+	<Make_Apparel_Parka.label>сделать парку</Make_Apparel_Parka.label>
 	<Make_Apparel_Parka.description>Сшить парку.</Make_Apparel_Parka.description>
 	<Make_Apparel_Parka.jobString>Шьёт парку.</Make_Apparel_Parka.jobString>
 
@@ -115,6 +127,10 @@
 	<Make_MeleeWeapon_Gladius.description>Выковать гладиус.</Make_MeleeWeapon_Gladius.description>
 	<Make_MeleeWeapon_Gladius.jobString>Выковывает гладиус.</Make_MeleeWeapon_Gladius.jobString>
 
+	<Make_MeleeWeapon_Ikwa.label>сделать иклва</Make_MeleeWeapon_Ikwa.label>
+	<Make_MeleeWeapon_Ikwa.description>Выковать иклва.</Make_MeleeWeapon_Ikwa.description>
+	<Make_MeleeWeapon_Ikwa.jobString>Делает иклва.</Make_MeleeWeapon_Ikwa.jobString>
+
 	<Make_MeleeWeapon_Spear.label>сделать копьё</Make_MeleeWeapon_Spear.label>
 	<Make_MeleeWeapon_Spear.description>Сделать копьё.</Make_MeleeWeapon_Spear.description>
 	<Make_MeleeWeapon_Spear.jobString>Делает копьё.</Make_MeleeWeapon_Spear.jobString>
@@ -133,15 +149,23 @@
 	<Make_Pila.description>Сделать пилум.</Make_Pila.description>
 	<Make_Pila.jobString>Делает пилум.</Make_Pila.jobString>
 
+	<Make_Bow_Recurve.label>сделать рекурсивный лук</Make_Bow_Recurve.label>
+	<Make_Bow_Recurve.description>Сделать рекурсивный лук.</Make_Bow_Recurve.description>
+	<Make_Bow_Recurve.jobString>Делает рекурсивный лук.</Make_Bow_Recurve.jobString>
+
 	<Make_Bow_Great.label>сделать длинный лук</Make_Bow_Great.label>
 	<Make_Bow_Great.description>Сделать длинный лук.</Make_Bow_Great.description>
 	<Make_Bow_Great.jobString>Делает длинный лук.</Make_Bow_Great.jobString>
 
 	<!-- Огнестрельное оружие -->
 
-	<Make_Gun_Pistol.label>сделать пистолет</Make_Gun_Pistol.label>
-	<Make_Gun_Pistol.description>Собрать пистолет.</Make_Gun_Pistol.description>
-	<Make_Gun_Pistol.jobString>Собирает пистолет.</Make_Gun_Pistol.jobString>
+	<Make_Gun_Revolver.label>сделать револьвер</Make_Gun_Revolver.label>
+	<Make_Gun_Revolver.description>Собрать револьвер.</Make_Gun_Revolver.description>
+	<Make_Gun_Revolver.jobString>Собирает револьвер.</Make_Gun_Revolver.jobString>
+
+	<Make_Gun_Autopistol.label>сделать пистолет</Make_Gun_Autopistol.label>
+	<Make_Gun_Autopistol.description>Собрать пистолет.</Make_Gun_Autopistol.description>
+	<Make_Gun_Autopistol.jobString>Собирает пистолет.</Make_Gun_Autopistol.jobString>
 
 	<Make_Gun_MachinePistol.label>сделать пистолет-пулемёт</Make_Gun_MachinePistol.label>
 	<Make_Gun_MachinePistol.description>Cобрать пистолет-пулемёт.</Make_Gun_MachinePistol.description>
@@ -187,6 +211,24 @@
 	<Make_Gun_Minigun.description>Собрать миниган.</Make_Gun_Minigun.description>
 	<Make_Gun_Minigun.jobString>Собирает миниган.</Make_Gun_Minigun.jobString>
 
+	<!-- Снаряды -->
+
+	<Make_Shell_HighExplosive.label>сделать фугас</Make_Shell_HighExplosive.label>
+	<Make_Shell_HighExplosive.description>Собрать фугасный снаряд.</Make_Shell_HighExplosive.description>
+	<Make_Shell_HighExplosive.jobString>Собирает фугасный снаряд.</Make_Shell_HighExplosive.jobString>
+
+	<Make_Shell_Incendiary.label>сделать зажигательный снаряд</Make_Shell_Incendiary.label>
+	<Make_Shell_Incendiary.description>Собрать зажигательный снаряд.</Make_Shell_Incendiary.description>
+	<Make_Shell_Incendiary.jobString>Собирает зажигательный снаряд.</Make_Shell_Incendiary.jobString>
+
+	<Make_Shell_EMP.label>сделать ЭМИ-снаряд</Make_Shell_EMP.label>
+	<Make_Shell_EMP.description>Собрать ЭМИ-снаряд.</Make_Shell_EMP.description>
+	<Make_Shell_EMP.jobString>Собирает ЭМИ-снаряд.</Make_Shell_EMP.jobString>
+
+	<Make_Shell_Firefoam.label>сделать пожарные снаряды</Make_Shell_Firefoam.label>
+	<Make_Shell_Firefoam.description>Собрать пожарные снаряды.</Make_Shell_Firefoam.description>
+	<Make_Shell_Firefoam.jobString>Собирает пожарные снаряды.</Make_Shell_Firefoam.jobString>
+
 	<!-- Препараты -->
 
 	<Make_SmokeleafJoint.label>скрутить косяк</Make_SmokeleafJoint.label>
@@ -200,6 +242,10 @@
 	<Make_Flake.label>сделать «чешуйки»</Make_Flake.label>
 	<Make_Flake.description>Сделать «чешуйки».</Make_Flake.description>
 	<Make_Flake.jobString>Готовит «чешуйки».</Make_Flake.jobString>
+
+	<Make_PsychoidPekoe.label>заварить психолист</Make_PsychoidPekoe.label>
+	<Make_PsychoidPekoe.description>Сделать настой психолиста.</Make_PsychoidPekoe.description>
+	<Make_PsychoidPekoe.jobString>Заваривает психолист.</Make_PsychoidPekoe.jobString>
 
 	<Make_Yayo.label>сделать йаё</Make_Yayo.label>
 	<Make_Yayo.description>Cделать йаё.</Make_Yayo.description>
@@ -233,6 +279,9 @@
 
 	<Administer_Flake.label>назначить «чешуйки»</Administer_Flake.label>
 	<Administer_Flake.jobString>Даёт «чешуйки».</Administer_Flake.jobString>
+
+	<Administer_PsychoidPekoe.label>назначить настой психолиста</Administer_PsychoidPekoe.label>
+	<Administer_PsychoidPekoe.jobString>Даёт настой психолиста.</Administer_PsychoidPekoe.jobString>
 
 	<Administer_Yayo.label>назначить йаё</Administer_Yayo.label>
 	<Administer_Yayo.jobString>Даёт йаё.</Administer_Yayo.jobString>
