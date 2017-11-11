@@ -17,11 +17,6 @@
 	<DestroyWeapon.description>Уничтожить ненужное оружие с помощью высокой температуры. Быстрее переплавки и применимо к нерасплавимым предметам, но не даёт никаких ресурсов.</DestroyWeapon.description>
 	<DestroyWeapon.jobString>Уничтожает оружие.</DestroyWeapon.jobString>
 
-	<!-- артиллерийская мина -->
-	<MakeMortarShell.label>сделать миномётный снаряд</MakeMortarShell.label>
-	<MakeMortarShell.description>Собрать миномётный снаряд.</MakeMortarShell.description>
-	<MakeMortarShell.jobString>Делает миномётный снаряд.</MakeMortarShell.jobString>
-
 	<MakeChemfuelFromWood.label>сделать химтопливо из древесины</MakeChemfuelFromWood.label>
 	<MakeChemfuelFromWood.description>Приготовить партию химтоплива путём, превратив дерево в газ.</MakeChemfuelFromWood.description>
 	<MakeChemfuelFromWood.jobString>Выделяет химтопливо из древесины.</MakeChemfuelFromWood.jobString>
@@ -33,5 +28,9 @@
 	<MakeComponent.label>создать составляющие</MakeComponent.label>
 	<MakeComponent.description>Сделать составляющие.</MakeComponent.description>
 	<MakeComponent.jobString>Делает составляющие.</MakeComponent.jobString>
+
+	<MakeAdvancedComponent.label>создать передовые составляющие</MakeAdvancedComponent.label>
+	<MakeAdvancedComponent.description>Сделать передовые составляющие.</MakeAdvancedComponent.description>
+	<MakeAdvancedComponent.jobString>Делает передовые составляющие.</MakeAdvancedComponent.jobString>
 
 </LanguageData>
