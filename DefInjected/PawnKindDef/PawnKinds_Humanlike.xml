@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- Mechanoid -->
+
+	<Scyther.label>жнец</Scyther.label>
+	<Scyther.labelPlural>жнецы</Scyther.labelPlural>
+
+	<Centipede.label>септипеда</Centipede.label>
+	<Centipede.labelPlural>септипеды</Centipede.labelPlural>
+
+	<!-- Mercenary -->
+
+	<GrenadierDestructive.label>гренадер</GrenadierDestructive.label>
+	<GrenadierDestructive.labelPlural>гренадеры</GrenadierDestructive.labelPlural>
+
+	<GrenadierEMP.label>ЭМИ-гренадер</GrenadierEMP.label>
+	<GrenadierEMP.labelPlural>ЭМИ-гренадеры</GrenadierEMP.labelPlural>
+
+	<MercenaryGunner.label>застрельщик</MercenaryGunner.label>
+	<MercenaryGunner.labelPlural>застрельщики</MercenaryGunner.labelPlural>
+
+	<MercenarySniper.label>снайпер</MercenarySniper.label>
+	<MercenarySniper.labelPlural>снайперы</MercenarySniper.labelPlural>
+
+	<MercenarySlasher.label>рубака</MercenarySlasher.label>
+	<MercenarySlasher.labelPlural>рубаки</MercenarySlasher.labelPlural>
+
+	<MercenaryHeavy.label>боец</MercenaryHeavy.label>
+	<MercenaryHeavy.labelPlural>бойцы</MercenaryHeavy.labelPlural>
+
+	<PirateBoss.label>главарь</PirateBoss.label>
+	<PirateBoss.labelPlural>главари</PirateBoss.labelPlural>
+
+	<MercenaryElite.label>элитный наёмник</MercenaryElite.label>
+	<MercenaryElite.labelPlural>элитный наёмник</MercenaryElite.labelPlural>
+
+	<!-- Outlanders -->
+
+	<Villager.label>житель</Villager.label>
+	<Villager.labelPlural>жители</Villager.labelPlural>
+	<Villager.labelFemale>жительница</Villager.labelFemale>
+	<Villager.labelFemalePlural>жительницы</Villager.labelFemalePlural>
+
+	<TownCouncilman.label>городской советник</TownCouncilman.label>
+	<TownCouncilman.labelPlural>городские советники</TownCouncilman.labelPlural>
+
+	<TownTrader.label>городской торговец</TownTrader.label>
+	<TownTrader.labelPlural>городские торговцы</TownTrader.labelPlural>
+
+	<TownGuard.label>городской страж</TownGuard.label>
+	<TownGuard.labelPlural>городские стражники</TownGuard.labelPlural>
+
+	<!-- Pirate -->
+
+	<Drifter.label>скиталец</Drifter.label>
+	<Drifter.labelPlural>скитальцы</Drifter.labelPlural>
+
+	<Scavenger.label>стервятник</Scavenger.label>
+	<Scavenger.labelPlural>стервятники</Scavenger.labelPlural>
+
+	<!-- TODO: thrashe - молотить -->
+	<Thrasher.label>молотило</Thrasher.label>
+	<Thrasher.labelPlural>молотилы</Thrasher.labelPlural>
+
+	<Pirate.label>пират</Pirate.label>
+	<Pirate.labelPlural>пираты</Pirate.labelPlural>
+
+	<!-- Player -->
+
+	<!--Необходимо для избежания тавтологии «поселенец Поселения»-->
+	<Colonist.label>житель</Colonist.label>
+	<Colonist.labelPlural>жители</Colonist.labelPlural>
+	<Colonist.labelFemale>жительница</Colonist.labelFemale>
+	<Colonist.labelFemalePlural>жительницы</Colonist.labelFemalePlural>
+
+	<Tribesperson.label>член племени</Tribesperson.label>
+	<Tribesperson.labelPlural>члены племени</Tribesperson.labelPlural>
+
+	<!-- Spacer -->
+
+	<SpaceRefugee.label>космический беженец</SpaceRefugee.label>
+	<SpaceRefugee.labelPlural>космические беженцы</SpaceRefugee.labelPlural>
+
+	<SpaceSoldier.label>космический солдат</SpaceSoldier.label>
+	<SpaceSoldier.labelPlural>космические солдаты</SpaceSoldier.labelPlural>
+
+	<!-- Special -->
+
+	<Slave.label>раб</Slave.label>
+	<Slave.labelPlural>рабы</Slave.labelPlural>
+	<Slave.labelFemale>рабыня</Slave.labelFemale>
+	<Slave.labelFemalePlural>рабыни</Slave.labelFemalePlural>
+
+	<WildMan.label>дикарь</WildMan.label>
+	<WildMan.labelPlural>дикари</WildMan.labelPlural>
+	<WildMan.labelFemale>дикарка</WildMan.labelFemale>
+	<WildMan.labelFemalePlural>дикарки</WildMan.labelFemalePlural>
+
+	<!-- Tribal -->
+
+	<TribalWarrior.label>воитель</TribalWarrior.label>
+	<TribalWarrior.labelPlural>воители</TribalWarrior.labelPlural>
+	<TribalWarrior.labelFemale>воительница</TribalWarrior.labelFemale>
+	<TribalWarrior.labelFemalePlural>воительницы</TribalWarrior.labelFemalePlural>
+
+	<TribalTrader.label>торговец</TribalTrader.label>
+	<TribalTrader.labelPlural>торговец</TribalTrader.labelPlural>
+	<TribalTrader.labelFemale>торговка</TribalTrader.labelFemale>
+	<TribalTrader.labelFemalePlural>торговки</TribalTrader.labelFemalePlural>
+
+	<TribalArcher.label>лучник</TribalArcher.label>
+	<TribalArcher.labelPlural>лучник</TribalArcher.labelPlural>
+	<TribalArcher.labelFemale>лучница</TribalArcher.labelFemale>
+	<TribalArcher.labelFemalePlural>лучницы</TribalArcher.labelFemalePlural>
+
+	<TribalHunter.label>охотник</TribalHunter.label>
+	<TribalHunter.labelPlural>охотник</TribalHunter.labelPlural>
+	<TribalHunter.labelFemale>охотница</TribalHunter.labelFemale>
+	<TribalHunter.labelFemalePlural>охотницы</TribalHunter.labelFemalePlural>
+
+	<TribalHeavyArcher.label>стрелок</TribalHeavyArcher.label>
+	<TribalHeavyArcher.labelPlural>стрелок</TribalHeavyArcher.labelPlural>
+
+	<TribalBerserker.label>берсерк</TribalBerserker.label>
+	<TribalBerserker.labelPlural>берсерк</TribalBerserker.labelPlural>
+
+	<TribalChief.label>вождь</TribalChief.label>
+	<TribalChief.labelPlural>вождь</TribalChief.labelPlural>
+
+</LanguageData>
