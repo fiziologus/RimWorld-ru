@@ -105,27 +105,27 @@
 	<TribalWarrior.labelFemalePlural>воительницы</TribalWarrior.labelFemalePlural>
 
 	<TribalTrader.label>торговец</TribalTrader.label>
-	<TribalTrader.labelPlural>торговец</TribalTrader.labelPlural>
+	<TribalTrader.labelPlural>торговецы</TribalTrader.labelPlural>
 	<TribalTrader.labelFemale>торговка</TribalTrader.labelFemale>
 	<TribalTrader.labelFemalePlural>торговки</TribalTrader.labelFemalePlural>
 
 	<TribalArcher.label>лучник</TribalArcher.label>
-	<TribalArcher.labelPlural>лучник</TribalArcher.labelPlural>
+	<TribalArcher.labelPlural>лучники</TribalArcher.labelPlural>
 	<TribalArcher.labelFemale>лучница</TribalArcher.labelFemale>
 	<TribalArcher.labelFemalePlural>лучницы</TribalArcher.labelFemalePlural>
 
 	<TribalHunter.label>охотник</TribalHunter.label>
-	<TribalHunter.labelPlural>охотник</TribalHunter.labelPlural>
+	<TribalHunter.labelPlural>охотники</TribalHunter.labelPlural>
 	<TribalHunter.labelFemale>охотница</TribalHunter.labelFemale>
 	<TribalHunter.labelFemalePlural>охотницы</TribalHunter.labelFemalePlural>
 
 	<TribalHeavyArcher.label>стрелок</TribalHeavyArcher.label>
-	<TribalHeavyArcher.labelPlural>стрелок</TribalHeavyArcher.labelPlural>
+	<TribalHeavyArcher.labelPlural>стрелки</TribalHeavyArcher.labelPlural>
 
 	<TribalBerserker.label>берсерк</TribalBerserker.label>
-	<TribalBerserker.labelPlural>берсерк</TribalBerserker.labelPlural>
+	<TribalBerserker.labelPlural>берсерки</TribalBerserker.labelPlural>
 
 	<TribalChief.label>вождь</TribalChief.label>
-	<TribalChief.labelPlural>вождь</TribalChief.labelPlural>
+	<TribalChief.labelPlural>вожди</TribalChief.labelPlural>
 
 </LanguageData>
