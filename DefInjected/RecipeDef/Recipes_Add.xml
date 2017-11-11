@@ -167,13 +167,13 @@
 	<Make_Gun_Autopistol.description>Собрать пистолет.</Make_Gun_Autopistol.description>
 	<Make_Gun_Autopistol.jobString>Собирает пистолет.</Make_Gun_Autopistol.jobString>
 
-	<Make_Gun_MachinePistol.label>сделать пистолет-пулемёт</Make_Gun_MachinePistol.label>
-	<Make_Gun_MachinePistol.description>Cобрать пистолет-пулемёт.</Make_Gun_MachinePistol.description>
-	<Make_Gun_MachinePistol.jobString>Собирает пистолет-пулемёт.</Make_Gun_MachinePistol.jobString>
+	<Make_Gun_MachinePistol.label>сделать автоматический пистолет</Make_Gun_MachinePistol.label>
+	<Make_Gun_MachinePistol.description>Cобрать автоматический пистолет.</Make_Gun_MachinePistol.description>
+	<Make_Gun_MachinePistol.jobString>Собирает автоматический пистолет.</Make_Gun_MachinePistol.jobString>
 
-	<Make_Gun_HeavySMG.label>сделать крупнокалиберный пистолет-пулемёт</Make_Gun_HeavySMG.label>
-	<Make_Gun_HeavySMG.description>Собрать крупнокалиберный пистолет-пулемёт.</Make_Gun_HeavySMG.description>
-	<Make_Gun_HeavySMG.jobString>Собирает крупнокалиберный пистолет-пулемёт.</Make_Gun_HeavySMG.jobString>
+	<Make_Gun_HeavySMG.label>сделать пистолет-пулемёт</Make_Gun_HeavySMG.label>
+	<Make_Gun_HeavySMG.description>Собрать пистолет-пулемёт.</Make_Gun_HeavySMG.description>
+	<Make_Gun_HeavySMG.jobString>Собирает пистолет-пулемёт.</Make_Gun_HeavySMG.jobString>
 
 	<Make_Gun_PumpShotgun.label>сделать помповое ружьё</Make_Gun_PumpShotgun.label>
 	<Make_Gun_PumpShotgun.description>Собрать помповое ружьё.</Make_Gun_PumpShotgun.description>
