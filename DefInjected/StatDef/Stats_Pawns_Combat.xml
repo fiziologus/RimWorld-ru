@@ -1,16 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<MeleeDPS.label>Урон/сек в ближнем бою</MeleeDPS.label>
-	<MeleeDPS.description>Средний урон, наносимый в ближнем бою в секунду.</MeleeDPS.description>
+	<MeleeDPS.label>Урон/сек в рукопашной</MeleeDPS.label>
+	<MeleeDPS.description>Средний урон за секунду в рукопашной схватке. В этом параметре не учитываются способности цели защищаться, например уклонение, либо броня.</MeleeDPS.description>
+
+	<MeleeHitChance.label>вероятность попадания в рукопашной</MeleeHitChance.label>
+	<MeleeHitChance.description>Вероятность нанести удар в рукопашной. Цель всё же может уклонится даже от точного удара.</MeleeHitChance.description>
+
+	<MeleeDodgeChance.label>вероятность уклонится в рукопашной</MeleeDodgeChance.label>
+	<MeleeDodgeChance.description>Вероятность уклонится от точного удара в рукопашной. Защищающийся не сможет уклониться, если целится, либо стреляет.</MeleeDodgeChance.description>
 
 	<ShootingAccuracy.label>точность стрельбы</ShootingAccuracy.label>
-	<ShootingAccuracy.description>Базовая вероятность не промахнуться / на квадрат расстояния.</ShootingAccuracy.description>
+	<ShootingAccuracy.description>Базовая вероятность не промахнуться в каждом квадрате до цели. На вероятность попадания также влияют свойства цели, укрытия и состояние окружающей среды, а просмотреть её возможно, выбрав стрелка и наведя курсор мыши на цель.</ShootingAccuracy.description>
 
 	<AimingDelayFactor.label>время прицеливания</AimingDelayFactor.label>
-	<AimingDelayFactor.description>Время, которое требуется персонажу на прицеливание.</AimingDelayFactor.description>
-
-	<MeleeHitChance.label>шанс удара врукопашную</MeleeHitChance.label>
-	<MeleeHitChance.description>Базовый шанс поразить цель в ближнем бою.</MeleeHitChance.description>
+	<AimingDelayFactor.description>Насколько много требуется времени на прицеливание перед атакой.</AimingDelayFactor.description>
 
 </LanguageData>

@@ -1,32 +1,36 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<DoorOpenSpeed.label>скорость открытия двери</DoorOpenSpeed.label>
-	<DoorOpenSpeed.description>Скорость, с которой дверь открывается.</DoorOpenSpeed.description>
+	<DoorOpenSpeed.label>скорость раскрытия двери</DoorOpenSpeed.label>
+	<DoorOpenSpeed.description>Скорость, с которой открывается дверь.</DoorOpenSpeed.description>
 
 	<BedRestEffectiveness.label>эффективность отдыха</BedRestEffectiveness.label>
-	<BedRestEffectiveness.description>Показывает, насколько быстро отдохнут спящие на этом объекте люди.</BedRestEffectiveness.description>
+	<BedRestEffectiveness.description>Насколько быстро спящие на этом отдохнут.</BedRestEffectiveness.description>
 
 	<TrapMeleeDamage.label>урон от ловушки</TrapMeleeDamage.label>
-	<TrapMeleeDamage.description>Средний урон, который может причинить ловушка.</TrapMeleeDamage.description>
+	<TrapMeleeDamage.description>Сколько урона обычно может причинить ловушка. Реальный урон может несколько отличатся.</TrapMeleeDamage.description>
 
-	<TrapSpringChance.label>шанс срабатывания</TrapSpringChance.label>
-	<TrapSpringChance.description>Шанс того, что ловушка сработает, когда на неё наступят.</TrapSpringChance.description>
+	<TrapSpringChance.label>вероятность срабатывания</TrapSpringChance.label>
+	<TrapSpringChance.description>Вероятность, что ловушка сработает, когда ничего не подозревающее существо пройдёт по ней..</TrapSpringChance.description>
 
-	<ResearchSpeedFactor.label>фактор скорости исследования</ResearchSpeedFactor.label>
-	<ResearchSpeedFactor.description>Скорость исследования умножается на это значение.</ResearchSpeedFactor.description>
-	<ResearchSpeedFactor.parts.1.customLabel>Чистота комнаты.</ResearchSpeedFactor.parts.1.customLabel>
+	<ResearchSpeedFactor.label>множитель скорости исследования</ResearchSpeedFactor.label>
+	<ResearchSpeedFactor.description>Скорость, с которой проводятся исследования, умножается на это значение.</ResearchSpeedFactor.description>
+	<ResearchSpeedFactor.parts.1.customLabel>Чистота помещения</ResearchSpeedFactor.parts.1.customLabel>
 
 	<MedicalTendQualityOffset.label>фактор качества лечения</MedicalTendQualityOffset.label>
-	<MedicalTendQualityOffset.description>Коэффициент качества медицинской помощи смещается на это значение.</MedicalTendQualityOffset.description>
+	<MedicalTendQualityOffset.description>Качество лечения изменяется на это значение.</MedicalTendQualityOffset.description>
 
-	<ImmunityGainSpeedFactor.label>фактор скорости иммунизации</ImmunityGainSpeedFactor.label>
-	<ImmunityGainSpeedFactor.description>Скорость иммунизации умножается на это значение.</ImmunityGainSpeedFactor.description>
+	<ImmunityGainSpeedFactor.label>множитель скорости приобритения иммунитета</ImmunityGainSpeedFactor.label>
+	<ImmunityGainSpeedFactor.description>Скорость приобритения иммунитета умножается на это значение.</ImmunityGainSpeedFactor.description>
 
-	<WorkTableWorkSpeedFactor.label>фактор скорости работы</WorkTableWorkSpeedFactor.label>
+	<WorkTableWorkSpeedFactor.label>множитель скорости работы</WorkTableWorkSpeedFactor.label>
 	<WorkTableWorkSpeedFactor.description>Скорость работы умножается на это значение.</WorkTableWorkSpeedFactor.description>
 
-	<EntertainmentStrengthFactor.label>фактор развлекательной способности</EntertainmentStrengthFactor.label>
-	<EntertainmentStrengthFactor.description>Показывает, насколько эффективно этот предмет развлекает людей, и сколько радости они получат от его использования.</EntertainmentStrengthFactor.description>
+	<EntertainmentStrengthFactor.label>множитель развлекательной способности</EntertainmentStrengthFactor.label>
+	<EntertainmentStrengthFactor.description>Насколько эффективно этот предмет развлекает людей, и сколько радости они получат от его использования.</EntertainmentStrengthFactor.description>
+
+	<SurgerySuccessChanceFactor.label>множитель успеха операции</SurgerySuccessChanceFactor.label>
+	<SurgerySuccessChanceFactor.description>Это значение умножается на вероятность успеха проведённой здесь операции. На успех операции также влияют навыки проводящего её и используемые при этом медикаменты.</SurgerySuccessChanceFactor.description>
+	<SurgerySuccessChanceFactor.parts.0.customLabel>Чистота помещения</SurgerySuccessChanceFactor.parts.0.customLabel>
 
 </LanguageData>

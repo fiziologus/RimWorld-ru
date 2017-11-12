@@ -4,44 +4,46 @@
 	<!-- Artistic recipes - speed not affected by skill.-->
 
 	<SculptingSpeed.label>скорость ваяния</SculptingSpeed.label>
-	<SculptingSpeed.description>Скорость, с которой персонаж создаёт скульптуры.</SculptingSpeed.description>
+	<SculptingSpeed.description>Скорость, с которой личность создаёт скульптуры. Обратите внимание: Навык влияет на качество созданой скульптуры, а не на скорость её создания.</SculptingSpeed.description>
 
 	<TailoringSpeed.label>скорость шитья</TailoringSpeed.label>
-	<TailoringSpeed.description>Скорость, с которой персонаж изготавливает одежду.</TailoringSpeed.description>
+	<TailoringSpeed.description>Скорость, с которой личность создаёт одежду. Обратите внимание: Навык влияет на качество одеяний, а не на скорость шитья.</TailoringSpeed.description>
 
 	<SmithingSpeed.label>скорость ковки</SmithingSpeed.label>
-	<SmithingSpeed.description>Скорость, с которой персонаж куёт или изготавливает оружие, механизмы, боеприпасы и инструменты.</SmithingSpeed.description>
-
-	<DrugProductionSpeed.label>скорость пр-ва медикаментов</DrugProductionSpeed.label>
-	<DrugProductionSpeed.description>Скорость, с которой персонаж производит медикаменты и наркотики.</DrugProductionSpeed.description>
-
-	<StonecuttingSpeed.label>скорость обработки камня</StonecuttingSpeed.label>
-	<StonecuttingSpeed.description>Скорость, с которой персонаж создаёт каменные блоки из природного камня.</StonecuttingSpeed.description>
-
-	<SmeltingSpeed.label>скорость переплавки</SmeltingSpeed.label>
-	<SmeltingSpeed.description>Скорость, с которой персонаж переплавляет вещи.</SmeltingSpeed.description>
+	<SmithingSpeed.description>Скорость, с которой личность выковывает, либо изготавливает оружие, механизмы, боеприпасы и инструменты. Обратите Внимание: Навык влияет на качество созданных вещей, а не на скорость их создания.</SmithingSpeed.description>
 
 	<!-- Production recipes - speed affected by skill.-->
 
-	<CookSpeed.label>скорость приготовления еды</CookSpeed.label>
-	<CookSpeed.description>Скорость, с которой персонаж готовит блюда.</CookSpeed.description>
+	<DrugProductionSpeed.label>скорость создания химпрепаратов</DrugProductionSpeed.label>
+	<DrugProductionSpeed.description>Насколько быстро личность производит медикаменты и наркотики.</DrugProductionSpeed.description>
 
-	<FoodPoisonChance.label>шанс отравления пищи</FoodPoisonChance.label>
-	<FoodPoisonChance.description>Вероятность, с которой персонаж может ненароком отравить еду, которую готовит.</FoodPoisonChance.description>
+	<CookSpeed.label>скорость готовки еды</CookSpeed.label>
+	<CookSpeed.description>Скорость приготовления личностью блюд.</CookSpeed.description>
+
+	<FoodPoisonChance.label>вероятность порчи еды</FoodPoisonChance.label>
+	<FoodPoisonChance.description>Вероятность, что личность может ненароком сделать блюдо, которое готовит, непригодным в пищу.</FoodPoisonChance.description>
 
 	<BrewingSpeed.label>скорость варки пива</BrewingSpeed.label>
-	<BrewingSpeed.description>Скорость, с которой персонаж варит пиво.</BrewingSpeed.description>
+	<BrewingSpeed.description>Скорость варки пива личностью.</BrewingSpeed.description>
 
 	<ButcheryFleshSpeed.label>скорость разделки</ButcheryFleshSpeed.label>
-	<ButcheryFleshSpeed.description>Скорость, с которой персонаж разделывает туши существ.</ButcheryFleshSpeed.description>
+	<ButcheryFleshSpeed.description>Скорость, с которой личность разделывает плоть существ.</ButcheryFleshSpeed.description>
 
 	<ButcheryMechanoidSpeed.label>скорость разбора механоидов</ButcheryMechanoidSpeed.label>
-	<ButcheryMechanoidSpeed.description>Скорость, с которой персонаж может разобрать механоида.</ButcheryMechanoidSpeed.description>
+	<ButcheryMechanoidSpeed.description>Скорость, с которой личность может разобрать механоида на части.</ButcheryMechanoidSpeed.description>
 
-	<ButcheryFleshEfficiency.label>эффективность разделки</ButcheryFleshEfficiency.label>
-	<ButcheryFleshEfficiency.description>Множитель количества мяса, получаемого при разделке туш животных.</ButcheryFleshEfficiency.description>
+	<MechanoidOperationSuccessChance.label>успешность работы над механоидом</MechanoidOperationSuccessChance.label>
+	<MechanoidOperationSuccessChance.description>Вероятность, что персонаж успешно завершит работу над механоидом. Результатом неудачи будут потеря добытых деталей и ранение самого механика.</MechanoidOperationSuccessChance.description>
 
-	<ButcheryMechanoidEfficiency.label>эффект-ть разбора механоидов</ButcheryMechanoidEfficiency.label>
-	<ButcheryMechanoidEfficiency.description>Множитель количества материалов, получаемых персонажем при разборке мёртвого механоида.</ButcheryMechanoidEfficiency.description>
+	<ButcheryFleshEfficiency.label>полнота разделки</ButcheryFleshEfficiency.label>
+	<ButcheryFleshEfficiency.description>Множитель количества мяса, получаемого при разделке существ из плоти.</ButcheryFleshEfficiency.description>
+
+	<ButcheryMechanoidEfficiency.label>полнота разбора механоидов</ButcheryMechanoidEfficiency.label>
+	<ButcheryMechanoidEfficiency.description>Множитель количества материалов, получаемых личностью при разборке мёртвого механоида.</ButcheryMechanoidEfficiency.description>
+
+	<!-- Dumb recipes - not affected by skill because there's no skill component -->
+
+	<SmeltingSpeed.label>скорость переплавки</SmeltingSpeed.label>
+	<SmeltingSpeed.description>Скорость, с которой личность переплавляет что-либо. Обратите внимание: Поскольку для этой работы не нужны никакие навыки, на её скорость они не влияют.</SmeltingSpeed.description>
 
 </LanguageData>
