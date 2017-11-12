@@ -1,13 +1,28 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<Outpost.label>лагерь</Outpost.label>
-	<Outpost.description>Небольшой охраняемый лагерь.</Outpost.description>
+	<AmbushEdge.label>засада</AmbushEdge.label>
+	<AmbushEdge.description>Засада.</AmbushEdge.description>
+	<AmbushEdge.descriptionDialogue>враждебные войска поджидают в засаде любого, что пройдёт поблизости</AmbushEdge.descriptionDialogue>
+
+	<AmbushHidden.label>засада</AmbushHidden.label>
+	<AmbushHidden.description>Засада.</AmbushHidden.description>
+	<AmbushHidden.descriptionDialogue>враждебные войска поджидают в засаде любого, что пройдёт поблизости</AmbushHidden.descriptionDialogue>
+
+	<Manhunters.label>стая животных-людоедов</Manhunters.label>
+	<Manhunters.description>Стая охочих до человечины животных.</Manhunters.description>
+	<Manhunters.descriptionDialogue>группа животных-людоедов бродит поблизости</Manhunters.descriptionDialogue>
+
+	<Outpost.label>застава</Outpost.label>
+	<Outpost.description>Небольшая охраняемая застава.</Outpost.description>
+	<Outpost.descriptionDialogue>в окрестностях вражеская застава</Outpost.descriptionDialogue>
+
+	<SleepingMechanoids.label>спящие механоиды</SleepingMechanoids.label>
+	<SleepingMechanoids.description>Парочка спящих механоидов.</SleepingMechanoids.description>
+	<SleepingMechanoids.descriptionDialogue>в этой местности спящие механоиды</SleepingMechanoids.descriptionDialogue>
 
 	<Turrets.label>турели</Turrets.label>
-	<Turrets.description>Несколько турелей.</Turrets.description>
-
-	<Manhunters.label>опасные животные</Manhunters.label>
-	<Manhunters.description>Стая животных, жаждущих человеческой крови.</Manhunters.description>
+	<Turrets.description>Парочка турелей.</Turrets.description>
+	<Turrets.descriptionDialogue>оскрестности обороняет кольцо из вражеских турелей</Turrets.descriptionDialogue>
 
 </LanguageData>

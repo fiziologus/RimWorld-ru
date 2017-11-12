@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<RecruitPrisonerChance.label>шанс вербовки</RecruitPrisonerChance.label>
-	<RecruitPrisonerChance.description>Базовая вероятность, с которой этот персонаж завербует заключённого.</RecruitPrisonerChance.description>
+	<RecruitPrisonerChance.label>вероятность переманить узника</RecruitPrisonerChance.label>
+	<RecruitPrisonerChance.description>Базовая вероятность для этой персоны переманить узника.</RecruitPrisonerChance.description>
 
-	<TameAnimalChance.label>шанс приручения животных</TameAnimalChance.label>
-	<TameAnimalChance.description>Базовая вероятность, с которой этот персонаж приручит животное.</TameAnimalChance.description>
+	<TameAnimalChance.label>шанс приручить зверя</TameAnimalChance.label>
+	<TameAnimalChance.description>Базовая вероятность для этой персоны приручить животное.</TameAnimalChance.description>
 
-	<TrainAnimalChance.label>шанс обучения животных</TrainAnimalChance.label>
-	<TrainAnimalChance.description>Базовая вероятность, с которой этот персонаж продвинется в тренировке животного. Может варьироваться в зависимости от животного.</TrainAnimalChance.description>
+	<TrainAnimalChance.label>вероятность обучить зверя</TrainAnimalChance.label>
+	<TrainAnimalChance.description>Базовая вероятность для этой персоны продвинуться при обучении животного в текущей попытке. Окончательное значение зависит от дикости зверя, привязаности к обучающему и других вещей.</TrainAnimalChance.description>
 
-	<SocialImpact.label>социальное влияние</SocialImpact.label>
-	<SocialImpact.description>Социальное влияние персонажа на других при общении.</SocialImpact.description>
+	<SocialImpact.label>влияние при общении</SocialImpact.label>
+	<SocialImpact.description>Насколько сильно влияние на остальных при социальном взаимодействии.</SocialImpact.description>
 
-	<GiftImpact.label>влияние дипломат. подарков</GiftImpact.label>
-	<GiftImpact.description>Когда персонаж дарит подарки другой фракции, этот множитель применяется к их влиянию на отношения с этой фракцией.</GiftImpact.description>
+	<DiplomacyPower.label>способность к дипломатии</DiplomacyPower.label>
+	<DiplomacyPower.description>Сколь хороша эта личность при ведении переговоров. Оказывает влияние на изменение взаимоотношений с другими группами, когда это личность одаривает подарками одну из них. Также влияет на исход мирных переговоров с другими группами.</DiplomacyPower.description>
 
 	<TradePriceImprovement.label>улучшение торговой цены</TradePriceImprovement.label>
-	<TradePriceImprovement.description>Если персонаж ведёт торговлю, цены покупки и продажи улучшаются на этот процент.</TradePriceImprovement.description>
+	<TradePriceImprovement.description>Когда эта личность договаривается о ценах, стоимость покупки и продажи изменяются в лучшую сторону на эту часть.</TradePriceImprovement.description>
 
 </LanguageData>

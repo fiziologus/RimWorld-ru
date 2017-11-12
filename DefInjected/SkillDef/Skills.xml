@@ -2,52 +2,52 @@
 <!-- Здесь не профессии, а умения, то есть насколько хорош будет поселенец в той или иной сфере -->
 <LanguageData>
 
-	<Shooting.label>Стрельба</Shooting.label>
-	<Shooting.skillLabel>Стрельба</Shooting.skillLabel>
+	<Shooting.label>стрельба</Shooting.label>
+	<Shooting.skillLabel>стрельба</Shooting.skillLabel>
 	<Shooting.description>Использование всех видов стрелкового оружия.</Shooting.description>
 
-	<Melee.label>Ближний бой</Melee.label>
-	<Melee.skillLabel>Ближний бой</Melee.skillLabel>
+	<Melee.label>рукопашная</Melee.label>
+	<Melee.skillLabel>рукопашная</Melee.skillLabel>
 	<Melee.description>Использование всех видов оружия ближнего боя, а также боя без оружия.</Melee.description>
 
-	<Social.label>Общение</Social.label>
-	<Social.skillLabel>Общение</Social.skillLabel>
+	<Social.label>общение</Social.label>
+	<Social.skillLabel>общение</Social.skillLabel>
 	<Social.description>Ведение переговоров, убеждения, манипулирование, руководство и подбодрение других.</Social.description>
 
-	<Animals.label>Животные</Animals.label>
-	<Animals.skillLabel>Животные</Animals.skillLabel>
+	<Animals.label>животные</Animals.label>
+	<Animals.skillLabel>животные</Animals.skillLabel>
 	<Animals.description>Приручение, тренировка, уход и управление животными.</Animals.description>
 
-	<Medicine.label>Медицина</Medicine.label>
-	<Medicine.skillLabel>Медицина</Medicine.skillLabel>
+	<Medicine.label>медицина</Medicine.label>
+	<Medicine.skillLabel>медицина</Medicine.skillLabel>
 	<Medicine.description>Лечение ран, болезней и проведение операций.</Medicine.description>
 
-	<Cooking.label>Готовка</Cooking.label>
-	<Cooking.skillLabel>Готовка</Cooking.skillLabel>
+	<Cooking.label>готовка</Cooking.label>
+	<Cooking.skillLabel>готовка</Cooking.skillLabel>
 	<Cooking.description>Создание блюд из сырых ингредиентов.</Cooking.description>
 
-	<Construction.label>Сооружение</Construction.label>
-	<Construction.skillLabel>Сооружение</Construction.skillLabel>
+	<Construction.label>сооружение</Construction.label>
+	<Construction.skillLabel>сооружение</Construction.skillLabel>
 	<Construction.description>Лучшие сборщики создают постройки и мебель быстрее и лучше по качеству.</Construction.description>
 
-	<Growing.label>Взращивание</Growing.label>
-	<Growing.skillLabel>Взращивание</Growing.skillLabel>
+	<Growing.label>ращение</Growing.label>
+	<Growing.skillLabel>ращение</Growing.skillLabel>
 	<Growing.description>Посадка, уход и сбор посевов.</Growing.description>
 
-	<Mining.label>Горное дело</Mining.label>
-	<Mining.skillLabel>Горное дело</Mining.skillLabel>
+	<Mining.label>горное дело</Mining.label>
+	<Mining.skillLabel>горное дело</Mining.skillLabel>
 	<Mining.description>Рытье тунелей и добыча минералов, либо скрытых под землёй ресурсов.</Mining.description>
 
-	<Artistic.label>Искусство</Artistic.label>
-	<Artistic.skillLabel>Искусство</Artistic.skillLabel>
+	<Artistic.label>искусство</Artistic.label>
+	<Artistic.skillLabel>искусство</Artistic.skillLabel>
 	<Artistic.description>Создание предметов искусства.</Artistic.description>
 
-	<Crafting.label>Ремесло</Crafting.label>
-	<Crafting.skillLabel>Ремесло</Crafting.skillLabel>
+	<Crafting.label>ремесло</Crafting.label>
+	<Crafting.skillLabel>ремесло</Crafting.skillLabel>
 	<Crafting.description>Создание основных предметов, включая оружие и инструменты.</Crafting.description>
 
-	<Intellectual.label>Интеллектуал</Intellectual.label>
-	<Intellectual.skillLabel>Интеллектуал</Intellectual.skillLabel>
+	<Intellectual.label>интеллектуал</Intellectual.label>
+	<Intellectual.skillLabel>интеллектуал</Intellectual.skillLabel>
 	<Intellectual.description>Изучение данных, установка связей, вычисления и использование логики.</Intellectual.description>
 
 </LanguageData>

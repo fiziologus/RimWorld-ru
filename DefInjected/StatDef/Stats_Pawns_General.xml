@@ -1,44 +1,47 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<MoveSpeed.label>скорость передвижения</MoveSpeed.label>
-	<MoveSpeed.description>Скорость, с которой существо перемещается по миру, в клетках в секунду.</MoveSpeed.description>
+	<MoveSpeed.description>Скорость перемещения по миру, в клетках в секунду.</MoveSpeed.description>
 	<MoveSpeed.formatString>{0} кл/с</MoveSpeed.formatString>
 
 	<MentalBreakThreshold.label>порог нервного срыва</MentalBreakThreshold.label>
-	<MentalBreakThreshold.description>Пока настроение персонажа ниже данного уровня, он будет находиться в состоянии, опасно близком к нервному срыву.</MentalBreakThreshold.description>
+	<MentalBreakThreshold.description>Пока настроение кого-либо ниже этого уровня, он будет находиться в состоянии, опасно близком к нервному срыву.</MentalBreakThreshold.description>
 
 	<PsychicSensitivity.label>психочувствительность</PsychicSensitivity.label>
-	<PsychicSensitivity.description>Множитель силы психических явлений, которые могут повлиять на персонажа.</PsychicSensitivity.description>
+	<PsychicSensitivity.description>Множитель силы влияющих на психику феноменов, которые могут повлиять на персонажа.</PsychicSensitivity.description>
 
-	<ToxicSensitivity.label>чувствительность к токсинам</ToxicSensitivity.label>
+	<ToxicSensitivity.label>чувствительность к ядам</ToxicSensitivity.label>
 	<ToxicSensitivity.description>Множитель скорости накопления токсинов в организме персонажа.</ToxicSensitivity.description>
 
-	<GlobalLearningFactor.label>общий фактор обучения</GlobalLearningFactor.label>
-	<GlobalLearningFactor.description>Общая эффективность обучения для всех навыков.</GlobalLearningFactor.description>
+	<GlobalLearningFactor.label>множитель обучаемости</GlobalLearningFactor.label>
+	<GlobalLearningFactor.description>Общая для всех навыков эффективность обучения.</GlobalLearningFactor.description>
 
 	<EatingSpeed.label>скорость поглощения пищи</EatingSpeed.label>
 	<EatingSpeed.description>Множитель к скорости поглощения пищи.</EatingSpeed.description>
 
 	<ComfyTemperatureMin.label>мин. комфортная температура</ComfyTemperatureMin.label>
-	<ComfyTemperatureMin.description>Если температура опустится ниже этого значения, персонаж будет недоволен. Если значительно ниже, то он получит гипотермию и обморожение, от которых впоследствие умрёт.</ComfyTemperatureMin.description>
+	<ComfyTemperatureMin.description>Если температура будет ниже этого значения, персонаж станет недоволен. Если значительно ниже, получит гипотермию и обморожение и, в конечном итоге, умрёт.</ComfyTemperatureMin.description>
 
 	<ComfyTemperatureMax.label>макс. комфортная температура</ComfyTemperatureMax.label>
-	<ComfyTemperatureMax.description>Если температура поднимется выше этого значения, персонаж будет недоволен. Если значительно выше, то он получит тепловой удар, от которого впоследствие умрёт.</ComfyTemperatureMax.description>
+	<ComfyTemperatureMax.description>Если температура будет выше этого значения, персонаж станет недоволен. Если значительно выше, получит тепловой удар и, в конечном итоге, умрёт.</ComfyTemperatureMax.description>
 
-	<ImmunityGainSpeed.label>скорость выработки иммунитета</ImmunityGainSpeed.label>
-	<ImmunityGainSpeed.description>Скорость, с которой существо вырабатывает иммунитет к болезням. Если это значение слишком низко, персонаж умрёт от болезни раньше, чем выработает к ней иммунитет.</ImmunityGainSpeed.description>
+	<ImmunityGainSpeed.label>скорость приобритения иммунитета</ImmunityGainSpeed.label>
+	<ImmunityGainSpeed.description>Скорость, с которой существо вырабатывает иммунитет к болезням. При слишком низком значении персонаж умрёт от болезни раньше, чем выработает к ней иммунитет.</ImmunityGainSpeed.description>
 
 	<CarryingCapacity.label>грузоподъёмность</CarryingCapacity.label>
-	<CarryingCapacity.description>Количество предметов, которые может переносить существо.</CarryingCapacity.description>
+	<CarryingCapacity.description>Вес вещей, который создание может перенести во рту, в руках и прочих используемых для этого вещах.</CarryingCapacity.description>
 
 	<MeatAmount.label>количество мяса</MeatAmount.label>
-	<MeatAmount.description>Получаемое количество мяса в случае забоя существа.</MeatAmount.description>
+	<MeatAmount.description>Количество мяса, получаемое при разделке существа.</MeatAmount.description>
 
 	<LeatherAmount.label>количество кожи</LeatherAmount.label>
-	<LeatherAmount.description>Получаемое количество кожи в случае забоя существа.</LeatherAmount.description>
+	<LeatherAmount.description>Объём кожи, получаемый при разделке существа.</LeatherAmount.description>
 
-	<MinimumHandlingSkill.label>минимальный навык обучения</MinimumHandlingSkill.label>
-	<MinimumHandlingSkill.description>Животное не может быть приручено, если навык обращения поселенца с животными ниже этого уровня.</MinimumHandlingSkill.description>
+	<MinimumHandlingSkill.label>минимальный владение навыком</MinimumHandlingSkill.label>
+	<MinimumHandlingSkill.description>Создание не в силах приручить, обучать и управлять кто-либо с навыком обращения с животными ниже этого уровня.</MinimumHandlingSkill.description>
+
+	<PainShockThreshold.label>болевой порог</PainShockThreshold.label>
+	<PainShockThreshold.description>Точка, начиная с которой создание свалится от боли.</PainShockThreshold.description>
 
 </LanguageData>

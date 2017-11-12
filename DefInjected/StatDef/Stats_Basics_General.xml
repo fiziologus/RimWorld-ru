@@ -1,30 +1,31 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<MaxHitPoints.label>максимальная прочность</MaxHitPoints.label>
-	<MaxHitPoints.description>Максимальная прочность объекта. Показывает, сколько урона может выдержать объект до уничтожения.</MaxHitPoints.description>
+	<MaxHitPoints.description>Максимальная прочность объекта. Показывает, сколько урона может выдержать объект, прежде чем будет уничтожен.</MaxHitPoints.description>
 
 	<Mass.label>масса</Mass.label>
 	<Mass.description>Физическая масса объекта.</Mass.description>
 	<Mass.formatString>{0} кг</Mass.formatString>
 
 	<MarketValue.label>рыночная стоимость</MarketValue.label>
-	<MarketValue.description>Базовая цена объекта на рынке. Реальная стоимость при торговле будет изменена в зависимости от статуса ваших отношений и навыка торговли.</MarketValue.description>
+	<MarketValue.description>Цена объекта на рынке. Реальная стоимость при торговле будет изменяться в зависимости от ваших взаимоотношений, навыка торговли и прочих связаных с этим факторов.</MarketValue.description>
+	<MarketValue.formatString>{0} серебром</MarketValue.formatString>
 
 	<SellPriceFactor.label>множитель цены продажи</SellPriceFactor.label>
-	<SellPriceFactor.description>Множитель цены, по которой вы можете продавать предметы.</SellPriceFactor.description>
+	<SellPriceFactor.description>Множитель цены, по которой вы продаёте предметы.</SellPriceFactor.description>
 
-	<Flammability.label>воспламеняемость</Flammability.label>
-	<Flammability.description>Настолько легко объект загорается и как быстро горит.</Flammability.description>
+	<Flammability.label>горючесть</Flammability.label>
+	<Flammability.description>Настолько легко объект охватывается огнем и как быстро горит.</Flammability.description>
 
 	<WorkToMake.label>объём работ</WorkToMake.label>
-	<WorkToMake.description>Объём работ, необходимый для создания этого предмета, после того, как все материалы и инструменты собраны.</WorkToMake.description>
+	<WorkToMake.description>Начальный объём работ для создания предмета, когда собраны все материалы и инструменты.</WorkToMake.description>
 
-	<WorkToBuild.label>объём работ</WorkToBuild.label>
-	<WorkToBuild.description>Объём работ, необходимый для постройки этого здания, после того, как все материалы и инструменты собраны.</WorkToBuild.description>
+	<WorkToBuild.label>объём строительства</WorkToBuild.label>
+	<WorkToBuild.description>Начальный объём работ для создания постройки, когда собраны все материалы и инструменты.</WorkToBuild.description>
 
 	<DeteriorationRate.label>скорость порчи</DeteriorationRate.label>
-	<DeteriorationRate.description>Скорость, с которой этот предмет портится, если оставлен снаружи (особенно под дождём).</DeteriorationRate.description>
+	<DeteriorationRate.description>Скорость (средняя потеря прочности в день) с которой предмет приходит в негодность, если оставлен вне помещения. При некоторых погодных условиях, например ливне, вещи приходят в негодность несколько быстрее.</DeteriorationRate.description>
 	<DeteriorationRate.formatString>{0}/д</DeteriorationRate.formatString>
 
 	<Beauty.label>привлекательность</Beauty.label>
@@ -34,6 +35,6 @@
 	<Cleanliness.description>Насколько чистым является объект.</Cleanliness.description>
 
 	<Comfort.label>комфорт</Comfort.label>
-	<Comfort.description>Насколько удобно сидеть или лежать на этом предмете.</Comfort.description>
+	<Comfort.description>Насколько на предмете удобно сидеть или лежать.</Comfort.description>
 
 </LanguageData>
