@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<WaterDeep.label>глубокая вода</WaterDeep.label>
+	<WaterDeep.label>глубоководье</WaterDeep.label>
 	<WaterShallow.label>мелководье</WaterShallow.label>
 	<WaterOceanDeep.label>глубины океана</WaterOceanDeep.label>
 	<WaterMovingDeep.label>глубоководное течение</WaterMovingDeep.label>

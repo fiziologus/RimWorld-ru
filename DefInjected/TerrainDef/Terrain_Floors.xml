@@ -1,81 +1,81 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<!-- ================= Misc ================= -->
 
+	<Concrete.label>бетон</Concrete.label>
+	<Concrete.description>Быстрозастывающий бетон. Не тормозит передвижение, дёшев и очень быстро заливается, но достаточно уродливый.</Concrete.description> <!-- Перед заливкой нужно снять слой земли.-->
+
+	<PavedTile.label>брусчатка</PavedTile.label>
+	<PavedTile.description>Практичная бетонная плитка. Дёшевая и хороша для ходьбы, но на вид ни хороша, ни плоха и медленно укладывается.</PavedTile.description>
+
+	<WoodPlankFloor.label>деревянный пол</WoodPlankFloor.label>
+	<WoodPlankFloor.description>Дощатое покрытие. Для согревающего, напоминающего родной дом чувства. Легко укладывается, но горюч.</WoodPlankFloor.description>
+
 	<MetalTile.label>металлическая плитка</MetalTile.label>
-	<MetalTile.description>Металлическая плитка, словно на космическом корабле. Красивая, но трудо- и материалозатратная.</MetalTile.description>
+	<MetalTile.description>Металлическая плитка, словно на космическом корабле. Милая, но требует много труда и материала.</MetalTile.description>
 
 	<SilverTile.label>серебряная плитка</SilverTile.label>
-	<SilverTile.description>Дорого и долго создаётся, но очень красивая. Отлично подходит для оформления любых роскошных комнат.</SilverTile.description>
+	<SilverTile.description>Дорогостоящая и долго создаваемая, но просто прелестная. Прекрасно подойдёт для роскошных помещений.</SilverTile.description>
 
 	<GoldTile.label>золотая плитка</GoldTile.label>
-	<GoldTile.description>Самое красивое и впечатляющее из покрытий для пола, но очень дорогое и требует много труда для создания.</GoldTile.description>
+	<GoldTile.description>Наипрекраснейшее и впечатляющее покрытие. Крайне дорогостоящее и требует уйму труда для создания.</GoldTile.description>
 
 	<SterileTile.label>стерильная плитка</SterileTile.label>
-	<SterileTile.description>Стерильная плитка, помогает сохранить полы в чистоте. Очень полезна в больницах, т. к. снижает риск подхватить инфекцию. Нейтральна на вид и довольно долго создаётся.</SterileTile.description>
-
-	<PavedTile.label>бетонная плитка</PavedTile.label>
-	<PavedTile.description>Утилитарные бетонные плиты. Дёшевы и обеспечивают хорошую скорость передвижения, нейтральны на вид.</PavedTile.description>
-
-	<Concrete.label>бетон</Concrete.label>
-	<Concrete.description>Быстрозаливной бетон. Практичный, но уродливый.</Concrete.description> <!-- Перед заливкой нужно снять слой земли.-->
-
-	<WoodPlankFloor.label>паркет</WoodPlankFloor.label>
-	<WoodPlankFloor.description>Деревянный пол. Тепло и по-домашнему.</WoodPlankFloor.description>
+	<SterileTile.description>Стерильные плитки помогают содержать помещение в чистоте. Весьма полезна в больницах, защищая пациентов от инфецирования. На вид ни хороша, ни плоха и довольно долго создаётся.</SterileTile.description>
 
 	<!-- ================= Carpets ================= -->
 
 	<CarpetRed.label>красный ковёр</CarpetRed.label>
-	<CarpetRed.description>Алый, словно роза, плюшевый ковёр.</CarpetRed.description>
+	<CarpetRed.description>Ковёр из плюша по изысканому красивого цвета розы.</CarpetRed.description>
 
 	<CarpetGreen.label>зелёный ковёр</CarpetGreen.label>
-	<CarpetGreen.description>Ковёр естественного, по-природному свежего зелёного цвета.</CarpetGreen.description>
+	<CarpetGreen.description>Ковёр природного зелёного цвета.</CarpetGreen.description>
 
 	<CarpetBlue.label>синий ковёр</CarpetBlue.label>
-	<CarpetBlue.description>Мягчайший плюшевый ковёр холодного синего цвета.</CarpetBlue.description>
+	<CarpetBlue.description>Ковёр из обволакивающего ноги плюша холодного синего цвета.</CarpetBlue.description>
 
 	<CarpetCream.label>кремовый ковёр</CarpetCream.label>
-	<CarpetCream.description>Приятный ковёр располагающего кремового цвета.</CarpetCream.description>
+	<CarpetCream.description>Манящий цвета сливок ковёр.</CarpetCream.description>
 
 	<CarpetDark.label>тёмный ковёр</CarpetDark.label>
-	<CarpetDark.description>Ковёр тёмно-серого цвета в сдержанном деловом стиле.</CarpetDark.description>
+	<CarpetDark.description>Деловито выглядящий ковёр тёмно-серого цвета.</CarpetDark.description>
 
 	<!-- GENERATED -->
 
 	<Sandstone_Rough.label>грубый песчаник</Sandstone_Rough.label>
-	<Sandstone_Rough.description>грубый природный пол из песчаника</Sandstone_Rough.description>
+	<Sandstone_Rough.description>грубая природная основа из песчаника</Sandstone_Rough.description>
 	<Sandstone_RoughHewn.label>обтёсанный песчаник</Sandstone_RoughHewn.label>
-	<Sandstone_RoughHewn.description>грубо обтёсанный пол из песчаника</Sandstone_RoughHewn.description>
+	<Sandstone_RoughHewn.description>природный пол из грубо обтёсанного песчаника</Sandstone_RoughHewn.description>
 	<Sandstone_Smooth.label>гладкий песчаник</Sandstone_Smooth.label>
-	<Sandstone_Smooth.description>гладкий пол из песчаника</Sandstone_Smooth.description>
+	<Sandstone_Smooth.description>гладкий природный пол из песчаника</Sandstone_Smooth.description>
 
 	<Granite_Rough.label>грубый гранит</Granite_Rough.label>
-	<Granite_Rough.description>грубый природный пол из гранита</Granite_Rough.description>
+	<Granite_Rough.description>грубая природная гранитная основа</Granite_Rough.description>
 	<Granite_RoughHewn.label>обтёсанный гранит</Granite_RoughHewn.label>
-	<Granite_RoughHewn.description>грубо обтёсанный гранитный пол</Granite_RoughHewn.description>
+	<Granite_RoughHewn.description>природный пол из грубо обтёсанного гранита</Granite_RoughHewn.description>
 	<Granite_Smooth.label>гладкий гранит</Granite_Smooth.label>
-	<Granite_Smooth.description>гладкий гранитный пол</Granite_Smooth.description>
+	<Granite_Smooth.description>гладкий природный гранитный пол</Granite_Smooth.description>
 
 	<Limestone_Rough.label>грубый сланец</Limestone_Rough.label>
-	<Limestone_Rough.description>грубый природный пол из сланца</Limestone_Rough.description>
+	<Limestone_Rough.description>грубая природная основа из сланца</Limestone_Rough.description>
 	<Limestone_RoughHewn.label>обтёсанный сланец</Limestone_RoughHewn.label>
-	<Limestone_RoughHewn.description>грубо обтёсанный пол из сланца</Limestone_RoughHewn.description>
+	<Limestone_RoughHewn.description>природный пол из грубо обтёсанного сланца</Limestone_RoughHewn.description>
 	<Limestone_Smooth.label>гладкий сланец</Limestone_Smooth.label>
-	<Limestone_Smooth.description>гладкий пол из сланца</Limestone_Smooth.description>
+	<Limestone_Smooth.description>гладкий природный пол из сланца</Limestone_Smooth.description>
 
 	<Slate_Rough.label>грубый известняк</Slate_Rough.label>
-	<Slate_Rough.description>грубый природный известняковый пол</Slate_Rough.description>
+	<Slate_Rough.description>грубая природная известняковая основа</Slate_Rough.description>
 	<Slate_RoughHewn.label>обтёсанный известняк</Slate_RoughHewn.label>
-	<Slate_RoughHewn.description>грубо обтёсанный известняковый пол</Slate_RoughHewn.description>.
+	<Slate_RoughHewn.description>природный пол из грубо обтёсанного известняка</Slate_RoughHewn.description>.
 	<Slate_Smooth.label>гладкий известняк</Slate_Smooth.label>
-	<Slate_Smooth.description>гладкий известняковый пол</Slate_Smooth.description>
+	<Slate_Smooth.description>гладкий природный известняковый пол</Slate_Smooth.description>
 
 	<Marble_Rough.label>грубый мрамор</Marble_Rough.label>
-	<Marble_Rough.description>грубый природный пол из мрамора</Marble_Rough.description>
+	<Marble_Rough.description>грубая природная мраморная основа</Marble_Rough.description>
 	<Marble_RoughHewn.label>обтёсанный мрамор</Marble_RoughHewn.label>
-	<Marble_RoughHewn.description>грубо обтёсанный мраморный пол</Marble_RoughHewn.description>
+	<Marble_RoughHewn.description>природный пол из грубо обтёсанного мрамора</Marble_RoughHewn.description>
 	<Marble_Smooth.label>гладкий мрамор</Marble_Smooth.label>
-	<Marble_Smooth.description>гладкий мраморный пол</Marble_Smooth.description>
+	<Marble_Smooth.description>гладкий природный мраморный пол</Marble_Smooth.description>
 
 </LanguageData>
