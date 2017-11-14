@@ -1,38 +1,38 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<!-- ================= Tile ================= -->
 
 	<TileSandstone.label>плитка из песчаника</TileSandstone.label>
-	<TileSandstone.description>Твёрдые каменные плиты, выглядят как в средневековом замке.</TileSandstone.description>
+	<TileSandstone.description>Утончённая, аккуратно высеченная каменная плитка для ощущения, будто живёшь в замке. Приятная глазу, но отнимает много времени на укладку.</TileSandstone.description>
 
 	<TileGranite.label>гранитная плитка</TileGranite.label>
-	<TileGranite.description>Твёрдые каменные плиты, выглядят как в средневековом замке.</TileGranite.description>
+	<TileGranite.description>Утончённая, аккуратно высеченная каменная плитка для ощущения, будто живёшь в замке. Приятная глазу, но отнимает много времени на укладку.</TileGranite.description>
 
 	<TileLimestone.label>плитка из известняка</TileLimestone.label>
-	<TileLimestone.description>Твёрдые каменные плиты, выглядят как в средневековом замке.</TileLimestone.description>
+	<TileLimestone.description>Утончённая, аккуратно высеченная каменная плитка для ощущения, будто живёшь в замке. Приятная глазу, но отнимает много времени на укладку.</TileLimestone.description>
 
-	<TileSlate.label>плитка из сланца</TileSlate.label>
-	<TileSlate.description>Твёрдые каменные плиты, выглядят как в средневековом замке.</TileSlate.description>
+	<TileSlate.label>сланцевая плитка</TileSlate.label>
+	<TileSlate.description>Утончённая, аккуратно высеченная каменная плитка для ощущения, будто живёшь в замке. Приятная глазу, но отнимает много времени на укладку.</TileSlate.description>
 
 	<TileMarble.label>мраморная плитка</TileMarble.label>
-	<TileMarble.description>Твёрдые каменные плиты, выглядят как в средневековом замке.</TileMarble.description>
+	<TileMarble.description>Утончённая, аккуратно высеченная каменная плитка для ощущения, будто живёшь в замке. Приятная глазу, но отнимает много времени на укладку.</TileMarble.description>
 
 	<!-- ================= Flagstone ================= -->
 
-	<FlagstoneSlate.label>грубая плитка из сланца</FlagstoneSlate.label>
-	<FlagstoneSlate.description>Грубо вырезанные каменные плиты. Не очень красивые, но отлично подходят для покрытия дорог и пешеходных дорожек. Разборка плиты не даёт ресурсов.</FlagstoneSlate.description>
+	<FlagstoneSandstone.label>плитняк из песчаника</FlagstoneSandstone.label>
+	<FlagstoneSandstone.description>Грубо высеченная каменная плитка. Не верх красоты, но из них получается хорошее покрытие дорог и уличных дорожек. Разборка плитняка не приносит ресурсов.</FlagstoneSandstone.description>
 
-	<FlagstoneLimestone.label>грубая плитка из известняка</FlagstoneLimestone.label>
-	<FlagstoneLimestone.description>Грубо вырезанные каменные плиты. Не очень красивые, но отлично подходят для покрытия дорог и пешеходных дорожек. Разборка плиты не даёт ресурсов.</FlagstoneLimestone.description>
+	<FlagstoneGranite.label>гранитный плитняк</FlagstoneGranite.label>
+	<FlagstoneGranite.description>Грубо высеченная каменная плитка. Не верх красоты, но из них получается хорошее покрытие дорог и уличных дорожек. Разборка плитняка не приносит ресурсов.</FlagstoneGranite.description>
 
-	<FlagstoneSandstone.label>грубая плитка из песчаника</FlagstoneSandstone.label>
-	<FlagstoneSandstone.description>Грубо вырезанные каменные плиты. Не очень красивые, но отлично подходят для покрытия дорог и пешеходных дорожек. Разборка плиты не даёт ресурсов.</FlagstoneSandstone.description>
+	<FlagstoneLimestone.label>известняковый плитняк</FlagstoneLimestone.label>
+	<FlagstoneLimestone.description>Грубо высеченная каменная плитка. Не верх красоты, но из них получается хорошее покрытие дорог и уличных дорожек. Разборка плитняка не приносит ресурсов.</FlagstoneLimestone.description>
 
-	<FlagstoneGranite.label>грубая гранитная плитка</FlagstoneGranite.label>
-	<FlagstoneGranite.description>Грубо вырезанные каменные плиты. Не очень красивые, но отлично подходят для покрытия дорог и пешеходных дорожек. Разборка плиты не даёт ресурсов.</FlagstoneGranite.description>
+	<FlagstoneSlate.label>сланцевый плитняк</FlagstoneSlate.label>
+	<FlagstoneSlate.description>Грубо высеченная каменная плитка. Не верх красоты, но из них получается хорошее покрытие дорог и уличных дорожек. Разборка плитняка не приносит ресурсов.</FlagstoneSlate.description>
 
-	<FlagstoneMarble.label>грубая мраморная плитка</FlagstoneMarble.label>
-	<FlagstoneMarble.description>Грубо вырезанные каменные плиты. Не очень красивые, но отлично подходят для покрытия дорог и пешеходных дорожек. Разборка плиты не даёт ресурсов.</FlagstoneMarble.description>
+	<FlagstoneMarble.label>мраморный плитняк</FlagstoneMarble.label>
+	<FlagstoneMarble.description>Грубо высеченная каменная плитка. Не верх красоты, но из них получается хорошее покрытие дорог и уличных дорожек. Разборка плитняка не приносит ресурсов.</FlagstoneMarble.description>
 
 </LanguageData>
