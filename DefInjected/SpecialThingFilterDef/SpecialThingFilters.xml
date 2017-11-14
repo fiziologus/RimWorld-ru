@@ -1,17 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<AllowCorpsesColonist.label>поселенецев</AllowCorpsesColonist.label>
-	<AllowCorpsesColonist.description>Разрешить складывать сюда мёртвых поселенецев.</AllowCorpsesColonist.description>
+	<AllowCorpsesColonist.label>тела своих</AllowCorpsesColonist.label>
+	<AllowCorpsesColonist.description>Разрешить класть сюда тела поселенецев.</AllowCorpsesColonist.description>
 
-	<AllowCorpsesStranger.label>чужаков</AllowCorpsesStranger.label>
-	<AllowCorpsesStranger.description>Разрешить складывать сюда мёртвых чужаков и врагов.</AllowCorpsesStranger.description>
+	<AllowCorpsesStranger.label>тела чужаков</AllowCorpsesStranger.label>
+	<AllowCorpsesStranger.description>Разрешить класть сюда тела чужаков.</AllowCorpsesStranger.description>
 
 	<AllowRotten.label>гнильё</AllowRotten.label>
-	<AllowRotten.description>Разрешить складывать сюда органические вещи, которые начали гнить.</AllowRotten.description>
+	<AllowRotten.description>Разрешить класть сюда уже начавшие гнить органические вещи.</AllowRotten.description>
 
 	<AllowPlantFood.label>растительную пищу</AllowPlantFood.label>
-	<AllowPlantFood.description>Разрешить складывать сюда растительную пищу, эквивалентную несобранным растениям, например, сено.</AllowPlantFood.description>
+	<AllowPlantFood.description>Разрешить класть сюда растительную пищу, равную по ценности несобранным растениям, например, сено.</AllowPlantFood.description>
 
 	<AllowSmeltable.label>переплавляемое</AllowSmeltable.label>
 

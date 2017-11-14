@@ -12,22 +12,22 @@
 	<!--================== player pawn modifier ================-->
 
 	<OnPawnDeathExplode.label>персонажи взрываются при смерти</OnPawnDeathExplode.label>
-	<ForcedTrait.label>принудительные черты</ForcedTrait.label>
-	<ForcedHediff.label>состояние здоровья</ForcedHediff.label>
+	<ForcedTrait.label>обязательные черты</ForcedTrait.label>
+	<ForcedHediff.label>обязательное состояние здоровья</ForcedHediff.label>
 	<SetNeedLevel.label>задать уровень потребностей</SetNeedLevel.label>
 	<StartingResearch.label>начать с исследованием</StartingResearch.label>
 	<GameCondition_Planetkiller.label>приближается разрушитель планет</GameCondition_Planetkiller.label>
 
 	<!--=================== rules changes =================-->
 
-	<Rule_DisallowDesignator_ZoneAdd_Growing.label>нельзя сеять</Rule_DisallowDesignator_ZoneAdd_Growing.label>
-	<Rule_DisallowDesignator_ZoneAdd_Growing.description>Нельзя сеять растения на земле.</Rule_DisallowDesignator_ZoneAdd_Growing.description>
-	<Rule_DisallowDesignator_Mine.label>нельзя добывать</Rule_DisallowDesignator_Mine.label>
-	<Rule_DisallowDesignator_Mine.description>Нельзя добывать.</Rule_DisallowDesignator_Mine.description>
+	<Rule_DisallowDesignator_ZoneAdd_Growing.label>нельзя сажать</Rule_DisallowDesignator_ZoneAdd_Growing.label>
+	<Rule_DisallowDesignator_ZoneAdd_Growing.description>Невозможно выращивать растения на земле.</Rule_DisallowDesignator_ZoneAdd_Growing.description>
+	<Rule_DisallowDesignator_Mine.label>нельзя копать</Rule_DisallowDesignator_Mine.label>
+	<Rule_DisallowDesignator_Mine.description>Невозможно разрушать горную породу.</Rule_DisallowDesignator_Mine.description>
 	<Rule_DisallowDesignator_Hunt.label>нельзя охотиться</Rule_DisallowDesignator_Hunt.label>
-	<Rule_DisallowDesignator_Hunt.description>Нельзя охотиться.</Rule_DisallowDesignator_Hunt.description>
+	<Rule_DisallowDesignator_Hunt.description>Невозможно охотиться.</Rule_DisallowDesignator_Hunt.description>
 	<Rule_DisallowDesignator_Tame.label>нельзя приручить</Rule_DisallowDesignator_Tame.label>
-	<Rule_DisallowDesignator_Tame.description>Нельзя приручать животных.</Rule_DisallowDesignator_Tame.description>
+	<Rule_DisallowDesignator_Tame.description>Невозможно приручать зверей.</Rule_DisallowDesignator_Tame.description>
 
 	<StatFactor.label>множитель характеристик</StatFactor.label>
 
@@ -40,7 +40,7 @@
 	<StartingAnimal.label>начать с животным(и)</StartingAnimal.label>
 	<StartingThing_Defined.label>начать с</StartingThing_Defined.label>
 	<ScatterThingsNearPlayerStart.label>начать рядом с</ScatterThingsNearPlayerStart.label>
-	<ScatterThingsAnywhere.label>разбросаны неподалёку</ScatterThingsAnywhere.label>
+	<ScatterThingsAnywhere.label>раскиданы вокруг</ScatterThingsAnywhere.label>
 
 
 </LanguageData>
