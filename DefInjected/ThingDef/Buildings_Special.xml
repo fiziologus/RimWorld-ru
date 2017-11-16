@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Эманатор - вещь порождающая излучение -->
+	<PsychicEmanator.label>влияющий на психику эманатор</PsychicEmanator.label>
+	<PsychicEmanator.description>Древнее устройство, создающее вокруг себя успокаивающее психополе. Эту улучшает настроение у любого, кто рядом. Работает и через стены.</PsychicEmanator.description>
+
+	<VanometricPowerCell.label>ванометрическая энергоячейка</VanometricPowerCell.label>
+	<VanometricPowerCell.description>Производит энергию из ничего, бесконечно долго и без какого-либо топлива. Эта технология разработана архотеками, и стоит далеко за гранью даже наиболее продвинутых сверкающих миров. Изучающие архотеков учёные полагают, что это каким-то образом напрямую вытягивает энергию из флуктуаций квантовой пены, но, как именно это работает, пододлино не известно никому.</VanometricPowerCell.description>
+
+	<InfiniteChemreactor.label>бесконечный химреактор</InfiniteChemreactor.label>
+	<InfiniteChemreactor.description>Неспеша производит химтопливо в результате сложных последовательностей химических реакций, используя вытянутые из воздуха атомы.</InfiniteChemreactor.description>
+
+</LanguageData>

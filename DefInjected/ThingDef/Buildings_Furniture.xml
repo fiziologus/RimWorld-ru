@@ -1,79 +1,100 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<!--============================== Beds ==============================-->
 
 	<SleepingSpot.label>спальное место</SleepingSpot.label>
-	<SleepingSpot.description>Обозначает место на земле, где люди должны спать. Не комфортно.</SleepingSpot.description>
+	<SleepingSpot.description>Обозначает место на земле, где люди должны спать. Без удобств.</SleepingSpot.description>
 
 	<Bed.label>кровать</Bed.label>
-	<Bed.description>Уютный матрац и простыни на прочной раме, для комфортного отдыха.</Bed.description>
+	<Bed.description>Уютный матрас и простыни в каркасе для отдыха.</Bed.description>
 
 	<DoubleBed.label>двойная кровать</DoubleBed.label>
-	<DoubleBed.description>Простая широкая кровать для двух человек.</DoubleBed.description>
+	<DoubleBed.description>Простая вдвое шире обычной кровать для двух человек.</DoubleBed.description>
 
-	<RoyalBed.label>роскошная кровать</RoyalBed.label>
-	<RoyalBed.description>Великолепная, украшенная золотом кровать для знатных людей. Удобно и красиво. Двуспальная.</RoyalBed.description>
+	<RoyalBed.label>царское ложе</RoyalBed.label>
+	<RoyalBed.description>Роскошная, с золотыми вставками кровать в самый раз для голубых кровей. Крайне удобная и прекрасная. Подойдёт и на двоих.</RoyalBed.description>
 
-	<HospitalBed.label>больничная кровать</HospitalBed.label>
-	<HospitalBed.description>Кровать, специально разработанная для больных и раненных. Увеличивает шанс успешной медицинской операции.</HospitalBed.description>
+	<HospitalBed.label>больничная койка</HospitalBed.label>
+	<HospitalBed.description>Кровать, специально предназначенная для нездоровых людей. Увеличивает успешность медицинских процедур.</HospitalBed.description>
+
+	<Bedroll.label>спальник</Bedroll.label>
+	<Bedroll.description>Простая, расстилаемая прямо на полу постель обычно из ткани, либо шкур и зачастую с меховой подкладкой. Лёгкий и может быть скатан в рулон для облегчения переноски, но не настолько же удобен, как привычная кровать.</Bedroll.description>
+
+	<BedrollDouble.label>парный спальник</BedrollDouble.label>
+	<BedrollDouble.description>Простая, расстилаемая прямо на полу постель двойной штртны обычно из ткани, либо шкур и зачастую с меховой подкладкой. Лёгкий и может быть скатан в рулон для облегчения переноски, но не настолько же удобен, как привычная кровать.</BedrollDouble.description>
 
 	<!--=========================== Animal beds ===============================-->
 
 	<AnimalSleepingSpot.label>спальное место животных</AnimalSleepingSpot.label>
-	<AnimalSleepingSpot.description>Обозначает место ночлега животных</AnimalSleepingSpot.description>
+	<AnimalSleepingSpot.description>Обозначает место ночлега животных.</AnimalSleepingSpot.description>
 
-	<AnimalSleepingBox.label>спальный короб для животных</AnimalSleepingBox.label>
-	<AnimalSleepingBox.description>Предназначен для небольших животных, таких как куры, кошки или маленькие собаки.</AnimalSleepingBox.description>
+	<AnimalSleepingBox.label>ящик для животных</AnimalSleepingBox.label>
+	<AnimalSleepingBox.description>Небольшой короб, чтобы внутри могло спать животное. Подходит для кур, кошек, небольших собачек и прочих мелких животных.</AnimalSleepingBox.description>
 
 	<AnimalBed.label>кровать для животных</AnimalBed.label>
-	<AnimalBed.description>Мягкая кровать для животных, подходит всем.</AnimalBed.description>
+	<AnimalBed.description>Мягкая кровать для животных. Подходит любому животному.</AnimalBed.description>
 
 	<!--======================= Basic domestic furniture ==============================-->
 
 	<Stool.label>табуретка</Stool.label>
-	<Stool.description>Простое мебельное изделие, на котором сидят.</Stool.description>
+	<Stool.description>Простая подставка для сидения.</Stool.description>
 
 	<DiningChair.label>стул</DiningChair.label>
-	<DiningChair.description>Удобный и красивый стул, для сидения за столом.</DiningChair.description>
+	<DiningChair.description>Удобный и привлекательный стул для сидения за столом.</DiningChair.description>
 
 	<Armchair.label>кресло</Armchair.label>
-	<Armchair.description>Большое, мягкое и удобное сиденье. Очень хорошо помогает расслабиться.</Armchair.description>
+	<Armchair.description>Большое, мягкое и удобное сиденье. Великолепно, чтобы расслабиться.</Armchair.description>
 
 	<!--======================= Tables ==============================-->
 
-	<TableShort.label>маленький стол</TableShort.label>
-	<TableShort.description>Люди будут есть за столом, если рядом есть стулья.</TableShort.description>
+	<EndTable.label>тумбочка</EndTable.label>
+	<EndTable.description>Небольшай прикроватный столик. Делает соседние кровати чуточку удобней. Можно поставить прямо в изголовье кровати. Установка более, чем одной тумбочки к кровати не даёт никакого эффекта.</EndTable.description>
 
-	<TableLong.label>большой стол</TableLong.label>
-	<TableLong.description>Люди будут есть за столом, если рядом есть стулья.</TableLong.description>
+	<Table1x2c.label>стол (1х2)</Table1x2c.label>
+	<Table1x2c.description>Люди будут есть за столом, если рядом есть стулья.</Table1x2c.description>
+
+	<Table2x2c.label>стол (2х2)</Table2x2c.label>
+	<Table2x2c.description>Люди будут есть за столом, если рядом есть стулья.</Table2x2c.description>
+
+	<Table2x4c.label>стол (2х4)</Table2x4c.label>
+	<Table2x4c.description>Люди будут есть за столом, если рядом есть стулья.</Table2x4c.description>
+
+	<Table3x3c.label>стол (3х3)</Table3x3c.label>
+	<Table3x3c.description>Люди будут есть за столом, если рядом есть стулья.</Table3x3c.description>
 
 	<PlantPot.label>цветочный горшок</PlantPot.label>
 	<PlantPot.description>Посадите здесь декоративные цветы, чтобы улучшить настроение людей вокруг.</PlantPot.description>
 
 	<!-- ======================== Lighting ======================= -->
 
-	<TorchLamp.label>лампа-факел</TorchLamp.label>
-	<TorchLamp.description>Деревянный факел для освещения ближайшей области. Для того, чтобы поддерживать огонь, потребуется дерево. Производит небольшое количество тепла.</TorchLamp.description>
+	<TorchLamp.label>факел</TorchLamp.label>
+	<TorchLamp.description>Деревянный факел для освещения местности. Чтобы работать и двигаться в полную силу людям нужен свет. Может автоматически дозаправляться древесиной. Выделяет немного тепла.</TorchLamp.description>
 
-	<StandingLamp.label>лампа</StandingLamp.label>
-	<StandingLamp.description>Лампа освещает ближайшую область.</StandingLamp.description>
+	<StandingLamp.label>светильник</StandingLamp.label>
+	<StandingLamp.description>Светильник освещающий местность. Чтобы работать и двигаться в полную силу людям нужен свет.</StandingLamp.description>
 
-	<StandingLamp_Red.label>красная лампа</StandingLamp_Red.label>
-	<StandingLamp_Red.description>Лампа освещает ближайшую область красным светом.</StandingLamp_Red.description>
+	<StandingLamp_Red.label>светильник (красный)</StandingLamp_Red.label>
+	<StandingLamp_Red.description>Светильник освещающий местность красным светом.</StandingLamp_Red.description>
 
-	<StandingLamp_Green.label>зелёная лампа</StandingLamp_Green.label>
-	<StandingLamp_Green.description>Лампа освещает ближайшую область зелёным светом.</StandingLamp_Green.description>
+	<StandingLamp_Green.label>светильник (зелёный)</StandingLamp_Green.label>
+	<StandingLamp_Green.description>Светильник освещающий местность зелёным светом.</StandingLamp_Green.description>
 
-	<StandingLamp_Blue.label>синяя лампа</StandingLamp_Blue.label>
-	<StandingLamp_Blue.description>Лампа освещает ближайшую область синим светом.</StandingLamp_Blue.description>
+	<StandingLamp_Blue.label>светильник (синий)</StandingLamp_Blue.label>
+	<StandingLamp_Blue.description>Светильник освещающий местность синим светом.</StandingLamp_Blue.description>
 
-	<SunLamp.label>солнечная лампа</SunLamp.label>
-	<SunLamp.description>Освещает местность достаточно ярко для выращивания растений.</SunLamp.description>
+	<SunLamp.label>лампа солнечного света</SunLamp.label>
+	<SunLamp.description>Освещает местность достаточно ярко для выращивания растений, однако съедает немерено мощности. Самостоятельно отключается ночью.</SunLamp.description>
+	<SunLamp.comps.2.offMessage>Оключена не время сна растений</SunLamp.comps.2.offMessage>
 
 	<!--============================== Storage ==============================-->
 
-	<EquipmentRack.label>стойка снаряжения</EquipmentRack.label>
-	<EquipmentRack.description>Стойка для хранения различного снаряжения.</EquipmentRack.description>
+	<Shelf.label>стелаж</Shelf.label>
+	<Shelf.description>Хранящиеся здесь предметы не будут портиться, даже вне помещения.</Shelf.description>
+
+	<!--============================== Dressers ==============================-->
+
+	<Dresser.label>комод</Dresser.label>
+	<Dresser.description>Даёт небольшой прирост удобства для всех соседних кроватей. Установка более, чем одного комода к кровати не даёт никакого эффекта.</Dresser.description>
 
 </LanguageData>
