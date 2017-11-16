@@ -1,23 +1,29 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<HorseshoesPin.label>колышек для метания подковы</HorseshoesPin.label>
-	<HorseshoesPin.description>Старинная простая игра с подковами и вбитым в землю колышком. Игроки кидают подковы с расстояния и пытаются добросить их до колышка или набросить подкову на него. Это расслабляет, а также тренирует координацию и меткость.</HorseshoesPin.description>
+	<HorseshoesPin.description>Простая старинная игра с подковами и вбитым в землю колышком. Стоя поотдаль, игроки кидают подковы, пытаясь опустить их как можно ближе к колышку, либо набросить на него. Это расслабляет и вдобавок тренирует глазомер.</HorseshoesPin.description>
+
+	<HoopstoneRing.label>кольцо для кидания камней</HoopstoneRing.label>
+	<HoopstoneRing.description>Простая старинная игра с камешками и большим кольцом на земле. Стоя поотдаль, игроки швыряют камешки, пытаясь опустить их внутрь кольца. Это расслабляет и вдобавок тренирует глазомер.</HoopstoneRing.description>
 
 	<ChessTable.label>шахматный стол</ChessTable.label>
-	<ChessTable.description>Древняя настольная игра. Игроки по очереди делают ходы черными и белыми фигурами по определённым правилам. Можно практиковаться в одиночку.</ChessTable.description>
+	<ChessTable.description>Древняя игра королей. Веселье на пару часов с обеих сторон, даже играя в одиночестве.</ChessTable.description>
 
 	<BilliardsTable.label>бильярдный стол</BilliardsTable.label>
-	<BilliardsTable.description>Стол, покрытый бархатным сукном. Предназначен для игры в различные виды бильярда.</BilliardsTable.description>
+	<BilliardsTable.description>Укрытый сукном стол с бортами для игры в бильярд.</BilliardsTable.description>
+
+	<PokerTable.label>карточный стол</PokerTable.label>
+	<PokerTable.description>Стол для игры в азартные карточные игры, главным образом в покер. Отличный способ проверить своё умение планировать и удачу.</PokerTable.description>
 
 	<TubeTelevision.label>ЭЛТ телевизор</TubeTelevision.label>
-	<TubeTelevision.description>Экран с электронно-лучевой трубкой, воспроизводящий разные подвижные картинки со звуковым сопровождением. Даже на пограничных мирах часто имеется старый передатчик, вещающий что-то хоть как-то интересное.</TubeTelevision.description>
+	<TubeTelevision.description>Экран с электронно-лучевой трубкой для показа со звуком движущегося изображения. Даже в окраиных мирах старый радиопередатчик зачастую может поймать что-то хоть сколько-нибудь интересное.</TubeTelevision.description>
 
 	<FlatscreenTelevision.label>плазменный телевизор</FlatscreenTelevision.label>
-	<FlatscreenTelevision.description>Высокотехнологичный плоский ТВ с кристально чистым изображением и насыщенными цветами. Гораздо интереснее старого рябящего ЭЛТ ТВ.</FlatscreenTelevision.description>
+	<FlatscreenTelevision.description>Высокотехнологичный плоский ТВ с кристально чистым изображением и насыщенными цветами. Гораздо интереснее старого рябящего кинескопа.</FlatscreenTelevision.description>
 
-	<MegascreenTelevision.label>ультра телевизор</MegascreenTelevision.label>
-	<MegascreenTelevision.description>Огромный высокотехнологичный телевизор. Гигантские трепещущие изображения буквально выпрыгивают из экрана. Крайне занимательно.</MegascreenTelevision.description>
+	<MegascreenTelevision.label>домашний кинотеатр</MegascreenTelevision.label>
+	<MegascreenTelevision.description>Огромный высокотехнологичный телевизор. Исполинские высокочастотные изображения буквально выпрыгивают из экрана. Крайне занимательно.</MegascreenTelevision.description>
 
 	<Telescope.label>телескоп</Telescope.label>
 	<Telescope.description>Телескоп для любителей астрономии. Некоторым людям это хобби доставляет особенное удовольствие.</Telescope.description>

@@ -1,17 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<!--========================= Doors =============================-->
 
 	<Door.label>дверь</Door.label>
-	<Door.description>Нужно открывать и закрывать вручную, что замедляет передвижение.</Door.description>
+	<Door.description>Разделяет помещения. Нужно открывать и закрывать вручную, что замедляет передвижение.</Door.description>
 
 	<Autodoor.label>автодверь</Autodoor.label>
-	<Autodoor.description>Автоматическая дверь позволяет входить и выходить без задержки.</Autodoor.description>
+	<Autodoor.description>Разделяет помещения. Механическое управление позволяет проходить через дверь без задержки.</Autodoor.description>
 
 	<!--========================= Walls =============================-->
 
 	<Wall.label>стена</Wall.label>
-	<Wall.description>Непроходимая стена. Достаточно крепка, чтобы поддерживать крышу.</Wall.description>
+	<Wall.description>Непроходимая стена. Способна удержать крышу.</Wall.description>
 
 </LanguageData>

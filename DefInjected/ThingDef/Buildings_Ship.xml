@@ -1,29 +1,33 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<!-- Beam -->
 
-	<Ship_Beam.label>корабельная балка</Ship_Beam.label>
-	<Ship_Beam.description>Строительная балка, вокруг которой может быть построено судно.</Ship_Beam.description>
+	<Ship_Beam.label>остов корабля</Ship_Beam.label>
+	<Ship_Beam.description>Остов, вокруг которого может и создаваться корабль.</Ship_Beam.description>
 
 	<!-- Cryptosleep casket -->
 
-	<Ship_CryptosleepCasket.label>контейнер криптосна</Ship_CryptosleepCasket.label>
-	<Ship_CryptosleepCasket.description>Контейнер криптосна, защищённый от опасностей космоса. Способен веками поддерживать человека в состоянии сна во время космических путешествий, а также осуществлять экстренный спуск на поверхность планет.</Ship_CryptosleepCasket.description>
+	<Ship_CryptosleepCasket.label>рака криптосна</Ship_CryptosleepCasket.label>
+	<Ship_CryptosleepCasket.description>Рака криптосна, приспособленный к опасностям космоса. Способен веками поддерживать человека в криптосне в космическом пространстве и пережить спуск через атмосферу планет.</Ship_CryptosleepCasket.description>
 
 	<!-- Computer core -->
 
 	<Ship_ComputerCore.label>корабельный компьютер</Ship_ComputerCore.label>
-	<Ship_ComputerCore.description>Компьютерное ядро, содержащее сверхчеловеческий ИИ, который может вести корабль через любые опасности.</Ship_ComputerCore.description>
+	<Ship_ComputerCore.description>Компьютерное ядро, способное вместить равный сверхчеловеку ИИ, что в силах провести корабль через любые опасности.</Ship_ComputerCore.description>
 
 	<!-- Reactor -->
 
 	<Ship_Reactor.label>корабельный реактор</Ship_Reactor.label>
-	<Ship_Reactor.description>Питает корабль на протяжении всего путешествия в космосе.</Ship_Reactor.description>
+	<Ship_Reactor.description>Обеспечивает корабль энергией во время путешествия через пространство.</Ship_Reactor.description>
 
 	<!-- Engine -->
 
 	<Ship_Engine.label>корабельный двигатель</Ship_Engine.label>
-	<Ship_Engine.description>Импульсный двигатель, работающий на антиматерии. Способен вывести корабль на орбиту или межзвёздную траекторию.</Ship_Engine.description>
+	<Ship_Engine.description>Способный вывести корабль на орбиту и далее на межзвёздные траектории двигатель.</Ship_Engine.description>
+
+	<Ship_SensorCluster.label>датчики</Ship_SensorCluster.label>
+	<Ship_SensorCluster.description>Чувствительный модуль, ишуший опасности и благоприятные возиожности в пустоте.</Ship_SensorCluster.description>
+
 
 </LanguageData>
