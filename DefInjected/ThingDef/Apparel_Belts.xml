@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<Apparel_PersonalShield.label>пояс-щит</Apparel_PersonalShield.label>
-	<Apparel_PersonalShield.description>Поясной генератор защитного поля. Останавливает быстро движущиеся баллистические и энергетические снаряды. Бесполезен против рукопашных атак и выстрелов в упор. Также не позволяет выстрелить самому владельцу щита.</Apparel_PersonalShield.description>
+	<Apparel_ShieldBelt.label>пояс-щит</Apparel_ShieldBelt.label>
+	<Apparel_ShieldBelt.description>Устройство индивидуальной защиты при помощи энергощита. Пытается остановить любые быстро движущиеся баллистические и энергетические снаряды. Бесполезен против рукопашных атак и выстрелов в упор. Также препятствует стрельбе на дальность больше, чем расстояние касания.</Apparel_ShieldBelt.description>
 
 	<Apparel_SmokepopBelt.label>пояс-дымзавеса</Apparel_SmokepopBelt.label>
-	<Apparel_SmokepopBelt.description>Автоматически срабатывающее одноразовое устройство для постановки дымовой завесы. При обстреле носителя выпускает густое облако дыма, маскирующее носителя и препятствующее наведению турелей противника.</Apparel_SmokepopBelt.description>
+	<Apparel_SmokepopBelt.description>Автоматически защитная дымзавеса. Если в носящего попадёт снаряд, выпускает густое облако дыма, маскирующее носителя и препятствующее наведению турелей. Одноразового использования.</Apparel_SmokepopBelt.description>
 
 </LanguageData>
