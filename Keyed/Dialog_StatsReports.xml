@@ -19,7 +19,7 @@
 	<StatsReport_FinalValue>Итого</StatsReport_FinalValue>
 	<StatsReport_MarketValueFromStuffsAndWork>Базовая рыночная стоимость рассчитана из материалов и количества работы.</StatsReport_MarketValueFromStuffsAndWork>
 	<StatsReport_QualityMultiplier>Множитель качества</StatsReport_QualityMultiplier>
-	<StatsReport_AgeMultiplier>Множитель возраста {0}</StatsReport_AgeMultiplier>
+	<StatsReport_AgeMultiplier>Множитель для возраста {0}</StatsReport_AgeMultiplier>
 	<StatsReport_HealthMultiplier>Множитель прочности {0}</StatsReport_HealthMultiplier>
 	<StatsReport_MoodMultiplier>Множитель настроения {0}</StatsReport_MoodMultiplier>
 	<StatsReport_LightMultiplier>Множитель освещёности {0}</StatsReport_LightMultiplier>
@@ -39,7 +39,7 @@
 	<AverageOfAllAttacks>средний показатель всех атак</AverageOfAllAttacks>
 	<StatsReport_ScenarioFactor>Сценарий</StatsReport_ScenarioFactor>
 	<StatsReport_IngredientsMass>Ингредиенты</StatsReport_IngredientsMass>
-	<StatsReport_PermanentlyDisabled>Навечно калека.</StatsReport_PermanentlyDisabled>
+	<StatsReport_PermanentlyDisabled>Не знает и не узнает.</StatsReport_PermanentlyDisabled>
 	<StatsReport_Inspiration>{0}</StatsReport_Inspiration>
 	<StatsReport_AddedBodyPartsMass>Добавлены части тела</StatsReport_AddedBodyPartsMass>
 

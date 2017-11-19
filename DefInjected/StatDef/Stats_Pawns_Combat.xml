@@ -4,11 +4,11 @@
 	<MeleeDPS.label>Урон/сек в рукопашной</MeleeDPS.label>
 	<MeleeDPS.description>Средний урон за секунду в рукопашной схватке. В этом параметре не учитываются способности цели защищаться, например уклонение, либо броня.</MeleeDPS.description>
 
-	<MeleeHitChance.label>вероятность попадания в рукопашной</MeleeHitChance.label>
-	<MeleeHitChance.description>Вероятность нанести удар в рукопашной. Цель всё же может уклонится даже от точного удара.</MeleeHitChance.description>
+	<MeleeHitChance.label>точность в рукопашной</MeleeHitChance.label>
+	<MeleeHitChance.description>Вероятность нанести удар в рукопашной. Цель всё же может уклониться даже от точного удара.</MeleeHitChance.description>
 
-	<MeleeDodgeChance.label>вероятность уклонится в рукопашной</MeleeDodgeChance.label>
-	<MeleeDodgeChance.description>Вероятность уклонится от точного удара в рукопашной. Защищающийся не сможет уклониться, если целится, либо стреляет.</MeleeDodgeChance.description>
+	<MeleeDodgeChance.label>шанс уйти от удара</MeleeDodgeChance.label>
+	<MeleeDodgeChance.description>Вероятность уклониться от точного удара в рукопашной. Защищающийся не сможет уклониться, если целится, либо стреляет.</MeleeDodgeChance.description>
 
 	<ShootingAccuracy.label>точность стрельбы</ShootingAccuracy.label>
 	<ShootingAccuracy.description>Базовая вероятность не промахнуться в каждом квадрате до цели. На вероятность попадания также влияют свойства цели, укрытия и состояние окружающей среды, а просмотреть её возможно, выбрав стрелка и наведя курсор мыши на цель.</ShootingAccuracy.description>

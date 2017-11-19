@@ -26,7 +26,7 @@
 	<ComfyTemperatureMax.label>макс. комфортная температура</ComfyTemperatureMax.label>
 	<ComfyTemperatureMax.description>Если температура будет выше этого значения, персонаж станет недоволен. Если значительно выше, получит тепловой удар и, в конечном итоге, умрёт.</ComfyTemperatureMax.description>
 
-	<ImmunityGainSpeed.label>скорость приобритения иммунитета</ImmunityGainSpeed.label>
+	<ImmunityGainSpeed.label>скорость роста иммунитета</ImmunityGainSpeed.label>
 	<ImmunityGainSpeed.description>Скорость, с которой существо вырабатывает иммунитет к болезням. При слишком низком значении персонаж умрёт от болезни раньше, чем выработает к ней иммунитет.</ImmunityGainSpeed.description>
 
 	<CarryingCapacity.label>грузоподъёмность</CarryingCapacity.label>

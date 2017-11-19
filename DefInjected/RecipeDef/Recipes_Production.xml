@@ -2,7 +2,7 @@
 <LanguageData>
 
 	<MakeStoneBlocksAny.label>создать любые каменные блоки</MakeStoneBlocksAny.label>
-	<MakeStoneBlocksAny.description>Разрезать обломки камней на пригодные к использованию блоки.</MakeStoneBlocksAny.description>
+	<MakeStoneBlocksAny.description>Рассечь каменные глыбы на пригодные блоки.</MakeStoneBlocksAny.description>
 	<MakeStoneBlocksAny.jobString>Режет камни на блоки.</MakeStoneBlocksAny.jobString>
 
 	<ExtractMetalFromSlag.label>переплавить металлолом</ExtractMetalFromSlag.label>
@@ -25,12 +25,12 @@
 	<MakeChemfuelFromOrganics.description>Извлекая биогорючее из органического сырья, создать партию химтоплива.</MakeChemfuelFromOrganics.description>
 	<MakeChemfuelFromOrganics.jobString>Выделяет химтопливо из органики.</MakeChemfuelFromOrganics.jobString>
 
-	<MakeComponent.label>создать составляющие</MakeComponent.label>
-	<MakeComponent.description>Сделать составляющие.</MakeComponent.description>
-	<MakeComponent.jobString>Делает составляющие.</MakeComponent.jobString>
+	<MakeComponent.label>сделать компонент</MakeComponent.label>
+	<MakeComponent.description>Создать компонент.</MakeComponent.description>
+	<MakeComponent.jobString>Собирает компонент.</MakeComponent.jobString>
 
-	<MakeAdvancedComponent.label>создать передовые составляющие</MakeAdvancedComponent.label>
-	<MakeAdvancedComponent.description>Сделать передовые составляющие.</MakeAdvancedComponent.description>
-	<MakeAdvancedComponent.jobString>Делает передовые составляющие.</MakeAdvancedComponent.jobString>
+	<MakeAdvancedComponent.label>сделать передовой компонент</MakeAdvancedComponent.label>
+	<MakeAdvancedComponent.description>Создать передовой компонент.</MakeAdvancedComponent.description>
+	<MakeAdvancedComponent.jobString>Собирает передовой компонент.</MakeAdvancedComponent.jobString>
 
 </LanguageData>

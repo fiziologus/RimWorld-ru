@@ -231,9 +231,9 @@
 
 	<!-- Препараты -->
 
-	<Make_SmokeleafJoint.label>скрутить косяк</Make_SmokeleafJoint.label>
-	<Make_SmokeleafJoint.description>Скрутить косяк.</Make_SmokeleafJoint.description>
-	<Make_SmokeleafJoint.jobString>Скручивает косяк.</Make_SmokeleafJoint.jobString>
+	<Make_SmokeleafJoint.label>сделать скрутку</Make_SmokeleafJoint.label>
+	<Make_SmokeleafJoint.description>Сделать скрутку.</Make_SmokeleafJoint.description>
+	<Make_SmokeleafJoint.jobString>Делает скрутку.</Make_SmokeleafJoint.jobString>
 
 	<Make_Penoxycyline.label>сделать пеноксицилин</Make_Penoxycyline.label>
 	<Make_Penoxycyline.description>Сделать пеноксицилин.</Make_Penoxycyline.description>

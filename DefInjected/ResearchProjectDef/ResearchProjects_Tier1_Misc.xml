@@ -34,7 +34,7 @@
 	<Smithing.description>Постройка кузниц для создания металлического оружия и инструментов.\n\nДаёт возможность создать простое оружие, вроде ножей, гладиев и булав.</Smithing.description>
 
 	<Stonecutting.label>обработка камня</Stonecutting.label>
-	<Stonecutting.description>Создание столов для резки камня, позволяющие превращать обломки камней в пригодные для строительства каменные блоки.</Stonecutting.description>
+	<Stonecutting.description>Создание столов для резки камня, позволяющие превращать каменные глыбы в пригодные для строительства каменные блоки.</Stonecutting.description>
 
 	<ComplexClothing.label>пошив одежды</ComplexClothing.label>
 	<ComplexClothing.description>Шитьё одежд, состоящих из нескольких деталей, наподобие брюк, плащей или же ковбойских шляп.</ComplexClothing.description>

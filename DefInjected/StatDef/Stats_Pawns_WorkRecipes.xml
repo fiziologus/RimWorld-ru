@@ -32,7 +32,7 @@
 	<ButcheryMechanoidSpeed.label>скорость разбора механоидов</ButcheryMechanoidSpeed.label>
 	<ButcheryMechanoidSpeed.description>Скорость, с которой личность может разобрать механоида на части.</ButcheryMechanoidSpeed.description>
 
-	<MechanoidOperationSuccessChance.label>успешность работы над механоидом</MechanoidOperationSuccessChance.label>
+	<MechanoidOperationSuccessChance.label>успех работы с механоидом</MechanoidOperationSuccessChance.label>
 	<MechanoidOperationSuccessChance.description>Вероятность, что персонаж успешно завершит работу над механоидом. Результатом неудачи будут потеря добытых деталей и ранение самого механика.</MechanoidOperationSuccessChance.description>
 
 	<ButcheryFleshEfficiency.label>полнота разделки</ButcheryFleshEfficiency.label>
