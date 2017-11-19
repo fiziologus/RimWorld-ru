@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<Joywire.label>чип счастья</Joywire.label>
-	<Joywire.description>Этот мозговой имплант позволит вам почувствовать себя счастливым.</Joywire.description>
+	<Joywire.description>Маленький мозговой имплант, делающий вас счастливым и расслабленным, хотя окончиться это может лёгкой полудрёмой.</Joywire.description>
 
-	<Painstopper.label>чип обезболивания</Painstopper.label>
-	<Painstopper.description>При установке этого мозгового импланта поселенец не будет чувствовать боли.</Painstopper.description>
+	<Painstopper.label>блокатор боли</Painstopper.label>
+	<Painstopper.description>Делающий нечувствительным к боли мозговой имплант.</Painstopper.description>
 
 </LanguageData>

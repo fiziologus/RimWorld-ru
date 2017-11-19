@@ -3,14 +3,14 @@
 
 	<!-- =============== Unfinished things ==================== -->
 
-	<UnfinishedSculpture.label>незаконченная скульптура</UnfinishedSculpture.label>
-	<UnfinishedGun.label>незаконченное огнестрельное оружие</UnfinishedGun.label>
-	<UnfinishedWeapon.label>незаконченное оружие</UnfinishedWeapon.label>
-	<UnfinishedTechArmor.label>незаконченная броня</UnfinishedTechArmor.label>
-	<UnfinishedMetallicTechArmor.label>незаконченная броня</UnfinishedMetallicTechArmor.label>
+	<UnfinishedSculpture.label>недоделанная скульптура</UnfinishedSculpture.label>
+	<UnfinishedGun.label>недособранное огнестрельное оружие</UnfinishedGun.label>
+	<UnfinishedWeapon.label>недоделанное оружие</UnfinishedWeapon.label>
+	<UnfinishedTechArmor.label>недоделанная броня</UnfinishedTechArmor.label>
+	<UnfinishedMetallicTechArmor.label>недоделанная броня</UnfinishedMetallicTechArmor.label>
 	<UnfinishedApparel.label>незаконченная одежда</UnfinishedApparel.label>
 	<UnfinishedBelt.label>незаконченный пояс</UnfinishedBelt.label>
-	<UnfinishedComponent.label>незаконченный компонент</UnfinishedComponent.label>
+	<UnfinishedComponent.label>недоделанный компонент</UnfinishedComponent.label>
 
 	<!-- ======================= Minified things ========================= -->
 

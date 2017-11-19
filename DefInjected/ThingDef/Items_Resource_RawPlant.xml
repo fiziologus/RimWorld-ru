@@ -1,8 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<RawPotatoes.label>картофель</RawPotatoes.label>
 	<RawPotatoes.description>Сырой картофель.</RawPotatoes.description>
+
+	<RawFungus.label>грибки</RawFungus.label>
+	<RawFungus.description>Сырые грибки</RawFungus.description>
 
 	<RawRice.label>рис</RawRice.label>
 	<RawRice.description>Сырой рис.</RawRice.description>
@@ -14,20 +17,20 @@
 	<RawCorn.description>Сырая кукуруза.</RawCorn.description>
 
 	<RawBerries.label>ягоды</RawBerries.label>
-	<RawBerries.description>Ассорти из ягод. Вкусны и полезны даже в сыром виде.</RawBerries.description>
+	<RawBerries.description>Ассорти из ягод. Вкусные, даже в сырые.</RawBerries.description>
 
 	<!-- Plant matter (inedible by people) -->
 
 	<Hay.label>сено</Hay.label>
-	<Hay.description>Богатые питательными веществами травы и побеги, собранные и спрессованные для хранения. Сено — хороший корм, но несъедобно для человека.</Hay.description>
+	<Hay.description>Богатые питательными веществами травы и побеги, собранные и плотно уложенные для хранения. Сено — прекрасный корм для животных, но для человека несъедобно.</Hay.description>
 
 	<RawHops.label>хмель</RawHops.label>
-	<RawHops.description>Сырой хмель. Ужасен на вкус и совсем не питателен, но необходим для приготовления пива.</RawHops.description>
+	<RawHops.description>Сырой хмель. Необходим в приготовлении пива для придания ему аромата и долгого хранения.</RawHops.description>
 
 	<PsychoidLeaves.label>психолистья</PsychoidLeaves.label>
 	<PsychoidLeaves.description>Срезанные листья психолиста.</PsychoidLeaves.description>
 
 	<SmokeleafLeaves.label>листья дымолиста</SmokeleafLeaves.label>
-	<SmokeleafLeaves.description>Срезанные листья дымолиста. Из них можно скрутить косяк на рабочем месте.</SmokeleafLeaves.description>
+	<SmokeleafLeaves.description>Срезанные листья дымолиста. На рабочем месте из них можно сделать скрутку для курения.</SmokeleafLeaves.description>
 
 </LanguageData>
