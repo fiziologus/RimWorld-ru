@@ -13,7 +13,7 @@
 	<GeothermalPower.description>Позволяет отстраивать на гейзерах геотермальные электростанций для непрерывной выработки электроэнергии.</GeothermalPower.description>
 
 	<HospitalBed.label>больничные кровати</HospitalBed.label>
-	<HospitalBed.description>Позволяет поселенцам сооружать увеличивающие успешность медичинской работы больничные кровати.</HospitalBed.description>
+	<HospitalBed.description>Позволяет поселенцам сооружать увеличивающие успешность медицинской работы больничные койки.</HospitalBed.description>
 
 	<TransportPod.label>транспортные капсулы</TransportPod.label>
 	<TransportPod.description>Создание запускаемых транспортных капсул, которыми можно воспользоваться для переброски людей и грузов на дальние расстояния над поверхностью планеты.</TransportPod.description>

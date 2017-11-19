@@ -8,7 +8,7 @@
 	<MiningSpeed.description>Скорость, с которой личность пробивает породу и разрабатывает глубинные месторождения.</MiningSpeed.description>
 
 	<MiningYield.label>эффективность добычи</MiningYield.label>
-	<MiningYield.description>Доля добываемых полезных ископаемых. Параметр относится как к обычной разработке, так и к бурению. Не влияет на вероятность получения каменных обломков.</MiningYield.description>
+	<MiningYield.description>Доля добываемых полезных ископаемых. Параметр относится как к обычной разработке, так и к бурению. Не влияет на вероятность получения каменных глыб.</MiningYield.description>
 
 	<SmoothingSpeed.label>скорость выравнивания</SmoothingSpeed.label>
 	<SmoothingSpeed.description>Множитель к скорости выравнивания этой личностью покрытий.</SmoothingSpeed.description>
@@ -16,7 +16,7 @@
 	<ResearchSpeed.label>скорость исследований</ResearchSpeed.label>
 	<ResearchSpeed.description>Скорость проведения исследований этой личностью.</ResearchSpeed.description>
 
-	<AnimalGatherSpeed.label>бастрота работы с животными</AnimalGatherSpeed.label>
+	<AnimalGatherSpeed.label>быстрота работы с животными</AnimalGatherSpeed.label>
 	<AnimalGatherSpeed.description>Скорость, с которой личность доит, остригает и иным способом получает ресурсы от животных.</AnimalGatherSpeed.description>
 
 	<AnimalGatherYield.label>качество работы с животными</AnimalGatherYield.label>
@@ -25,7 +25,7 @@
 	<PlantWorkSpeed.label>скорость работы с растениями</PlantWorkSpeed.label>
 	<PlantWorkSpeed.description>Скорость, с которой личность высаживает растения и собирает урожай.</PlantWorkSpeed.description>
 
-	<PlantHarvestYield.label>качество сбора в пастений</PlantHarvestYield.label>
+	<PlantHarvestYield.label>качество сбора в растений</PlantHarvestYield.label>
 	<PlantHarvestYield.description>Получаемый кем-либо урожай при сборке растений. При низком значение есть вероятность, что личность неумышленно потеряет собранное.</PlantHarvestYield.description>
 
 	<ConstructionSpeed.label>скорость сборки</ConstructionSpeed.label>

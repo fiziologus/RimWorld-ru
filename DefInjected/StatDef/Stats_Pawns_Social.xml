@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<RecruitPrisonerChance.label>вероятность переманить узника</RecruitPrisonerChance.label>
+	<RecruitPrisonerChance.label>шанс переманить узника</RecruitPrisonerChance.label>
 	<RecruitPrisonerChance.description>Базовая вероятность для этой персоны переманить узника.</RecruitPrisonerChance.description>
 
 	<TameAnimalChance.label>шанс приручить зверя</TameAnimalChance.label>
