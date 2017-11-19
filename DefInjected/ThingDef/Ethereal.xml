@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- Orbital Strike -->
+
+	<Bombardment.label>бомбардировка</Bombardment.label>
+	<PowerBeam.label>мощный луч</PowerBeam.label>
+
+	<!-- SignalAction -->
+
+	<SignalAction_Letter.label>Сигнал: послание</SignalAction_Letter.label>
+	<SignalAction_Ambush.label>Сигнал: засада</SignalAction_Ambush.label>
+
+	<!-- Various -->
+
+	<RectTrigger.label>триггер</RectTrigger.label>
+	<Explosion.label>взрыв</Explosion.label>
+	<Blight.label>болезнь</Blight.label>
+	<Tornado.label>смерчь</Tornado.label>
+
+</LanguageData>
