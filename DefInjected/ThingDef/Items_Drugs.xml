@@ -2,51 +2,56 @@
 <LanguageData>
 
 	<Beer.label>пиво</Beer.label>
-	<Beer.description>Первый, не считая воды, напиток, когда-либо употреблённый человечеством. Пиво приятно на вкус и вызывает опьянение. Чрезмерное потребление может привести к алкогольной зависимости.</Beer.description>
+	<Beer.description>Первый, не считая воды, напиток, когда-либо употреблённый человечеством. Пиво приятно на вкус, но вызывает опьянение. Чрезмерное его потребление может привести к алкогольной зависимости.</Beer.description>
 	<Beer.ingestible.ingestCommandString>Пить {0}</Beer.ingestible.ingestCommandString>
 	<Beer.ingestible.ingestReportString>Пьёт {0}.</Beer.ingestible.ingestReportString>
+	<Beer.tools.1.label>горлышко</Beer.tools.1.label>
 
 	<Wort.label>сусло</Wort.label>
-	<Wort.description>Пиво до ферментации. Ингредиенты уже перемешаны, но сусло должно забродить в специальной бочке, прежде чем оно станет настоящим пивом.</Wort.description>
+	<Wort.description>Пиво до ферментации. Прежде, чем стать пивом, этой субстанции ещё нужно перебродить в бочке.</Wort.description>
 
-	<GoJuice.label>Go-сок</GoJuice.label>
-	<GoJuice.description>Синтетический боевой стимулятор, разработанный для космодесантников в ранний период межпланетных войн. Go-сок блокирует боль и улучшает способности к ближнему и дальнему бою, а также позволяет быстрее двигаться.\n\nВоенные химики, создавшие этот препарат, так и не смогли избавиться от вызываемого им эффекта зависимости. Кому-то это кажется недостатком, другие же видят в этом выгоду.</GoJuice.description>
-	<GoJuice.ingestible.ingestCommandString>Ввести {0}</GoJuice.ingestible.ingestCommandString>
-	<GoJuice.ingestible.ingestReportString>Вводит {0}.</GoJuice.ingestible.ingestReportString>
+	<Ambrosia.label>амброзия</Ambrosia.label>
+	<Ambrosia.description>Мягкий фрукт. Амброзия обладает чудесными запахом и вкусом и производит мягкий наркотический эффект, улучшающий настроение. Однако, если есть её слишком часто, может возникнуть лёгкое привыкание.</Ambrosia.description>
+
+	<GoJuice.label>горючка</GoJuice.label>
+	<GoJuice.description>Синтетический боевой препарат, разработанный для космической морской пехоты в первые годы межпланетных войн. Горючка делает нечувствительным к боли и улучшает способности к стрельбе и рукопашному бою. Вдобавок она позволяет двигаться быстрее.\n\nСоздавшим её военные химикам так и не удалось убрать аддиктивность горючки. Кому-то это кажется недостатком, другие же видят в этом выгоду.</GoJuice.description>
+	<!-- Специально -->
+	<GoJuice.ingestible.ingestCommandString>Впрыснуть горючку</GoJuice.ingestible.ingestCommandString>
+	<GoJuice.ingestible.ingestReportString>Впрыскивает горючку.</GoJuice.ingestible.ingestReportString>
 
 	<Luciferium.label>люциферий</Luciferium.label>
-	<Luciferium.description>Смесь механитов из передовых миров, которая значительно улучшает функционирование организма во всех отношениях. К несчастью, без повторного приёма в течение пяти-шести дней механиты теряют синхронизацию, что вызывает продолжительное состояние ярости и, в конце концов, приводит к смерти.\n\nПосле приёма первой дозы невозможно вывести механитов из организма.\n\nВ урбанистических мирах Люциферий называют «Сделкой Дьявола». Многие убивали своих друзей, когда у них больше не оставалось заветных красных таблеток.</Luciferium.description>
+	<Luciferium.description>Смесь передовых, со сверкающих миров механитов, которая невероятно усиливает все функции организма. И даже больше: излечивает со временем повреждения мозга и старые шрамы. К несчастью, без восстановительных доз каждые пять-шесть дней механиты перестают работать, как единое целое, что вызывает постоянное состояние ярости, а со временем и смерть.\n\nДаже после одного приёма механиты уже невозможно вывести из организма.\n\nВ урбанистических мирах люциферий зовут «Сделка с Дьяволом». Многие вынуждены были убивать друзей, когда не могли найти заветные красные пилюли.</Luciferium.description>
 	<Luciferium.ingestible.ingestCommandString>Принять {0}</Luciferium.ingestible.ingestCommandString>
 	<Luciferium.ingestible.ingestReportString>Принимает {0}.</Luciferium.ingestible.ingestReportString>
 
 	<Penoxycyline.label>пеноксицилин</Penoxycyline.label>
-	<Penoxycyline.description>Лекарство для борьбы с различными инфекциями. Применяется против малярии, сонной болезни и чумы. Принимайте каждые пять дней.</Penoxycyline.description>
+	<Penoxycyline.description>Препарат для раннего предотвращения инфекций. Эффективен при малярии, сонной болезни и чуме. Принимается каждые пять дней. Примечание: этот препарат не излечивает уже имеющуюся инфекцию, а предотвращает появление новых.</Penoxycyline.description>
 	<Penoxycyline.ingestible.ingestCommandString>Принять {0}</Penoxycyline.ingestible.ingestCommandString>
 	<Penoxycyline.ingestible.ingestReportString>Принимает {0}</Penoxycyline.ingestible.ingestReportString>
 
-	<Flake.label>психин (хлопья)</Flake.label>
-	<Flake.description>Хлопьевидное вещество, пригодное для курения. Вызывает непродолжительное, но мощное состояние эйфории. Низкая стоимость производства, легко вызывает привыкание.</Flake.description>
-	<Flake.ingestible.ingestCommandString>Курить {0}</Flake.ingestible.ingestCommandString>
+	<Flake.label>«чешуйки»</Flake.label>
+	<Flake.description>Вещество с виде рыбьей чешуи, которое возможно выкурить для стимулирования короткой, но всеохватывающей эйфории. Не обременительно в производстве, легко вызывает привыкание.</Flake.description>
+	<Flake.ingestible.ingestCommandString>Выкурить {0}</Flake.ingestible.ingestCommandString>
 	<Flake.ingestible.ingestReportString>Курит {0}.</Flake.ingestible.ingestReportString>
 
-	<Yayo.label>психин (порошок)</Yayo.label>
-	<Yayo.description>Белый порошок, вдыхание которого вызывает эйфорию. Снижает потребность в отдыхе и подавляет боль, но вызывает привыкание.</Yayo.description>
-	<Yayo.ingestible.ingestCommandString>Нюхать {0}</Yayo.ingestible.ingestCommandString>
-	<Yayo.ingestible.ingestReportString>Нюхает {0}.</Yayo.ingestible.ingestReportString>
+	<PsychoidPekoe.label>настой психолиста</PsychoidPekoe.label>
+	<PsychoidPekoe.description>Душистый чай, который можно пить для получения лёгкого чувства удовольствия. Очень легко изготовить, но осторожней, он вызывает привыкание.</PsychoidPekoe.description>
+	<PsychoidPekoe.ingestible.ingestCommandString>Пить {0}</PsychoidPekoe.ingestible.ingestCommandString>
+	<PsychoidPekoe.ingestible.ingestReportString>Пьёт {0}.</PsychoidPekoe.ingestible.ingestReportString>
 
-	<SmokeleafJoint.label>дымолист (косяк)</SmokeleafJoint.label>
-	<SmokeleafJoint.description>Листья дымолиста, скрученные для курения. Повышает настроение, а также увеличивает аппетит, снижает сосредоточенность и замедляет движение. Употребление дымолиста может привести к зависимости. Косяк может быть скручен без какого-либо оборудования, на рабочем месте.</SmokeleafJoint.description>
-	<SmokeleafJoint.ingestible.ingestCommandString>Курить {0}</SmokeleafJoint.ingestible.ingestCommandString>
-	<SmokeleafJoint.ingestible.ingestReportString>Курит {0}.</SmokeleafJoint.ingestible.ingestReportString>
+	<Yayo.label>йаё</Yayo.label>
+	<Yayo.description>Тонкая белая пудра, втягиваемая через нос для получения дурманяшегося блаженства. Йаё притупляет усталость и усмиряет боль. Однако ж, оно вызывает привыкание.</Yayo.description>
+	<Yayo.ingestible.ingestCommandString>Нюхнуть {0}</Yayo.ingestible.ingestCommandString>
+	<Yayo.ingestible.ingestReportString>Вдыхает {0}.</Yayo.ingestible.ingestReportString>
+
+	<SmokeleafJoint.label>скрутка из дымолиста</SmokeleafJoint.label>
+	<SmokeleafJoint.description>Листья дымолиста, скрученные для курения. Поднимает настроение, но, в довекок, разжигает чувство голода, снижает сосредоточенность и замедляет движение. Употребление дымолиста может привести к зависимости. Для создание скрутки не нужны инструменты, только рабочее место.</SmokeleafJoint.description>
+	<SmokeleafJoint.ingestible.ingestCommandString>Выкурить дымолист</SmokeleafJoint.ingestible.ingestCommandString>
+	<SmokeleafJoint.ingestible.ingestReportString>Курит дымолист.</SmokeleafJoint.ingestible.ingestReportString>
 
 	<WakeUp.label>бодрин</WakeUp.label>
-	<WakeUp.description>Аддиктивный стимулятор. Восполняет потребность в отдыхе и позволяет работать длительное время без усталости. Привыкание приводит к снижению умственных способностей и иногда к нервным срывам.</WakeUp.description>
+	<WakeUp.description>Вызывающий привыкание стимулятор. Наполняет новыми силами и позволяет ещё дольше работать без устали. Зависимость от него вызывает снижение умственных способностей, а порой и разрывы с реальностью.</WakeUp.description>
 	<WakeUp.ingestible.ingestCommandString>Принять {0}</WakeUp.ingestible.ingestCommandString>
 	<WakeUp.ingestible.ingestReportString>Принимает {0}.</WakeUp.ingestible.ingestReportString>
-
-	<Ambrosia.label>амброзия</Ambrosia.label>
-	<Ambrosia.description>Мягкий фрукт. Плоды амброзии, помимо восхитительного вкуса и аромата, имеют небольшой наркотический эффект, выражающийся в подъёме настроения. Но если её есть слишком часто, может возникнуть привыкание.</Ambrosia.description>
-	<Ambrosia.ingestible.ingestCommandString>Съесть амброзию.</Ambrosia.ingestible.ingestCommandString>
-	<Ambrosia.ingestible.ingestReportString>Ест амброзию.</Ambrosia.ingestible.ingestReportString>
 
 </LanguageData>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- High-explosive -->
+
+	<Shell_HighExplosive.label>фугасный снаряд</Shell_HighExplosive.label>
+	<Shell_HighExplosive.description>Наполненый мощной взрывчаткой снаряд. Можно выстрелить из миномёта, либо поставить, как ловушку. При повреждении взрывается.</Shell_HighExplosive.description>
+
+	<Bullet_Shell_HighExplosive.label>фугасный снаряд</Bullet_Shell_HighExplosive.label>
+
+
+	<!-- Incendiary -->
+
+	<Shell_Incendiary.label>зажигательный снаряд</Shell_Incendiary.label>
+	<Shell_Incendiary.description>Снаряд, наполненый горючим гелем с небольшим взрывчатым зарядом. Создаёт огонь при подрыве. Можно выстрелить из миномёта, либо поставить, как ловушку. При повреждении взрывается.</Shell_Incendiary.description>
+
+	<Bullet_Shell_Incendiary.label>зажигательный снаряд</Bullet_Shell_Incendiary.label>
+
+
+	<!-- EMP -->
+
+	<Shell_EMP.label>ЭМИ-снаряд</Shell_EMP.label>
+	<Shell_EMP.description>Снаряд, напичканный батареями и антеннами для создания ЭМ импульса при подрыве. ЭМ импульсы ненадолго отключают электронные цепи. Можно выстрелить из миномёта, либо поставить, как ловушку. При повреждении взрывается.</Shell_EMP.description>
+
+	<Bullet_Shell_EMP.label>ЭМИ-снаряд</Bullet_Shell_EMP.label>
+
+
+	<!-- Firefoam -->
+
+	<Shell_Firefoam.label>пожарный снаряд</Shell_Firefoam.label>
+	<Shell_Firefoam.description>Наполненый пожарной пеной под давлением снаряд. Можно выстрелить из миномёта, либо поставить, как ловушку. При повреждении взрывается.</Shell_Firefoam.description>
+
+	<Bullet_Shell_Firefoam.label>пожарный снаряд</Bullet_Shell_Firefoam.label>
+
+
+	<!-- Antigrain warhead -->
+
+	<Shell_AntigrainWarhead.label>боеголовка с античастицей</Shell_AntigrainWarhead.label>
+	<Shell_AntigrainWarhead.description>Крошечная ультатехнологичеая боеголовка, применяемая обычновенно на космических кораблях или в боевых машинах сверкающих миров. Оснашенная частицей антиматерии она порождает громадный взрыв и пожары вокруг цели. Можно выстрелить из миномёта, либо поставить, как ловушку. При повреждении взрывается.</Shell_AntigrainWarhead.description>
+
+	<Bullet_Shell_AntigrainWarhead.label>боеголовка с античастицей</Bullet_Shell_AntigrainWarhead.label>
+
+
+</LanguageData>

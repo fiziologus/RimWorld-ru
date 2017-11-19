@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
 	<!--=============================== Misc ================================-->
@@ -7,35 +7,52 @@
 	<Milk.description>Молоко животного.</Milk.description>
 
 	<InsectJelly.label>желе насекомых</InsectJelly.label>
-	<InsectJelly.description>Желе, хранимое и используемое в пищу огромными насекомыми. Оно нежное, питательное и приносит чрезвычайное удовлетворение при употреблении. Из-за его уникальных биологических свойств оно может использоваться в пищу практически любым видом животных и никогда не портится.</InsectJelly.description>
+	<InsectJelly.description>Запасаемое и используемое, как еда, огромными насекомыми желе. Нежное, насыщенное и несущее едокам радость. Из-за уникальных биологических свойств оно не портится, а есть его может едва ли не каждое живое существо.</InsectJelly.description>
+	<!-- кстати очень похоже на мёд -->
 
 	<!--=============================== Eggs ================================-->
 
+	<!-- Chicken -->
+
 	<EggChickenUnfertilized.label>куриное яйцо (неопл.)</EggChickenUnfertilized.label>
-	<EggChickenUnfertilized.description>Неоплодотворённое куриное яйцо. Может быть съедено сырым, но приготовленное оно гораздо вкуснее.</EggChickenUnfertilized.description>
+	<EggChickenUnfertilized.description>Неоплодотворённое куриное яйцо. Выпить можно и сырым, но много-много лучше приготовить.</EggChickenUnfertilized.description>
 
 	<EggChickenFertilized.label>куриное яйцо (опл.)</EggChickenFertilized.label>
-	<EggChickenFertilized.description>Оплодотворённое куриное яйцо. Если всё пойдёт хорошо, в скором времени из него вылупится цыплёнок. Может быть съедено сырым, но приготовленное оно гораздо вкуснее.</EggChickenFertilized.description>
+	<EggChickenFertilized.description>Оплодотворённое куриное яйцо. Если ничего не случится, из него должен вылупиться цыплёнок. Можно съесть сырым, но гораздо лучше приготовить.</EggChickenFertilized.description>
+
+	<!-- Cobra -->
 
 	<EggCobraFertilized.label>яйцо кобры (опл.)</EggCobraFertilized.label>
-	<EggCobraFertilized.description>Оплодотворённое яйцо кобры. Если всё пойдёт хорошо, в скором времени из него вылупится маленькая змея. Может быть съедено сырым, но приготовленное оно гораздо вкуснее.</EggCobraFertilized.description>
+	<EggCobraFertilized.description>Оплодотворённое яйцо кобры. Если ничего не случится, из него должна появиться маленькая кобра. Можно съесть сырым, но гораздо лучше приготовить.</EggCobraFertilized.description>
+
+	<!-- Iguana -->
 
 	<EggIguanaFertilized.label>яйцо игуаны (опл.)</EggIguanaFertilized.label>
-	<EggIguanaFertilized.description>Оплодотворённое яйцо игуаны. Если всё пойдёт хорошо, в скором времени из него вылупится маленькая игуана. Может быть съедено сырым, но приготовленное оно гораздо вкуснее.</EggIguanaFertilized.description>
+	<EggIguanaFertilized.description>Оплодотворённое яйцо игуаны. Если ничего не случится, из него должен появиться мальшь игуаны. Можно съесть сырым, но гораздо лучше приготовить.</EggIguanaFertilized.description>
+
+	<!-- Tortoise -->
 
 	<EggTortoiseFertilized.label>черепашье яйцо (опл.)</EggTortoiseFertilized.label>
-	<EggTortoiseFertilized.description>Оплодотворённое черепашье яйцо. Если всё пойдёт хорошо, в скором времени из него вылупится черепашка. Может быть съедено сырым, но приготовленное оно гораздо вкуснее.</EggTortoiseFertilized.description>
+	<EggTortoiseFertilized.description>Оплодотворённое черепашье яйцо. Если ничего не случится, из него должен вылупиться черепашонок. Можно съесть сырым, но гораздо лучше приготовить.</EggTortoiseFertilized.description>
+
+	<!-- Cassowary -->
 
 	<EggCassowaryFertilized.label>яйцо казуара (опл.)</EggCassowaryFertilized.label>
-	<EggCassowaryFertilized.description>Оплодотворённое яйцо казуара. Если всё пойдёт хорошо, в скором времени из него вылупится казуарчик. Может быть съедено сырым, но приготовленное оно гораздо вкуснее.</EggCassowaryFertilized.description>
+	<EggCassowaryFertilized.description>Оплодотворённое яйцо казуара. Если ничего не случится, из него должен вылупиться птенец казуара. Можно съесть сырым, но гораздо лучше приготовить.</EggCassowaryFertilized.description>
+
+	<!-- Emu -->
 
 	<EggEmuFertilized.label>яйцо эму (опл.)</EggEmuFertilized.label>
-	<EggEmuFertilized.description>Оплодотворённое яйцо эму. Если всё пойдёт хорошо, в скором времени из него вылупится маленький эму. Может быть съедено сырым, но приготовленное оно гораздо вкуснее.</EggEmuFertilized.description>
+	<EggEmuFertilized.description>Оплодотворённое яйцо эму. Если ничего не случится, из него должен вылупиться маленький эму. Можно съесть сырым, но гораздо лучше приготовить.</EggEmuFertilized.description>
+
+	<!-- Ostrich -->
 
 	<EggOstrichFertilized.label>страусиное яйцо (опл.)</EggOstrichFertilized.label>
-	<EggOstrichFertilized.description>Оплодотворённое страусиное яйцо. Если всё пойдёт хорошо, в скором времени из него вылупится страусёнок. Может быть съедено сырым, но приготовленное оно гораздо вкуснее.</EggOstrichFertilized.description>
+	<EggOstrichFertilized.description>Оплодотворённое страусиное яйцо. Если ничего не случится, из него должен вылупиться страусёнок. Можно съесть сырым, но гораздо лучше приготовить.</EggOstrichFertilized.description>
 
-	<EggTurkeyFertilized.label>яйцо индейки (опл.)</EggTurkeyFertilized.label>
-	<EggTurkeyFertilized.description>Оплодотворённое яйцо индейки. Если всё пойдёт хорошо, в скором времени из него вылупится маленькая индейка. Может быть съедено сырым, но приготовленное оно гораздо вкуснее.</EggTurkeyFertilized.description>
+	<!-- Turkey -->
+
+	<EggTurkeyFertilized.label>индюшачье яйцо (опл.)</EggTurkeyFertilized.label>
+	<EggTurkeyFertilized.description>Оплодотворённое яйцо индейки. Если ничего не случится, из него должен вылупиться индюшонок. Можно съесть сырым, но гораздо лучше приготовить.</EggTurkeyFertilized.description>
 
 </LanguageData>

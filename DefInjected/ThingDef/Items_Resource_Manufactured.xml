@@ -1,36 +1,34 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<!-- =============== Medicine ==================== -->
 
 	<HerbalMedicine.label>лекарственные травы</HerbalMedicine.label>
-	<HerbalMedicine.description>Связка лекарственных трав, состоящая, в основном, из лечебного корня. Не так эффективно, как медикаменты промышленного производства, но лучше, чем ничего.</HerbalMedicine.description>
+	<HerbalMedicine.description>Пучок травяных смесей, как правило, из лечебного корня.Не столь сильны, как промышленные медикаменты, но много лучше, чем ничего.</HerbalMedicine.description>
 
 	<Medicine.label>медикаменты</Medicine.label>
-	<Medicine.description>Медперсонал использует медикаменты, чтобы лечить раненых.</Medicine.description>
+	<Medicine.description>Медперсонал используют это лечения раненых.</Medicine.description>
 
-	<GlitterworldMedicine.label>передовые медикаменты</GlitterworldMedicine.label>
-	<GlitterworldMedicine.description>Улучшенные медикаменты из высокотехнологичных миров.</GlitterworldMedicine.description>
-
-	<!-- =============== Shells ==================== -->
-
-	<MortarShell.label>миномётный снаряд</MortarShell.label>
-	<MortarShell.description>Для стрельбы из миномётов.</MortarShell.description>
+	<GlitterworldMedicine.label>медикаменты сверкающего мира</GlitterworldMedicine.label>
+	<GlitterworldMedicine.description>Передовые лекарства из высокотехнологичных сверкающих миров.</GlitterworldMedicine.description>
 
 	<!-- =============== Components ==================== -->
 
 	<Component.label>компонент</Component.label>
-	<Component.description>Различные шестерёнки, конденсаторы, платы, трубки, колёсики, сенсоры, провода, чипы, процессоры и другие электронные и механические детали. Необходимы для сборки сложных механизмов и электроприборов.</Component.description>
+	<Component.description>Шестерёнки, конденсаторы, монтажные платы, трубки, колёсики, датчики, провода, микросхемы, процессоры и прочие электронные и механические детали. Необходимы для сборки сложных механизмов и электроники.</Component.description>
+
+	<AdvancedComponent.label>передовые компоненты</AdvancedComponent.label>
+	<AdvancedComponent.description>Высококачественное электронное оборудование, миниатюризированное и подготовленное к большей части сложных условий применения.</AdvancedComponent.description>
 
 	<!-- =============== Neutroamine ==================== -->
 
 	<Neutroamine.label>нейтроамин</Neutroamine.label>
 	<!--Оригинал: A synthetic precursor chemical. Useless on its own, many drugs require neutroamine as an ingredient.-->
-	<Neutroamine.description>Синтетический прекурсор. Бесполезен сам по себе, но необходим для производства различных препаратов.</Neutroamine.description>
+	<Neutroamine.description>Синтетическая основа для химикатов. Сам по себе бесполезен, но является ингредиентом при производстве различных препаратов.</Neutroamine.description>
 
 	<!-- =============== Chemfuel ==================== -->
 
-	<Chemfuel.label>химическое топливо</Chemfuel.label>
-	<Chemfuel.description>Взрывоопасное жидкое химическое соединение. Используется в качестве топлива для ракет и другой подобной техники.</Chemfuel.description>
+	<Chemfuel.label>химтопливо</Chemfuel.label>
+	<Chemfuel.description>Взрывоопасное жидкое химическое соединение. Используется в качестве топлива для ракет и другой техники.</Chemfuel.description>
 
 </LanguageData>

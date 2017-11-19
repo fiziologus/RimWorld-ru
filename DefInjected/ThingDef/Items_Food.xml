@@ -1,25 +1,26 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
 	<MealSurvivalPack.label>сухой паёк</MealSurvivalPack.label>
-	<MealSurvivalPack.description>Высококачественный упакованный паёк, изготовленный для использования в чрезвычайных ситуациях.</MealSurvivalPack.description>
+	<MealSurvivalPack.description>Высококачественная расфасованная еда, изготовленный для использования в чрезвычайных ситуациях.</MealSurvivalPack.description>
 
 	<MealNutrientPaste.label>питательная паста</MealNutrientPaste.label>
-	<MealNutrientPaste.description>Синтетическая смесь из белка, углеводов, витаминов, аминокислот и минералов. Всё, что нужно организму, и при этом с отвратительным вкусом.</MealNutrientPaste.description>
+	<MealNutrientPaste.description>Искуственная смесь из белка, углеводов с витаминами и аминокислот с минералами. Всё, что нужно организму, но отвратная дальше некуда.</MealNutrientPaste.description>
 
 	<MealSimple.label>простое блюдо</MealSimple.label>
-	<MealSimple.description>Простая еда, быстро готовится из единичных ингредиентов.</MealSimple.description>
+	<MealSimple.description>Простая снедь на сроку руку из пары ингредиентов.</MealSimple.description>
 
-	<MealFine.label>вкусное блюдо</MealFine.label>
-	<MealFine.description>Комплексное блюдо из нескольких ингредиентов.</MealFine.description>
+	<MealFine.label>прекрасное блюдо</MealFine.label>
+	<MealFine.description>Замысловатое, с заботливостью воссозданное из широкого выбора ингредиентов кушанье.</MealFine.description>
 
 	<MealLavish.label>шикарное блюдо</MealLavish.label>
-	<MealLavish.description>Шедевр кулинарного искусства. Эта еда питает тело, разум и душу.</MealLavish.description>
+	<MealLavish.description>Шедевр кулинарии, еда, питающая тело, разум и душу.</MealLavish.description>
 
+	<!-- Kibble = сухой корм для собак -->
 	<Kibble.label>комбикорм</Kibble.label>
-	<Kibble.description>Корм для животных, сделанный из смеси мяса и растений.</Kibble.description>
+	<Kibble.description>Фураж из смеси мяса и растительных компонентов. Люди могут это есть, но в самом деле и по-настоящему не будут этому рады.</Kibble.description>
 
 	<Pemmican.label>пеммикан</Pemmican.label>
-	<Pemmican.description>Консервированная смесь жиров и растительных продуктов питания. Вкус пресный, но не противный. Довольно долго хранится без охлаждения.</Pemmican.description>
+	<Pemmican.description>Специально подготовленная перемятая смесь жиров и растений. Вкус невыдающийся, но есть можно. Довольно долго хранится без охлаждения.</Pemmican.description>
 
 </LanguageData>
