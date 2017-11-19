@@ -1,27 +1,39 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+	<!-- Flith -->
+
 	<FilthDirt.label>земля</FilthDirt.label>
 	<FilthAnimalFilth.label>грязь от животных</FilthAnimalFilth.label>
 	<FilthSand.label>песок</FilthSand.label>
 	<RockRubble.label>щебень</RockRubble.label>
-	<BuildingRubble.label>строительный мусор</BuildingRubble.label>
+	<BuildingRubble.label>сор</BuildingRubble.label>
 	<SlagRubble.label>шлак</SlagRubble.label>
 	<SandbagRubble.label>разбросанные мешки с песком</SandbagRubble.label>
 
 	<!--=================== Fluids etc =================-->
 
 	<FilthBlood.label>кровь</FilthBlood.label>
-	<FilthBloodInsect.label>кровь насекомого</FilthBloodInsect.label>
+	<FilthBloodInsect.label>гемолимфа</FilthBloodInsect.label>
 	<FilthAmnioticFluid.label>плодные воды</FilthAmnioticFluid.label>
 	<FilthSlime.label>слизь</FilthSlime.label>
-	<FilthVomit.label>рвота</FilthVomit.label>
+	<FilthVomit.label>блевотина</FilthVomit.label>
 	<FilthFireFoam.label>пожарная пена</FilthFireFoam.label>
 
-	<FilthFuel.label>топливная лужа</FilthFuel.label>
-	<FilthFuel.description>Загорится, если поджечь.</FilthFuel.description>
+	<FilthFuel.label>разлитое химтопливо</FilthFuel.label>
+	<FilthFuel.description>Лужа огнеопасного химтоплива.</FilthFuel.description>
 
 	<FilthCorpseBile.label>трупная жидкость</FilthCorpseBile.label>
-	<FilthAsh.label>пепел</FilthAsh.label>
+	<FilthAsh.label>зола</FilthAsh.label>
+
+	<!-- Gas -->
+
+	<Gas_Smoke.label>дым</Gas_Smoke.label>
+
+	<!-- Misc -->
+
+	<ActiveDropPod.label>капсула</ActiveDropPod.label>
+	<Fire.label>огонь</Fire.label>
+	<Spark.label>искра</Spark.label>
 
 </LanguageData>
