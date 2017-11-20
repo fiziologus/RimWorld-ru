@@ -100,8 +100,8 @@
 
 	<!-- special administer -->
 
-	<AdministerMechSerumHealer.label>дать лечебную мехасыворотку</AdministerMechSerumHealer.label>
-	<AdministerMechSerumHealer.description>Назначить лечебную мехасыворотку.</AdministerMechSerumHealer.description>
-	<AdministerMechSerumHealer.jobString>Даёт лечебную мехасыворотку.</AdministerMechSerumHealer.jobString>
+	<AdministerMechSerumHealer.label>дать исцеляющий серум</AdministerMechSerumHealer.label>
+	<AdministerMechSerumHealer.description>Назначить исцеляющий серум.</AdministerMechSerumHealer.description>
+	<AdministerMechSerumHealer.jobString>Даёт исцеляющий серум.</AdministerMechSerumHealer.jobString>
 
 </LanguageData>
