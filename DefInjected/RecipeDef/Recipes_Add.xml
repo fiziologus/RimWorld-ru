@@ -115,9 +115,9 @@
 	<Make_MeleeWeapon_Knife.description>Сделать нож.</Make_MeleeWeapon_Knife.description>
 	<Make_MeleeWeapon_Knife.jobString>Делает нож.</Make_MeleeWeapon_Knife.jobString>
 
-	<Make_MeleeWeapon_Club.label>сделать дубину</Make_MeleeWeapon_Club.label>
-	<Make_MeleeWeapon_Club.description>Сделать дубину.</Make_MeleeWeapon_Club.description>
-	<Make_MeleeWeapon_Club.jobString>Делает дубину.</Make_MeleeWeapon_Club.jobString>
+	<Make_MeleeWeapon_Club.label>сделать палицу</Make_MeleeWeapon_Club.label>
+	<Make_MeleeWeapon_Club.description>Сделать палицу.</Make_MeleeWeapon_Club.description>
+	<Make_MeleeWeapon_Club.jobString>Делает палицу.</Make_MeleeWeapon_Club.jobString>
 
 	<Make_MeleeWeapon_Mace.label>сделать булаву</Make_MeleeWeapon_Mace.label>
 	<Make_MeleeWeapon_Mace.description>Сделать булаву.</Make_MeleeWeapon_Mace.description>
