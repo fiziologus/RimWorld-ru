@@ -43,9 +43,9 @@
 	<Synthread.description>Технология звёздных скитальцев, искуственная ткань, разработаная для создания повседневной одежды. Мягкая, лёгкая, прочная и хорошо оберегает от холода и жара.</Synthread.description>
 	<Synthread.stuffProps.stuffAdjective>синткани</Synthread.stuffProps.stuffAdjective>
 
-	<DevilstrandCloth.label>пряди дьявола</DevilstrandCloth.label>
-	<DevilstrandCloth.description>Ткань из микроволокон, полученных с производящих прочные нити грибов пряди дьявола. Очень прочная, но от холода и жара защищает не лучше ткани.</DevilstrandCloth.description>
-	<DevilstrandCloth.stuffProps.stuffAdjective>прядей дьявола</DevilstrandCloth.stuffProps.stuffAdjective>
+	<DevilstrandCloth.label>чертопряжа</DevilstrandCloth.label>
+	<DevilstrandCloth.description>Ткань из микроволокон, полученных с чертопрядов, производящих прочные нити грибов. Очень прочная, но от холода и жара защищает не лучше ткани.</DevilstrandCloth.description>
+	<DevilstrandCloth.stuffProps.stuffAdjective>чертопряжи</DevilstrandCloth.stuffProps.stuffAdjective>
 
 	<Hyperweave.label>гиперткань</Hyperweave.label>
 	<Hyperweave.description>Вплетённые в ткань высокотехнологичные нановолокна. Тяжеловатая, но на разрыв невероятно прочная. Секреты её производства известны только наиболее передовым сверкающим мирам.</Hyperweave.description>

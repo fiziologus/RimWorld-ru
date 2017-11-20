@@ -12,8 +12,8 @@
 	<PassiveCooler.label>испарительный охладитель</PassiveCooler.label>
 	<PassiveCooler.description>Создание испарительного охладителя, способного остудить воздух внутри помещений, не используя электричества.</PassiveCooler.description>
 
-	<Devilstrand.label>пряди дьявола</Devilstrand.label>
-	<Devilstrand.description>Позволяет поселенцам выращивать пряди дьявола, медленно растущий гриб, из которого добывают ценное растительное волокно.</Devilstrand.description>
+	<Devilstrand.label>чертопряд</Devilstrand.label>
+	<Devilstrand.description>Позволяет поселенцам выращивать чертопряд, медленно растущий гриб, из которого добывают ценное растительное волокно.</Devilstrand.description>
 
 	<PsychoidBrewing.label>настой психолиста</PsychoidBrewing.label>
 	<PsychoidBrewing.description>Подготовленные листочки психолиста могут быть заварены в воде для приготовления вызывающего лёгкую эйфорию и небольшое привыкание чая.</PsychoidBrewing.description>
