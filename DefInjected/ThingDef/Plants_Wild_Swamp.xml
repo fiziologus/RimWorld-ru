@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<PlantTreeWillow.label>ветла</PlantTreeWillow.label>
+	<PlantTreeWillow.description>Одно из наибоее быстроратуших деревьев, дающих тень, с густой красивой кроной. Не даёт очень уж много пригодной древесины.</PlantTreeWillow.description>
+
+	<PlantTreeCypress.label>кипарис</PlantTreeCypress.label>
+	<PlantTreeCypress.description>Высокое медленно растущее дерево. Обычный житель болот. Несмотря на медленный рост, выращивание этих деревьев может принести пользу, так как с них можно получить много пригодной древесины.</PlantTreeCypress.description>
+
+	<PlantTreeMaple.label>клён</PlantTreeMaple.label>
+	<PlantTreeMaple.description>Распространённо дерево средней высоты. Частый гость болот и сырых местностей.</PlantTreeMaple.description>
+
+	<PlantChokevine.label>дремучая лоза</PlantChokevine.label>
+	<PlantChokevine.description>Густой замедляющий идущего кустарник.</PlantChokevine.description>
+
+</LanguageData>

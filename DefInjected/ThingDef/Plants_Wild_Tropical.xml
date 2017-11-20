@@ -1,17 +1,34 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<!--======================= Wild plants - carpets ========================-->
 
-	<PlantTallGrass.label>высокая трава</PlantTallGrass.label>
-	<PlantTallGrass.description>Дикая высокая трава. Заметно замедляет каждого, кто идет по ней.</PlantTallGrass.description>
+	<PlantShrubLow.label>низкий кустарник</PlantShrubLow.label>
+	<PlantShrubLow.description>Низкий широколиственный кустакник. Растёт кучками и несколько замедляет идушего.</PlantShrubLow.description>
+
+	<!--============================ Bushes =============================-->
+
+	<PlantAlocasia.label>алоказия</PlantAlocasia.label>
+	<PlantAlocasia.description>Распространённое широколиственное тропическое растение.</PlantAlocasia.description>
+
+	<PlantClivia.label>кливия</PlantClivia.label>
+	<PlantClivia.description>Необычное растение с длинными притягательными цветками. Кое-где её называют «кустистой лилией».</PlantClivia.description>
+
+	<PlantRafflesia.label>раффлезия</PlantRafflesia.label>
+	<PlantRafflesia.description>Редкий гигантский цветок. Думаете гигантский цветок стал бы прекранес, но этом совершенно уродлив и не менее вонюч.</PlantRafflesia.description>
 
 	<!--============================ Wild - Trees ============================-->
 
 	<PlantTreeTeak.label>тиковое дерево</PlantTreeTeak.label>
-	<PlantTreeTeak.description>Очень крепкое дерево с твёрдой древесиной, использовавшееся в древности для постройки кораблей.</PlantTreeTeak.description>
+	<PlantTreeTeak.description>Очень крепкое дерево с твёрдой древесиной, из которого в былые времена строили парусные суда.</PlantTreeTeak.description>
 
 	<PlantTreeCecropia.label>цекропия</PlantTreeCecropia.label>
-	<PlantTreeCecropia.description>Одно из наиболее распространённых тропических деревьев. Растёт очень быстро, но приносит мало пригодной древесины.</PlantTreeCecropia.description>
+	<PlantTreeCecropia.description>Одно из наиболее распространённых деревьев тропических лесов. Растёт очень быстро, но даёт мало пригодной древесины.</PlantTreeCecropia.description>
+
+	<PlantTreePalm.label>пальмовое дерево</PlantTreePalm.label>
+	<PlantTreePalm.description>Тропическое дерево с длинным, без коры стволом, увенчанным пучком листьев.</PlantTreePalm.description>
+
+	<PlantTreeBamboo.label>бамбук</PlantTreeBamboo.label>
+	<PlantTreeBamboo.description>Быстро растущее похожее на дерево растение, произростающее кустом. Бамбук можно собрать ради похожего на древесину материала. Само растение красотой не блещет.</PlantTreeBamboo.description>
 
 </LanguageData>

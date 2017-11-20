@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
 	<BurnedTree.label>сгоревшее дерево</BurnedTree.label>
-	<BurnedTree.description>Дерево, сильно повреждённое огнём. Из него невозможно получить древесину надлежащего качества.</BurnedTree.description>
+	<BurnedTree.description>Обгоревшее дерево. Пригодной древесины из него получить.</BurnedTree.description>
 
 	<PlantAmbrosia.label>куст амброзии</PlantAmbrosia.label>
-	<PlantAmbrosia.description>Редко встречающийся кустарник, на котором созревают плоды амброзии. Этот фрукт имеет очень приятный вкус и даёт своеобразное ощущение «химического» тепла, вызывающее легкое привыкание.</PlantAmbrosia.description>
+	<PlantAmbrosia.description>Редко где пускающий когни кустарник, на котором созревают плоды амброзии. Вкус амбросии доставляет удовольствие, а мякоть создаёт чуток вызывающий привыкание эффект теплоты.</PlantAmbrosia.description>
 
 </LanguageData>
