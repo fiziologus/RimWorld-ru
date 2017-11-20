@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- Carpets -->
+
+	<PlantGrass.label>трава</PlantGrass.label>
+	<PlantGrass.description>Дикие травы. Растёт везде, где есть хоть немного света и какая-никакая почва.</PlantGrass.description>
+
+	<PlantTallGrass.label>высокотравье</PlantTallGrass.label>
+	<PlantTallGrass.description>Дикое высокотравье. Замедляет идущего через себя.</PlantTallGrass.description>
+
+
+	<!-- Bushes -->
+
+	<PlantBush.label>куст</PlantBush.label>
+	<PlantBush.description>Низкая купина. Обычно не разговаривает.</PlantBush.description>
+
+	<PlantBrambles.label>заросли</PlantBrambles.label>
+	<PlantBrambles.description>Перепутанные колючие одревеневшие побеги, покрытые листьями. Почти останавливают любого, кто пойдём через них.</PlantBrambles.description>
+
+	<PlantWildHealroot.label>дикий врачующий корень</PlantWildHealroot.label>
+	<PlantWildHealroot.description>Медленно растушее растение, из которого получают зелёный сбор.\n\nЭту дикую разновидность врачующего корня тяжело выращивать. Он высоко ценим племенами холодных территорий.</PlantWildHealroot.description>
+
+</LanguageData>

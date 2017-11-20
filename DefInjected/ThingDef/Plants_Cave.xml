@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Glowstool.label>светопень</Glowstool.label>
+	<Glowstool.description>Небольшой бурый гриб, растуший обычно в пещерах. На запах, как старая грязная ветошь, вынутая из желудка гниющего муйвола... но приготовленный чертовски хорош на вкус. Попав на свет, погибает.</Glowstool.description>
+
+	<!-- Agaricus = шампиньон по латыни -->
+	<Agarilux.label>агарилюкс</Agarilux.label>
+	<Agarilux.description>Громадный пурпурный гриб. Размер и испускающие свечение выпуклости делают этот гриб ласкающим взор. Попав на свет, погибает.</Agarilux.description>
+
+	<!-- Bryophyta = латинское название мхов -->
+	<Bryolux.label>бриолюкс</Bryolux.label>
+	<Bryolux.description>Синий мох, растуший с глубоких тёмных пещерах. Липкий, со спутанными стебельками он замедляет идущего по нему. Попав на свет, погибает.</Bryolux.description>
+
+</LanguageData>
