@@ -3,7 +3,7 @@
 
 	<Autosaving>Автосохранение</Autosaving>
 
-	<GameStartDialog>Вы трое проснулись в своих саркофагах криптосна под звук сирен и скрежет металла. Едва вы успели добраться до спасательных капсул, как корабль развалился на части.\n\nНекоторое время спустя вы приземлились на эту неизвестную планету.\n\nПод звездопадом из обломков корабля вы начинаете строить планы по выживанию.</GameStartDialog>
+	<GameStartDialog>Трое вас просыпаются в саркофагах криптосна под звук сирен и скрежет металла. Вам едва удаётся нырнуть в спасательные капсулы, как корабль рассыпается на куски.\n\nНекоторое время спустя вы приземляетесь на поверхность неизведанного окраиного мира.\n\nПод звездопадом из обломков корабля вы начинаете обдумывать планы, как выжить.</GameStartDialog>
 
 	<!--Эта <Colony> не изменяется динамически, — не подставляется данное поселению имя, это недоработка автора. Из-за этого же она не изменяется при перезагрузке перевода, только при создании нового поселения.-->
 	<Colony>поселения</Colony>
@@ -36,25 +36,25 @@
 
 	<!-- Content generation-->
 
-	<MeatLabel>{0} мясо</MeatLabel>
-	<MeatDesc>Сырое мясо. Может быть приготовлено или съедено сырым.</MeatDesc>
+	<MeatLabel>мясо {0}а</MeatLabel>
+	<MeatDesc>Разделанная сырая плоть. Может пойти на блюда, либо съедена сырым.</MeatDesc>
 
-	<LeatherLabel>Кожа {0}</LeatherLabel>
-	<LeatherDesc>Дублёная, высушенная, очищенная кожа. Хороший материал для изготовления одежды и сумок.</LeatherDesc>
+	<LeatherLabel>Кожа {0}а</LeatherLabel>
+	<LeatherDesc>Дублёная, высушенная, очищенная шкура. Хороший материал для изготовления одежды и сумок.</LeatherDesc>
 
-	<CorpseLabel>труп {0}</CorpseLabel>
-	<CorpseDesc>Мёртвое тело {0}.</CorpseDesc>
-	<DeadLabel>{0} (мёртв)</DeadLabel>
+	<CorpseLabel>туша {0}а</CorpseLabel>
+	<CorpseDesc>Мёртвый {0}.</CorpseDesc>
+	<DeadLabel>{0} (труп)</DeadLabel>
 
-	<RoughStoneTerrainLabel>неровный {0}</RoughStoneTerrainLabel>
-	<RoughStoneTerrainDesc>Невыровненный {0} пол.</RoughStoneTerrainDesc>
-	<RoughHewnStoneTerrainLabel>неотёсанный {0}</RoughHewnStoneTerrainLabel>
-	<RoughHewnStoneTerrainDesc>Грубо обтёсанный естественный {0} пол.</RoughHewnStoneTerrainDesc>
-	<SmoothStoneTerrainLabel>ровный {0}</SmoothStoneTerrainLabel>
-	<SmoothStoneTerrainDesc>Выровненный естественный {0} пол.</SmoothStoneTerrainDesc>
+	<RoughStoneTerrainLabel>грубый {0}</RoughStoneTerrainLabel>
+	<RoughStoneTerrainDesc>Грубая природная основа из {0}а.</RoughStoneTerrainDesc>
+	<RoughHewnStoneTerrainLabel>обтёсанный {0}</RoughHewnStoneTerrainLabel>
+	<RoughHewnStoneTerrainDesc>Естественный пол из грубо обтёсанного {0}а.</RoughHewnStoneTerrainDesc>
+	<SmoothStoneTerrainLabel>гладкий {0}</SmoothStoneTerrainLabel>
+	<SmoothStoneTerrainDesc>Гладкий природный пол из {0}а.</SmoothStoneTerrainDesc>
 
 	<BlueprintLabelExtra> (проект)</BlueprintLabelExtra>
-	<FrameLabelExtra> (постройка)</FrameLabelExtra>
+	<FrameLabelExtra> (заготовка)</FrameLabelExtra>
 
 
 	<!-- Для вещей, сделанных из чего-либо, напр. «Кровать из камня» -->
@@ -67,7 +67,7 @@
 	<VariousLabel>(различное)</VariousLabel>
 
 	<!-- History events -->
-	<ColonistDied>Поселенец погиб.</ColonistDied>
+	<ColonistDied>Поселенец погиб</ColonistDied>
 
 	<!-- Rotation -->
 	<North>Север</North>
