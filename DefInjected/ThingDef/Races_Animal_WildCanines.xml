@@ -1,60 +1,89 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+
+	<!-- Animal_Leather, Animal_Meat и Animal_Corpse могут собираться по лекалам из Keyed/Misc.xml -->
+	<!-- LeatherLabel, LeatherDesc = кожа {0}а (в соответствии с точным переводом) -->
+	<!-- MeatLabel, MeatDesc = мясо {0}а -->
+	<!-- CorpseLabel, CorpseDesc = туша {0}а (в игре corpse универсальный термин для любого животного -->
 
 	<!--Одно мясо идёт на всех лисиц, поэтому мясо лисицы и сырое мясо лисицы-->
 
 	<Warg.label>варг</Warg.label>
-	<Warg.description>Мускулистые волкоподобные существа. По мнению авторитетных учёных, варги — потомки боевых животных, созданных для подавления сопротивления. Суеверные поговаривают о том, что их используют боги, как инструменты гнева. Питаются исключительно мясом.</Warg.description>
+	<Warg.description>Мускулистые волкоподобные создания. Учёные говорят, что варги — потомки использовавшихся как оружее боевых зверей, созданных для усмирения населения. Суеверные же видят в них орудия разгневанного бога. Поедают они только мясо, лицо падаль.</Warg.description>
+	<Warg.tools.0.label>левая лапа</Warg.tools.0.label>
+	<Warg.tools.1.label>правая лапа</Warg.tools.1.label>
+	<Warg.tools.3.label>голова</Warg.tools.3.label>
 	<Warg_Leather.label>шкура варга</Warg_Leather.label>
 	<Warg_Leather.stuffProps.stuffAdjective>шкуры варга</Warg_Leather.stuffProps.stuffAdjective>
-	<Warg_Leather.description>Шкура, снятая с варга.</Warg_Leather.description>
+	<!-- <Warg_Leather.description>Шкура, снятая с варга.</Warg_Leather.description>
 	<Warg_Meat.label>мясо варга</Warg_Meat.label>
 	<Warg_Meat.description>Сырое мясо варга.</Warg_Meat.description>
 	<Warg_Corpse.label>туша варга</Warg_Corpse.label>
-	<Warg_Corpse.description>Мёртвый варг.</Warg_Corpse.description>
+	<Warg_Corpse.description>Мёртвый варг.</Warg_Corpse.description> -->
+
+	<!-- ========================== Wolves ================================= -->
 
 	<WolfTimber.label>волк</WolfTimber.label>
-	<WolfTimber.description>Суровый хищник, которого издревле боятся многие культуры Земли. Будучи стайными охотниками, волки ведут социальный образ жизни и весьма умны.</WolfTimber.description>
+	<WolfTimber.description>Суровый хищник, издревле наводящий ужас у многих культур Земли. Как и у любых стайных хищников у волков сложные взаимоотношения друг с другом и грозный интеллект.</WolfTimber.description>
+	<WolfTimber.tools.0.label>левая лапа</WolfTimber.tools.0.label>
+	<WolfTimber.tools.1.label>правая лапа</WolfTimber.tools.1.label>
+	<WolfTimber.tools.3.label>голова</WolfTimber.tools.3.label>
 	<WolfTimber_Leather.label>шкура волка</WolfTimber_Leather.label>
-	<WolfTimber_Leather.description>Шкура, снятая с волка.</WolfTimber_Leather.description>
+	<!-- <WolfTimber_Leather.description>Шкура, снятая с волка.</WolfTimber_Leather.description> -->
 	<WolfTimber_Leather.stuffProps.stuffAdjective>шкуры волка</WolfTimber_Leather.stuffProps.stuffAdjective>
-	<WolfTimber_Meat.label>волчатина</WolfTimber_Meat.label>
+	<!-- <WolfTimber_Meat.label>мясо волка</WolfTimber_Meat.label>
 	<WolfTimber_Meat.description>Сырое мясо волка.</WolfTimber_Meat.description>
 	<WolfTimber_Corpse.label>туша волка</WolfTimber_Corpse.label>
-	<WolfTimber_Corpse.description>Мёртвый волк.</WolfTimber_Corpse.description>
+	<WolfTimber_Corpse.description>Мёртвый волк.</WolfTimber_Corpse.description> -->
 
 	<WolfArctic.label>полярный волк</WolfArctic.label>
-	<WolfArctic.description>Арктический вариант обычного волка. Будучи стайными охотниками, волки имеют сложную социальную жизнь и очень разумны.</WolfArctic.description>
+	<WolfArctic.description>Арктический вид волка с Матушки-Земли. Как и у любых стайных хищников у волков сложные взаимоотношения друг с другом и грозный интеллект.</WolfArctic.description>
+	<WolfArctic.tools.0.label>левая лапа</WolfArctic.tools.0.label>
+	<WolfArctic.tools.1.label>правая лапа</WolfArctic.tools.1.label>
+	<WolfArctic.tools.3.label>голова</WolfArctic.tools.3.label>
 	<WolfArctic_Leather.label>шкура полярного волка</WolfArctic_Leather.label>
-	<WolfArctic_Leather.description>Шкура, снятая с полярного волка.</WolfArctic_Leather.description>
+	<!-- <WolfArctic_Leather.description>Шкура, снятая с полярного волка.</WolfArctic_Leather.description> -->
 	<WolfArctic_Leather.stuffProps.stuffAdjective>шкуры полярного волка</WolfArctic_Leather.stuffProps.stuffAdjective>
+	<!-- useMeatFrom WolfTimber -->
 	<WolfArctic_Corpse.label>туша полярного волка</WolfArctic_Corpse.label>
-	<WolfArctic_Corpse.description>Мёртвый полярный волк.</WolfArctic_Corpse.description>
+	<!-- <WolfArctic_Corpse.description>Мёртвый полярный волк.</WolfArctic_Corpse.description> -->
+
+	<!--========================== Fox ========================-->
 
 	<FoxFennec.label>фенек</FoxFennec.label>
-	<FoxFennec.description>Маленькая лиса родом из северной части Африки. Фенек известен своими непропорционально большими ушами. Охотится на мелких животных.</FoxFennec.description>
+	<FoxFennec.description>Маленькая лисичка родом с северной части Африканского континента. Охотится на мелких животных и обладает очень большими ушами.</FoxFennec.description>
+	<FoxFennec.tools.0.label>левая лапа</FoxFennec.tools.0.label>
+	<FoxFennec.tools.1.label>правая лапа</FoxFennec.tools.1.label>
+	<FoxFennec.tools.3.label>голова</FoxFennec.tools.3.label>
 	<FoxFennec_Leather.label>шкурка фенека</FoxFennec_Leather.label>
-	<FoxFennec_Leather.description>Шкурка, снятая с фенека.</FoxFennec_Leather.description>
+	<!--<FoxFennec_Leather.description>Шкурка, снятая с фенека.</FoxFennec_Leather.description> -->
 	<FoxFennec_Leather.stuffProps.stuffAdjective>шкурки фенека</FoxFennec_Leather.stuffProps.stuffAdjective>
 	<FoxFennec_Meat.label>мясо лисицы</FoxFennec_Meat.label>
-	<FoxFennec_Meat.description>Сырое мясо лисицы.</FoxFennec_Meat.description>
+	<!-- <FoxFennec_Meat.description>Сырое мясо лисицы.</FoxFennec_Meat.description> -->
 	<FoxFennec_Corpse.label>тушка фенека</FoxFennec_Corpse.label>
-	<FoxFennec_Corpse.description>Мёртвый фенек.</FoxFennec_Corpse.description>
+	<!-- <FoxFennec_Corpse.description>Мёртвый фенек</FoxFennec_Corpse.description> -->
 
 	<FoxRed.label>лисица</FoxRed.label>
-	<FoxRed.description>Небольшое одиночное животное из семейства собачьих, эволюционировавшее для охоты на мелкую добычу в умеренном климате.</FoxRed.description>
-	<FoxRed_Leather.label>шкура лисицы</FoxRed_Leather.label>
-	<FoxRed_Leather.description>Шкура, снятая с лисицы.</FoxRed_Leather.description>
-	<FoxRed_Leather.stuffProps.stuffAdjective>шкуры лисицы</FoxRed_Leather.stuffProps.stuffAdjective>
+	<FoxRed.description>Небольшое одиночное псовое, эволюционировавшее для охоты на мелкую добычу в умеренном климате.</FoxRed.description>
+	<FoxRed.tools.0.label>левая лапа</FoxRed.tools.0.label>
+	<FoxRed.tools.1.label>правая лапа</FoxRed.tools.1.label>
+	<FoxRed.tools.3.label>голова</FoxRed.tools.3.label>
+	<FoxRed_Leather.label>шкура лисы</FoxRed_Leather.label>
+	<!-- <FoxRed_Leather.description>Шкура, снятая с лисицы.</FoxRed_Leather.description> -->
+	<FoxRed_Leather.stuffProps.stuffAdjective>шкуры лисы</FoxRed_Leather.stuffProps.stuffAdjective>
 	<FoxRed_Corpse.label>туша лисицы</FoxRed_Corpse.label>
-	<FoxRed_Corpse.description>Мёртвая лисица.</FoxRed_Corpse.description>
+	<FoxRed_Corpse.description>Мёртвая лисица</FoxRed_Corpse.description>
 
-	<FoxArctic.label>полярная лисица</FoxArctic.label>
-	<FoxArctic.description>Маленький хищник, приспособленный для жизни в условиях крайнего севера. Обычно охотится на мелкую дичь вроде мышей и полёвок, иногда зарываясь на целый метр в снег, чтобы добраться до своей добычи.</FoxArctic.description>
-	<FoxArctic_Leather.label>шкура полярной лисицы</FoxArctic_Leather.label>
-	<FoxArctic_Leather.description>Шкура, снятая с полярной лисицы.</FoxArctic_Leather.description>
-	<FoxArctic_Leather.stuffProps.stuffAdjective>шкуры полярной лисицы</FoxArctic_Leather.stuffProps.stuffAdjective>
-	<FoxArctic_Corpse.label>туша полярной лисицы</FoxArctic_Corpse.label>
-	<FoxArctic_Corpse.description>Мёртвая полярная лисица.</FoxArctic_Corpse.description>
+	<FoxArctic.label>песец</FoxArctic.label>
+	<FoxArctic.description>Маленький приспособившийся к условиям Крайнего Севера хищник. Обычно он охотится на мелкую дичь, вроде мышей и полёвок, временами прокапывая метровый снег, чтобы добраться до добычи.</FoxArctic.description>
+	<FoxArctic.tools.0.label>левая лапа</FoxArctic.tools.0.label>
+	<FoxArctic.tools.1.label>правая лапа</FoxArctic.tools.1.label>
+	<FoxArctic.tools.3.label>голова</FoxArctic.tools.3.label>
+	<FoxArctic_Leather.label>шкура песца</FoxArctic_Leather.label>
+	<!-- <FoxArctic_Leather.description>Шкура, снятая с полярной лисицы.</FoxArctic_Leather.description> -->
+	<FoxArctic_Leather.stuffProps.stuffAdjective>шкуры песца</FoxArctic_Leather.stuffProps.stuffAdjective>
+	<!-- useMeatFrom FoxFennec -->
+	<FoxArctic_Corpse.label>туша песца</FoxArctic_Corpse.label>
+	<!-- <FoxArctic_Corpse.description>Мёртвая полярная лисица.</FoxArctic_Corpse.description> -->
 
 </LanguageData>

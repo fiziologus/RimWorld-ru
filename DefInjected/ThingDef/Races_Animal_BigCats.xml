@@ -1,33 +1,46 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+	<!-- Animal_Leather, Animal_Meat и Animal_Corpse могут собираться по лекалам из Keyed/Misc.xml -->
+	<!-- LeatherLabel, LeatherDesc = кожа {0}а (в соответствии с точным переводом) -->
+	<!-- MeatLabel, MeatDesc = мясо {0}а -->
+	<!-- CorpseLabel, CorpseDesc = туша {0}а (в игре corpse универсальный термин для любого животного -->
 	<Cougar.label>пума</Cougar.label>
-	<Cougar.description>Одни из самых опасных больших кошек, пумы, — одиночные охотники с длинными острыми зубами и когтями. Они незаметно подбираются к добыче, чтобы затем настигнуть её одним прыжком.\n\nХоть люди и не являются частью их нормального рациона, они не откажутся полакомиться мясом беззащитного зазевавшегося человека.</Cougar.description>
+	<Cougar.description>Одни из самых опасных больших кошек, пумы — охотники-одиночки с длинными острыми зубами и когтями. Перед прыжком они крадучись незаметно приближаются к своей жертве.\n\nОни не откажутся от поддатливой человечины, хотя обычно люди их пищей не являются.</Cougar.description>
+	<Cougar.tools.0.label>левая лапа</Cougar.tools.0.label>
+	<Cougar.tools.1.label>правая лапа</Cougar.tools.1.label>
+	<Cougar.tools.3.label>голова</Cougar.tools.3.label>
 	<Cougar_Leather.label>шкура пумы</Cougar_Leather.label>
 	<Cougar_Leather.stuffProps.stuffAdjective>шкуры пумы</Cougar_Leather.stuffProps.stuffAdjective>
-	<Cougar_Leather.description>Шкура, снятая с пумы.</Cougar_Leather.description>
+	<!-- <Cougar_Leather.description>Шкура, снятая с пумы.</Cougar_Leather.description> -->
 	<Cougar_Meat.label>мясо пумы</Cougar_Meat.label>
-	<Cougar_Meat.description>Сырое мясо пумы.</Cougar_Meat.description>
+	<!-- <Cougar_Meat.description>Сырое мясо пумы.</Cougar_Meat.description> -->
 	<Cougar_Corpse.label>туша пумы</Cougar_Corpse.label>
 	<Cougar_Corpse.description>Мёртвая пума.</Cougar_Corpse.description>
 
 	<Panther.label>пантера</Panther.label>
-	<Panther.description>Подвижные и мощные большие кошки, обитающие в джунглях старой Земли. Хищники-одиночки, предпочитающие большую и малую добычу.\nСторонние наблюдатели обычно обращают внимание на грациозность движений пантер, а вот те, кому пришлось познакомиться с ними поближе, намного больше внимания уделяют их смертоносным лапам.</Panther.description>
+	<Panther.description>Проворные и сильные большие кошки с джунглей Матушки-Земли. Одинокие, охотящиеся из засады хищники, пантеры способны с первого раза свалить как маленькую, так и большую добычу. Нечасто их видящие обычно заостряют внимание на грациозность движений пантер, те же, кто знаком с ними более тесно, обычно подмечают зубодробительную мощь.</Panther.description>
+	<Panther.tools.0.label>левая лапа</Panther.tools.0.label>
+	<Panther.tools.1.label>правая лапа</Panther.tools.1.label>
+	<Panther.tools.3.label>голова</Panther.tools.3.label>
 	<Panther_Leather.label>шкура пантеры</Panther_Leather.label>
-	<Panther_Leather.description>Шкура, снятая с пантеры.</Panther_Leather.description>
+	<!-- <Panther_Leather.description>Шкура, снятая с пантеры.</Panther_Leather.description> -->
 	<Panther_Leather.stuffProps.stuffAdjective>шкуры пантеры</Panther_Leather.stuffProps.stuffAdjective>
 	<Panther_Meat.label>мясо пантеры</Panther_Meat.label>
-	<Panther_Meat.description>Сырое мясо пантеры.</Panther_Meat.description>
+	<!-- <Panther_Meat.description>Сырое мясо пантеры.</Panther_Meat.description> -->
 	<Panther_Corpse.label>туша пантеры</Panther_Corpse.label>
 	<Panther_Corpse.description>Мёртвая пантера.</Panther_Corpse.description>
 
 	<Lynx.label>рысь</Lynx.label>
-	<Lynx.description>Рыси больше домашних кошек, но меньше пум. Обычно они питаются мелкими птицами и животными. Тёплый мех обеспечивает рысям защиту даже от очень низких температур их северных сред обитания.</Lynx.description>
-	<Lynx_Leather.label>шкура рыси</Lynx_Leather.label>
-	<Lynx_Leather.description>Шкура, снятая с рыси.</Lynx_Leather.description>
-	<Lynx_Leather.stuffProps.stuffAdjective>шкуры рыси</Lynx_Leather.stuffProps.stuffAdjective>
+	<Lynx.description>Дикая кошка покрупней домашней размером, но мельче пумы. Рыси живут на диете мелких птицам и зверьков. Очень тёплый мех рысей оберегает их от жестоких северных холодов..</Lynx.description>
+	<Lynx.tools.0.label>левая лапа</Lynx.tools.0.label>
+	<Lynx.tools.1.label>правая лапа</Lynx.tools.1.label>
+	<Lynx.tools.3.label>голова</Lynx.tools.3.label>
+	<Lynx_Leather.label>мех рыси</Lynx_Leather.label>
+	<!-- <Lynx_Leather.description>Шкура, снятая с рыси.</Lynx_Leather.description> -->
+	<Lynx_Leather.stuffProps.stuffAdjective>меха рыси</Lynx_Leather.stuffProps.stuffAdjective>
 	<Lynx_Meat.label>мясо рыси</Lynx_Meat.label>
-	<Lynx_Meat.description>Сырое мясо рыси.</Lynx_Meat.description>
+	<!-- <Lynx_Meat.description>Сырое мясо рыси.</Lynx_Meat.description> -->
 	<Lynx_Corpse.label>туша рыси</Lynx_Corpse.label>
 	<Lynx_Corpse.description>Мёртвая рысь.</Lynx_Corpse.description>
 

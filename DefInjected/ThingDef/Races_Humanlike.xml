@@ -1,16 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<!-- ============================ Human ========================== -->
+	<!-- Animal_Leather, Animal_Meat и Animal_Corpse могут собираться по лекалам из Keyed/Misc.xml -->
+	<!-- LeatherLabel, LeatherDesc = кожа {0}а (в соответствии с точным переводом) -->
+	<!-- MeatLabel, MeatDesc = мясо {0}а -->
+	<!-- CorpseLabel, CorpseDesc = туша {0}а (в игре corpse универсальный термин для любого животного -->
 
 	<Human.label>человек</Human.label>
-	<Human.description>Обычный человек, практически не изменённый генной инженерией или эволюционными процессами других планет.</Human.description>
-	<Human_Leather.label>кожа человека</Human_Leather.label>
+	<Human.description>Человек во всей своей красе, по большей части без генных модификаций и преимущественно неизменённый эволюционным давлением отличных от Земли планет.</Human.description>
+	<Human.tools.0.label>левая рука</Human.tools.0.label>
+	<Human.tools.1.label>правая рука</Human.tools.1.label>
+	<Human.tools.2.label>голова</Human.tools.2.label>
+	<!-- <Human_Leather.label>кожа человека</Human_Leather.label> -->
 	<Human_Leather.stuffProps.stuffAdjective>человеческой кожи</Human_Leather.stuffProps.stuffAdjective>
-	<Human_Leather.description>Кожа, содранная с человека.</Human_Leather.description>
-	<Human_Meat.label>плоть человека</Human_Meat.label>
-	<Human_Meat.description>Сырое мясо человека.</Human_Meat.description>
+	<!-- <Human_Leather.description>Кожа, содранная с человека.</Human_Leather.description> -->
+	<Human_Meat.label>человечина</Human_Meat.label>
+	<!-- <Human_Meat.description>Сырое мясо человека.</Human_Meat.description> -->
 	<Human_Corpse.label>труп человека</Human_Corpse.label>
-	<Human_Corpse.description>Труп человека.</Human_Corpse.description>
+	<!-- <Human_Corpse.description>Труп человека</Human_Corpse.description> -->
 
 </LanguageData>

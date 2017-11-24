@@ -1,41 +1,55 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+	<!-- Animal_Leather, Animal_Meat и Animal_Corpse могут собираться по лекалам из Keyed/Misc.xml -->
+	<!-- LeatherLabel, LeatherDesc = кожа {0}а (в соответствии с точным переводом) -->
+	<!-- MeatLabel, MeatDesc = мясо {0}а -->
+	<!-- CorpseLabel, CorpseDesc = туша {0}а (в игре corpse универсальный термин для любого животного -->
 	<!--Одно мясо идёт на всех птиц, поэтому мясо птицы-->
 
 	<Cassowary.label>казуар</Cassowary.label>
-	<Cassowary.description>Большая нелетающая птица с яркими цветными перьями. Выглядит красиво, но бьет злобно.</Cassowary.description>
-	<Cassowary_Leather.label>кожа казуара</Cassowary_Leather.label>
+	<Cassowary.description>Крупная нелетающая птица с ярко окращеными перьями. Красиво выглядящая и с ожесточенным ударом.</Cassowary.description>
+	<Cassowary.tools.0.label>лапы</Cassowary.tools.0.label>
+	<Cassowary.tools.2.label>голова</Cassowary.tools.2.label>
+	<!-- <Cassowary_Leather.label>кожа казуара</Cassowary_Leather.label> -->
 	<Cassowary_Leather.stuffProps.stuffAdjective>кожи казуара</Cassowary_Leather.stuffProps.stuffAdjective>
-	<Cassowary_Leather.description>Кожа, снятая с казуара.</Cassowary_Leather.description>
+	<!-- <Cassowary_Leather.description>Кожа, снятая с казуара.</Cassowary_Leather.description> -->
 	<Cassowary_Meat.label>мясо птицы</Cassowary_Meat.label>
 	<Cassowary_Meat.description>Мясо птицы.</Cassowary_Meat.description>
-	<Cassowary_Corpse.label>туша казуара</Cassowary_Corpse.label>
-	<Cassowary_Corpse.description>Мёртвый казуар.</Cassowary_Corpse.description>
+	<!-- <Cassowary_Corpse.label>туша казуара</Cassowary_Corpse.label> -->
+	<!-- <Cassowary_Corpse.description>Мёртвый казуар.</Cassowary_Corpse.description> -->
 
 	<Emu.label>страус эму</Emu.label>
-	<Emu.description>Большая нелетающая птица с выпученными глазами и неприятной внешностью. Вкупе с её дурным характером, является весьма странным порождением природы.</Emu.description>
-	<Emu_Leather.label>кожа страуса эму</Emu_Leather.label>
-	<Emu_Leather.stuffProps.stuffAdjective>кожи страуса эму</Emu_Leather.stuffProps.stuffAdjective>
-	<Emu_Leather.description>Кожа, снятая со страуса эму.</Emu_Leather.description>
-	<Emu_Corpse.label>туша страуса эму</Emu_Corpse.label>
-	<Emu_Corpse.description>Мёртвый страус эму.</Emu_Corpse.description>
+	<Emu.description>Крупная нелетающая птица с глазами-бусинами на безобразной мордашке. А со свом дурным характером это ублюдок естественной природы.</Emu.description>
+	<Emu.tools.0.label>лапы</Emu.tools.0.label>
+	<Emu.tools.2.label>голова</Emu.tools.2.label>
+	<Emu_Leather.label>кожа эму</Emu_Leather.label>
+	<Emu_Leather.stuffProps.stuffAdjective>кожи эму</Emu_Leather.stuffProps.stuffAdjective>
+	<!-- <Emu_Leather.description>Кожа, снятая со страуса эму.</Emu_Leather.description> -->
+	<!-- <useMeatFrom>Cassowary</useMeatFrom> -->
+	<Emu_Corpse.label>туша эму</Emu_Corpse.label>
+	<!-- <Emu_Corpse.description>Мёртвый страус эму.</Emu_Corpse.description> -->
 
 	<Ostrich.label>страус</Ostrich.label>
-	<Ostrich.description>Самые крупные немодифицированные птицы. Известны своим быстрым бегом и мощным ударом ноги. Страусиные яйца — самые крупные из птичьих.</Ostrich.description>
-	<Ostrich_Leather.label>кожа страуса</Ostrich_Leather.label>
+	<Ostrich.description>Страусы, крупнейшие немодифицированные птицы известны быстрым бегом, огромными яйцами и могучими пинками.</Ostrich.description>
+	<Ostrich.tools.0.label>лапы</Ostrich.tools.0.label>
+	<Ostrich.tools.2.label>колова</Ostrich.tools.2.label>
+	<!-- <Ostrich_Leather.label>кожа страуса</Ostrich_Leather.label> -->
 	<Ostrich_Leather.stuffProps.stuffAdjective>кожи страуса</Ostrich_Leather.stuffProps.stuffAdjective>
-	<Ostrich_Leather.description>Кожа, снятая со страуса.</Ostrich_Leather.description>
-	<Ostrich_Corpse.label>туша страуса</Ostrich_Corpse.label>
-	<Ostrich_Corpse.description>Мёртвый страус.</Ostrich_Corpse.description>
+	<!-- <Ostrich_Leather.description>Кожа, снятая со страуса.</Ostrich_Leather.description> -->
+	<!-- <useMeatFrom>Cassowary</useMeatFrom> -->
+	<!-- <Ostrich_Corpse.label>туша страуса</Ostrich_Corpse.label> -->
+	<!-- <Ostrich_Corpse.description>Мёртвый страус.</Ostrich_Corpse.description> -->
 
 	<Turkey.label>индейка</Turkey.label>
-	<Turkey.description>Невысокая толстая нелетающая птица, известная своим уморительным кулдыканьем. Давно одомашнена, но обитает и в дикой природе.</Turkey.description>
+	<Turkey.description>Известная своим уморительным кулдыканьем низенькая толстая нелепающая птица. Давно одомашнена, но обитает и в дикой природе.</Turkey.description>
+	<Turkey.tools.0.label>лапы</Turkey.tools.0.label>
+	<Turkey.tools.2.label>голова</Turkey.tools.2.label>
 	<Turkey_Leather.label>кожа индейки</Turkey_Leather.label>
 	<Turkey_Leather.stuffProps.stuffAdjective>кожи индейки</Turkey_Leather.stuffProps.stuffAdjective>
-	<Turkey_Leather.description>Кожа, снятая с индейки.</Turkey_Leather.description>
-	<Turkey_Meat.label>мясо индейки</Turkey_Meat.label>
-	<Turkey_Meat.description>Сырое мясо индейки.</Turkey_Meat.description>
+	<!-- <Turkey_Leather.description>Кожа, снятая с индейки.</Turkey_Leather.description> -->
+	<Turkey_Meat.label>индюшатина</Turkey_Meat.label>
+	<!-- <Turkey_Meat.description>Сырое мясо индейки.</Turkey_Meat.description> -->
 	<Turkey_Corpse.label>туша индейки</Turkey_Corpse.label>
 	<Turkey_Corpse.description>Мёртвая индейка.</Turkey_Corpse.description>
 
