@@ -43,39 +43,18 @@
 
 	<!-- GENERATED -->
 
-	<Sandstone_Rough.label>грубый песчаник</Sandstone_Rough.label>
-	<Sandstone_Rough.description>грубая природная основа из песчаника</Sandstone_Rough.description>
-	<Sandstone_RoughHewn.label>обтёсанный песчаник</Sandstone_RoughHewn.label>
-	<Sandstone_RoughHewn.description>природный пол из грубо обтёсанного песчаника</Sandstone_RoughHewn.description>
-	<Sandstone_Smooth.label>гладкий песчаник</Sandstone_Smooth.label>
-	<Sandstone_Smooth.description>гладкий природный пол из песчаника</Sandstone_Smooth.description>
+	<!-- Используем лекала из Keyed/Misc.xml -->
 
-	<Granite_Rough.label>грубый гранит</Granite_Rough.label>
-	<Granite_Rough.description>грубая природная гранитная основа</Granite_Rough.description>
-	<Granite_RoughHewn.label>обтёсанный гранит</Granite_RoughHewn.label>
-	<Granite_RoughHewn.description>природный пол из грубо обтёсанного гранита</Granite_RoughHewn.description>
-	<Granite_Smooth.label>гладкий гранит</Granite_Smooth.label>
-	<Granite_Smooth.description>гладкий природный гранитный пол</Granite_Smooth.description>
+	<Granite_Smooth.description>Гладкий природный гранитный пол.</Granite_Smooth.description>
 
-	<Limestone_Rough.label>грубый сланец</Limestone_Rough.label>
-	<Limestone_Rough.description>грубая природная основа из сланца</Limestone_Rough.description>
-	<Limestone_RoughHewn.label>обтёсанный сланец</Limestone_RoughHewn.label>
-	<Limestone_RoughHewn.description>природный пол из грубо обтёсанного сланца</Limestone_RoughHewn.description>
-	<Limestone_Smooth.label>гладкий сланец</Limestone_Smooth.label>
-	<Limestone_Smooth.description>гладкий природный пол из сланца</Limestone_Smooth.description>
+	<Limestone_Rough.description>Грубая природная известняковая основа.</Limestone_Rough.description>
+	<Limestone_Smooth.description>Гладкий природный известняковый пол.</Limestone_Smooth.description>
 
-	<Slate_Rough.label>грубый известняк</Slate_Rough.label>
-	<Slate_Rough.description>грубая природная известняковая основа</Slate_Rough.description>
-	<Slate_RoughHewn.label>обтёсанный известняк</Slate_RoughHewn.label>
-	<Slate_RoughHewn.description>природный пол из грубо обтёсанного известняка</Slate_RoughHewn.description>.
-	<Slate_Smooth.label>гладкий известняк</Slate_Smooth.label>
-	<Slate_Smooth.description>гладкий природный известняковый пол</Slate_Smooth.description>
+	<Slate_Rough.description>Грубая природная основа из сланца.</Slate_Rough.description>
+	<Slate_RoughHewn.description>Естественный пол из грубо обтёсанного сланца</Slate_RoughHewn.description>.
+	<Slate_Smooth.description>Гладкий природный пол из сланца.</Slate_Smooth.description>
 
-	<Marble_Rough.label>грубый мрамор</Marble_Rough.label>
-	<Marble_Rough.description>грубая природная мраморная основа</Marble_Rough.description>
-	<Marble_RoughHewn.label>обтёсанный мрамор</Marble_RoughHewn.label>
-	<Marble_RoughHewn.description>природный пол из грубо обтёсанного мрамора</Marble_RoughHewn.description>
-	<Marble_Smooth.label>гладкий мрамор</Marble_Smooth.label>
-	<Marble_Smooth.description>гладкий природный мраморный пол</Marble_Smooth.description>
+	<Marble_Rough.description>Грубая природная мраморная основа.</Marble_Rough.description>
+	<Marble_Smooth.description>Гладкий природный мраморный пол.</Marble_Smooth.description>
 
 </LanguageData>
