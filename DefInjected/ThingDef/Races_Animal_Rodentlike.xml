@@ -1,76 +1,100 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<!-- Cold weather animals -->
+	<!-- Animal_Leather, Animal_Meat и Animal_Corpse могут собираться по лекалам из Keyed/Misc.xml -->
+	<!-- LeatherLabel, LeatherDesc = кожа {0}а (в соответствии с точным переводом) -->
+	<!-- MeatLabel, MeatDesc = мясо {0}а -->
+	<!-- CorpseLabel, CorpseDesc = туша {0}а (в игре corpse универсальный термин для любого животного -->
 
 	<Squirrel.label>белка</Squirrel.label>
-	<Squirrel.description>Один из многих выносливых и универсальных видов грызунов, который следует за человечеством куда бы оно ни распространялось.</Squirrel.description>
+	<Squirrel.description>Один из многих выносливых, способных жить в любых условия видов грызунов, повсюду следующий за человеком.</Squirrel.description>
+	<Squirrel.tools.0.label>левая лапа</Squirrel.tools.0.label>
+	<Squirrel.tools.1.label>правая лапа</Squirrel.tools.1.label>
+	<Squirrel.tools.3.label>голова</Squirrel.tools.3.label>
 	<Squirrel_Leather.label>беличья шкурка</Squirrel_Leather.label>
-	<Squirrel_Leather.stuffProps.stuffAdjective>шкуры белки</Squirrel_Leather.stuffProps.stuffAdjective>
-	<Squirrel_Leather.description>Шкурка, снятая с белки.</Squirrel_Leather.description>
+	<Squirrel_Leather.stuffProps.stuffAdjective>шкурки белки</Squirrel_Leather.stuffProps.stuffAdjective>
+	<!-- <Squirrel_Leather.description>Шкурка, снятая с белки.</Squirrel_Leather.description> -->
 	<Squirrel_Meat.label>бельчатина</Squirrel_Meat.label>
-	<Squirrel_Meat.description>Сырое мясо белки.</Squirrel_Meat.description>
+	<!-- <Squirrel_Meat.description>Сырое мясо белки.</Squirrel_Meat.description> -->
 	<Squirrel_Corpse.label>тушка белки</Squirrel_Corpse.label>
 	<Squirrel_Corpse.description>Мёртвая белка.</Squirrel_Corpse.description>
 
 	<Alphabeaver.label>альфабобёр</Alphabeaver.label>
-	<Alphabeaver.description>Крупный потомок бобра, генетически модифицированный для добычи древесины с эффективностью машины. В отсутствие специального корма эти животные впадают в маниакальное состояние, съедая деревья целиком.</Alphabeaver.description>
-	<Alphabeaver_Leather.label>шкура альфабобра</Alphabeaver_Leather.label>
-	<Alphabeaver_Leather.stuffProps.stuffAdjective>кожи альфабобра</Alphabeaver_Leather.stuffProps.stuffAdjective>
-	<Alphabeaver_Leather.description>Шкура, снятая с альфабобра.</Alphabeaver_Leather.description>
+	<Alphabeaver.description>Крупный бобр, продукт генной инженерии для добычи древесины с неуступающей машинам производительностью. Без специализированного питания эти животные впадают в неконтролируемое состояние, толкающее их съедать деревья целиком.</Alphabeaver.description>
+	<Alphabeaver.tools.0.label>левая лапа</Alphabeaver.tools.0.label>
+	<Alphabeaver.tools.1.label>правая лапа</Alphabeaver.tools.1.label>
+	<Alphabeaver.tools.3.label>голова</Alphabeaver.tools.3.label>
+	<Alphabeaver_Leather.label>шкурка альфабобра</Alphabeaver_Leather.label>
+	<Alphabeaver_Leather.stuffProps.stuffAdjective>шкуры альфабобра</Alphabeaver_Leather.stuffProps.stuffAdjective>
+	<!-- <Alphabeaver_Leather.description>Шкура, снятая с альфабобра.</Alphabeaver_Leather.description> -->
 	<Alphabeaver_Meat.label>мясо альфабобра</Alphabeaver_Meat.label>
-	<Alphabeaver_Meat.description>Сырое мясо альфабобра.</Alphabeaver_Meat.description>
+	<!-- <Alphabeaver_Meat.description>Сырое мясо альфабобра.</Alphabeaver_Meat.description> -->
 	<Alphabeaver_Corpse.label>тушка альфабобра</Alphabeaver_Corpse.label>
-	<Alphabeaver_Corpse.description>Мёртвый альфабобёр.</Alphabeaver_Corpse.description>
+	<!-- <Alphabeaver_Corpse.description>Мёртвый альфабобёр.</Alphabeaver_Corpse.description> -->
 
 	<Capybara.label>капибара</Capybara.label>
-	<Capybara.description>Крупнейший из грызунов, хорошо приспособлен для жизни в джунглях.</Capybara.description>
-	<Capybara_Leather.label>шкура капибары</Capybara_Leather.label>
-	<Capybara_Leather.stuffProps.stuffAdjective>шкуры капибары</Capybara_Leather.stuffProps.stuffAdjective>
-	<Capybara_Leather.description>Шкура, снятая с капибары.</Capybara_Leather.description>
+	<Capybara.description>Крупнейший грызун в природе, капибара хорошо приспособлена к знойным джунглям.</Capybara.description>
+	<Capybara.tools.0.label>левая лапа</Capybara.tools.0.label>
+	<Capybara.tools.1.label>правая лапа</Capybara.tools.1.label>
+	<Capybara.tools.3.label>голова</Capybara.tools.3.label>
+	<Capybara_Leather.label>кожа капибары</Capybara_Leather.label>
+	<Capybara_Leather.stuffProps.stuffAdjective>кожи капибары</Capybara_Leather.stuffProps.stuffAdjective>
+	<!-- <Capybara_Leather.description>Шкура, снятая с капибары.</Capybara_Leather.description> -->
 	<Capybara_Meat.label>мясо капибары</Capybara_Meat.label>
-	<Capybara_Meat.description>Сырое мясо капибары.</Capybara_Meat.description>
+	<!-- <Capybara_Meat.description>Сырое мясо капибары.</Capybara_Meat.description> -->
 	<Capybara_Corpse.label>туша капибары</Capybara_Corpse.label>
-	<Capybara_Corpse.description>Мёртвая капибара.</Capybara_Corpse.description>
+	<Capybara_Corpse.description>Мёртвая капибара</Capybara_Corpse.description>
 
 	<Chinchilla.label>шиншилла</Chinchilla.label>
-	<Chinchilla.description>Небольшой и очень быстрый грызун, славится своей мягкой шерстью.</Chinchilla.description>
-	<Chinchilla_Leather.label>шкурка шиншиллы</Chinchilla_Leather.label>
+	<Chinchilla.description>Небольшой и прыткий грызун, славящийся исключительно мягким мехом.</Chinchilla.description>
+	<Chinchilla.tools.0.label>левая лапа</Chinchilla.tools.0.label>
+	<Chinchilla.tools.1.label>правая лапа</Chinchilla.tools.1.label>
+	<Chinchilla.tools.3.label>голова</Chinchilla.tools.3.label>
+	<Chinchilla_Leather.label>мех шиншиллы</Chinchilla_Leather.label>
 	<Chinchilla_Leather.stuffProps.stuffAdjective>меха шиншиллы</Chinchilla_Leather.stuffProps.stuffAdjective>
-	<Chinchilla_Leather.description>Мех шиншиллы.</Chinchilla_Leather.description>
+	<!-- <Chinchilla_Leather.description>Мех шиншиллы.</Chinchilla_Leather.description> -->
 	<Chinchilla_Meat.label>мясо шиншиллы</Chinchilla_Meat.label>
-	<Chinchilla_Meat.description>Сырое мясо шиншиллы.</Chinchilla_Meat.description>
+	<!-- <Chinchilla_Meat.description>Сырое мясо шиншиллы.</Chinchilla_Meat.description> -->
 	<Chinchilla_Corpse.label>тушка шиншиллы</Chinchilla_Corpse.label>
-	<Chinchilla_Corpse.description>Мёртвая шиншилла.</Chinchilla_Corpse.description>
+	<Chinchilla_Corpse.description>Мёртвая шиншилла</Chinchilla_Corpse.description>
 
 	<Boomrat.label>бумкрыса</Boomrat.label>
-	<Boomrat.description>То ли эти животные были умышленно генномодифицированы как оружие, то ли они выработали такой необычный защитный механизм, но эти грызуноподобные создания при смерти взрываются, вызывая пожар.</Boomrat.description>
+	<Boomrat.description>То ли это необычный защитный механизм, а может и намеренное генетическое видоизменение в оружие, но эти похожие на грызунов создания умирая порождают огромной силы взрыв, вызывающий пожары.</Boomrat.description>
+	<Boomrat.tools.0.label>левая лапа</Boomrat.tools.0.label>
+	<Boomrat.tools.1.label>правая лапа</Boomrat.tools.1.label>
+	<Boomrat.tools.3.label>голова</Boomrat.tools.3.label>
 	<Boomrat_Leather.label>шкурка бумкрысы</Boomrat_Leather.label>
-	<Boomrat_Leather.stuffProps.stuffAdjective>кожи бумкрысы</Boomrat_Leather.stuffProps.stuffAdjective>
-	<Boomrat_Leather.description>Шкурка, оставшаяся после взрыва бумкрысы.</Boomrat_Leather.description>
-	<Boomrat_Meat.label>бумкрысятина</Boomrat_Meat.label>
-	<Boomrat_Meat.description>Сырое мясо бумкрысы.</Boomrat_Meat.description>
+	<Boomrat_Leather.stuffProps.stuffAdjective>шкурки бумкрысы</Boomrat_Leather.stuffProps.stuffAdjective>
+	<!-- <Boomrat_Leather.description>Шкурка, оставшаяся после взрыва бумкрысы.</Boomrat_Leather.description> -->
+	<Boomrat_Meat.label>мясо бумкрысы</Boomrat_Meat.label>
+	<!-- <Boomrat_Meat.description>Сырое мясо бумкрысы.</Boomrat_Meat.description> -->
 	<Boomrat_Corpse.label>тушка бумкрысы</Boomrat_Corpse.label>
-	<Boomrat_Corpse.description>Мёртвая бумкрыса.</Boomrat_Corpse.description>
+	<Boomrat_Corpse.description>Мёртвая бумкрыса</Boomrat_Corpse.description>
 
 	<Raccoon.label>енот</Raccoon.label>
-	<Raccoon.description>Небольшое выносливое животное, обитающее в лесах и кустарниках. Всеядно.</Raccoon.description>
+	<Raccoon.description>Небольшой выносливый зверёк, широко разбрёдшийся по лесах и кустарниках. Ест почти всё.</Raccoon.description>
+	<Raccoon.tools.0.label>левая лапа</Raccoon.tools.0.label>
+	<Raccoon.tools.1.label>правая лапа</Raccoon.tools.1.label>
+	<Raccoon.tools.3.label>голова</Raccoon.tools.3.label>
 	<Raccoon_Leather.label>шкурка енота</Raccoon_Leather.label>
-	<Raccoon_Leather.description>Шкурка, снятая с енота.</Raccoon_Leather.description>
-	<Raccoon_Leather.stuffProps.stuffAdjective>меха енота</Raccoon_Leather.stuffProps.stuffAdjective>
-	<Raccoon_Meat.label>мясо енота</Raccoon_Meat.label>
-	<Raccoon_Meat.description>Сырое мясо енота.</Raccoon_Meat.description>
+	<!-- <Raccoon_Leather.description>Шкурка, снятая с енота.</Raccoon_Leather.description> -->
+	<Raccoon_Leather.stuffProps.stuffAdjective>шкурки енота</Raccoon_Leather.stuffProps.stuffAdjective>
+	<!-- <Raccoon_Meat.label>мясо енота</Raccoon_Meat.label>
+	<Raccoon_Meat.description>Сырое мясо енота.</Raccoon_Meat.description> -->
 	<Raccoon_Corpse.label>тушка енота</Raccoon_Corpse.label>
-	<Raccoon_Corpse.description>Мёртвый енот.</Raccoon_Corpse.description>
+	<!-- <Raccoon_Corpse.description>Мёртвый енот.</Raccoon_Corpse.description> -->
 
 	<Rat.label>крыса</Rat.label>
-	<Rat.description>Грызун, известный как переносчик множества заболеваний. Питается чем угодно, живет практически везде.</Rat.description>
+	<Rat.description>Известный многим по загаженым кухням и распространяющейся хвори грызун. Ести практически всё, живет практически везде.</Rat.description>
+	<Rat.tools.0.label>левая лапа</Rat.tools.0.label>
+	<Rat.tools.1.label>правая лапа</Rat.tools.1.label>
+	<Rat.tools.3.label>голова</Rat.tools.3.label>
 	<Rat_Leather.label>шкурка крысы</Rat_Leather.label>
-	<Rat_Leather.description>Шкурка, снятая с крысы.</Rat_Leather.description>
-	<Rat_Leather.stuffProps.stuffAdjective>шкурки крысы</Rat_Leather.stuffProps.stuffAdjective>
+	<!-- <Rat_Leather.description>Шкурка, снятая с крысы.</Rat_Leather.description> -->
+	<Rat_Leather.stuffProps.stuffAdjective>крысиной шкурки</Rat_Leather.stuffProps.stuffAdjective>
 	<Rat_Meat.label>крысятина</Rat_Meat.label>
-	<Rat_Meat.description>Сырое мясо крысы.</Rat_Meat.description>
+	<!-- <Rat_Meat.description>Сырое мясо крысы.</Rat_Meat.description> -->
 	<Rat_Corpse.label>тушка крысы</Rat_Corpse.label>
-	<Rat_Corpse.description>Мёртвая крыса.</Rat_Corpse.description>
+	<Rat_Corpse.description>Мёртвая крыса</Rat_Corpse.description>
 
 </LanguageData>

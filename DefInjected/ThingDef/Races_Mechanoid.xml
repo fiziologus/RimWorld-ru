@@ -1,18 +1,27 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+
+	<!-- Animal_Leather, Animal_Meat и Animal_Corpse могут собираться по лекалам из Keyed/Misc.xml -->
+	<!-- LeatherLabel, LeatherDesc = кожа {0}а (в соответствии с точным переводом) -->
+	<!-- MeatLabel, MeatDesc = мясо {0}а -->
+	<!-- CorpseLabel, CorpseDesc = туша {0}а (в игре corpse универсальный термин для любого животного -->
 
 	<!-- ============================ Mechanoids ========================== -->
 
 	<!-- Centipede -->
-	<Mechanoid_Centipede.label>гусеница</Mechanoid_Centipede.label>
-	<Mechanoid_Centipede.description>Тяжёлые боевые механоиды, передвигающиеся на множестве крошечных ног. Тяжёлая броня и огневая мощь делают их очень эффективными против групп неподвижных защитников. Однако они уязвимы для мобильных отрядов с тактикой «ударил-убежал».</Mechanoid_Centipede.description>
-	<Mechanoid_Centipede_Corpse.label>труп гусеницы</Mechanoid_Centipede_Corpse.label>
-	<Mechanoid_Centipede_Corpse.description>Труп гусеницы.</Mechanoid_Centipede_Corpse.description>
+	<Mechanoid_Centipede.label>септипеда</Mechanoid_Centipede.label>
+	<Mechanoid_Centipede.description>Тяжёлые боевые механоиды плавно перемещающиеся на десятках крошечных ножек. Мощная броня и вооружение делают их крайне эффективными против сбившихся в кучу неподвижных защищающихся. Отчасти уязвимы для мобильной тактики наскока с отходом.</Mechanoid_Centipede.description>
+	<Mechanoid_Centipede.tools.0.label>голова</Mechanoid_Centipede.tools.0.label>
+	<Mechanoid_Centipede_Corpse.label>тело септипеды</Mechanoid_Centipede_Corpse.label>
+	<Mechanoid_Centipede_Corpse.description>Нерабочая септипеда</Mechanoid_Centipede_Corpse.description>
 
 	<!-- Scyther -->
 	<Mechanoid_Scyther.label>жнец</Mechanoid_Scyther.label>
-	<Mechanoid_Scyther.description>Быстрые, веретенообразные боевые механоиды ростом с человека. Обычно жнецы вооружены одним видом оружия дальнего боя, а их тела украшены несколькими похожими на ножи выступами, которые делают их смертоносными в ближнем бою.\nНе пользуюся укрытиями. Лучше всего уничтожаются концентрированным подавляющим огнём.</Mechanoid_Scyther.description>
-	<Mechanoid_Scyther_Corpse.label>труп жнеца</Mechanoid_Scyther_Corpse.label>
-	<Mechanoid_Scyther_Corpse.description>Труп жнеца.</Mechanoid_Scyther_Corpse.description>
+	<Mechanoid_Scyther.description>Быстрые, похожие на веретено, боевые механоиды ростом с человека. Обычно несут одно основное стрелковое орудие, а тела украшают два состоящих из нескольких сочленённых частей лезвия, в рукопашной делающие жнецов настоящей погибелью. Они не используют укрытия. Лучше всего управлятся с ними сконцентрировав подавляющее количество сил.</Mechanoid_Scyther.description>
+	<Mechanoid_Scyther.tools.0.label>левый клинок</Mechanoid_Scyther.tools.0.label>
+	<Mechanoid_Scyther.tools.1.label>правый клинок</Mechanoid_Scyther.tools.1.label>
+	<Mechanoid_Scyther.tools.2.label>head</Mechanoid_Scyther.tools.2.label>
+	<Mechanoid_Scyther_Corpse.label>тело жнеца</Mechanoid_Scyther_Corpse.label>
+	<Mechanoid_Scyther_Corpse.description>Нерабочий жнец</Mechanoid_Scyther_Corpse.description>
 
 </LanguageData>
