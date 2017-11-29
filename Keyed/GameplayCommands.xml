@@ -82,6 +82,9 @@
 	<CommandStopForceAttack>Убрать цель</CommandStopForceAttack>
 	<CommandStopForceAttackDesc>Прекращает обстрел указанной цели и переводит турель в режим самонаведения.</CommandStopForceAttackDesc>
 	<CommandStopAttackFailNotForceAttacking>Сейчас невозможно остановить обстрел.</CommandStopAttackFailNotForceAttacking>
+	<CommandExtractShell>Извлечь снаряд</CommandExtractShell>
+	<CommandExtractShellDesc>Извлечь заряженный снаряд, чтобы иметь возможность использовать разные типы аммуниции.</CommandExtractShellDesc>
+	<CommandExtractShellFailNoShell>Не заряжено.</CommandExtractShellFailNoShell>
 	<MessageTargetBeyondMaximumRange>Слишком далеко.</MessageTargetBeyondMaximumRange>
 	<MessageTargetBelowMinimumRange>Слишком близко.</MessageTargetBelowMinimumRange>
 	<MessageTurretWontFireBecauseHoldFire>Внимание: Миномёт установлен в состояние «Прекратить огонь» и не будет стрелять.</MessageTurretWontFireBecauseHoldFire>
