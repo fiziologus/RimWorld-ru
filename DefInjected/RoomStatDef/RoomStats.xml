@@ -2,16 +2,16 @@
 <LanguageData>
 
 	<Impressiveness.label>выразительность</Impressiveness.label>
-	<Impressiveness.scoreStages.0.label>ужастно</Impressiveness.scoreStages.0.label>
+	<Impressiveness.scoreStages.0.label>отвратно</Impressiveness.scoreStages.0.label>
 	<Impressiveness.scoreStages.1.label>тускло</Impressiveness.scoreStages.1.label>
 	<Impressiveness.scoreStages.2.label>посредственно</Impressiveness.scoreStages.2.label>
 	<Impressiveness.scoreStages.3.label>пристойно</Impressiveness.scoreStages.3.label>
 	<Impressiveness.scoreStages.4.label>малость впечатляет</Impressiveness.scoreStages.4.label>
-	<Impressiveness.scoreStages.5.label>впечатляет</Impressiveness.scoreStages.5.label>
-	<Impressiveness.scoreStages.6.label>очень впечатляюще</Impressiveness.scoreStages.6.label>
-	<Impressiveness.scoreStages.7.label>крайне впечатляюще</Impressiveness.scoreStages.7.label>
-	<Impressiveness.scoreStages.8.label>невероятно впечатляет</Impressiveness.scoreStages.8.label>
-	<Impressiveness.scoreStages.9.label>чертовски впечатляет</Impressiveness.scoreStages.9.label>
+	<Impressiveness.scoreStages.5.label>изумительно</Impressiveness.scoreStages.5.label>
+	<Impressiveness.scoreStages.6.label>впечатляюще</Impressiveness.scoreStages.6.label>
+	<Impressiveness.scoreStages.7.label>поразительно</Impressiveness.scoreStages.7.label>
+	<Impressiveness.scoreStages.8.label>умопомрачительно</Impressiveness.scoreStages.8.label>
+	<Impressiveness.scoreStages.9.label>чудесно</Impressiveness.scoreStages.9.label>
 
 	<Wealth.label>богатство</Wealth.label>
 	<Wealth.scoreStages.0.label>убого</Wealth.scoreStages.0.label>
