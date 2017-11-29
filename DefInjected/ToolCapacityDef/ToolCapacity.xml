@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Stab.label>пронзание</Stab.label>
+	<Cut.label>рассекание</Cut.label>
+	<Blunt.label>сокрушение</Blunt.label>
+	<Scratch.label>раздирание</Scratch.label>
+	<Poke.label>вонзание</Poke.label>
+	<Bite.label>терзание</Bite.label>
+	<ToxicBite.label>ядовитое терзание</ToxicBite.label>
+
+</LanguageData>
