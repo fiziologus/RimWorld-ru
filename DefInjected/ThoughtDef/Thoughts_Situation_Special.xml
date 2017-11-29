@@ -1,28 +1,54 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+
+	<FeelingRandom.stages.0.label>отличное настроение</FeelingRandom.stages.0.label>
+	<FeelingRandom.stages.0.description>Отличное настроение без какого-либо повода.</FeelingRandom.stages.0.description>
+	<FeelingRandom.stages.1.label>хорошее настроение</FeelingRandom.stages.1.label>
+	<FeelingRandom.stages.1.description>Хорошее настроение без какого-либо повода.</FeelingRandom.stages.1.description>
+	<FeelingRandom.stages.2.label>плохое настроение</FeelingRandom.stages.2.label>
+	<FeelingRandom.stages.2.description>Плохое настроение без какого-либо повода.</FeelingRandom.stages.2.description>
+	<FeelingRandom.stages.3.label>ужасное настроение</FeelingRandom.stages.3.label>
+	<FeelingRandom.stages.3.description>Ужасное настроение без какого-либо повода.</FeelingRandom.stages.3.description>
 
 	<Imprisoned.stages.0.label>в плену</Imprisoned.stages.0.label>
 	<Imprisoned.stages.0.description>Ненавижу быть взаперти.</Imprisoned.stages.0.description>
-
-	<SharedBedroom.stages.0.label>общая спальня</SharedBedroom.stages.0.label>
-	<SharedBedroom.stages.0.description>Общая комната так раздражает! Мне нужно побыть в одиночестве.</SharedBedroom.stages.0.description>
 
 	<SharedBed.stages.0.label>общая кровать</SharedBed.stages.0.label>
 	<SharedBed.stages.0.description>Мне приходится делить кровать с кем-то, кто мне не слишком нравится.</SharedBed.stages.0.description>
 
 	<ColonistLeftUnburied.stages.0.label>поселенец не похоронен</ColonistLeftUnburied.stages.0.label>
-	<ColonistLeftUnburied.stages.0.description>Один из нас умер и мы бросили его под открытым небом. Так нельзя. Люди заслуживают достойных похорон.</ColonistLeftUnburied.stages.0.description>
+	<ColonistLeftUnburied.stages.0.description>Один из нас умер, а мы просто оставили тело под открытым небом. Так нельзя. Люди заслуживают достойных похорон.</ColonistLeftUnburied.stages.0.description>
 
 	<Naked.stages.0.label>без одежды</Naked.stages.0.label>
-	<Naked.stages.0.description>На мне совсем нет одежды. Как унизительно!</Naked.stages.0.description>
+	<Naked.stages.0.description>На мне совсем нет одежды. Это унизительно.</Naked.stages.0.description>
 
 	<Pain.stages.0.label>лёгкая боль</Pain.stages.0.label>
-	<Pain.stages.0.description>Ай... Это больно.</Pain.stages.0.description>
-	<Pain.stages.1.label>средняя боль</Pain.stages.1.label>
-	<Pain.stages.1.description>У-у-ух... Эти боли... Когда же это всё кончится?</Pain.stages.1.description>
-	<Pain.stages.2.label>сильная боль</Pain.stages.2.label>
-	<Pain.stages.2.description>У собачки заболи... У кошечки заболи... А-ай-ай-ай, пройди же у меня скорее!</Pain.stages.2.description>	<!-- Кто это переводил? xD -->
-	<Pain.stages.3.label>адская боль</Pain.stages.3.label>
-	<Pain.stages.3.description>АААААРРРР! Пустите мне пулю в лоб, чтобы закончился этот ад!</Pain.stages.3.description>
+	<Pain.stages.0.description>Ай... Побаливает.</Pain.stages.0.description>
+	<Pain.stages.1.label>несильная боль</Pain.stages.1.label>
+	<Pain.stages.1.description>У-у-ух... Когда оно пройдёт?</Pain.stages.1.description>
+	<Pain.stages.2.label>острая боль</Pain.stages.2.label>
+	<Pain.stages.2.description>Хватит... хватит... хватит... хватит...</Pain.stages.2.description>
+	<Pain.stages.3.label>шок от дикой боли</Pain.stages.3.label>
+	<Pain.stages.3.description>АААААРРРР! Прикончите меня!</Pain.stages.3.description>
+
+	<PsychicEmanatorSoothe.stages.0.label>Психоэманатор</PsychicEmanatorSoothe.stages.0.label>
+	<PsychicEmanatorSoothe.stages.0.description>От психоэманатора чувствуешь себя странно, но в тоже время расслабленно.</PsychicEmanatorSoothe.stages.0.description>
+
+	<PsychicDrone.stages.0.label>умиротворённость (средняя)</PsychicDrone.stages.0.label>
+	<PsychicDrone.stages.0.description>Будто спокойный голос в глубине разума, умиротворяющий, успокаивающий нервы.</PsychicDrone.stages.0.description>
+	<PsychicDrone.stages.1.label>гул (тихий)</PsychicDrone.stages.1.label>
+	<PsychicDrone.stages.1.description>Будто что-то скребётся в глубинах разума. Голос, шепчущий. Можно разобрать лишь пару слов, но от них не по душе.</PsychicDrone.stages.1.description>
+	<PsychicDrone.stages.2.label>гул (средний)</PsychicDrone.stages.2.label>
+	<PsychicDrone.stages.2.description>Чувство, будто некто всегда за спиной, некто, говорящий со мной. Голос меняется, но слова всё теже. Я должен причинить людям боль. Заставьте это уйти!</PsychicDrone.stages.2.description>
+	<PsychicDrone.stages.3.label>гул (громкий)</PsychicDrone.stages.3.label>
+	<PsychicDrone.stages.3.description>Голос невыносимо громок. От этого трудно сосредоточиться. Временами я понимаю, что отвечаю ему, воплю на него. Но он всего-лишь продолжает громыхать!</PsychicDrone.stages.3.description>
+	<PsychicDrone.stages.4.label>гул (оглушительный)</PsychicDrone.stages.4.label>
+	<PsychicDrone.stages.4.description>Сердце колотиться, пот льёт градом. Все мысли лишь о боли и страданиях, а вокруг одни враги. Это мой страшный сон, мой кошмар, мой кошмарный сон...</PsychicDrone.stages.4.description>
+
+	<Joywire.stages.0.label>чип счастья</Joywire.stages.0.label>
+	<Joywire.stages.0.description>Потрясающе.</Joywire.stages.0.description>
+
+	<Aurora.stages.0.label>прекрасное сияние</Aurora.stages.0.label>
+	<Aurora.stages.0.description>Потрясающий вид.</Aurora.stages.0.description>
 
 </LanguageData>
