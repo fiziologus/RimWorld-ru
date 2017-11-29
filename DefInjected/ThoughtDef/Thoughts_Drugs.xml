@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Alcohol -->
+
+	<!-- заправка горючим -->
+	<Inebriated.stages.0.label>опьянение (подвыпимши)</Inebriated.stages.0.label>
+	<Inebriated.stages.0.description>Никто не должен заметить.</Inebriated.stages.0.description>
+	<Inebriated.stages.1.label>опьянение (согревающе)</Inebriated.stages.1.label>
+	<Inebriated.stages.1.description>Чуточку расслабиться со стаканчика. И это хорошо.</Inebriated.stages.1.description>
+	<Inebriated.stages.2.label>опьянение (навеселе)</Inebriated.stages.2.label>
+	<Inebriated.stages.2.description>Малец пошатывает! И это весьма приятно.</Inebriated.stages.2.description>
+	<Inebriated.stages.3.label>опьянение (во хмелю)</Inebriated.stages.3.label>
+	<Inebriated.stages.3.description>Долой скованность и страх! Великолепные времена!</Inebriated.stages.3.description>
+	<Inebriated.stages.4.label>опьянение (в дупель)</Inebriated.stages.4.label>
+	<Inebriated.stages.4.description>Оу! Что происходит?</Inebriated.stages.4.description>
+
+	<!-- Бодун Иваныч -->
+	<Hungover.stages.0.label>похмелье (лёгкое)</Hungover.stages.0.label>
+	<Hungover.stages.0.description>Голова почти прошла.</Hungover.stages.0.description>
+	<Hungover.stages.1.label>похмелье (сильное)</Hungover.stages.1.label>
+	<Hungover.stages.1.description>Голова раскалывается от выпитого.</Hungover.stages.1.description>
+	<Hungover.stages.2.label>похмелье (трясучка)</Hungover.stages.2.label>
+	<Hungover.stages.2.description>Чувство, будто по черепу долбит стая гусей.</Hungover.stages.2.description>
+	<Hungover.stages.3.label>похмелье (незаметное)</Hungover.stages.3.label>
+
+	<AlcoholWithdrawal.stages.1.label>абстиненция</AlcoholWithdrawal.stages.1.label>
+	<AlcoholWithdrawal.stages.1.description>Трясёт да шатает. Всё бесит. И думы только об выпивке.</AlcoholWithdrawal.stages.1.description>
+
+	<!-- Ambrosia -->
+
+	<AmbrosiaHigh.stages.0.label>теплота амброзии</AmbrosiaHigh.stages.0.label>
+	<AmbrosiaHigh.stages.0.description>С амброзией я заряжаюсь энергией и становлюсь чуточку расслабленей.</AmbrosiaHigh.stages.0.description>
+
+	<AmbrosiaWithdrawal.stages.1.label>амброзийная ломка</AmbrosiaWithdrawal.stages.1.label>
+	<AmbrosiaWithdrawal.stages.1.description>Только тяжесть и холод. И не подумаешь, что так сильно захочется кусочка фрукта.</AmbrosiaWithdrawal.stages.1.description>
+
+	<!-- GoJuice -->
+
+	<GoJuiceHigh.stages.0.label>под горючкой</GoJuiceHigh.stages.0.label>
+	<GoJuiceHigh.stages.0.description>Будто крылья за спиной, однако никаких эмоций. Я — готовая пробить вас насквозь пуля снайпера в полёте.</GoJuiceHigh.stages.0.description>
+
+	<GoJuiceWithdrawal.stages.1.label>ломка от горючки</GoJuiceWithdrawal.stages.1.label>
+	<GoJuiceWithdrawal.stages.1.description>Всё в тумане и мысли путаются. Ноги с руками свинцовые, сил нет, есть хочу, всё ломит. И с чего взгляд скачет туда-сюда?</GoJuiceWithdrawal.stages.1.description>
+
+	<!-- Psychine Flake -->
+
+	<FlakeHigh.stages.0.label>кайф с «чешуек»</FlakeHigh.stages.0.label>
+	<FlakeHigh.stages.0.description>Так хорошо, что хорошо.</FlakeHigh.stages.0.description>
+
+	<!-- Psychite Pekoe -->
+
+	<PekoeHigh.stages.0.label>дурман от настоя психолиста</PekoeHigh.stages.0.label>
+	<PekoeHigh.stages.0.description>Только сейчас жизнь хороша.</PekoeHigh.stages.0.description>
+
+	<!-- Psychine Yayo -->
+
+	<YayoHigh.stages.0.label>кайф с йаё</YayoHigh.stages.0.label>
+	<YayoHigh.stages.0.description>Я на коне! Погнали!</YayoHigh.stages.0.description>
+
+	<PsychiteWithdrawal.stages.1.label>психиновая ломка</PsychiteWithdrawal.stages.1.label>
+	<PsychiteWithdrawal.stages.1.description>Боже шь какая усталось. И ничто больше не радует.</PsychiteWithdrawal.stages.1.description>
+
+	<!-- Smokeleaf -->
+
+	<SmokeleafHigh.stages.0.label>дурман от дымолиста</SmokeleafHigh.stages.0.label>
+	<SmokeleafHigh.stages.0.description>Я кажись под кайфом, чувак.</SmokeleafHigh.stages.0.description>
+
+	<SmokeleafWithdrawal.stages.1.label>ломка от дымолиста</SmokeleafWithdrawal.stages.1.label>
+	<SmokeleafWithdrawal.stages.1.description>Курнуть бы щас.</SmokeleafWithdrawal.stages.1.description>
+
+	<!-- WakeUp -->
+
+	<WakeUpWithdrawal.stages.1.label>бодриновая ломка</WakeUpWithdrawal.stages.1.label>
+	<WakeUpWithdrawal.stages.1.description>Всё в тумане, сосредоточиться не могу.</WakeUpWithdrawal.stages.1.description>
+
+</LanguageData>

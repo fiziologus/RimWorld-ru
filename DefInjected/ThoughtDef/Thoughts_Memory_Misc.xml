@@ -1,52 +1,52 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
 	<AteWithoutTable.stages.0.label>еда на земле</AteWithoutTable.stages.0.label>
-	<AteWithoutTable.stages.0.description>Мне пришлось есть прямо на земле. Не могли бы мы сделать стол?</AteWithoutTable.stages.0.description>
+	<AteWithoutTable.stages.0.description>Пришлось есть прямо на земле. Может поставить где-нибудь стол?</AteWithoutTable.stages.0.description>
 
 	<SleepDisturbed.stages.0.label>беспокойный сон</SleepDisturbed.stages.0.label>
-	<SleepDisturbed.stages.0.description>Во время сна меня беспокоили люди, которые ходили туда-сюда по моей комнате.</SleepDisturbed.stages.0.description>
+	<SleepDisturbed.stages.0.description>Меня постоянно будили ходившие туда-сюда люди. Отдельная спальня весьма помогла бы.</SleepDisturbed.stages.0.description>
 
 	<NewColonyOptimism.stages.0.label>оптимизм поселенца</NewColonyOptimism.stages.0.label>
-	<NewColonyOptimism.stages.0.description>Мы только что приземлились. Ситуация трудная, но основать своё поселение — это здорово!</NewColonyOptimism.stages.0.description>
+	<NewColonyOptimism.stages.0.description>Мы только что приземлились. Положение не из лёгких, но радует, что удалось заложить новое поселение.</NewColonyOptimism.stages.0.description>
 
 	<NewColonyHope.stages.0.label>новое поселение, новая надежда</NewColonyHope.stages.0.label>
 	<NewColonyHope.stages.0.description>Понемногу привыкаю к такому положению дел, но энтузиазм пока не пропал. Надеюсь, так будет и дальше...</NewColonyHope.stages.0.description>
 
 	<SleptOutside.stages.0.label>сон на улице</SleptOutside.stages.0.label>
-	<SleptOutside.stages.0.description>Мне пришлось спать на открытом воздухе, безо всякой защиты.</SleptOutside.stages.0.description>
+	<SleptOutside.stages.0.description>Пришлось спать прямо на улице, под дождём и ветром.</SleptOutside.stages.0.description>
 
 	<SleptOnGround.stages.0.label>сон на земле</SleptOnGround.stages.0.label>
-	<SleptOnGround.stages.0.description>Пришлось спать на земле, будто животному.</SleptOnGround.stages.0.description>
+	<SleptOnGround.stages.0.description>Пришлось спать на земле, как зверю.</SleptOnGround.stages.0.description>
 
 	<SleptInCold.stages.0.label>сон на холоде</SleptInCold.stages.0.label>
-	<SleptInCold.stages.0.description>Мне пришлось спать на холоде. Нам нужны обогреватели.</SleptInCold.stages.0.description>
+	<SleptInCold.stages.0.description>Пришлось спать на холоде. Нам нужны обогреватели.</SleptInCold.stages.0.description>
 
 	<SleptInHeat.stages.0.label>сон на жаре</SleptInHeat.stages.0.label>
-	<SleptInHeat.stages.0.description>Мне пришлось спать в непереносимую жару. Может, мы поставим кондиционер?</SleptInHeat.stages.0.description>
+	<SleptInHeat.stages.0.description>Пришлось спать в непереносимую жару. Может как-то остудить воздух?</SleptInHeat.stages.0.description>
 
-	<KnowPrisonerSold.stages.0.label>продан заключённый</KnowPrisonerSold.stages.0.label>
-	<KnowPrisonerSold.stages.0.description>Поселение продаёт заключённых в рабство. Это тревожный сигнал.</KnowPrisonerSold.stages.0.description>
+	<KnowPrisonerSold.stages.0.label>продажа узника</KnowPrisonerSold.stages.0.label>
+	<KnowPrisonerSold.stages.0.description>Поселение продаёт узников в рабство. Это тревожный сигнал.</KnowPrisonerSold.stages.0.description>
 
-	<KnowGuestOrganHarvested.stages.0.label>вырезан чей-то орган</KnowGuestOrganHarvested.stages.0.label>
-	<KnowGuestOrganHarvested.stages.0.description>У гостя или заключённого удалили орган. Это ужасно, разбирать людей на части, когда у них нет выбора.</KnowGuestOrganHarvested.stages.0.description>
+	<KnowGuestOrganHarvested.stages.0.label>у кого-то забрали орган</KnowGuestOrganHarvested.stages.0.label>
+	<KnowGuestOrganHarvested.stages.0.description>В поселении у узника, а может и гостя вырезали часть тела. Разбирать кого-то на части без права выбора просто ужасно.</KnowGuestOrganHarvested.stages.0.description>
 
 	<KnowColonistOrganHarvested.stages.0.label>поселенцу вырезали орган</KnowColonistOrganHarvested.stages.0.label>
-	<KnowColonistOrganHarvested.stages.0.description>Кто-то удалил у поселенца орган. Это ужасно, разбирать людей на части, когда у них нет выбора.</KnowColonistOrganHarvested.stages.0.description>
+	<KnowColonistOrganHarvested.stages.0.description>Кто-то забрал у поселенца орган. Разбирать кого-то на части без права выбора просто ужасно.</KnowColonistOrganHarvested.stages.0.description>
 
-	<MyOrganHarvested.stages.0.label>вырезан орган</MyOrganHarvested.stages.0.label>
-	<MyOrganHarvested.stages.0.description>У меня удалили орган! Меня разбирают словно старый двигатель!</MyOrganHarvested.stages.0.description>
+	<MyOrganHarvested.stages.0.label>отняли часть тела</MyOrganHarvested.stages.0.label>
+	<MyOrganHarvested.stages.0.description>От меня отрезали часть тела! Разбирают, как старый движок!</MyOrganHarvested.stages.0.description>
 
-	<WasImprisoned.stages.0.label>был(а) в тюрьме</WasImprisoned.stages.0.label>
-	<WasImprisoned.stages.0.description>Я был(а) в заключении, будто зверушка в клетке.</WasImprisoned.stages.0.description>
+	<WasImprisoned.stages.0.label>бывший узник</WasImprisoned.stages.0.label>
+	<WasImprisoned.stages.0.description>Продержали в кутузке, как зверька в клетке.</WasImprisoned.stages.0.description>
 
-	<GreenThumbHappy.stages.0.label>посадил(а) растение</GreenThumbHappy.stages.0.label>
-	<GreenThumbHappy.stages.0.description>Растения спасут мир!</GreenThumbHappy.stages.0.description>
+	<GreenThumbHappy.stages.0.label>посадка растений</GreenThumbHappy.stages.0.label>
+	<GreenThumbHappy.stages.0.description>Этому миру нужно больше растений!</GreenThumbHappy.stages.0.description>
 
-	<Catharsis.stages.0.label>раскаяние</Catharsis.stages.0.label>
-	<Catharsis.stages.0.description>Было приятно наконец выплеснуть свои чувства и забыть об этом.</Catharsis.stages.0.description>
+	<Catharsis.stages.0.label>катарсис</Catharsis.stages.0.label>
+	<Catharsis.stages.0.description>Было приятно всёж-таки излить чувства.</Catharsis.stages.0.description>
 
-	<Nuzzled.stages.0.label>обласкан(а)</Nuzzled.stages.0.label>
+	<Nuzzled.stages.0.label>ласки</Nuzzled.stages.0.label>
 	<Nuzzled.stages.0.description>Ко мне ласкалось милое существо.</Nuzzled.stages.0.description>
 
 	<KnowBuriedInSarcophagus.stages.0.label>захоронение в саркофаге</KnowBuriedInSarcophagus.stages.0.label>
@@ -54,53 +54,61 @@
 
 	<!-- Human corpse butchering -->
 
-	<ButcheredHumanlikeCorpse.stages.0.label>разделал(а) человека</ButcheredHumanlikeCorpse.stages.0.label>
-	<ButcheredHumanlikeCorpse.stages.0.description>Я только что разделал(а) человека будто животное.</ButcheredHumanlikeCorpse.stages.0.description>
+	<ButcheredHumanlikeCorpse.stages.0.label>свежевание человека</ButcheredHumanlikeCorpse.stages.0.label>
+	<ButcheredHumanlikeCorpse.stages.0.description>Разделать собственными руками человека на куски, как животное.</ButcheredHumanlikeCorpse.stages.0.description>
 
 	<KnowButcheredHumanlikeCorpse.stages.0.label>разделали человека</KnowButcheredHumanlikeCorpse.stages.0.label>
-	<KnowButcheredHumanlikeCorpse.stages.0.description>Мы только что разделали человека, словно животное.</KnowButcheredHumanlikeCorpse.stages.0.description>
+	<KnowButcheredHumanlikeCorpse.stages.0.description>У нас разделали кого-то на куски, как скот.</KnowButcheredHumanlikeCorpse.stages.0.description>
 
 	<!-- Combat -->
 
-	<ObservedLayingCorpse.stages.0.label>видел(а) труп</ObservedLayingCorpse.stages.0.label>
-	<ObservedLayingCorpse.stages.0.description>Я видел(а) мёртвое тело, лежащее на земле.</ObservedLayingCorpse.stages.0.description>
+	<ObservedLayingCorpse.stages.0.label>мертвец</ObservedLayingCorpse.stages.0.label>
+	<ObservedLayingCorpse.stages.0.description>Вид лежащего на земле мёртвого тела. Это вызывает дрожь.</ObservedLayingCorpse.stages.0.description>
 
-	<ObservedLayingRottingCorpse.stages.0.label>видел(а) гниющий труп</ObservedLayingRottingCorpse.stages.0.label>
-	<ObservedLayingRottingCorpse.stages.0.description>Я видел(а) гниющий труп... Отвратительно.</ObservedLayingRottingCorpse.stages.0.description>
+	<ObservedLayingRottingCorpse.stages.0.label>гниющий труп</ObservedLayingRottingCorpse.stages.0.label>
+	<ObservedLayingRottingCorpse.stages.0.description>Вид лежащего на земле гниющего тела. Это вызывает дрожь.</ObservedLayingRottingCorpse.stages.0.description>
 
 	<WitnessedDeathAlly.stages.0.label>свидетель смерти союзника</WitnessedDeathAlly.stages.0.label>
-	<WitnessedDeathAlly.stages.0.description>Один из наших умер. Ещё мгновение назад он был жив, а сейчас уже мёртв.</WitnessedDeathAlly.stages.0.description>
+	<WitnessedDeathAlly.stages.0.description>Один из наших умер у меня на глазах. Ещё мгновение назад он был жив, а сейчас уже мёртв.</WitnessedDeathAlly.stages.0.description>
 
 	<WitnessedDeathNonAlly.stages.0.label>свидетель смерти незнакомца</WitnessedDeathNonAlly.stages.0.label>
-	<WitnessedDeathNonAlly.stages.0.description>Я видел(а) смерть человека. Только что он был жив, а через секунду уже мёртв.</WitnessedDeathNonAlly.stages.0.description>
+	<WitnessedDeathNonAlly.stages.0.description>На моих глазах кто-то умер. Только что жив, а через секунду уже мёртв.</WitnessedDeathNonAlly.stages.0.description>
 
-	<WitnessedDeathFamily.stages.0.label>свидетель смерти члена семьи</WitnessedDeathFamily.stages.0.label>
-	<WitnessedDeathFamily.stages.0.description>Я видел(а) смерть члена моей семьи. Моя кровь и плоть...</WitnessedDeathFamily.stages.0.description>
+	<WitnessedDeathFamily.stages.0.label>свидетель смерти родственника</WitnessedDeathFamily.stages.0.label>
+	<WitnessedDeathFamily.stages.0.description>Член моей семьи погиб у меня на глазах. Моя кровь и плоть...</WitnessedDeathFamily.stages.0.description>
 
-	<WitnessedDeathBloodlust.stages.0.label>свидетель кровавой смерти</WitnessedDeathBloodlust.stages.0.label>
-	<WitnessedDeathBloodlust.stages.0.description>Я видел(а), как кто-то умер! Вот это было зрелище!</WitnessedDeathBloodlust.stages.0.description>
+	<WitnessedDeathBloodlust.stages.0.label>смерть и кровожадность</WitnessedDeathBloodlust.stages.0.label>
+	<WitnessedDeathBloodlust.stages.0.description>Кто-то сдох у меня на глазах! Вот это было зрелище!</WitnessedDeathBloodlust.stages.0.description>
 
-	<KilledHumanlikeBloodlust.stages.0.label>убил(а) человека</KilledHumanlikeBloodlust.stages.0.label>
-	<KilledHumanlikeBloodlust.stages.0.description>Я убил(а) человека! Вот это раж!</KilledHumanlikeBloodlust.stages.0.description>
+	<KilledHumanlikeBloodlust.stages.0.label>чьё-то убийство</KilledHumanlikeBloodlust.stages.0.label>
+	<KilledHumanlikeBloodlust.stages.0.description>Своими руками кого-то прикончить! Аж в жар бросило!</KilledHumanlikeBloodlust.stages.0.description>
 
-	<DefeatedHostileFactionLeader.stages.0.label>убил(а) лидера вражеской фракции</DefeatedHostileFactionLeader.stages.0.label>
-	<DefeatedHostileFactionLeader.stages.0.description>Они пытались уничтожить нас, но я показал(а) им, кто тут крутой!</DefeatedHostileFactionLeader.stages.0.description>
+	<DefeatedHostileFactionLeader.stages.0.label>победа над вражеским лидером</DefeatedHostileFactionLeader.stages.0.label>
+	<DefeatedHostileFactionLeader.stages.0.description>Лидер всеми силами пытавшийся уничтожить нас повергнут моей рукой!</DefeatedHostileFactionLeader.stages.0.description>
 
-	<DefeatedMajorEnemy.stages.0.label>убил(а) врага</DefeatedMajorEnemy.stages.0.label>
-	<DefeatedMajorEnemy.stages.0.description>Я устранил(а) угрозу. Я герой!</DefeatedMajorEnemy.stages.0.description>
+	<DefeatedMajorEnemy.stages.0.label>убийство {0}</DefeatedMajorEnemy.stages.0.label>
+	<DefeatedMajorEnemy.stages.0.description>Повергнуть на земь великую угрозу! Я герой!</DefeatedMajorEnemy.stages.0.description>
 
-	<!-- Abandoning pawns -->
+	<!-- Banishing pawns -->
 
-	<ColonistAbandoned.stages.0.label>поселенец брошен</ColonistAbandoned.stages.0.label>
-	<ColonistAbandoned.stages.0.description>Мы оставили кого-то из наших позади. Надеюсь, у них получится наладить жизнь, но всё же я беспокоюсь.</ColonistAbandoned.stages.0.description>
+	<ColonistBanished.stages.0.label>изгнание поселенца</ColonistBanished.stages.0.label>
+	<ColonistBanished.stages.0.description>Мы просто кого-то выгнали. Надеюсь, они не пропадут, но всё равно беспокойно.</ColonistBanished.stages.0.description>
 
-	<ColonistAbandonedToDie.stages.0.label>поселенец брошен умирать</ColonistAbandonedToDie.stages.0.label>
-	<ColonistAbandonedToDie.stages.0.description>Мы оставили кого-то из наших в таком состоянии, что у них практически нет шансов выжить.</ColonistAbandonedToDie.stages.0.description>
+	<ColonistBanishedToDie.stages.0.label>поселенец изгнан умирать</ColonistBanishedToDie.stages.0.label>
+	<ColonistBanishedToDie.stages.0.description>Мы выгнали кого-то в таком состоянии, что шанса выжить почти нет.</ColonistBanishedToDie.stages.0.description>
 
-	<PrisonerAbandonedToDie.stages.0.label>заключённый брошен умирать</PrisonerAbandonedToDie.stages.0.label>
-	<PrisonerAbandonedToDie.stages.0.description>Мы оставили кого-то из заключённых в таком состоянии, что у них практически нет шансов выжить.</PrisonerAbandonedToDie.stages.0.description>
+	<PrisonerBanishedToDie.stages.0.label>узник изгнан умирать</PrisonerBanishedToDie.stages.0.label>
+	<PrisonerBanishedToDie.stages.0.description>Мы выгнали узника в таком состоянии, что шанса выжить почти нет.</PrisonerBanishedToDie.stages.0.description>
 
-	<BondedAnimalAbandoned.stages.0.label>питомец, {0}, брошен</BondedAnimalAbandoned.stages.0.label>
-	<BondedAnimalAbandoned.stages.0.description>Животное, к которому я привязался(ась) всей душой, брошено бог весть где!</BondedAnimalAbandoned.stages.0.description>
+	<BondedAnimalBanished.stages.0.label>вышвырнули {0}</BondedAnimalBanished.stages.0.label>
+	<BondedAnimalBanished.stages.0.description>Выгнали привязавшееся ко мне живое существо!</BondedAnimalBanished.stages.0.description>
+
+	<!-- Rescue quest -->
+
+	<FailedToRescueRelative.stages.0.label>неудачное спасение {0}</FailedToRescueRelative.stages.0.label>
+	<FailedToRescueRelative.stages.0.description>Нам не удалось вызволить близкую мне душу. Мысль, что помочь было в моих силах, гложет даже сильней, чем смерть любимого человека.</FailedToRescueRelative.stages.0.description>
+
+	<RescuedRelative.stages.0.label>спасение {0}</RescuedRelative.stages.0.label>
+	<RescuedRelative.stages.0.description>Мы вызволили близкого мне человека. И теперь, зная, что он в безопасности, можно с облегчением вздохнуть.</RescuedRelative.stages.0.description>
 
 </LanguageData>
