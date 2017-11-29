@@ -13,3 +13,8 @@
 посёлок
 община
 мегаполис
+outpost
+territory
+settlement
+encampment
+residence
