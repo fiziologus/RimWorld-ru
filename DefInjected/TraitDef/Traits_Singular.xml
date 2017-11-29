@@ -1,3 +1,4 @@
+<LanguageData2
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
@@ -49,7 +50,7 @@
 	<Ascetic.degreeDatas.0.label>аскет</Ascetic.degreeDatas.0.label>
 	<Ascetic.degreeDatas.0.description>NAME больше нравится аскетичную жизнь. HECAP придёт в уныние, если HIS спальня слишком впечетляющая. Также NAME не жалует причудливую пищу, предпочитая есть сырую, и сырая еда не сильно HIS беспокоит.</Ascetic.degreeDatas.0.description>
 
-	<Gay.degreeDatas.0.label>гомосексуалист</Gay.degreeDatas.0.label>
+	<Gay.degreeDatas.0.label>гомосексуальность</Gay.degreeDatas.0.label>
 	<Gay.degreeDatas.0.description>NAME испытывает романтичегое влечение к людям своего пола.</Gay.degreeDatas.0.description>
 
 	<DislikesMen.degreeDatas.0.label>мизандрия</DislikesMen.degreeDatas.0.label>
@@ -62,12 +63,21 @@
 	<AnnoyingVoice.degreeDatas.0.description>Голос NAME скрипучий и гнусавый, а разговаривает HE, рявкая и искажая слова. За это окружающие HIS недолюбливают.</AnnoyingVoice.degreeDatas.0.description>
 
 	<CreepyBreathing.degreeDatas.0.label>жуткое дыхание</CreepyBreathing.degreeDatas.0.label>
-	<CreepyBreathing.degreeDatas.0.description>NAME всё время тяжело дышит и постоянно потеет. Люди находят это жутким..</CreepyBreathing.degreeDatas.0.description>
+	<CreepyBreathing.degreeDatas.0.description>NAME всё время тяжело дышит и постоянно потеет. Люди находят это жутким.</CreepyBreathing.degreeDatas.0.description>
 
 	<Pyromaniac.degreeDatas.0.label>пироман</Pyromaniac.degreeDatas.0.label>
-	<Pyromaniac.degreeDatas.0.description>NAME любит пламя. Временами HE будет устраивать пожары и никогда не будет их тушить.</Pyromaniac.degreeDatas.0.description>
+	<Pyromaniac.degreeDatas.0.description>NAME любит пламя. HECAP ни за что не станет уничтожать огонь. Порой, чтобы снать накопившееся напряжение, HE будет с упоением поджигать всё, что попадётся. И чем ниже HIS настроение, тем чаще это будет происходить.</Pyromaniac.degreeDatas.0.description>
 
-	<Wimp.degreeDatas.0.label>слабак</Wimp.degreeDatas.0.label>
+	<Wimp.degreeDatas.0.label>размазня</Wimp.degreeDatas.0.label>
 	<Wimp.degreeDatas.0.description>NAME слаб и малодушен. Даже лёгкая боль парализует HIM.</Wimp.degreeDatas.0.description>
+
+	<Nimble.degreeDatas.0.label>юркость</Nimble.degreeDatas.0.label>
+	<Nimble.degreeDatas.0.description>Восприятие пространства у NAME не имеет себе равных. Кажется, что HE порхает вокруг опасности со сверхестественной грацией.</Nimble.degreeDatas.0.description>
+
+	<FastLearner.degreeDatas.0.label>схватывает на лету</FastLearner.degreeDatas.0.label>
+	<FastLearner.degreeDatas.0.description>У NAME дар к познанию. Любую вещь HE схватывает значительно быстрей остальных.</FastLearner.degreeDatas.0.description>
+
+	<SuperImmune.degreeDatas.0.label>супериммунитет</SuperImmune.degreeDatas.0.label>
+	<SuperImmune.degreeDatas.0.description>У NAME от природы сильная иммунная система. HECAP приобритает иммунитет на порядок быстрее обычного человека и в силах пережить смертельную для остальных болезнь.</SuperImmune.degreeDatas.0.description>
 
 </LanguageData>
