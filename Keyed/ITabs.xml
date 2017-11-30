@@ -94,8 +94,8 @@
 
 
 	<!-- Training tab-->
-	<TrainableIntelligence>Способность к обучению</TrainableIntelligence>
-	<CannotTrainNotSmartEnough>Требуется интеллектуальная способность: "{0}".</CannotTrainNotSmartEnough>
+	<TrainableIntelligence>Сообразительность</TrainableIntelligence>
+	<CannotTrainNotSmartEnough>Требуется {0} сообразительность.</CannotTrainNotSmartEnough>
 	<CannotTrainTooSmall>{0} слишком мал, чтобы обучиться этому.</CannotTrainTooSmall>
 
 	<TrainingNeedsPrerequisite>Требования: {0}</TrainingNeedsPrerequisite>

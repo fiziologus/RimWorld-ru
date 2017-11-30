@@ -1,10 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <None.label>none</None.label>
-  <Simple.label>simple</Simple.label>
-  <Intermediate.label>intermediate</Intermediate.label>
-  <Advanced.label>advanced</Advanced.label>
-
+	<None.label>никакая</None.label>
+	<Simple.label>слабая</Simple.label>
+	<Intermediate.label>посредственная</Intermediate.label>
+	<Advanced.label>хорошая</Advanced.label>
 
 </LanguageData>
