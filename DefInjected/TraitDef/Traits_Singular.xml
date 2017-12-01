@@ -1,4 +1,3 @@
-<LanguageData2
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
@@ -8,23 +7,23 @@
 	<Bloodlust.degreeDatas.0.label>кровожадность</Bloodlust.degreeDatas.0.label>
 	<Bloodlust.degreeDatas.0.description>NAME входит в раж, причиняя людям боль, а зрелища крови или смерти HIS не пугают. HECAP вдвое чаще затевает потасовки.</Bloodlust.degreeDatas.0.description>
 
-	<Kind.degreeDatas.0.label>добряк</Kind.degreeDatas.0.label>
-	<Kind.degreeDatas.0.description>NAME — славный малый. HECAP делает день светлее и никогда никого не оскорбляет.</Kind.degreeDatas.0.description>
+	<Kind.degreeDatas.0.label>золотое сердце</Kind.degreeDatas.0.label>
+	<Kind.degreeDatas.0.description>NAME — человек редкой души. HECAP делает день светлее и никогда никого не оскорбляет.</Kind.degreeDatas.0.description>
 
 	<Psychopath.degreeDatas.0.label>психопат</Psychopath.degreeDatas.0.label>
-	<Psychopath.degreeDatas.0.description>NAME чуждо сопереживание. Страдания других совсем HIS не трогают. HIMCAP безразлично, если кого-то пустят на мясо, оставят непохороненным, посадят в тюрьму или продадут в рабство, если HIS лично это не касается. Также NAME не получает подъёма настроения от общения.</Psychopath.degreeDatas.0.description>
+	<Psychopath.degreeDatas.0.description>NAME чуждо сопереживание. Страдания других совсем HIS не трогают. HIMCAP безразлично, пустят кого на мясо, оставят непохороненным, посадят в тюрьму или продадут в рабство, если HIS лично это не касается. От общения NAME также не получает подъёма настроения.</Psychopath.degreeDatas.0.description>
 
-	<Cannibal.degreeDatas.0.label>людоед</Cannibal.degreeDatas.0.label>
-	<Cannibal.degreeDatas.0.description>NAME учили, что есть человеческое мясо неправильно и ужасно. Но однажды, давным-давно, HE попробовал(а) его... и HIM понравилось.</Cannibal.degreeDatas.0.description>
+	<Cannibal.degreeDatas.0.label>людоедство</Cannibal.degreeDatas.0.label>
+	<Cannibal.degreeDatas.0.description>NAME учили, что поедание человечины неправильно и ужасно. Но однажды, давным-давно, HIM довелось попробовать его... и оно пришлось HIM по душе.</Cannibal.degreeDatas.0.description>
 
 	<Abrasive.degreeDatas.0.label>резкость</Abrasive.degreeDatas.0.label>
 	<Abrasive.degreeDatas.0.description>NAME всегда говорит ровно то, что думает, особенно, если HIS это раздражает. Обычно это влияет на окружающих не в лучшую сторону.</Abrasive.degreeDatas.0.description>
 
-	<TooSmart.degreeDatas.0.label>умник</TooSmart.degreeDatas.0.label>
+	<TooSmart.degreeDatas.0.label>гений</TooSmart.degreeDatas.0.label>
 	<TooSmart.degreeDatas.0.description>NAME страдает от собственного ума. HECAP обучается всему гораздо быстрее остальных, но время от времени совершает разные чудачества.</TooSmart.degreeDatas.0.description>
 
 	<Brawler.degreeDatas.0.label>драчун</Brawler.degreeDatas.0.label>
-	<Brawler.degreeDatas.0.description>NAME нравится драться лицом к лицу. В ближнем бою HE бьёт значительно точней, но терпеть не может пользоваться стрелковым оружием.</Brawler.degreeDatas.0.description>
+	<Brawler.degreeDatas.0.description>NAME нравится драться лицом к лицу. В рукопашной HE бьёт значительно точней, но терпеть не может пользоваться стрелковым и метательным оружием.</Brawler.degreeDatas.0.description>
 
 	<Masochist.degreeDatas.0.label>мазохист</Masochist.degreeDatas.0.label>
 	<Masochist.degreeDatas.0.description>Для NAME есть нечто волнующее в получении боли. HECAP не знает почему, просто ощущения работают по-другому.</Masochist.degreeDatas.0.description>
@@ -36,10 +35,10 @@
 	<Prosthophobe.degreeDatas.0.description>NAME верит, что человеческое тело ограничено не просто так. Бионические части тела неэтичны по HIS мнению.</Prosthophobe.degreeDatas.0.description>
 
 	<GreenThumb.degreeDatas.0.label>зелёная рука</GreenThumb.degreeDatas.0.label>
-	<GreenThumb.degreeDatas.0.description>У NAME страсть к садоводству. HECAP получает подъём настроения с каждым посаженным растением.</GreenThumb.degreeDatas.0.description>
+	<GreenThumb.degreeDatas.0.description>У NAME страсть к садоводству. С каждым посаженным растением HIS настроение улучшается.</GreenThumb.degreeDatas.0.description>
 
 	<NightOwl.degreeDatas.0.label>сова</NightOwl.degreeDatas.0.label>
-	<NightOwl.degreeDatas.0.description>NAME нравится просыпатся ночью и спать днём./n/nБодрствуя ночью (с 23 до 6), HE получает подьём настроения, а, если не спит днём (с 11 до 18), настроение падает.</NightOwl.degreeDatas.0.description>
+	<NightOwl.degreeDatas.0.description>NAME нравиться ночью бодрствовать, а спать днём./n/nНе смыкая глаз ночью (с 23 до 6), HE получает подьём настроения, а, если не спит днём (с 11 до 18), настроение падает.</NightOwl.degreeDatas.0.description>
 
 	<Greedy.degreeDatas.0.label>жадность</Greedy.degreeDatas.0.label>
 	<Greedy.degreeDatas.0.description>NAME нужна по настоящему впечатляющая спальня. Если HE не получает, что хочет, настроение HIS падает.</Greedy.degreeDatas.0.description>
@@ -48,7 +47,7 @@
 	<Jealous.degreeDatas.0.description>Для NAME унизительно иметь менее впечатляющую, чем у кого-то, спальню. HISCAP настроение падает, если у любого из колонистов более впечатляющая спальня.</Jealous.degreeDatas.0.description>
 
 	<Ascetic.degreeDatas.0.label>аскет</Ascetic.degreeDatas.0.label>
-	<Ascetic.degreeDatas.0.description>NAME больше нравится аскетичную жизнь. HECAP придёт в уныние, если HIS спальня слишком впечетляющая. Также NAME не жалует причудливую пищу, предпочитая есть сырую, и сырая еда не сильно HIS беспокоит.</Ascetic.degreeDatas.0.description>
+	<Ascetic.degreeDatas.0.description>NAME больше нравится аскетичную жизнь. HECAP придёт в уныние, если HIS спальня слишком впечетляющая. Также NAME не жалует причудливую пищу, предпочитая есть сырую... и сырая еда не сильно HIS смущает.</Ascetic.degreeDatas.0.description>
 
 	<Gay.degreeDatas.0.label>гомосексуальность</Gay.degreeDatas.0.label>
 	<Gay.degreeDatas.0.description>NAME испытывает романтичегое влечение к людям своего пола.</Gay.degreeDatas.0.description>
@@ -59,7 +58,7 @@
 	<DislikesWomen.degreeDatas.0.label>мизогиния</DislikesWomen.degreeDatas.0.label>
 	<DislikesWomen.degreeDatas.0.description>NAME испытывает настоящую неприязнь и недоверие к женщинам.</DislikesWomen.degreeDatas.0.description>
 
-	<AnnoyingVoice.degreeDatas.0.label>противный голос</AnnoyingVoice.degreeDatas.0.label>
+	<AnnoyingVoice.degreeDatas.0.label>раздражающая речь</AnnoyingVoice.degreeDatas.0.label>
 	<AnnoyingVoice.degreeDatas.0.description>Голос NAME скрипучий и гнусавый, а разговаривает HE, рявкая и искажая слова. За это окружающие HIS недолюбливают.</AnnoyingVoice.degreeDatas.0.description>
 
 	<CreepyBreathing.degreeDatas.0.label>жуткое дыхание</CreepyBreathing.degreeDatas.0.label>
@@ -77,7 +76,7 @@
 	<FastLearner.degreeDatas.0.label>схватывает на лету</FastLearner.degreeDatas.0.label>
 	<FastLearner.degreeDatas.0.description>У NAME дар к познанию. Любую вещь HE схватывает значительно быстрей остальных.</FastLearner.degreeDatas.0.description>
 
-	<SuperImmune.degreeDatas.0.label>супериммунитет</SuperImmune.degreeDatas.0.label>
+	<SuperImmune.degreeDatas.0.label>железное здоровье</SuperImmune.degreeDatas.0.label>
 	<SuperImmune.degreeDatas.0.description>У NAME от природы сильная иммунная система. HECAP приобритает иммунитет на порядок быстрее обычного человека и в силах пережить смертельную для остальных болезнь.</SuperImmune.degreeDatas.0.description>
 
 </LanguageData>
