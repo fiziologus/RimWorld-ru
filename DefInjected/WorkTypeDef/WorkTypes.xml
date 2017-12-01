@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<!--
@@ -15,118 +15,118 @@
 	<Firefighter.verb>Тушить пожар</Firefighter.verb>
 	<Firefighter.description>Пожарные тушат огонь в поселении.</Firefighter.description>
 
-	<Patient.labelShort>Пациент</Patient.labelShort>
-	<Patient.pawnLabel>Пациент</Patient.pawnLabel>
+	<Patient.labelShort>Больной</Patient.labelShort>
+	<Patient.pawnLabel>Больной</Patient.pawnLabel>
 	<Patient.gerundLabel>лечиться</Patient.gerundLabel>
 	<Patient.verb>Лечиться</Patient.verb>
-	<Patient.description>Пациенты отправляются на медицинскую кровать, если им необходимо срочное врачебное вмешательство.</Patient.description>
+	<Patient.description>Пациенты ложатся в медицинскую койку, если им необходимо срочное врачебное вмешательство.</Patient.description>
 
 	<Doctor.labelShort>Врач</Doctor.labelShort>
 	<Doctor.pawnLabel>Врач</Doctor.pawnLabel>
 	<Doctor.gerundLabel>лечить</Doctor.gerundLabel>
 	<Doctor.verb>Лечить</Doctor.verb>
-	<Doctor.description>Врачи приносят еду и лечат тех, кто выведен из строя и находится в постели. Они заботятся и о поселенцах, и о заключённых.</Doctor.description>
+	<Doctor.description>Лечат хворых, приносят им пищу, подбадривают их, да проводят назначенные операции. Доктора не обходят вниманием ни поселенцев, ни узников.</Doctor.description>
 
-	<PatientBedRest.labelShort>Отдых</PatientBedRest.labelShort>
-	<PatientBedRest.pawnLabel>Отдыхающий</PatientBedRest.pawnLabel>
+	<PatientBedRest.labelShort>Покой</PatientBedRest.labelShort>
+	<PatientBedRest.pawnLabel>Прихворавший</PatientBedRest.pawnLabel>
 	<PatientBedRest.gerundLabel>отдыхать</PatientBedRest.gerundLabel>
 	<PatientBedRest.verb>Отдыхать</PatientBedRest.verb>
-	<PatientBedRest.description>Поселенцы отдыхают в кровати, чтобы восстановиться от не угрожающих жизни проблем со здоровьем.</PatientBedRest.description>
+	<PatientBedRest.description>Отдыхать в кровати, чтобы восстановиться от не угрожающих жизни проблем со здоровьем.</PatientBedRest.description>
 
 	<Flicker.labelShort>Оператор</Flicker.labelShort>
 	<Flicker.pawnLabel>Оператор</Flicker.pawnLabel>
 	<Flicker.gerundLabel>переключать</Flicker.gerundLabel>
 	<Flicker.verb>Переключать</Flicker.verb>
-	<Flicker.description>Операторы переключают выключатели.</Flicker.description>
+	<Flicker.description>Переключение выключателей.</Flicker.description>
 
 	<Warden.labelShort>Надзор</Warden.labelShort>
 	<Warden.pawnLabel>Надзиратель</Warden.pawnLabel>
 	<Warden.gerundLabel>Надзирать</Warden.gerundLabel>
 	<Warden.verb>надзирать</Warden.verb>
-	<Warden.description>В зависимости от вашего выбора, надзиратели навещают заключённых, общаются с ними, применяют силу или вербуют. Также они кормят заключённых и раненых гостей.</Warden.description>
+	<Warden.description>Присматривать, кормить, общаться и переманивать узников.</Warden.description>
 
 	<Cooking.labelShort>Повар</Cooking.labelShort>
 	<Cooking.pawnLabel>Повар</Cooking.pawnLabel>
 	<Cooking.gerundLabel>готовить</Cooking.gerundLabel>
 	<Cooking.verb>Готовить</Cooking.verb>
-	<Cooking.description>Повара заполняют дозаторы паст и готовят пищу.</Cooking.description>
+	<Cooking.description>Готовить еду и свежевать тущи.</Cooking.description>
 
 	<Handling.labelShort>Животные</Handling.labelShort>
 	<Handling.pawnLabel>Животновод</Handling.pawnLabel>
 	<Handling.gerundLabel>заниматься животноводством</Handling.gerundLabel>
 	<Handling.verb>Заниматься животноводством</Handling.verb>
-	<Handling.description>Животноводы приручают животных, ухаживают за ними, собирают приносимые животными ресурсы и расправляются с животными на убой.</Handling.description>
+	<Handling.description>Приручать зверей, обучать их, собирают приносимые животными ресурсы и отпрвлять зверей на убой.</Handling.description>
 
 	<Hunting.labelShort>Охотник</Hunting.labelShort>
 	<Hunting.pawnLabel>Охотник</Hunting.pawnLabel>
 	<Hunting.gerundLabel>охотиться</Hunting.gerundLabel>
 	<Hunting.verb>Охотиться</Hunting.verb>
-	<Hunting.description>Охотники убивают животных, которые помечены для охоты.</Hunting.description>
+	<Hunting.description>Убивают помеченных для охоты зверей.</Hunting.description>
 
-	<Construction.labelShort>Строитель</Construction.labelShort>
+	<Construction.labelShort>Сборка</Construction.labelShort>
 	<Construction.pawnLabel>Строитель</Construction.pawnLabel>
 	<Construction.gerundLabel>строить</Construction.gerundLabel>
 	<Construction.verb>Строить</Construction.verb>
-	<Construction.description>Строители строят здания, которые вы указали.</Construction.description>
+	<Construction.description>Сооружать указанные вами вещи, да латать повреждённые, либо сломавшиеся.</Construction.description>
 
-	<Growing.labelShort>Фермер</Growing.labelShort>
+	<Growing.labelShort>Выращивание</Growing.labelShort>
 	<Growing.pawnLabel>Фермер</Growing.pawnLabel>
-	<Growing.gerundLabel>заниматься фермерством</Growing.gerundLabel>
-	<Growing.verb>Заниматься фермерством</Growing.verb>
-	<Growing.description>Фермеры сажают семена растений, чтобы вырастить урожай, и собирают его.</Growing.description>
+	<Growing.gerundLabel>выращивать</Growing.gerundLabel>
+	<Growing.verb>Выращивать</Growing.verb>
+	<Growing.description>Сажать семена и снимают выросший урожай.</Growing.description>
 
-	<Mining.labelShort>Шахтёр</Mining.labelShort>
-	<Mining.pawnLabel>Шахтёр</Mining.pawnLabel>
+	<Mining.labelShort>Горняк</Mining.labelShort>
+	<Mining.pawnLabel>Горняк</Mining.pawnLabel>
 	<Mining.gerundLabel>добывать породу</Mining.gerundLabel>
 	<Mining.verb>Добывать породу</Mining.verb>
-	<Mining.description>Шахтёры копают грунт, назначенный вами для раскопок. Если это минеральные залежи, они дадут пригодный металл.</Mining.description>
+	<Mining.description>Разрабатывать породу и заниматься бурением.</Mining.description>
 
 	<PlantCutting.labelShort>Садовод</PlantCutting.labelShort>
 	<PlantCutting.pawnLabel>Садовод</PlantCutting.pawnLabel>
 	<PlantCutting.gerundLabel>заниматься садоводством</PlantCutting.gerundLabel>
 	<PlantCutting.verb>Заниматься садоводством</PlantCutting.verb>
-	<PlantCutting.description>Садоводы срезают и собирают урожай с диких растений.</PlantCutting.description>
+	<PlantCutting.description>Собирают урожай с диких растений, рубят деревья и срезают растения.</PlantCutting.description>
 
 	<Smithing.labelShort>Кузнец</Smithing.labelShort>
 	<Smithing.pawnLabel>Кузнец</Smithing.pawnLabel>
 	<Smithing.gerundLabel>ковать</Smithing.gerundLabel>
 	<Smithing.verb>Ковать</Smithing.verb>
-	<Smithing.description>Кузнецы куют оружие и инструменты.</Smithing.description>
+	<Smithing.description>Создают оружие и инструменты, либо на станках, либо выковывая вручную.</Smithing.description>
 
 	<Tailoring.labelShort>Портной</Tailoring.labelShort>
 	<Tailoring.pawnLabel>Портной</Tailoring.pawnLabel>
 	<Tailoring.gerundLabel>шить</Tailoring.gerundLabel>
 	<Tailoring.verb>Шить</Tailoring.verb>
-	<Tailoring.description>Портные шьют различные виды одежды.</Tailoring.description>
+	<Tailoring.description>Шьют одежду.</Tailoring.description>
 
 	<Art.labelShort>Художник</Art.labelShort>
 	<Art.pawnLabel>Художник</Art.pawnLabel>
 	<Art.gerundLabel>заниматься искусством</Art.gerundLabel>
 	<Art.verb>Заниматься искусством</Art.verb>
-	<Art.description>Художники создают прекрасные произведения искусства.</Art.description>
+	<Art.description>Создают прекрасные произведения искусства.</Art.description>
 
 	<Crafting.labelShort>Ремесло</Crafting.labelShort>
 	<Crafting.pawnLabel>Ремесленник</Crafting.pawnLabel>
 	<Crafting.gerundLabel>заниматься ремеслом</Crafting.gerundLabel>
 	<Crafting.verb>Заниматься ремеслом</Crafting.verb>
-	<Crafting.description>Ремесленники создают вещи из необработанных материалов.</Crafting.description>
+	<Crafting.description>Не требующая особых знаний работа за верстаками. Сюда входит обработка камня, выплавка металла и много ещё чего.</Crafting.description>
 
 	<Hauling.labelShort>Носильщик</Hauling.labelShort>
 	<Hauling.pawnLabel>Носильщик</Hauling.pawnLabel>
 	<Hauling.gerundLabel>переносить</Hauling.gerundLabel>
 	<Hauling.verb>Перенести</Hauling.verb>
-	<Hauling.description>Носильщики переносят вещи туда, где они должны быть.</Hauling.description>
+	<Hauling.description>Переносят вещи туда, где они должны быть.</Hauling.description>
 
 	<Cleaning.labelShort>Уборщик</Cleaning.labelShort>
 	<Cleaning.pawnLabel>Уборщик</Cleaning.pawnLabel>
 	<Cleaning.gerundLabel>убирать</Cleaning.gerundLabel>
 	<Cleaning.verb>Убирать</Cleaning.verb>
-	<Cleaning.description>Уборщики чистят снег и наводят порядок в домашней зоне.</Cleaning.description>
+	<Cleaning.description>Чистят снег и наводят порядок в домашней зоне.</Cleaning.description>
 
 	<Research.labelShort>Учёный</Research.labelShort>
 	<Research.pawnLabel>Учёный</Research.pawnLabel>
 	<Research.gerundLabel>исследовать</Research.gerundLabel>
 	<Research.verb>Исследовать</Research.verb>
-	<Research.description>Учёные занимаются исследовательской работой.</Research.description>
+	<Research.description>Занимаются исследовательской работой.</Research.description>
 
 </LanguageData>
