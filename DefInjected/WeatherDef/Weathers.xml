@@ -1,22 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<Clear.label>ясно</Clear.label>
 	<Clear.description>Ясный день. Никаких штрафов или бонусов.</Clear.description>
 
 	<Fog.label>туман</Fog.label>
-	<Fog.description>Туман снижает точность стрельбы.</Fog.description>
+	<Fog.description>Туман снижает точность стрельбы и метания.</Fog.description>
 
 	<Rain.label>дождь</Rain.label>
-	<Rain.description>Дождь снижает точность стрельбы, гасит огонь и замедляет передвижение.</Rain.description>
+	<Rain.description>Дождь снижает точность стрельбы и метания, гасит огонь и замедляет передвижение.</Rain.description>
 
 	<DryThunderstorm.label>сухая гроза</DryThunderstorm.label>
-	<DryThunderstorm.description>Сухая гроза опасна тем, что молнии могут создать пожар без дождя, способного их потушить.</DryThunderstorm.description>
+	<DryThunderstorm.description>Сухая гроза опасна, ведь молнии могут распалить пожары, а дождя, способного затушить их, нет.</DryThunderstorm.description>
 
-	<RainyThunderstorm.label>дождь с грозой</RainyThunderstorm.label>
+	<RainyThunderstorm.label>грозой</RainyThunderstorm.label>
 	<RainyThunderstorm.description>Из-за молний будут возникать пожары, но дождь их потушит. Так же снижена скорость передвижения и точность стрельбы.</RainyThunderstorm.description>
 
-	<FoggyRain.label>ливень</FoggyRain.label>
+	<FoggyRain.label>морось</FoggyRain.label>
 	<FoggyRain.description>Снижена точность стрельбы и скорость передвижения.</FoggyRain.description>
 
 	<SnowHard.label>метель</SnowHard.label>
