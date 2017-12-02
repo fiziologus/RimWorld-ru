@@ -1,95 +1,112 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Combat_MeleeIncludes.rulePack.rulesStrings.0>logentry->[action], [result].</Combat_MeleeIncludes.rulePack.rulesStrings.0>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.1>logentry(p=0.2)->[action].</Combat_MeleeIncludes.rulePack.rulesStrings.1>
+	<!--
+	  *_possesive == HIS, его-её
+	  *_objective == HIM, ему-ей
+	-->
 
-  <!-- implement == чем ласкают -->
-  <!-- оружие -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.2>implement(implementOwnerType==weapon,p=2)->[initiator_possessive] [tool_label] [weapon_label]</Combat_MeleeIncludes.rulePack.rulesStrings.2>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.3>implement(implementOwnerType==weapon,p=1)->[initiator_possessive] [weapon_label]</Combat_MeleeIncludes.rulePack.rulesStrings.3>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.4>implement(implementOwnerType==weapon,p=1)->[tool_label] [weapon_label]</Combat_MeleeIncludes.rulePack.rulesStrings.4>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.5>implement(implementOwnerType==weapon,p=0.5)->[weapon_label]</Combat_MeleeIncludes.rulePack.rulesStrings.5>
-  <!-- руки-ноги и прочие части тела -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.6>implement(implementOwnerType==bodypart,p=2)->[initiator_possessive] [tool_label]</Combat_MeleeIncludes.rulePack.rulesStrings.6>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.7>implement(implementOwnerType==bodypart,p=1)->[initiator_possessive] [bodypart_adjective] [tool_label]</Combat_MeleeIncludes.rulePack.rulesStrings.7>
-  <!-- протезы и прочие непотребства, да приблуды -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.8>implement(implementOwnerType==hediff,p=2)->[initiator_possessive] [tool_label] [weapon_label]</Combat_MeleeIncludes.rulePack.rulesStrings.8>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.9>implement(implementOwnerType==hediff,p=1)->[initiator_possessive] [weapon_label]</Combat_MeleeIncludes.rulePack.rulesStrings.9>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.10>implement(implementOwnerType==hediff,p=1)->[initiator_possessive] [tool_label]</Combat_MeleeIncludes.rulePack.rulesStrings.10>
+	<!-- База для рукопашки и взрывов -->
+	<!-- что будет в логе битвы -->
+	<Combat_MeleeIncludes.rulePack.rulesStrings.0>logentry->[action], [result].</Combat_MeleeIncludes.rulePack.rulesStrings.0>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.1>logentry(p=0.2)->[action].</Combat_MeleeIncludes.rulePack.rulesStrings.1>
+	<!-- implement == чем ласкают -->
+	<!-- оружие и (вроде) клинки жнеца -->
+	<Combat_MeleeIncludes.rulePack.rulesStrings.2>implement(implementOwnerType==weapon,p=2)->[tool_label] [weapon_label]</Combat_MeleeIncludes.rulePack.rulesStrings.2>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.3>implement(implementOwnerType==weapon,p=1)->[weapon_label]</Combat_MeleeIncludes.rulePack.rulesStrings.3>
+	<!-- 4 и 5 можно попользовать в своих целях -->
+	<Combat_MeleeIncludes.rulePack.rulesStrings.4>reserv-></Combat_MeleeIncludes.rulePack.rulesStrings.4>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.5>reserv-></Combat_MeleeIncludes.rulePack.rulesStrings.5>
+	<!-- руки-ноги-рога-копыта -->
+	<Combat_MeleeIncludes.rulePack.rulesStrings.6>implement(implementOwnerType==bodypart,p=2)->[tool_label]</Combat_MeleeIncludes.rulePack.rulesStrings.6>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.7>implement(implementOwnerType==bodypart,p=1)->[bodypart_adjective] [tool_label]</Combat_MeleeIncludes.rulePack.rulesStrings.7>
+	<!-- протезы и прочие непотребства, да приблуды -->
+	<Combat_MeleeIncludes.rulePack.rulesStrings.8>implement(implementOwnerType==hediff,p=2)->[tool_label] [weapon_label]</Combat_MeleeIncludes.rulePack.rulesStrings.8>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.9>implement(implementOwnerType==hediff,p=1)->[weapon_label]</Combat_MeleeIncludes.rulePack.rulesStrings.9>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.10>implement(implementOwnerType==hediff,p=1)->[tool_label]</Combat_MeleeIncludes.rulePack.rulesStrings.10>
+	<!-- прилагательные для приёмов карате -->
+	<Combat_MeleeIncludes.rulePack.rulesStrings.11>bodypart_adjective->тяжёлый</Combat_MeleeIncludes.rulePack.rulesStrings.11>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.12>bodypart_adjective->сильный</Combat_MeleeIncludes.rulePack.rulesStrings.12>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.13>bodypart_adjective->мощный</Combat_MeleeIncludes.rulePack.rulesStrings.13>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.14>bodypart_adjective->ядрёный</Combat_MeleeIncludes.rulePack.rulesStrings.14>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.15>bodypart_adjective->могучий</Combat_MeleeIncludes.rulePack.rulesStrings.15>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.16>bodypart_adjective->грубый</Combat_MeleeIncludes.rulePack.rulesStrings.16>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.17>bodypart_adjective->крепкий</Combat_MeleeIncludes.rulePack.rulesStrings.17>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.18>bodypart_adjective->дюжий</Combat_MeleeIncludes.rulePack.rulesStrings.18>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.19>bodypart_adjective->плотный</Combat_MeleeIncludes.rulePack.rulesStrings.19>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.20>bodypart_adjective->дубовый</Combat_MeleeIncludes.rulePack.rulesStrings.20>
+	<!-- 21 только, если бъющий из плоти и крови -->
+	<Combat_MeleeIncludes.rulePack.rulesStrings.21>bodypart_adjective(initiator_flesh==True)->загрубевший</Combat_MeleeIncludes.rulePack.rulesStrings.21>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.22>bodypart_adjective->несокрушимый</Combat_MeleeIncludes.rulePack.rulesStrings.22>
+	<!-- что массажируем; 26, если больше трёх -->
+	<Combat_MeleeIncludes.rulePack.rulesStrings.23>targetlist(recipient_part_count==1)->[recipient_part0_label]</Combat_MeleeIncludes.rulePack.rulesStrings.23>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.24>targetlist(recipient_part_count==2)->[recipient_part0_label] и [recipient_part1_label]</Combat_MeleeIncludes.rulePack.rulesStrings.24>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.25>targetlist(recipient_part_count==3)->[recipient_part0_label], [recipient_part1_label] да [recipient_part2_label]</Combat_MeleeIncludes.rulePack.rulesStrings.25>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.26>targetlist->[recipient_part0_label], [recipient_part1_label], [recipient_part2_label] да [recipient_part3_label]</Combat_MeleeIncludes.rulePack.rulesStrings.26>
+	<!-- нанесено ранение -->
+	<Combat_MeleeIncludes.rulePack.rulesStrings.27>damaged_present->раня</Combat_MeleeIncludes.rulePack.rulesStrings.27>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.28>damaged_present->увеча</Combat_MeleeIncludes.rulePack.rulesStrings.28>
+	<!-- что-то сломали -->
+	<Combat_MeleeIncludes.rulePack.rulesStrings.29>destroyed(p=0.5)->уничтожено</Combat_MeleeIncludes.rulePack.rulesStrings.29>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.30>destroyed(p=0.5)->снесено</Combat_MeleeIncludes.rulePack.rulesStrings.30>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.31>destroyed(p=0.5)->разрушено</Combat_MeleeIncludes.rulePack.rulesStrings.31>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.32>destroyed(p=0.5)->разбито</Combat_MeleeIncludes.rulePack.rulesStrings.32>
+	<!-- результат для лога -->
+	<Combat_MeleeIncludes.rulePack.rulesStrings.33>result(p=0.5)->[damaged_present] [recipient_objective] [targetlist]</Combat_MeleeIncludes.rulePack.rulesStrings.33>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.34>result(p=0.2)->[flavortextadverb] [damaged_present] [recipient_objective] [targetlist]</Combat_MeleeIncludes.rulePack.rulesStrings.34>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.35>result(p=10000)->[damaged_present] [flavortextsituation] [recipient_objective] [targetlist]</Combat_MeleeIncludes.rulePack.rulesStrings.35>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.36>result(p=0.2)->[damaged_present] [recipient_objective] [targetlist] и [flavortextconsequence]</Combat_MeleeIncludes.rulePack.rulesStrings.36>
+	<!-- как нанесён удар -->
+	<Combat_MeleeIncludes.rulePack.rulesStrings.37>flavortextadverb->болезненно</Combat_MeleeIncludes.rulePack.rulesStrings.37>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.38>flavortextadverb->жестоко</Combat_MeleeIncludes.rulePack.rulesStrings.38>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.39>flavortextadverb->ужасно</Combat_MeleeIncludes.rulePack.rulesStrings.39>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.40>flavortextadverb->тяжко</Combat_MeleeIncludes.rulePack.rulesStrings.40>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.41>flavortextadverb->люто</Combat_MeleeIncludes.rulePack.rulesStrings.41>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.42>flavortextadverb->безжалостно</Combat_MeleeIncludes.rulePack.rulesStrings.42>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.43>flavortextadverb->зверски</Combat_MeleeIncludes.rulePack.rulesStrings.43>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.44>flavortextadverb->изуверски</Combat_MeleeIncludes.rulePack.rulesStrings.44>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.45>flavortextadverb->нещадно</Combat_MeleeIncludes.rulePack.rulesStrings.45>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.46>flavortextadverb->жестокосердно</Combat_MeleeIncludes.rulePack.rulesStrings.46>
+	<!-- действие, с которым нанесён удар -->
+	<Combat_MeleeIncludes.rulePack.rulesStrings.47>flavortextsituation(recipient_flesh!=Mechanoid)->с каскадом кровавых брызг</Combat_MeleeIncludes.rulePack.rulesStrings.47>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.48>flavortextsituation(recipient_flesh==Mechanoid)->с разлетающимися во все стороны обломками</Combat_MeleeIncludes.rulePack.rulesStrings.48>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.49>flavortextsituation->без страха и азарта</Combat_MeleeIncludes.rulePack.rulesStrings.49>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.50>flavortextsituation->с пустым взглядом в глазах</Combat_MeleeIncludes.rulePack.rulesStrings.50>
+	<!--- дальше только для людей и животных -->
+	<Combat_MeleeIncludes.rulePack.rulesStrings.51>flavortextsituation(initiator_flesh==Normal)->с глазами дикаря</Combat_MeleeIncludes.rulePack.rulesStrings.51>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.52>flavortextsituation(initiator_flesh==Normal)->с несущими [badassadjective] взгляд глазами</Combat_MeleeIncludes.rulePack.rulesStrings.52>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.53>flavortextsituation(initiator_flesh==Normal)->с перекошенным ликом</Combat_MeleeIncludes.rulePack.rulesStrings.53>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.54>flavortextsituation(initiator_flesh==Normal)->с усмешкой</Combat_MeleeIncludes.rulePack.rulesStrings.54>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.55>flavortextsituation(initiator_flesh==Normal)->с ухмылкой</Combat_MeleeIncludes.rulePack.rulesStrings.55>
+	<!-- последствия атаки (что делая) -->
+	<Combat_MeleeIncludes.rulePack.rulesStrings.56>flavortextconsequence(recipient_flesh!=Mechanoid)->оставляя рану, что хуже не придумаешь</Combat_MeleeIncludes.rulePack.rulesStrings.56>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.57>flavortextconsequence->нанося ужасные повреждения</Combat_MeleeIncludes.rulePack.rulesStrings.57>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.58>flavortextconsequence(recipient_flesh!=Mechanoid)->вынуждая [recipient_possessive] [wince] [painevent]</Combat_MeleeIncludes.rulePack.rulesStrings.58>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.59>flavortextconsequence(p=0.2)->throwing [recipient_objective] off balance</Combat_MeleeIncludes.rulePack.rulesStrings.59>
+	<!-- вынуждая сделать -->
+	<!-- только для людей и животных -->
+	<Combat_MeleeIncludes.rulePack.rulesStrings.60>wince(recipient_flesh==Normal)->содрогнуться</Combat_MeleeIncludes.rulePack.rulesStrings.60>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.61>wince(recipient_flesh==Normal)->искривить лицо в гримасе</Combat_MeleeIncludes.rulePack.rulesStrings.61>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.62>wince(recipient_flesh==Normal)->сжаться</Combat_MeleeIncludes.rulePack.rulesStrings.62>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.63>wince(recipient_flesh==Normal)->стонать</Combat_MeleeIncludes.rulePack.rulesStrings.63>
+	<!-- для живых существ -->
+	<Combat_MeleeIncludes.rulePack.rulesStrings.64>wince(recipient_flesh!=Mechanoid)->верещать</Combat_MeleeIncludes.rulePack.rulesStrings.64>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.65>wince(recipient_flesh!=Mechanoid)->вопить</Combat_MeleeIncludes.rulePack.rulesStrings.65>
+	<!-- для всех -->
+	<Combat_MeleeIncludes.rulePack.rulesStrings.66>wince->отпрянуть</Combat_MeleeIncludes.rulePack.rulesStrings.66>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.67>wince->лишиться равновесия</Combat_MeleeIncludes.rulePack.rulesStrings.67>
 
-  <!-- bodypart_adjective == прилагательные для приёмов карате -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.11>bodypart_adjective->тяжёлый</Combat_MeleeIncludes.rulePack.rulesStrings.11>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.12>bodypart_adjective->сильный</Combat_MeleeIncludes.rulePack.rulesStrings.12>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.13>bodypart_adjective->могучий</Combat_MeleeIncludes.rulePack.rulesStrings.13>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.14>bodypart_adjective->ядрёный</Combat_MeleeIncludes.rulePack.rulesStrings.14>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.15>bodypart_adjective->мощный</Combat_MeleeIncludes.rulePack.rulesStrings.15>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.16>bodypart_adjective->грубый</Combat_MeleeIncludes.rulePack.rulesStrings.16>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.17>bodypart_adjective->крепкий</Combat_MeleeIncludes.rulePack.rulesStrings.17>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.18>bodypart_adjective->дюжий</Combat_MeleeIncludes.rulePack.rulesStrings.18>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.19>bodypart_adjective->плотный</Combat_MeleeIncludes.rulePack.rulesStrings.19>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.20>bodypart_adjective->дубовый</Combat_MeleeIncludes.rulePack.rulesStrings.20>
-  <!-- 21 только, если бъющий из плоти и крови -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.21>bodypart_adjective(initiator_flesh==True)->загрубевший</Combat_MeleeIncludes.rulePack.rulesStrings.21>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.22>bodypart_adjective->несокрушимый</Combat_MeleeIncludes.rulePack.rulesStrings.22>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.68>painstate->в</Combat_MeleeIncludes.rulePack.rulesStrings.68>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.69>painstate->от</Combat_MeleeIncludes.rulePack.rulesStrings.69>
+	<!-- строка под свои нужды -->
+	<Combat_MeleeIncludes.rulePack.rulesStrings.70>reserve-></Combat_MeleeIncludes.rulePack.rulesStrings.70>
 
-  <!-- кого массажируем; 26, если четверо и больше -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.23>targetlist(recipient_part_count==1)->[recipient_part0_label]</Combat_MeleeIncludes.rulePack.rulesStrings.23>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.24>targetlist(recipient_part_count==2)->[recipient_part0_label] да [recipient_part1_label]</Combat_MeleeIncludes.rulePack.rulesStrings.24>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.25>targetlist(recipient_part_count==3)->[recipient_part0_label], [recipient_part1_label] да [recipient_part2_label]</Combat_MeleeIncludes.rulePack.rulesStrings.25>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.26>targetlist->[recipient_part0_label], [recipient_part1_label], [recipient_part2_label] да [recipient_part3_label]</Combat_MeleeIncludes.rulePack.rulesStrings.26>
-
-  <!-- результат культурного обмена -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.27>damaged_present->раня</Combat_MeleeIncludes.rulePack.rulesStrings.27>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.28>damaged_present->увеча</Combat_MeleeIncludes.rulePack.rulesStrings.28>
-
-  <Combat_MeleeIncludes.rulePack.rulesStrings.29>destroyed(p=0.5)->destroyed</Combat_MeleeIncludes.rulePack.rulesStrings.29>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.30>destroyed(p=0.5)->demolished</Combat_MeleeIncludes.rulePack.rulesStrings.30>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.31>destroyed(p=0.5)->ruined</Combat_MeleeIncludes.rulePack.rulesStrings.31>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.32>destroyed(p=0.5)->wrecked</Combat_MeleeIncludes.rulePack.rulesStrings.32>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.33>result(p=0.5)->[damaged_present] [recipient_possessive] [targetlist]</Combat_MeleeIncludes.rulePack.rulesStrings.33>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.34>result(p=0.2)->[damaged_present] [recipient_possessive] [targetlist] [flavortextadverb]</Combat_MeleeIncludes.rulePack.rulesStrings.34>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.35>result(p=10000)->[damaged_present] [recipient_possessive] [targetlist] [flavortextsituation]</Combat_MeleeIncludes.rulePack.rulesStrings.35>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.36>result(p=0.2)->[damaged_present] [recipient_possessive] [targetlist] and [flavortextconsequence]</Combat_MeleeIncludes.rulePack.rulesStrings.36>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.37>flavortextadverb->painfully</Combat_MeleeIncludes.rulePack.rulesStrings.37>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.38>flavortextadverb->brutally</Combat_MeleeIncludes.rulePack.rulesStrings.38>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.39>flavortextadverb->horribly</Combat_MeleeIncludes.rulePack.rulesStrings.39>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.40>flavortextadverb->agonizingly</Combat_MeleeIncludes.rulePack.rulesStrings.40>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.41>flavortextadverb->fiercely</Combat_MeleeIncludes.rulePack.rulesStrings.41>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.42>flavortextadverb->ruthlessly</Combat_MeleeIncludes.rulePack.rulesStrings.42>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.43>flavortextadverb->savagely</Combat_MeleeIncludes.rulePack.rulesStrings.43>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.44>flavortextadverb->viciously</Combat_MeleeIncludes.rulePack.rulesStrings.44>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.45>flavortextadverb->mercilessly</Combat_MeleeIncludes.rulePack.rulesStrings.45>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.46>flavortextadverb->heartlessly</Combat_MeleeIncludes.rulePack.rulesStrings.46>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.47>flavortextsituation(recipient_flesh!=Mechanoid)->in an explosion of gore</Combat_MeleeIncludes.rulePack.rulesStrings.47>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.48>flavortextsituation(recipient_flesh==Mechanoid)->in an explosion of scrap</Combat_MeleeIncludes.rulePack.rulesStrings.48>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.49>flavortextsituation->without emotion</Combat_MeleeIncludes.rulePack.rulesStrings.49>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.50>flavortextsituation->while wearing a blank look</Combat_MeleeIncludes.rulePack.rulesStrings.50>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.51>flavortextsituation(initiator_flesh==Normal)->while wearing a savage look</Combat_MeleeIncludes.rulePack.rulesStrings.51>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.52>flavortextsituation(initiator_flesh==Normal)->while wearing a [badassadjective] look</Combat_MeleeIncludes.rulePack.rulesStrings.52>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.53>flavortextsituation(initiator_flesh==Normal)->while grimacing</Combat_MeleeIncludes.rulePack.rulesStrings.53>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.54>flavortextsituation(initiator_flesh==Normal)->while laughing</Combat_MeleeIncludes.rulePack.rulesStrings.54>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.55>flavortextsituation(initiator_flesh==Normal)->while smirking</Combat_MeleeIncludes.rulePack.rulesStrings.55>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.56>flavortextconsequence(recipient_flesh!=Mechanoid)->leaving a disgusting wound</Combat_MeleeIncludes.rulePack.rulesStrings.56>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.57>flavortextconsequence->leaving a horrific wound</Combat_MeleeIncludes.rulePack.rulesStrings.57>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.58>flavortextconsequence(recipient_flesh!=Mechanoid)->making [recipient_objective] [wince] [painevent]</Combat_MeleeIncludes.rulePack.rulesStrings.58>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.59>flavortextconsequence(p=0.2)->throwing [recipient_objective] off balance</Combat_MeleeIncludes.rulePack.rulesStrings.59>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.60>wince(recipient_flesh==Normal)->wince</Combat_MeleeIncludes.rulePack.rulesStrings.60>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.61>wince(recipient_flesh==Normal)->grimace</Combat_MeleeIncludes.rulePack.rulesStrings.61>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.62>wince(recipient_flesh==Normal)->cringe</Combat_MeleeIncludes.rulePack.rulesStrings.62>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.63>wince(recipient_flesh==Normal)->groan</Combat_MeleeIncludes.rulePack.rulesStrings.63>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.64>wince(recipient_flesh!=Mechanoid)->scream</Combat_MeleeIncludes.rulePack.rulesStrings.64>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.65>wince(recipient_flesh!=Mechanoid)->shout</Combat_MeleeIncludes.rulePack.rulesStrings.65>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.66>wince->recoil</Combat_MeleeIncludes.rulePack.rulesStrings.66>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.67>wince->stumble</Combat_MeleeIncludes.rulePack.rulesStrings.67>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.68>painstate->in</Combat_MeleeIncludes.rulePack.rulesStrings.68>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.69>painstate->with</Combat_MeleeIncludes.rulePack.rulesStrings.69>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.70>painstate->from the</Combat_MeleeIncludes.rulePack.rulesStrings.70>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.71>painevent(recipient_flesh!=Mechanoid)->[painstate] pain</Combat_MeleeIncludes.rulePack.rulesStrings.71>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.72>painevent(recipient_flesh!=Mechanoid)->[painstate] agony</Combat_MeleeIncludes.rulePack.rulesStrings.72>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.73>painevent(recipient_flesh==Normal)->with misery</Combat_MeleeIncludes.rulePack.rulesStrings.73>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.74>painevent->from the injury</Combat_MeleeIncludes.rulePack.rulesStrings.74>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.75>painevent->from the wound</Combat_MeleeIncludes.rulePack.rulesStrings.75>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.71>painevent(recipient_flesh!=Mechanoid)->[painstate] боли</Combat_MeleeIncludes.rulePack.rulesStrings.71>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.72>painevent(recipient_flesh!=Mechanoid)->[painstate] агонии</Combat_MeleeIncludes.rulePack.rulesStrings.72>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.73>painevent(recipient_flesh==Normal)->от мук</Combat_MeleeIncludes.rulePack.rulesStrings.73>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.74>painevent->от увечий</Combat_MeleeIncludes.rulePack.rulesStrings.74>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.75>painevent->от ран</Combat_MeleeIncludes.rulePack.rulesStrings.75>
+	<!-- снаряды для взрывов -->
   <Combat_MeleeIncludes.rulePack.rulesStrings.76>mortarshell->shell</Combat_MeleeIncludes.rulePack.rulesStrings.76>
   <Combat_MeleeIncludes.rulePack.rulesStrings.77>mortarshell->shot</Combat_MeleeIncludes.rulePack.rulesStrings.77>
   <Combat_MeleeIncludes.rulePack.rulesStrings.78>mortarshell->projectile</Combat_MeleeIncludes.rulePack.rulesStrings.78>
@@ -98,49 +115,56 @@
   <Combat_MeleeIncludes.rulePack.rulesStrings.81>mortarshell(p=0.3)->ballistic shell</Combat_MeleeIncludes.rulePack.rulesStrings.81>
   <Combat_MeleeIncludes.rulePack.rulesStrings.82>mortarshell(p=0.3)->ballistic shot</Combat_MeleeIncludes.rulePack.rulesStrings.82>
   <Combat_MeleeIncludes.rulePack.rulesStrings.83>mortarshell(p=0.3)->ballistic projectile</Combat_MeleeIncludes.rulePack.rulesStrings.83>
+
   <Combat_MeleeIncludes.rulePack.rulesStrings.84>to->to</Combat_MeleeIncludes.rulePack.rulesStrings.84>
   <Combat_MeleeIncludes.rulePack.rulesStrings.85>to->into</Combat_MeleeIncludes.rulePack.rulesStrings.85>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.86>initiator_definite->[initiator_labelDefinite]</Combat_MeleeIncludes.rulePack.rulesStrings.86>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.87>initiator_definite->[initiator_nameShortDef]</Combat_MeleeIncludes.rulePack.rulesStrings.87>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.88>recipient_definite->[recipient_labelDefinite]</Combat_MeleeIncludes.rulePack.rulesStrings.88>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.89>recipient_definite->[recipient_nameShortDef]</Combat_MeleeIncludes.rulePack.rulesStrings.89>
 
-  <Combat_WoundIncludes.rulePack.rulesStrings.0>destroyed_targets(recipient_part_destroyed_count==1)->[recipient_part_destroyed0_label]</Combat_WoundIncludes.rulePack.rulesStrings.0>
-  <Combat_WoundIncludes.rulePack.rulesStrings.1>destroyed_targets(recipient_part_destroyed_count==2)->[recipient_part_destroyed0_label] and [recipient_part_destroyed1_label]</Combat_WoundIncludes.rulePack.rulesStrings.1>
-  <Combat_WoundIncludes.rulePack.rulesStrings.2>destroyed_targets(recipient_part_destroyed_count==3)->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], and [recipient_part_destroyed2_label]</Combat_WoundIncludes.rulePack.rulesStrings.2>
-  <Combat_WoundIncludes.rulePack.rulesStrings.3>destroyed_targets->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], [recipient_part_destroyed2_label], and [recipient_part_destroyed3_label]</Combat_WoundIncludes.rulePack.rulesStrings.3>
-  <Combat_WoundIncludes.rulePack.rulesStrings.4>damaged_targets(recipient_part_damaged_count==1)->[recipient_part_damaged0_label]</Combat_WoundIncludes.rulePack.rulesStrings.4>
-  <Combat_WoundIncludes.rulePack.rulesStrings.5>damaged_targets(recipient_part_damaged_count==2)->[recipient_part_damaged0_label] and [recipient_part_damaged1_label]</Combat_WoundIncludes.rulePack.rulesStrings.5>
-  <Combat_WoundIncludes.rulePack.rulesStrings.6>damaged_targets(recipient_part_damaged_count==3)->[recipient_part_damaged0_label], [recipient_part_damaged1_label], and [recipient_part_damaged2_label]</Combat_WoundIncludes.rulePack.rulesStrings.6>
-  <Combat_WoundIncludes.rulePack.rulesStrings.7>damaged_targets->[recipient_part_damaged0_label], [recipient_part_damaged1_label], [recipient_part_damaged2_label], and [recipient_part_damaged3_label]</Combat_WoundIncludes.rulePack.rulesStrings.7>
-  <Combat_WoundIncludes.rulePack.rulesStrings.8>expertly->expertly</Combat_WoundIncludes.rulePack.rulesStrings.8>
-  <Combat_WoundIncludes.rulePack.rulesStrings.9>expertly->adeptly</Combat_WoundIncludes.rulePack.rulesStrings.9>
-  <Combat_WoundIncludes.rulePack.rulesStrings.10>expertly->adroitly</Combat_WoundIncludes.rulePack.rulesStrings.10>
-  <Combat_WoundIncludes.rulePack.rulesStrings.11>expertly->deftly</Combat_WoundIncludes.rulePack.rulesStrings.11>
-  <Combat_WoundIncludes.rulePack.rulesStrings.12>expertly->skillfully</Combat_WoundIncludes.rulePack.rulesStrings.12>
-  <Combat_WoundIncludes.rulePack.rulesStrings.13>expertly->slickly</Combat_WoundIncludes.rulePack.rulesStrings.13>
-  <Combat_WoundIncludes.rulePack.rulesStrings.14>expertly->professionally</Combat_WoundIncludes.rulePack.rulesStrings.14>
-  <Combat_WoundIncludes.rulePack.rulesStrings.15>expertly->aptly</Combat_WoundIncludes.rulePack.rulesStrings.15>
-  <Combat_WoundIncludes.rulePack.rulesStrings.16>expertly->dexterously</Combat_WoundIncludes.rulePack.rulesStrings.16>
-  <Combat_WoundIncludes.rulePack.rulesStrings.17>expertly->cleverly</Combat_WoundIncludes.rulePack.rulesStrings.17>
-  <Combat_WoundIncludes.rulePack.rulesStrings.18>expertly->masterfully</Combat_WoundIncludes.rulePack.rulesStrings.18>
-  <Combat_WoundIncludes.rulePack.rulesStrings.19>expertly->artistically</Combat_WoundIncludes.rulePack.rulesStrings.19>
-  <Combat_WoundIncludes.rulePack.rulesStrings.20>expertly->with skill</Combat_WoundIncludes.rulePack.rulesStrings.20>
-  <Combat_WoundIncludes.rulePack.rulesStrings.21>expertly->with impressive experience</Combat_WoundIncludes.rulePack.rulesStrings.21>
-  <Combat_WoundIncludes.rulePack.rulesStrings.22>expertly->with flair</Combat_WoundIncludes.rulePack.rulesStrings.22>
-  <Combat_WoundIncludes.rulePack.rulesStrings.23>expertly->with care</Combat_WoundIncludes.rulePack.rulesStrings.23>
-  <Combat_WoundIncludes.rulePack.rulesStrings.24>expertly->with precision</Combat_WoundIncludes.rulePack.rulesStrings.24>
-  <Combat_WoundIncludes.rulePack.rulesStrings.25>expertly->with proficiency</Combat_WoundIncludes.rulePack.rulesStrings.25>
-  <Combat_WoundIncludes.rulePack.rulesStrings.26>expertly->with strength</Combat_WoundIncludes.rulePack.rulesStrings.26>
-  <Combat_WoundIncludes.rulePack.rulesStrings.27>expertly->with dexterity</Combat_WoundIncludes.rulePack.rulesStrings.27>
-  <Combat_WoundIncludes.rulePack.rulesStrings.28>expertly->with mastery</Combat_WoundIncludes.rulePack.rulesStrings.28>
-  <Combat_WoundIncludes.rulePack.rulesStrings.29>expertly->with artistry</Combat_WoundIncludes.rulePack.rulesStrings.29>
-  <Combat_WoundIncludes.rulePack.rulesStrings.30>expertly->with professionalism</Combat_WoundIncludes.rulePack.rulesStrings.30>
-  <Combat_WoundIncludes.rulePack.rulesStrings.31>expertly->like a virtuoso</Combat_WoundIncludes.rulePack.rulesStrings.31>
-  <Combat_WoundIncludes.rulePack.rulesStrings.32>expertly->like an expert</Combat_WoundIncludes.rulePack.rulesStrings.32>
-  <Combat_WoundIncludes.rulePack.rulesStrings.33>expertly->like a master</Combat_WoundIncludes.rulePack.rulesStrings.33>
-  <Combat_WoundIncludes.rulePack.rulesStrings.34>expertly->like an artist</Combat_WoundIncludes.rulePack.rulesStrings.34>
-  <Combat_WoundIncludes.rulePack.rulesStrings.35>expertly->like a pro</Combat_WoundIncludes.rulePack.rulesStrings.35>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.86>initiator_definite->[initiator_labelDefinite]</Combat_MeleeIncludes.rulePack.rulesStrings.86>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.87>initiator_definite->[initiator_nameShortDef]</Combat_MeleeIncludes.rulePack.rulesStrings.87>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.88>recipient_definite->[recipient_labelDefinite]</Combat_MeleeIncludes.rulePack.rulesStrings.88>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.89>recipient_definite->[recipient_nameShortDef]</Combat_MeleeIncludes.rulePack.rulesStrings.89>
+
+	<!-- нанесение ран, увечий и прочих радостей -->
+	<!-- что поломали (по количеству) -->
+	<Combat_WoundIncludes.rulePack.rulesStrings.0>destroyed_targets(recipient_part_destroyed_count==1)->[recipient_part_destroyed0_label]</Combat_WoundIncludes.rulePack.rulesStrings.0>
+	<Combat_WoundIncludes.rulePack.rulesStrings.1>destroyed_targets(recipient_part_destroyed_count==2)->[recipient_part_destroyed0_label] и [recipient_part_destroyed1_label]</Combat_WoundIncludes.rulePack.rulesStrings.1>
+	<Combat_WoundIncludes.rulePack.rulesStrings.2>destroyed_targets(recipient_part_destroyed_count==3)->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], да [recipient_part_destroyed2_label]</Combat_WoundIncludes.rulePack.rulesStrings.2>
+	<Combat_WoundIncludes.rulePack.rulesStrings.3>destroyed_targets->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], [recipient_part_destroyed2_label], да [recipient_part_destroyed3_label]</Combat_WoundIncludes.rulePack.rulesStrings.3>
+	<!-- что только погнули -->
+	<Combat_WoundIncludes.rulePack.rulesStrings.4>damaged_targets(recipient_part_damaged_count==1)->[recipient_part_damaged0_label]</Combat_WoundIncludes.rulePack.rulesStrings.4>
+	<Combat_WoundIncludes.rulePack.rulesStrings.5>damaged_targets(recipient_part_damaged_count==2)->[recipient_part_damaged0_label] и [recipient_part_damaged1_label]</Combat_WoundIncludes.rulePack.rulesStrings.5>
+	<Combat_WoundIncludes.rulePack.rulesStrings.6>damaged_targets(recipient_part_damaged_count==3)->[recipient_part_damaged0_label], [recipient_part_damaged1_label], да [recipient_part_damaged2_label]</Combat_WoundIncludes.rulePack.rulesStrings.6>
+	<Combat_WoundIncludes.rulePack.rulesStrings.7>damaged_targets->[recipient_part_damaged0_label], [recipient_part_damaged1_label], [recipient_part_damaged2_label], да [recipient_part_damaged3_label]</Combat_WoundIncludes.rulePack.rulesStrings.7>
+	<!-- уровень мастерства -->
+	<Combat_WoundIncludes.rulePack.rulesStrings.8>expertly->со знанием дела</Combat_WoundIncludes.rulePack.rulesStrings.8>
+	<Combat_WoundIncludes.rulePack.rulesStrings.9>expertly->искустно</Combat_WoundIncludes.rulePack.rulesStrings.9>
+	<Combat_WoundIncludes.rulePack.rulesStrings.10>expertly->проворно</Combat_WoundIncludes.rulePack.rulesStrings.10>
+	<Combat_WoundIncludes.rulePack.rulesStrings.11>expertly->ловко</Combat_WoundIncludes.rulePack.rulesStrings.11>
+	<Combat_WoundIncludes.rulePack.rulesStrings.12>expertly->умело</Combat_WoundIncludes.rulePack.rulesStrings.12>
+	<Combat_WoundIncludes.rulePack.rulesStrings.13>expertly->без затруднений</Combat_WoundIncludes.rulePack.rulesStrings.13>
+	<Combat_WoundIncludes.rulePack.rulesStrings.14>expertly->профессионально</Combat_WoundIncludes.rulePack.rulesStrings.14>
+	<Combat_WoundIncludes.rulePack.rulesStrings.15>expertly->как надо</Combat_WoundIncludes.rulePack.rulesStrings.15>
+	<Combat_WoundIncludes.rulePack.rulesStrings.16>expertly->сноровисто</Combat_WoundIncludes.rulePack.rulesStrings.16>
+	<Combat_WoundIncludes.rulePack.rulesStrings.17>expertly->толково</Combat_WoundIncludes.rulePack.rulesStrings.17>
+	<Combat_WoundIncludes.rulePack.rulesStrings.18>expertly->мастерски</Combat_WoundIncludes.rulePack.rulesStrings.18>
+	<Combat_WoundIncludes.rulePack.rulesStrings.19>expertly->виртуозно</Combat_WoundIncludes.rulePack.rulesStrings.19>
+	<Combat_WoundIncludes.rulePack.rulesStrings.20>expertly->с умением</Combat_WoundIncludes.rulePack.rulesStrings.20>
+	<Combat_WoundIncludes.rulePack.rulesStrings.21>expertly->со впечатляющей опытностью</Combat_WoundIncludes.rulePack.rulesStrings.21>
+	<Combat_WoundIncludes.rulePack.rulesStrings.22>expertly->талантливо</Combat_WoundIncludes.rulePack.rulesStrings.22>
+	<Combat_WoundIncludes.rulePack.rulesStrings.23>expertly->рссчётливо</Combat_WoundIncludes.rulePack.rulesStrings.23>
+	<Combat_WoundIncludes.rulePack.rulesStrings.24>expertly->аккуратно</Combat_WoundIncludes.rulePack.rulesStrings.24>
+	<Combat_WoundIncludes.rulePack.rulesStrings.25>expertly->со знанием и опытом</Combat_WoundIncludes.rulePack.rulesStrings.25>
+	<Combat_WoundIncludes.rulePack.rulesStrings.26>expertly->с силой</Combat_WoundIncludes.rulePack.rulesStrings.26>
+	<Combat_WoundIncludes.rulePack.rulesStrings.27>expertly->с ловкостью</Combat_WoundIncludes.rulePack.rulesStrings.27>
+	<Combat_WoundIncludes.rulePack.rulesStrings.28>expertly->с мастерством</Combat_WoundIncludes.rulePack.rulesStrings.28>
+	<Combat_WoundIncludes.rulePack.rulesStrings.29>expertly->с артистизмом</Combat_WoundIncludes.rulePack.rulesStrings.29>
+	<Combat_WoundIncludes.rulePack.rulesStrings.30>expertly->с профессионализмом</Combat_WoundIncludes.rulePack.rulesStrings.30>
+	<Combat_WoundIncludes.rulePack.rulesStrings.31>expertly->сродни кудеснику</Combat_WoundIncludes.rulePack.rulesStrings.31>
+	<Combat_WoundIncludes.rulePack.rulesStrings.32>expertly->сродни знатоку</Combat_WoundIncludes.rulePack.rulesStrings.32>
+	<Combat_WoundIncludes.rulePack.rulesStrings.33>expertly->сродни мастеру</Combat_WoundIncludes.rulePack.rulesStrings.33>
+	<Combat_WoundIncludes.rulePack.rulesStrings.34>expertly->сродни художнику</Combat_WoundIncludes.rulePack.rulesStrings.34>
+	<Combat_WoundIncludes.rulePack.rulesStrings.35>expertly->сродни профи</Combat_WoundIncludes.rulePack.rulesStrings.35>
+
   <Combat_WoundIncludes.rulePack.rulesStrings.36>expert->expert</Combat_WoundIncludes.rulePack.rulesStrings.36>
   <Combat_WoundIncludes.rulePack.rulesStrings.37>expert->adept</Combat_WoundIncludes.rulePack.rulesStrings.37>
   <Combat_WoundIncludes.rulePack.rulesStrings.38>expert->adroit</Combat_WoundIncludes.rulePack.rulesStrings.38>
@@ -154,59 +178,73 @@
   <Combat_WoundIncludes.rulePack.rulesStrings.46>expert->masterful</Combat_WoundIncludes.rulePack.rulesStrings.46>
   <Combat_WoundIncludes.rulePack.rulesStrings.47>expert->artistic</Combat_WoundIncludes.rulePack.rulesStrings.47>
 
-  <Combat_Hit.rulePack.rulesStrings.0>logentry(p=0.3)->[initiator_definite] [damaged_past] [recipient_definite] in the [recipient_part0_label].</Combat_Hit.rulePack.rulesStrings.0>
-  <Combat_Hit.rulePack.rulesStrings.1>logentry(p=0.1)->[initiator_definite] [damaged_past] [recipient_definite] in the [recipient_part0_label] [flavortextadverb].</Combat_Hit.rulePack.rulesStrings.1>
-  <Combat_Hit.rulePack.rulesStrings.2>logentry(p=0.1)->[initiator_definite] [damaged_past] [recipient_definite] in the [recipient_part0_label] [flavortextsituation].</Combat_Hit.rulePack.rulesStrings.2>
-  <Combat_Hit.rulePack.rulesStrings.3>logentry(p=0.1)->[initiator_definite] [damaged_past] [recipient_definite] in the [recipient_part0_label], [flavortextconsequence].</Combat_Hit.rulePack.rulesStrings.3>
-  <Combat_Hit.rulePack.rulesStrings.4>logentry(p=0.4)->[initiator_definite], wielding [initiator_possessive] [weapon_label] [expertly], [flavortextadverb] [damaged_past] [recipient_definite] in the [recipient_part0_label].</Combat_Hit.rulePack.rulesStrings.4>
-  <Combat_Hit.rulePack.rulesStrings.5>logentry(p=0.3)->[initiator_definite] [destroyed_past] [recipient_definite]'s [destroyed_targets].</Combat_Hit.rulePack.rulesStrings.5>
-  <Combat_Hit.rulePack.rulesStrings.6>logentry(p=0.3)->[initiator_definite] [destroyed_past] [recipient_definite]'s [destroyed_targets] [destroyed_suffix].</Combat_Hit.rulePack.rulesStrings.6>
-  <Combat_Hit.rulePack.rulesStrings.7>logentry(p=0.3)->[initiator_definite] [destroyed_past] [recipient_definite]'s [destroyed_targets] [expertly].</Combat_Hit.rulePack.rulesStrings.7>
-  <Combat_Hit.rulePack.rulesStrings.8>logentry(p=0.3)->[initiator_definite] [destroyed_past] [recipient_definite]'s [destroyed_targets] with [implement].</Combat_Hit.rulePack.rulesStrings.8>
-  <Combat_Hit.rulePack.rulesStrings.9>result(p=1,recipient_part_damaged_count==0)->[destroyed_present] [recipient_possessive] [destroyed_targets]</Combat_Hit.rulePack.rulesStrings.9>
-  <Combat_Hit.rulePack.rulesStrings.10>result(p=1,recipient_part_destroyed_count==0)->[damaged_present] [recipient_possessive] [damaged_targets]</Combat_Hit.rulePack.rulesStrings.10>
-  <Combat_Hit.rulePack.rulesStrings.11>result(p=1)->[destroyed_present] [recipient_possessive] [destroyed_targets] and [damaged_present] [recipient_possessive] [damaged_targets]</Combat_Hit.rulePack.rulesStrings.11>
-  <Combat_Hit.rulePack.rulesStrings.12>action(p=0.3)->[initiator_definite] hit [recipient_definite] with a [damaged_inf] from [implement]</Combat_Hit.rulePack.rulesStrings.12>
-  <Combat_Hit.rulePack.rulesStrings.13>action(p=0.3)->[initiator_definite] used [implement] to [damaged_inf] [recipient_definite]</Combat_Hit.rulePack.rulesStrings.13>
-  <Combat_Hit.rulePack.rulesStrings.14>action->[initiator_definite] [damaged_past] [recipient_definite] with [implement]</Combat_Hit.rulePack.rulesStrings.14>
-  <Combat_Hit.rulePack.rulesStrings.15>action(p=0.6)->[initiator_definite] [damaged_past] [recipient_definite]</Combat_Hit.rulePack.rulesStrings.15>
+	<!-- Попадание в рукопашной -->
+	<Combat_Hit.rulePack.rulesStrings.0>logentry(p=0.3)->[initiator_definite] [damaged_past] [recipient_part0_label] [recipient_definite].</Combat_Hit.rulePack.rulesStrings.0>
+	<Combat_Hit.rulePack.rulesStrings.1>logentry(p=0.1)->[initiator_definite] [flavortextadverb] [damaged_past] [recipient_part0_label].</Combat_Hit.rulePack.rulesStrings.1>
+	<Combat_Hit.rulePack.rulesStrings.2>logentry(p=0.1)->[initiator_definite] [damaged_past] [flavortextsituation] [recipient_part0_label] [recipient_definite].</Combat_Hit.rulePack.rulesStrings.2>
+	<Combat_Hit.rulePack.rulesStrings.3>logentry(p=0.1)->[initiator_definite] [damaged_past] [recipient_part0_label] [recipient_definite], [flavortextconsequence].</Combat_Hit.rulePack.rulesStrings.3>
+	<Combat_Hit.rulePack.rulesStrings.4>logentry(p=0.4)->[initiator_definite], [expertly] орудуя [weapon_label], [flavortextadverb] [damaged_past] [recipient_part0_label] [recipient_definite].</Combat_Hit.rulePack.rulesStrings.4>
+	<!-- combined high priority, if we destroyed something -->
+	<Combat_Hit.rulePack.rulesStrings.5>logentry(p=0.3)->[initiator_definite] [destroyed_past] [destroyed_targets] [recipient_definite].</Combat_Hit.rulePack.rulesStrings.5>
+	<Combat_Hit.rulePack.rulesStrings.6>logentry(p=0.3)->[initiator_definite] [destroyed_suffix] [destroyed_past] [destroyed_targets] [recipient_definite].</Combat_Hit.rulePack.rulesStrings.6>
+	<Combat_Hit.rulePack.rulesStrings.7>logentry(p=0.3)->[initiator_definite] [expertly] [destroyed_past] [destroyed_targets] [recipient_definite].</Combat_Hit.rulePack.rulesStrings.7>
+	<Combat_Hit.rulePack.rulesStrings.8>logentry(p=0.3)->[initiator_definite] ударом [implement] [destroyed_past] [destroyed_targets] [recipient_definite].</Combat_Hit.rulePack.rulesStrings.8>
+	<!-- результат действия для лога -->
+	<Combat_Hit.rulePack.rulesStrings.9>result(p=1,recipient_part_damaged_count==0)->[destroyed_present] [recipient_objective] [destroyed_targets]</Combat_Hit.rulePack.rulesStrings.9>
+	<Combat_Hit.rulePack.rulesStrings.10>result(p=1,recipient_part_destroyed_count==0)->[damaged_present] [recipient_objective] [damaged_targets]</Combat_Hit.rulePack.rulesStrings.10>
+	<Combat_Hit.rulePack.rulesStrings.11>result(p=1)->[destroyed_present] [recipient_objective] [destroyed_targets] и [damaged_present] [damaged_targets]</Combat_Hit.rulePack.rulesStrings.11>
+	<!-- действия для лога -->
+	<Combat_Hit.rulePack.rulesStrings.12>action(p=0.3)->[initiator_definite] удаётся [damaged_inf] [recipient_definite] [implement]</Combat_Hit.rulePack.rulesStrings.12>
+	<Combat_Hit.rulePack.rulesStrings.13>action(p=0.3)->[initiator_definite] пускает в ход [implement], чтобы [damaged_inf] [recipient_definite]</Combat_Hit.rulePack.rulesStrings.13>
+	<Combat_Hit.rulePack.rulesStrings.14>action->[initiator_definite] [damaged_past] [implement] [recipient_definite]</Combat_Hit.rulePack.rulesStrings.14>
+	<Combat_Hit.rulePack.rulesStrings.15>action(p=0.6)->[initiator_definite] [damaged_past] [recipient_definite]</Combat_Hit.rulePack.rulesStrings.15>
 
-  <Combat_FailIncludes.rulePack.rulesStrings.0>action->[initiator_definite] [tried] to [damaged_inf] [recipient_definite]</Combat_FailIncludes.rulePack.rulesStrings.0>
-  <Combat_FailIncludes.rulePack.rulesStrings.1>action->[initiator_definite] [tried] to [damaged_inf] [recipient_definite] with [implement]</Combat_FailIncludes.rulePack.rulesStrings.1>
-  <Combat_FailIncludes.rulePack.rulesStrings.2>action->[initiator_definite] [tried] to use [implement] to [damaged_inf] [recipient_definite]</Combat_FailIncludes.rulePack.rulesStrings.2>
-  <Combat_FailIncludes.rulePack.rulesStrings.3>action->[initiator_definite] swung [initiator_possessive] [weapon_label] at [recipient_definite]</Combat_FailIncludes.rulePack.rulesStrings.3>
-  <Combat_FailIncludes.rulePack.rulesStrings.4>action(p=0.3)->[initiator_definite] [genericattackverb] [towardsat] [recipient_definite] with [implement]</Combat_FailIncludes.rulePack.rulesStrings.4>
+	<!-- неудачная атака в рукопашной -->
+	<Combat_FailIncludes.rulePack.rulesStrings.0>action->[initiator_definite] [tried] [damaged_inf] [recipient_definite]</Combat_FailIncludes.rulePack.rulesStrings.0>
+	<Combat_FailIncludes.rulePack.rulesStrings.1>action->[initiator_definite] [tried] [damaged_inf] [implement] [recipient_definite]</Combat_FailIncludes.rulePack.rulesStrings.1>
+	<Combat_FailIncludes.rulePack.rulesStrings.2>action->[initiator_definite] [tried] использовать [implement], чтобы [damaged_inf] [recipient_definite]</Combat_FailIncludes.rulePack.rulesStrings.2>
+	<Combat_FailIncludes.rulePack.rulesStrings.3>action->[initiator_definite] замахивается на [recipient_definite] [weapon_label]</Combat_FailIncludes.rulePack.rulesStrings.3>
+	<Combat_FailIncludes.rulePack.rulesStrings.4>action(p=0.3)->[initiator_definite] [genericattackverb] [implement] [towardsat] [recipient_definite]</Combat_FailIncludes.rulePack.rulesStrings.4>
   <Combat_FailIncludes.rulePack.rulesStrings.5>action(p=0.3)->[initiator_definite] [genericattackverb] [towardsat] [recipient_definite]</Combat_FailIncludes.rulePack.rulesStrings.5>
-  <Combat_FailIncludes.rulePack.rulesStrings.6>action(p=0.3)->[initiator_definite] [genericattackverb] with [implement]</Combat_FailIncludes.rulePack.rulesStrings.6>
-  <Combat_FailIncludes.rulePack.rulesStrings.7>towardsat->towards</Combat_FailIncludes.rulePack.rulesStrings.7>
-  <Combat_FailIncludes.rulePack.rulesStrings.8>towardsat->at</Combat_FailIncludes.rulePack.rulesStrings.8>
-  <Combat_FailIncludes.rulePack.rulesStrings.9>genericattackverb->swung</Combat_FailIncludes.rulePack.rulesStrings.9>
-  <Combat_FailIncludes.rulePack.rulesStrings.10>genericattackverb->flailed</Combat_FailIncludes.rulePack.rulesStrings.10>
-  <Combat_FailIncludes.rulePack.rulesStrings.11>genericattackverb->thrashed</Combat_FailIncludes.rulePack.rulesStrings.11>
-  <Combat_FailIncludes.rulePack.rulesStrings.12>tried->tried</Combat_FailIncludes.rulePack.rulesStrings.12>
-  <Combat_FailIncludes.rulePack.rulesStrings.13>tried->attempted</Combat_FailIncludes.rulePack.rulesStrings.13>
+  <Combat_FailIncludes.rulePack.rulesStrings.6>action(p=0.3)->[initiator_definite] [genericattackverb] [implement]</Combat_FailIncludes.rulePack.rulesStrings.6>
 
-  <Combat_Miss.rulePack.rulesStrings.0>logentry(p=0.2)->[recipient_definite] avoided [initiator_definite]'s [weapon_label] [damaged_inf].</Combat_Miss.rulePack.rulesStrings.0>
-  <Combat_Miss.rulePack.rulesStrings.1>logentry(p=0.2)->[initiator_definite] missed [recipient_definite] with a [damaged_inf] from [implement].</Combat_Miss.rulePack.rulesStrings.1>
-  <Combat_Miss.rulePack.rulesStrings.2>logentry(p=0.2)->[initiator_definite] [failtype] while trying to [damaged_inf] [recipient_definite] with [implement].</Combat_Miss.rulePack.rulesStrings.2>
-  <Combat_Miss.rulePack.rulesStrings.3>logentry(p=0.2)->[initiator_definite] [failtype] while trying to [damaged_inf] [recipient_definite].</Combat_Miss.rulePack.rulesStrings.3>
+	<Combat_FailIncludes.rulePack.rulesStrings.7>towardsat->навстречу</Combat_FailIncludes.rulePack.rulesStrings.7>
+	<Combat_FailIncludes.rulePack.rulesStrings.8>towardsat->в сторону</Combat_FailIncludes.rulePack.rulesStrings.8>
+
+	<Combat_FailIncludes.rulePack.rulesStrings.9>genericattackverb->размахивает</Combat_FailIncludes.rulePack.rulesStrings.9>
+	<Combat_FailIncludes.rulePack.rulesStrings.10>genericattackverb->молотит</Combat_FailIncludes.rulePack.rulesStrings.10>
+	<Combat_FailIncludes.rulePack.rulesStrings.11>genericattackverb->лупит</Combat_FailIncludes.rulePack.rulesStrings.11>
+
+	<Combat_FailIncludes.rulePack.rulesStrings.12>tried->пробует</Combat_FailIncludes.rulePack.rulesStrings.12>
+	<Combat_FailIncludes.rulePack.rulesStrings.13>tried->пытается</Combat_FailIncludes.rulePack.rulesStrings.13>
+
+	<!-- Промах в рукопашной -->
+	<Combat_Miss.rulePack.rulesStrings.0>logentry(p=0.2)->[recipient_definite] миновала атака [weapon_label] [initiator_definite].</Combat_Miss.rulePack.rulesStrings.0>
+	<Combat_Miss.rulePack.rulesStrings.1>logentry(p=0.2)->[initiator_definite] не удаётся [damaged_inf] [implement] [recipient_definite].</Combat_Miss.rulePack.rulesStrings.1>
+	<Combat_Miss.rulePack.rulesStrings.2>logentry(p=0.2)->[initiator_definite] [failtype], когда пытается [damaged_inf] [implement] [recipient_definite].</Combat_Miss.rulePack.rulesStrings.2>
+  <Combat_Miss.rulePack.rulesStrings.3>logentry(p=0.2)->[initiator_definite] [failtype], когда пытается [damaged_inf] [recipient_definite].</Combat_Miss.rulePack.rulesStrings.3>
   <Combat_Miss.rulePack.rulesStrings.4>logentry(p=0.2)->[initiator_definite] [failtype].</Combat_Miss.rulePack.rulesStrings.4>
-  <Combat_Miss.rulePack.rulesStrings.5>failtype->stumbled</Combat_Miss.rulePack.rulesStrings.5>
-  <Combat_Miss.rulePack.rulesStrings.6>failtype->tripped</Combat_Miss.rulePack.rulesStrings.6>
-  <Combat_Miss.rulePack.rulesStrings.7>failtype->flailed</Combat_Miss.rulePack.rulesStrings.7>
-  <Combat_Miss.rulePack.rulesStrings.8>failtype->floundered</Combat_Miss.rulePack.rulesStrings.8>
-  <Combat_Miss.rulePack.rulesStrings.9>failtype->missed</Combat_Miss.rulePack.rulesStrings.9>
-  <Combat_Miss.rulePack.rulesStrings.10>result->but missed</Combat_Miss.rulePack.rulesStrings.10>
-  <Combat_Miss.rulePack.rulesStrings.11>result->but hit only air</Combat_Miss.rulePack.rulesStrings.11>
-  <Combat_Miss.rulePack.rulesStrings.12>result->but the swing went wide</Combat_Miss.rulePack.rulesStrings.12>
-  <Combat_Miss.rulePack.rulesStrings.13>result->but stumbled at the last second</Combat_Miss.rulePack.rulesStrings.13>
-  <Combat_Miss.rulePack.rulesStrings.14>result(initiator_flesh!=Mechanoid)->but hesitated at the last second</Combat_Miss.rulePack.rulesStrings.14>
 
-  <Combat_Dodge.rulePack.rulesStrings.0>logentry(p=0.2)->[recipient_definite] dodged [initiator_definite]'s [damaged_inf] from [implement].</Combat_Dodge.rulePack.rulesStrings.0>
-  <Combat_Dodge.rulePack.rulesStrings.1>logentry(p=0.2)->[recipient_definite] dodged [initiator_definite]'s [damaged_inf].</Combat_Dodge.rulePack.rulesStrings.1>
-  <Combat_Dodge.rulePack.rulesStrings.2>result->but [recipient_definite] leapt out of the way</Combat_Dodge.rulePack.rulesStrings.2>
-  <Combat_Dodge.rulePack.rulesStrings.3>result->but was deceived by [recipient_definite]'s feint</Combat_Dodge.rulePack.rulesStrings.3>
-  <Combat_Dodge.rulePack.rulesStrings.4>result->but the attack was cleverly avoided</Combat_Dodge.rulePack.rulesStrings.4>
+	<Combat_Miss.rulePack.rulesStrings.5>failtype->оступается</Combat_Miss.rulePack.rulesStrings.5>
+	<Combat_Miss.rulePack.rulesStrings.6>failtype->спотыкается</Combat_Miss.rulePack.rulesStrings.6>
+	<Combat_Miss.rulePack.rulesStrings.7>failtype->даёт маху</Combat_Miss.rulePack.rulesStrings.7>
+	<Combat_Miss.rulePack.rulesStrings.8>failtype->запутывается</Combat_Miss.rulePack.rulesStrings.8>
+	<Combat_Miss.rulePack.rulesStrings.9>failtype->мажет</Combat_Miss.rulePack.rulesStrings.9>
+	<!-- результат для лога -->
+	<Combat_Miss.rulePack.rulesStrings.10>result->но промахивается</Combat_Miss.rulePack.rulesStrings.10>
+	<Combat_Miss.rulePack.rulesStrings.11>result->но лишь рассекает воздух</Combat_Miss.rulePack.rulesStrings.11>
+	<Combat_Miss.rulePack.rulesStrings.12>result->но попадает в молоко.</Combat_Miss.rulePack.rulesStrings.12>
+	<Combat_Miss.rulePack.rulesStrings.13>result->но в последний момент оступается</Combat_Miss.rulePack.rulesStrings.13>
+	<!-- нападающий не механоид -->
+	<Combat_Miss.rulePack.rulesStrings.14>result(initiator_flesh!=Mechanoid)->но запинается в последний момент</Combat_Miss.rulePack.rulesStrings.14>
+
+	<!-- защищающийся уворачивается -->
+	<Combat_Dodge.rulePack.rulesStrings.0>logentry(p=0.2)->[recipient_definite] уворачивается от попытки [initiator_definite] [damaged_inf] [implement].</Combat_Dodge.rulePack.rulesStrings.0>
+	<Combat_Dodge.rulePack.rulesStrings.1>logentry(p=0.2)->[recipient_definite] уворачивается попытки [initiator_definite] [damaged_inf].</Combat_Dodge.rulePack.rulesStrings.1>
+	<!-- результат для лога -->
+	<Combat_Dodge.rulePack.rulesStrings.2>result->но [recipient_definite] отскакивает в сторону</Combat_Dodge.rulePack.rulesStrings.2>
+	<Combat_Dodge.rulePack.rulesStrings.3>result->но финтом [recipient_definite] обводит [initiator_possessive] вокруг пальца</Combat_Dodge.rulePack.rulesStrings.3>
+	<Combat_Dodge.rulePack.rulesStrings.4>result->но атака была толково отражена</Combat_Dodge.rulePack.rulesStrings.4>
 
   <Combat_RangedIncludes.rulePack.rulesStrings.0>initiator_definite->[initiator_labelDefinite]</Combat_RangedIncludes.rulePack.rulesStrings.0>
   <Combat_RangedIncludes.rulePack.rulesStrings.1>initiator_definite->[initiator_nameShortDef]</Combat_RangedIncludes.rulePack.rulesStrings.1>
