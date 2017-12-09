@@ -116,8 +116,8 @@
   <Combat_MeleeIncludes.rulePack.rulesStrings.82>mortarshell(p=0.3)->ballistic shot</Combat_MeleeIncludes.rulePack.rulesStrings.82>
   <Combat_MeleeIncludes.rulePack.rulesStrings.83>mortarshell(p=0.3)->ballistic projectile</Combat_MeleeIncludes.rulePack.rulesStrings.83>
 
-  <Combat_MeleeIncludes.rulePack.rulesStrings.84>to->to</Combat_MeleeIncludes.rulePack.rulesStrings.84>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.85>to->into</Combat_MeleeIncludes.rulePack.rulesStrings.85>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.84>to->на</Combat_MeleeIncludes.rulePack.rulesStrings.84>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.85>to->в</Combat_MeleeIncludes.rulePack.rulesStrings.85>
 
 	<Combat_MeleeIncludes.rulePack.rulesStrings.86>initiator_definite->[initiator_labelDefinite]</Combat_MeleeIncludes.rulePack.rulesStrings.86>
 	<Combat_MeleeIncludes.rulePack.rulesStrings.87>initiator_definite->[initiator_nameShortDef]</Combat_MeleeIncludes.rulePack.rulesStrings.87>
@@ -186,7 +186,7 @@
 	<Combat_Hit.rulePack.rulesStrings.4>logentry(p=0.4)->[initiator_definite], [expertly] орудуя [weapon_label], [flavortextadverb] [damaged_past] [recipient_part0_label] [recipient_definite].</Combat_Hit.rulePack.rulesStrings.4>
 	<!-- combined high priority, if we destroyed something -->
 	<Combat_Hit.rulePack.rulesStrings.5>logentry(p=0.3)->[initiator_definite] [destroyed_past] [destroyed_targets] [recipient_definite].</Combat_Hit.rulePack.rulesStrings.5>
-	<Combat_Hit.rulePack.rulesStrings.6>logentry(p=0.3)->[initiator_definite] [destroyed_suffix] [destroyed_past] [destroyed_targets] [recipient_definite].</Combat_Hit.rulePack.rulesStrings.6>
+	<Combat_Hit.rulePack.rulesStrings.6>logentry(p=0.3)->[initiator_definite] [destroyed_past] [destroyed_suffix] [destroyed_targets] [recipient_definite].</Combat_Hit.rulePack.rulesStrings.6>
 	<Combat_Hit.rulePack.rulesStrings.7>logentry(p=0.3)->[initiator_definite] [expertly] [destroyed_past] [destroyed_targets] [recipient_definite].</Combat_Hit.rulePack.rulesStrings.7>
 	<Combat_Hit.rulePack.rulesStrings.8>logentry(p=0.3)->[initiator_definite] ударом [implement] [destroyed_past] [destroyed_targets] [recipient_definite].</Combat_Hit.rulePack.rulesStrings.8>
 	<!-- результат действия для лога -->
@@ -239,8 +239,8 @@
 	<Combat_Miss.rulePack.rulesStrings.14>result(initiator_flesh!=Mechanoid)->но запинается в последний момент</Combat_Miss.rulePack.rulesStrings.14>
 
 	<!-- защищающийся уворачивается -->
-	<Combat_Dodge.rulePack.rulesStrings.0>logentry(p=0.2)->[recipient_definite] уворачивается от попытки [initiator_definite] [damaged_inf] [implement].</Combat_Dodge.rulePack.rulesStrings.0>
-	<Combat_Dodge.rulePack.rulesStrings.1>logentry(p=0.2)->[recipient_definite] уворачивается попытки [initiator_definite] [damaged_inf].</Combat_Dodge.rulePack.rulesStrings.1>
+	<Combat_Dodge.rulePack.rulesStrings.0>logentry(p=0.2)->[recipient_definite] уворачивается от попытки [initiator_definite] [damaged_inf] [recipient_possesive] [implement].</Combat_Dodge.rulePack.rulesStrings.0>
+	<Combat_Dodge.rulePack.rulesStrings.1>logentry(p=0.2)->[recipient_definite] уворачивается попытки [initiator_definite] [recipient_possesive] [damaged_inf].</Combat_Dodge.rulePack.rulesStrings.1>
 	<!-- результат для лога -->
 	<Combat_Dodge.rulePack.rulesStrings.2>result->но [recipient_definite] отскакивает в сторону</Combat_Dodge.rulePack.rulesStrings.2>
 	<Combat_Dodge.rulePack.rulesStrings.3>result->но финтом [recipient_definite] обводит [initiator_possessive] вокруг пальца</Combat_Dodge.rulePack.rulesStrings.3>
@@ -347,8 +347,8 @@
   <Combat_RangedDamage.rulePack.rulesStrings.52>damaged_suffix->in an ugly fashion</Combat_RangedDamage.rulePack.rulesStrings.52>
   <Combat_RangedDamage.rulePack.rulesStrings.53>damaged_suffix(recipient_flesh!=Mechanoid)->with visible blood</Combat_RangedDamage.rulePack.rulesStrings.53>
   <Combat_RangedDamage.rulePack.rulesStrings.54>damaged_suffix(recipient_flesh!=Mechanoid)->with the flesh visible</Combat_RangedDamage.rulePack.rulesStrings.54>
-  <Combat_RangedDamage.rulePack.rulesStrings.55>to->to</Combat_RangedDamage.rulePack.rulesStrings.55>
-  <Combat_RangedDamage.rulePack.rulesStrings.56>to->into</Combat_RangedDamage.rulePack.rulesStrings.56>
+  <Combat_RangedDamage.rulePack.rulesStrings.55>to->на</Combat_RangedDamage.rulePack.rulesStrings.55>
+  <Combat_RangedDamage.rulePack.rulesStrings.56>to->в</Combat_RangedDamage.rulePack.rulesStrings.56>
   <Combat_RangedDamage.rulePack.rulesStrings.57>missed->missed</Combat_RangedDamage.rulePack.rulesStrings.57>
   <Combat_RangedDamage.rulePack.rulesStrings.58>missed->narrowly missed</Combat_RangedDamage.rulePack.rulesStrings.58>
 
