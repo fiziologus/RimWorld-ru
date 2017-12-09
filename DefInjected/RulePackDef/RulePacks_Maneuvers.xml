@@ -1,213 +1,263 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Maneuver_Slash.rulePack.rulesStrings.0>damaged_inf(p=4)->slash</Maneuver_Slash.rulePack.rulesStrings.0>
-  <Maneuver_Slash.rulePack.rulesStrings.1>damaged_inf->cut</Maneuver_Slash.rulePack.rulesStrings.1>
-  <Maneuver_Slash.rulePack.rulesStrings.2>damaged_inf->chop</Maneuver_Slash.rulePack.rulesStrings.2>
-  <Maneuver_Slash.rulePack.rulesStrings.3>damaged_inf->hack</Maneuver_Slash.rulePack.rulesStrings.3>
-  <Maneuver_Slash.rulePack.rulesStrings.4>damaged_inf->slice</Maneuver_Slash.rulePack.rulesStrings.4>
-  <Maneuver_Slash.rulePack.rulesStrings.5>damaged_inf->gash</Maneuver_Slash.rulePack.rulesStrings.5>
-  <Maneuver_Slash.rulePack.rulesStrings.6>damaged_past(p=4)->slashed</Maneuver_Slash.rulePack.rulesStrings.6>
-  <Maneuver_Slash.rulePack.rulesStrings.7>damaged_past->cut</Maneuver_Slash.rulePack.rulesStrings.7>
-  <Maneuver_Slash.rulePack.rulesStrings.8>damaged_past->chopped</Maneuver_Slash.rulePack.rulesStrings.8>
-  <Maneuver_Slash.rulePack.rulesStrings.9>damaged_past->hacked</Maneuver_Slash.rulePack.rulesStrings.9>
-  <Maneuver_Slash.rulePack.rulesStrings.10>damaged_past->sliced</Maneuver_Slash.rulePack.rulesStrings.10>
-  <Maneuver_Slash.rulePack.rulesStrings.11>damaged_past->gashed</Maneuver_Slash.rulePack.rulesStrings.11>
-  <Maneuver_Slash.rulePack.rulesStrings.12>damaged_present->slashing</Maneuver_Slash.rulePack.rulesStrings.12>
-  <Maneuver_Slash.rulePack.rulesStrings.13>damaged_present->cutting</Maneuver_Slash.rulePack.rulesStrings.13>
-  <Maneuver_Slash.rulePack.rulesStrings.14>damaged_present->slicing</Maneuver_Slash.rulePack.rulesStrings.14>
-  <Maneuver_Slash.rulePack.rulesStrings.15>damaged_present->gashing</Maneuver_Slash.rulePack.rulesStrings.15>
-  <Maneuver_Slash.rulePack.rulesStrings.16>damaged_present->tearing</Maneuver_Slash.rulePack.rulesStrings.16>
-  <Maneuver_Slash.rulePack.rulesStrings.17>damaged_present->lacerating</Maneuver_Slash.rulePack.rulesStrings.17>
-  <Maneuver_Slash.rulePack.rulesStrings.18>woundname->wound</Maneuver_Slash.rulePack.rulesStrings.18>
-  <Maneuver_Slash.rulePack.rulesStrings.19>woundname(p=0.3)->opening</Maneuver_Slash.rulePack.rulesStrings.19>
-  <Maneuver_Slash.rulePack.rulesStrings.20>flavortextsituation(recipient_flesh!=Mechanoid)->with blood dripping from the [woundname]</Maneuver_Slash.rulePack.rulesStrings.20>
-  <Maneuver_Slash.rulePack.rulesStrings.21>flavortextsituation->with fluids dripping from the [woundname]</Maneuver_Slash.rulePack.rulesStrings.21>
-  <Maneuver_Slash.rulePack.rulesStrings.22>flavortextconsequence(recipient_flesh!=Mechanoid)->exposing the flesh underneath</Maneuver_Slash.rulePack.rulesStrings.22>
-  <Maneuver_Slash.rulePack.rulesStrings.23>flavortextconsequence(recipient_flesh==Mechanoid)->exposing the machinery underneath</Maneuver_Slash.rulePack.rulesStrings.23>
-  <Maneuver_Slash.rulePack.rulesStrings.24>flavortextconsequence(recipient_flesh!=Mechanoid)->leaving a gory [woundname]</Maneuver_Slash.rulePack.rulesStrings.24>
-  <Maneuver_Slash.rulePack.rulesStrings.25>destroyed_past->bisected</Maneuver_Slash.rulePack.rulesStrings.25>
-  <Maneuver_Slash.rulePack.rulesStrings.26>destroyed_past->divided</Maneuver_Slash.rulePack.rulesStrings.26>
-  <Maneuver_Slash.rulePack.rulesStrings.27>destroyed_past->halved</Maneuver_Slash.rulePack.rulesStrings.27>
-  <Maneuver_Slash.rulePack.rulesStrings.28>destroyed_past->separated</Maneuver_Slash.rulePack.rulesStrings.28>
-  <Maneuver_Slash.rulePack.rulesStrings.29>destroyed_past->split</Maneuver_Slash.rulePack.rulesStrings.29>
-  <Maneuver_Slash.rulePack.rulesStrings.30>destroyed_present->bisecting</Maneuver_Slash.rulePack.rulesStrings.30>
-  <Maneuver_Slash.rulePack.rulesStrings.31>destroyed_present->dividing</Maneuver_Slash.rulePack.rulesStrings.31>
-  <Maneuver_Slash.rulePack.rulesStrings.32>destroyed_present->halving</Maneuver_Slash.rulePack.rulesStrings.32>
-  <Maneuver_Slash.rulePack.rulesStrings.33>destroyed_present->separating</Maneuver_Slash.rulePack.rulesStrings.33>
-  <Maneuver_Slash.rulePack.rulesStrings.34>destroyed_present->splitting</Maneuver_Slash.rulePack.rulesStrings.34>
-  <Maneuver_Slash.rulePack.rulesStrings.35>destroyed_suffix->into neat pieces</Maneuver_Slash.rulePack.rulesStrings.35>
-  <Maneuver_Slash.rulePack.rulesStrings.36>destroyed_suffix->cleanly</Maneuver_Slash.rulePack.rulesStrings.36>
-  <Maneuver_Slash.rulePack.rulesStrings.37>destroyed_suffix(target_part_destroyed_count==1)->exposing its inner workings</Maneuver_Slash.rulePack.rulesStrings.37>
-  <Maneuver_Slash.rulePack.rulesStrings.38>destroyed_suffix(target_part_destroyed_count==1)->slicing it in twain</Maneuver_Slash.rulePack.rulesStrings.38>
+	<!-- Режущий урон от _секущих_ и _рубленых_ ран: зарезать на смерть здесь не получится -->
+	<Maneuver_Slash.rulePack.rulesStrings.0>damaged_inf(p=4)->посечь</Maneuver_Slash.rulePack.rulesStrings.0>
+	<Maneuver_Slash.rulePack.rulesStrings.1>damaged_inf->разрезать</Maneuver_Slash.rulePack.rulesStrings.1>
+	<Maneuver_Slash.rulePack.rulesStrings.2>damaged_inf->раскромсать</Maneuver_Slash.rulePack.rulesStrings.2>
+	<Maneuver_Slash.rulePack.rulesStrings.3>damaged_inf->изрубать</Maneuver_Slash.rulePack.rulesStrings.3>
+	<Maneuver_Slash.rulePack.rulesStrings.4>damaged_inf->исполосовать</Maneuver_Slash.rulePack.rulesStrings.4>
+	<Maneuver_Slash.rulePack.rulesStrings.5>damaged_inf->вспороть</Maneuver_Slash.rulePack.rulesStrings.5>
 
-  <Maneuver_Stab.rulePack.rulesStrings.0>damaged_inf(p=4)->stab</Maneuver_Stab.rulePack.rulesStrings.0>
-  <Maneuver_Stab.rulePack.rulesStrings.1>damaged_inf->jab</Maneuver_Stab.rulePack.rulesStrings.1>
-  <Maneuver_Stab.rulePack.rulesStrings.2>damaged_inf->pierce</Maneuver_Stab.rulePack.rulesStrings.2>
-  <Maneuver_Stab.rulePack.rulesStrings.3>damaged_inf->puncture</Maneuver_Stab.rulePack.rulesStrings.3>
-  <Maneuver_Stab.rulePack.rulesStrings.4>damaged_inf->skewer</Maneuver_Stab.rulePack.rulesStrings.4>
-  <Maneuver_Stab.rulePack.rulesStrings.5>damaged_past(p=4)->stabbed</Maneuver_Stab.rulePack.rulesStrings.5>
-  <Maneuver_Stab.rulePack.rulesStrings.6>damaged_past->jabbed</Maneuver_Stab.rulePack.rulesStrings.6>
-  <Maneuver_Stab.rulePack.rulesStrings.7>damaged_past->pierced</Maneuver_Stab.rulePack.rulesStrings.7>
-  <Maneuver_Stab.rulePack.rulesStrings.8>damaged_past->punctured</Maneuver_Stab.rulePack.rulesStrings.8>
-  <Maneuver_Stab.rulePack.rulesStrings.9>damaged_past->skewered</Maneuver_Stab.rulePack.rulesStrings.9>
-  <Maneuver_Stab.rulePack.rulesStrings.10>damaged_present->piercing</Maneuver_Stab.rulePack.rulesStrings.10>
-  <Maneuver_Stab.rulePack.rulesStrings.11>damaged_present->puncturing</Maneuver_Stab.rulePack.rulesStrings.11>
-  <Maneuver_Stab.rulePack.rulesStrings.12>damaged_present->penetrating</Maneuver_Stab.rulePack.rulesStrings.12>
-  <Maneuver_Stab.rulePack.rulesStrings.13>damaged_present->skewering</Maneuver_Stab.rulePack.rulesStrings.13>
-  <Maneuver_Stab.rulePack.rulesStrings.14>woundname->hole</Maneuver_Stab.rulePack.rulesStrings.14>
-  <Maneuver_Stab.rulePack.rulesStrings.15>woundname->wound</Maneuver_Stab.rulePack.rulesStrings.15>
-  <Maneuver_Stab.rulePack.rulesStrings.16>woundname->crevice</Maneuver_Stab.rulePack.rulesStrings.16>
-  <Maneuver_Stab.rulePack.rulesStrings.17>flavortextconsequence(recipient_flesh!=Mechanoid)->leaving a bloody [woundname]</Maneuver_Stab.rulePack.rulesStrings.17>
-  <Maneuver_Stab.rulePack.rulesStrings.18>flavortextconsequence(recipient_flesh!=Mechanoid)->leaving a torn [woundname]</Maneuver_Stab.rulePack.rulesStrings.18>
-  <Maneuver_Stab.rulePack.rulesStrings.19>flavortextconsequence(recipient_flesh!=Mechanoid)->leaving a bleeding [woundname]</Maneuver_Stab.rulePack.rulesStrings.19>
-  <Maneuver_Stab.rulePack.rulesStrings.20>destroyed_past->impaled</Maneuver_Stab.rulePack.rulesStrings.20>
-  <Maneuver_Stab.rulePack.rulesStrings.21>destroyed_past->perforated</Maneuver_Stab.rulePack.rulesStrings.21>
-  <Maneuver_Stab.rulePack.rulesStrings.22>destroyed_past->skewered</Maneuver_Stab.rulePack.rulesStrings.22>
-  <Maneuver_Stab.rulePack.rulesStrings.23>destroyed_present->impaling</Maneuver_Stab.rulePack.rulesStrings.23>
-  <Maneuver_Stab.rulePack.rulesStrings.24>destroyed_present->perforating</Maneuver_Stab.rulePack.rulesStrings.24>
-  <Maneuver_Stab.rulePack.rulesStrings.25>destroyed_present->skewering</Maneuver_Stab.rulePack.rulesStrings.25>
-  <Maneuver_Stab.rulePack.rulesStrings.26>destroyed_suffix->straight through</Maneuver_Stab.rulePack.rulesStrings.26>
-  <Maneuver_Stab.rulePack.rulesStrings.27>destroyed_suffix->leaving a clean hole</Maneuver_Stab.rulePack.rulesStrings.27>
-  <Maneuver_Stab.rulePack.rulesStrings.28>destroyed_suffix(recipient_flesh!=Mechanoid,target_part_destroyed_count==1)->leaving it leaking gory fluids</Maneuver_Stab.rulePack.rulesStrings.28>
-  <Maneuver_Stab.rulePack.rulesStrings.29>destroyed_suffix(target_part_destroyed_count==1)->leaving it leaking unrecognizable fluids</Maneuver_Stab.rulePack.rulesStrings.29>
+	<Maneuver_Slash.rulePack.rulesStrings.6>damaged_past(p=4)->рассекает</Maneuver_Slash.rulePack.rulesStrings.6>
+	<Maneuver_Slash.rulePack.rulesStrings.7>damaged_past->разрезает</Maneuver_Slash.rulePack.rulesStrings.7>
+	<Maneuver_Slash.rulePack.rulesStrings.8>damaged_past->искрамсывает</Maneuver_Slash.rulePack.rulesStrings.8>
+	<Maneuver_Slash.rulePack.rulesStrings.9>damaged_past->надсекает</Maneuver_Slash.rulePack.rulesStrings.9>
+	<Maneuver_Slash.rulePack.rulesStrings.10>damaged_past->полосует</Maneuver_Slash.rulePack.rulesStrings.10>
+	<Maneuver_Slash.rulePack.rulesStrings.11>damaged_past->распарывает</Maneuver_Slash.rulePack.rulesStrings.11>
 
-  <Maneuver_Smash_Damage.rulePack.rulesStrings.0>damaged_inf(p=4)->smash</Maneuver_Smash_Damage.rulePack.rulesStrings.0>
-  <Maneuver_Smash_Damage.rulePack.rulesStrings.1>damaged_inf->bash</Maneuver_Smash_Damage.rulePack.rulesStrings.1>
-  <Maneuver_Smash_Damage.rulePack.rulesStrings.2>damaged_inf->clobber</Maneuver_Smash_Damage.rulePack.rulesStrings.2>
-  <Maneuver_Smash_Damage.rulePack.rulesStrings.3>damaged_inf->slam</Maneuver_Smash_Damage.rulePack.rulesStrings.3>
-  <Maneuver_Smash_Damage.rulePack.rulesStrings.4>damaged_inf->strike</Maneuver_Smash_Damage.rulePack.rulesStrings.4>
-  <Maneuver_Smash_Damage.rulePack.rulesStrings.5>damaged_past(p=4)->smashed</Maneuver_Smash_Damage.rulePack.rulesStrings.5>
-  <Maneuver_Smash_Damage.rulePack.rulesStrings.6>damaged_past->bashed</Maneuver_Smash_Damage.rulePack.rulesStrings.6>
-  <Maneuver_Smash_Damage.rulePack.rulesStrings.7>damaged_past->clobbered</Maneuver_Smash_Damage.rulePack.rulesStrings.7>
-  <Maneuver_Smash_Damage.rulePack.rulesStrings.8>damaged_past->slammed</Maneuver_Smash_Damage.rulePack.rulesStrings.8>
-  <Maneuver_Smash_Damage.rulePack.rulesStrings.9>damaged_past->struck</Maneuver_Smash_Damage.rulePack.rulesStrings.9>
-  <Maneuver_Smash_Damage.rulePack.rulesStrings.10>damaged_present->smashing</Maneuver_Smash_Damage.rulePack.rulesStrings.10>
-  <Maneuver_Smash_Damage.rulePack.rulesStrings.11>damaged_present->bashing</Maneuver_Smash_Damage.rulePack.rulesStrings.11>
-  <Maneuver_Smash_Damage.rulePack.rulesStrings.12>damaged_present->clobbering</Maneuver_Smash_Damage.rulePack.rulesStrings.12>
-  <Maneuver_Smash_Damage.rulePack.rulesStrings.13>damaged_present->bruising</Maneuver_Smash_Damage.rulePack.rulesStrings.13>
-  <Maneuver_Smash_Damage.rulePack.rulesStrings.14>damaged_present->lacerating</Maneuver_Smash_Damage.rulePack.rulesStrings.14>
-  <Maneuver_Smash_Damage.rulePack.rulesStrings.15>destroyed_past->shattered</Maneuver_Smash_Damage.rulePack.rulesStrings.15>
-  <Maneuver_Smash_Damage.rulePack.rulesStrings.16>destroyed_past->crushed</Maneuver_Smash_Damage.rulePack.rulesStrings.16>
-  <Maneuver_Smash_Damage.rulePack.rulesStrings.17>destroyed_past->obliterated</Maneuver_Smash_Damage.rulePack.rulesStrings.17>
-  <Maneuver_Smash_Damage.rulePack.rulesStrings.18>destroyed_past->annihilated</Maneuver_Smash_Damage.rulePack.rulesStrings.18>
-  <Maneuver_Smash_Damage.rulePack.rulesStrings.19>destroyed_past->broke</Maneuver_Smash_Damage.rulePack.rulesStrings.19>
-  <Maneuver_Smash_Damage.rulePack.rulesStrings.20>destroyed_present->shattering</Maneuver_Smash_Damage.rulePack.rulesStrings.20>
-  <Maneuver_Smash_Damage.rulePack.rulesStrings.21>destroyed_present->crushing</Maneuver_Smash_Damage.rulePack.rulesStrings.21>
-  <Maneuver_Smash_Damage.rulePack.rulesStrings.22>destroyed_present->obliterating</Maneuver_Smash_Damage.rulePack.rulesStrings.22>
-  <Maneuver_Smash_Damage.rulePack.rulesStrings.23>destroyed_present->annihilating</Maneuver_Smash_Damage.rulePack.rulesStrings.23>
-  <Maneuver_Smash_Damage.rulePack.rulesStrings.24>destroyed_present->breaking</Maneuver_Smash_Damage.rulePack.rulesStrings.24>
+	<Maneuver_Slash.rulePack.rulesStrings.12>damaged_present->рассекая</Maneuver_Slash.rulePack.rulesStrings.12>
+	<Maneuver_Slash.rulePack.rulesStrings.13>damaged_present->разрезая</Maneuver_Slash.rulePack.rulesStrings.13>
+	<Maneuver_Slash.rulePack.rulesStrings.14>damaged_present->изполосовывая</Maneuver_Slash.rulePack.rulesStrings.14>
+	<Maneuver_Slash.rulePack.rulesStrings.15>damaged_present->вспарывая</Maneuver_Slash.rulePack.rulesStrings.15>
+	<Maneuver_Slash.rulePack.rulesStrings.16>damaged_present->рвя</Maneuver_Slash.rulePack.rulesStrings.16>
+	<Maneuver_Slash.rulePack.rulesStrings.17>damaged_present->вскрывая</Maneuver_Slash.rulePack.rulesStrings.17>
 
-  <Maneuver_Smash.rulePack.rulesStrings.0>flavortextconsequence(recipient_flesh!=Mechanoid)->leaving an enormous bruise</Maneuver_Smash.rulePack.rulesStrings.0>
-  <Maneuver_Smash.rulePack.rulesStrings.1>flavortextconsequence->leaving the area visibly deformed</Maneuver_Smash.rulePack.rulesStrings.1>
-  <Maneuver_Smash.rulePack.rulesStrings.2>flavortextconsequence->knocking [recipient_objective] off balance</Maneuver_Smash.rulePack.rulesStrings.2>
-  <Maneuver_Smash.rulePack.rulesStrings.3>flavortextconsequence->knocking [recipient_objective] to the side</Maneuver_Smash.rulePack.rulesStrings.3>
-  <Maneuver_Smash.rulePack.rulesStrings.4>destroyed_suffix->[to] pieces</Maneuver_Smash.rulePack.rulesStrings.4>
-  <Maneuver_Smash.rulePack.rulesStrings.5>destroyed_suffix->[to] bits</Maneuver_Smash.rulePack.rulesStrings.5>
-  <Maneuver_Smash.rulePack.rulesStrings.6>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] a fine mist</Maneuver_Smash.rulePack.rulesStrings.6>
-  <Maneuver_Smash.rulePack.rulesStrings.7>destroyed_suffix->[to] fragments</Maneuver_Smash.rulePack.rulesStrings.7>
+	<Maneuver_Slash.rulePack.rulesStrings.18>woundname->раны</Maneuver_Slash.rulePack.rulesStrings.18>
+	<Maneuver_Slash.rulePack.rulesStrings.19>woundname(p=0.3)->прорехи</Maneuver_Slash.rulePack.rulesStrings.19>
 
-  <Maneuver_Scratch_Damage.rulePack.rulesStrings.0>damaged_inf(p=4)->scratch</Maneuver_Scratch_Damage.rulePack.rulesStrings.0>
-  <Maneuver_Scratch_Damage.rulePack.rulesStrings.1>damaged_inf->lacerate</Maneuver_Scratch_Damage.rulePack.rulesStrings.1>
-  <Maneuver_Scratch_Damage.rulePack.rulesStrings.2>damaged_inf->tear</Maneuver_Scratch_Damage.rulePack.rulesStrings.2>
-  <Maneuver_Scratch_Damage.rulePack.rulesStrings.3>damaged_inf->cut</Maneuver_Scratch_Damage.rulePack.rulesStrings.3>
-  <Maneuver_Scratch_Damage.rulePack.rulesStrings.4>damaged_past(p=4)->scratched</Maneuver_Scratch_Damage.rulePack.rulesStrings.4>
-  <Maneuver_Scratch_Damage.rulePack.rulesStrings.5>damaged_past->lacerated</Maneuver_Scratch_Damage.rulePack.rulesStrings.5>
-  <Maneuver_Scratch_Damage.rulePack.rulesStrings.6>damaged_past->tore</Maneuver_Scratch_Damage.rulePack.rulesStrings.6>
-  <Maneuver_Scratch_Damage.rulePack.rulesStrings.7>damaged_past->cut</Maneuver_Scratch_Damage.rulePack.rulesStrings.7>
-  <Maneuver_Scratch_Damage.rulePack.rulesStrings.8>damaged_present->scratching</Maneuver_Scratch_Damage.rulePack.rulesStrings.8>
-  <Maneuver_Scratch_Damage.rulePack.rulesStrings.9>damaged_present->lacerating</Maneuver_Scratch_Damage.rulePack.rulesStrings.9>
-  <Maneuver_Scratch_Damage.rulePack.rulesStrings.10>damaged_present->tearing</Maneuver_Scratch_Damage.rulePack.rulesStrings.10>
-  <Maneuver_Scratch_Damage.rulePack.rulesStrings.11>damaged_present->cutting</Maneuver_Scratch_Damage.rulePack.rulesStrings.11>
-  <Maneuver_Scratch_Damage.rulePack.rulesStrings.12>destroyed_past->mauled</Maneuver_Scratch_Damage.rulePack.rulesStrings.12>
-  <Maneuver_Scratch_Damage.rulePack.rulesStrings.13>destroyed_past->lacerated</Maneuver_Scratch_Damage.rulePack.rulesStrings.13>
-  <Maneuver_Scratch_Damage.rulePack.rulesStrings.14>destroyed_past->tore off</Maneuver_Scratch_Damage.rulePack.rulesStrings.14>
-  <Maneuver_Scratch_Damage.rulePack.rulesStrings.15>destroyed_past->shredded</Maneuver_Scratch_Damage.rulePack.rulesStrings.15>
-  <Maneuver_Scratch_Damage.rulePack.rulesStrings.16>destroyed_past->ripped</Maneuver_Scratch_Damage.rulePack.rulesStrings.16>
-  <Maneuver_Scratch_Damage.rulePack.rulesStrings.17>destroyed_present->mauling</Maneuver_Scratch_Damage.rulePack.rulesStrings.17>
-  <Maneuver_Scratch_Damage.rulePack.rulesStrings.18>destroyed_present->lacerating</Maneuver_Scratch_Damage.rulePack.rulesStrings.18>
-  <Maneuver_Scratch_Damage.rulePack.rulesStrings.19>destroyed_present->tearing off</Maneuver_Scratch_Damage.rulePack.rulesStrings.19>
-  <Maneuver_Scratch_Damage.rulePack.rulesStrings.20>destroyed_present->shredding</Maneuver_Scratch_Damage.rulePack.rulesStrings.20>
-  <Maneuver_Scratch_Damage.rulePack.rulesStrings.21>destroyed_present->ripping</Maneuver_Scratch_Damage.rulePack.rulesStrings.21>
+	<Maneuver_Slash.rulePack.rulesStrings.20>flavortextsituation(recipient_flesh!=Mechanoid)->так, что из [woundname] сочится кровь,</Maneuver_Slash.rulePack.rulesStrings.20>
+	<Maneuver_Slash.rulePack.rulesStrings.21>flavortextsituation->так, что из [woundname] сочится жидкость,</Maneuver_Slash.rulePack.rulesStrings.21>
 
-  <Maneuver_Scratch.rulePack.rulesStrings.0>woundname->wound</Maneuver_Scratch.rulePack.rulesStrings.0>
-  <Maneuver_Scratch.rulePack.rulesStrings.1>woundname(p=0.3)->opening</Maneuver_Scratch.rulePack.rulesStrings.1>
-  <Maneuver_Scratch.rulePack.rulesStrings.2>flavortextsituation(recipient_flesh!=Mechanoid)->with blood dripping from the [woundname]</Maneuver_Scratch.rulePack.rulesStrings.2>
-  <Maneuver_Scratch.rulePack.rulesStrings.3>flavortextsituation->with fluids dripping from the [woundname]</Maneuver_Scratch.rulePack.rulesStrings.3>
-  <Maneuver_Scratch.rulePack.rulesStrings.4>flavortextconsequence(recipient_flesh!=Mechanoid)->and exposing the flesh underneath</Maneuver_Scratch.rulePack.rulesStrings.4>
-  <Maneuver_Scratch.rulePack.rulesStrings.5>flavortextconsequence(recipient_flesh==Mechanoid)->and exposing the machinery underneath</Maneuver_Scratch.rulePack.rulesStrings.5>
-  <Maneuver_Scratch.rulePack.rulesStrings.6>flavortextconsequence(recipient_flesh!=Mechanoid)->and leaving a gory [woundname]</Maneuver_Scratch.rulePack.rulesStrings.6>
-  <Maneuver_Scratch.rulePack.rulesStrings.7>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] messy strips</Maneuver_Scratch.rulePack.rulesStrings.7>
-  <Maneuver_Scratch.rulePack.rulesStrings.8>destroyed_suffix->[to] strips</Maneuver_Scratch.rulePack.rulesStrings.8>
-  <Maneuver_Scratch.rulePack.rulesStrings.9>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] messy pieces</Maneuver_Scratch.rulePack.rulesStrings.9>
-  <Maneuver_Scratch.rulePack.rulesStrings.10>destroyed_suffix->[to] pieces</Maneuver_Scratch.rulePack.rulesStrings.10>
-  <Maneuver_Scratch.rulePack.rulesStrings.11>destroyed_suffix->[to] fragments</Maneuver_Scratch.rulePack.rulesStrings.11>
-  <Maneuver_Scratch.rulePack.rulesStrings.12>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] a pile of gore</Maneuver_Scratch.rulePack.rulesStrings.12>
+	<Maneuver_Slash.rulePack.rulesStrings.22>flavortextconsequence(recipient_flesh!=Mechanoid)->глубоко разверзая плоть</Maneuver_Slash.rulePack.rulesStrings.22>
+	<Maneuver_Slash.rulePack.rulesStrings.23>flavortextconsequence(recipient_flesh==Mechanoid)->обнажая механические внутренности</Maneuver_Slash.rulePack.rulesStrings.23>
+	<Maneuver_Slash.rulePack.rulesStrings.24>flavortextconsequence(recipient_flesh!=Mechanoid)->оставляя жуткие [woundname]</Maneuver_Slash.rulePack.rulesStrings.24>
 
-  <Poke.rulePack.rulesStrings.0>damaged_inf(p=2)->poke</Poke.rulePack.rulesStrings.0>
-  <Poke.rulePack.rulesStrings.1>damaged_inf(p=2)->jab</Poke.rulePack.rulesStrings.1>
-  <Poke.rulePack.rulesStrings.2>damaged_inf->prod</Poke.rulePack.rulesStrings.2>
-  <Poke.rulePack.rulesStrings.3>damaged_inf->shove</Poke.rulePack.rulesStrings.3>
-  <Poke.rulePack.rulesStrings.4>damaged_inf->stab</Poke.rulePack.rulesStrings.4>
-  <Poke.rulePack.rulesStrings.5>damaged_past(p=2)->poked</Poke.rulePack.rulesStrings.5>
-  <Poke.rulePack.rulesStrings.6>damaged_past(p=2)->jabbed</Poke.rulePack.rulesStrings.6>
-  <Poke.rulePack.rulesStrings.7>damaged_past->prodded</Poke.rulePack.rulesStrings.7>
-  <Poke.rulePack.rulesStrings.8>damaged_past->shoved</Poke.rulePack.rulesStrings.8>
-  <Poke.rulePack.rulesStrings.9>damaged_past->stabbed</Poke.rulePack.rulesStrings.9>
-  <Poke.rulePack.rulesStrings.10>damaged_present(p=2)->poking</Poke.rulePack.rulesStrings.10>
-  <Poke.rulePack.rulesStrings.11>damaged_present(p=2)->jabbing</Poke.rulePack.rulesStrings.11>
-  <Poke.rulePack.rulesStrings.12>damaged_present->prodding</Poke.rulePack.rulesStrings.12>
-  <Poke.rulePack.rulesStrings.13>damaged_present->shoving</Poke.rulePack.rulesStrings.13>
-  <Poke.rulePack.rulesStrings.14>damaged_present->stabbing</Poke.rulePack.rulesStrings.14>
-  <Poke.rulePack.rulesStrings.15>flavortextconsequence(recipient_flesh!=Mechanoid)->leaving an enormous bruise</Poke.rulePack.rulesStrings.15>
-  <Poke.rulePack.rulesStrings.16>flavortextconsequence->leaving the area visibly deformed</Poke.rulePack.rulesStrings.16>
-  <Poke.rulePack.rulesStrings.17>flavortextconsequence->knocking [recipient_objective] off balance</Poke.rulePack.rulesStrings.17>
-  <Poke.rulePack.rulesStrings.18>flavortextconsequence->knocking [recipient_objective] to the side</Poke.rulePack.rulesStrings.18>
-  <Poke.rulePack.rulesStrings.19>destroyed_past->shattered</Poke.rulePack.rulesStrings.19>
-  <Poke.rulePack.rulesStrings.20>destroyed_past->crushed</Poke.rulePack.rulesStrings.20>
-  <Poke.rulePack.rulesStrings.21>destroyed_past->obliterated</Poke.rulePack.rulesStrings.21>
-  <Poke.rulePack.rulesStrings.22>destroyed_past->annihilated</Poke.rulePack.rulesStrings.22>
-  <Poke.rulePack.rulesStrings.23>destroyed_past->broke</Poke.rulePack.rulesStrings.23>
-  <Poke.rulePack.rulesStrings.24>destroyed_present->shattering</Poke.rulePack.rulesStrings.24>
-  <Poke.rulePack.rulesStrings.25>destroyed_present->crushing</Poke.rulePack.rulesStrings.25>
-  <Poke.rulePack.rulesStrings.26>destroyed_present->obliterating</Poke.rulePack.rulesStrings.26>
-  <Poke.rulePack.rulesStrings.27>destroyed_present->annihilating</Poke.rulePack.rulesStrings.27>
-  <Poke.rulePack.rulesStrings.28>destroyed_present->breaking</Poke.rulePack.rulesStrings.28>
-  <Poke.rulePack.rulesStrings.29>destroyed_suffix->[to] pieces</Poke.rulePack.rulesStrings.29>
-  <Poke.rulePack.rulesStrings.30>destroyed_suffix->[to] bits</Poke.rulePack.rulesStrings.30>
-  <Poke.rulePack.rulesStrings.31>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] a fine mist</Poke.rulePack.rulesStrings.31>
-  <Poke.rulePack.rulesStrings.32>destroyed_suffix->[to] fragments</Poke.rulePack.rulesStrings.32>
+	<Maneuver_Slash.rulePack.rulesStrings.25>destroyed_past->раскраивает</Maneuver_Slash.rulePack.rulesStrings.25>
+	<Maneuver_Slash.rulePack.rulesStrings.26>destroyed_past->разделяет</Maneuver_Slash.rulePack.rulesStrings.26>
+	<Maneuver_Slash.rulePack.rulesStrings.27>destroyed_past->половинит</Maneuver_Slash.rulePack.rulesStrings.27>
+	<Maneuver_Slash.rulePack.rulesStrings.28>destroyed_past->разнимает</Maneuver_Slash.rulePack.rulesStrings.28>
+	<Maneuver_Slash.rulePack.rulesStrings.29>destroyed_past->расчленяет</Maneuver_Slash.rulePack.rulesStrings.29>
 
-  <Bite.rulePack.rulesStrings.0>damaged_inf->bite</Bite.rulePack.rulesStrings.0>
-  <Bite.rulePack.rulesStrings.1>damaged_inf->chomp</Bite.rulePack.rulesStrings.1>
-  <Bite.rulePack.rulesStrings.2>damaged_inf(p=0.5)->nip</Bite.rulePack.rulesStrings.2>
-  <Bite.rulePack.rulesStrings.3>damaged_past->bit</Bite.rulePack.rulesStrings.3>
-  <Bite.rulePack.rulesStrings.4>damaged_past->chomped</Bite.rulePack.rulesStrings.4>
-  <Bite.rulePack.rulesStrings.5>damaged_past->nipped</Bite.rulePack.rulesStrings.5>
-  <Bite.rulePack.rulesStrings.6>damaged_past->gnawed</Bite.rulePack.rulesStrings.6>
-  <Bite.rulePack.rulesStrings.7>damaged_past->tore</Bite.rulePack.rulesStrings.7>
-  <Bite.rulePack.rulesStrings.8>damaged_present->biting</Bite.rulePack.rulesStrings.8>
-  <Bite.rulePack.rulesStrings.9>damaged_present->chomping</Bite.rulePack.rulesStrings.9>
-  <Bite.rulePack.rulesStrings.10>damaged_present->nipped</Bite.rulePack.rulesStrings.10>
-  <Bite.rulePack.rulesStrings.11>damaged_present->gnawing</Bite.rulePack.rulesStrings.11>
-  <Bite.rulePack.rulesStrings.12>damaged_present->tearing</Bite.rulePack.rulesStrings.12>
-  <Bite.rulePack.rulesStrings.13>flavortextconsequence(recipient_flesh!=Mechanoid)->exposing the flesh underneath</Bite.rulePack.rulesStrings.13>
-  <Bite.rulePack.rulesStrings.14>flavortextconsequence(recipient_flesh==Mechanoid)->exposing the machinery underneath</Bite.rulePack.rulesStrings.14>
-  <Bite.rulePack.rulesStrings.15>flavortextconsequence(recipient_flesh!=Mechanoid)->leaving grisly tears in the skin</Bite.rulePack.rulesStrings.15>
-  <Bite.rulePack.rulesStrings.16>flavortextconsequence(recipient_flesh==Mechanoid)->leaving grisly tears in the metal</Bite.rulePack.rulesStrings.16>
-  <Bite.rulePack.rulesStrings.17>destroyed_past->devoured</Bite.rulePack.rulesStrings.17>
-  <Bite.rulePack.rulesStrings.18>destroyed_past->separated</Bite.rulePack.rulesStrings.18>
-  <Bite.rulePack.rulesStrings.19>destroyed_past->ripped</Bite.rulePack.rulesStrings.19>
-  <Bite.rulePack.rulesStrings.20>destroyed_past->ravaged</Bite.rulePack.rulesStrings.20>
-  <Bite.rulePack.rulesStrings.21>destroyed_present->devouring</Bite.rulePack.rulesStrings.21>
-  <Bite.rulePack.rulesStrings.22>destroyed_present->separating</Bite.rulePack.rulesStrings.22>
-  <Bite.rulePack.rulesStrings.23>destroyed_present->ripping</Bite.rulePack.rulesStrings.23>
-  <Bite.rulePack.rulesStrings.24>destroyed_present->ravaging</Bite.rulePack.rulesStrings.24>
-  <Bite.rulePack.rulesStrings.25>destroyed_suffix->[to] shreds</Bite.rulePack.rulesStrings.25>
-  <Bite.rulePack.rulesStrings.26>destroyed_suffix->[to] pieces</Bite.rulePack.rulesStrings.26>
-  <Bite.rulePack.rulesStrings.27>destroyed_suffix->[to] strips</Bite.rulePack.rulesStrings.27>
-  <Bite.rulePack.rulesStrings.28>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] messy strips</Bite.rulePack.rulesStrings.28>
-  <Bite.rulePack.rulesStrings.29>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] an unrecognizable mess</Bite.rulePack.rulesStrings.29>
+	<Maneuver_Slash.rulePack.rulesStrings.30>destroyed_present->раскраивая напополам</Maneuver_Slash.rulePack.rulesStrings.30>
+	<Maneuver_Slash.rulePack.rulesStrings.31>destroyed_present->деля на части</Maneuver_Slash.rulePack.rulesStrings.31>
+	<Maneuver_Slash.rulePack.rulesStrings.32>destroyed_present->половиня</Maneuver_Slash.rulePack.rulesStrings.32>
+	<Maneuver_Slash.rulePack.rulesStrings.33>destroyed_present->отделяя</Maneuver_Slash.rulePack.rulesStrings.33>
+	<Maneuver_Slash.rulePack.rulesStrings.34>destroyed_present->расчленяя</Maneuver_Slash.rulePack.rulesStrings.34>
 
+	<Maneuver_Slash.rulePack.rulesStrings.35>destroyed_suffix->на опрятные куски</Maneuver_Slash.rulePack.rulesStrings.35>
+	<Maneuver_Slash.rulePack.rulesStrings.36>destroyed_suffix->подчистую</Maneuver_Slash.rulePack.rulesStrings.36>
+	<Maneuver_Slash.rulePack.rulesStrings.37>destroyed_suffix(target_part_destroyed_count==1)->так, что видно, как всё работает,</Maneuver_Slash.rulePack.rulesStrings.37>
+	<Maneuver_Slash.rulePack.rulesStrings.38>destroyed_suffix(target_part_destroyed_count==1)->надвое</Maneuver_Slash.rulePack.rulesStrings.38>
+
+	<!-- Колющие повреждения -->
+	<Maneuver_Stab.rulePack.rulesStrings.0>damaged_inf(p=4)->заколоть</Maneuver_Stab.rulePack.rulesStrings.0>
+	<Maneuver_Stab.rulePack.rulesStrings.1>damaged_inf->пырнуть</Maneuver_Stab.rulePack.rulesStrings.1>
+	<Maneuver_Stab.rulePack.rulesStrings.2>damaged_inf->прирезать</Maneuver_Stab.rulePack.rulesStrings.2>
+	<Maneuver_Stab.rulePack.rulesStrings.3>damaged_inf->проткнуть</Maneuver_Stab.rulePack.rulesStrings.3>
+	<Maneuver_Stab.rulePack.rulesStrings.4>damaged_inf->пронзить</Maneuver_Stab.rulePack.rulesStrings.4>
+
+	<Maneuver_Stab.rulePack.rulesStrings.5>damaged_past(p=4)->колет</Maneuver_Stab.rulePack.rulesStrings.5>
+	<Maneuver_Stab.rulePack.rulesStrings.6>damaged_past->пыряет</Maneuver_Stab.rulePack.rulesStrings.6>
+	<Maneuver_Stab.rulePack.rulesStrings.7>damaged_past->протыкает</Maneuver_Stab.rulePack.rulesStrings.7>
+	<Maneuver_Stab.rulePack.rulesStrings.8>damaged_past->прокалывает</Maneuver_Stab.rulePack.rulesStrings.8>
+	<Maneuver_Stab.rulePack.rulesStrings.9>damaged_past->пронзает</Maneuver_Stab.rulePack.rulesStrings.9>
+
+	<Maneuver_Stab.rulePack.rulesStrings.10>damaged_present->протыкая</Maneuver_Stab.rulePack.rulesStrings.10>
+	<Maneuver_Stab.rulePack.rulesStrings.11>damaged_present->прокалывая</Maneuver_Stab.rulePack.rulesStrings.11>
+	<Maneuver_Stab.rulePack.rulesStrings.12>damaged_present->пробивая</Maneuver_Stab.rulePack.rulesStrings.12>
+	<Maneuver_Stab.rulePack.rulesStrings.13>damaged_present->пронзая</Maneuver_Stab.rulePack.rulesStrings.13>
+
+	<Maneuver_Stab.rulePack.rulesStrings.14>woundname->дыру</Maneuver_Stab.rulePack.rulesStrings.14>
+	<Maneuver_Stab.rulePack.rulesStrings.15>woundname->рану</Maneuver_Stab.rulePack.rulesStrings.15>
+	<Maneuver_Stab.rulePack.rulesStrings.16>woundname->расщелину</Maneuver_Stab.rulePack.rulesStrings.16>
+
+	<Maneuver_Stab.rulePack.rulesStrings.17>flavortextconsequence(recipient_flesh!=Mechanoid)->оставляя кровавую [woundname]</Maneuver_Stab.rulePack.rulesStrings.17>
+	<Maneuver_Stab.rulePack.rulesStrings.18>flavortextconsequence(recipient_flesh!=Mechanoid)->оставляя рваную [woundname]</Maneuver_Stab.rulePack.rulesStrings.18>
+	<Maneuver_Stab.rulePack.rulesStrings.19>flavortextconsequence(recipient_flesh!=Mechanoid)->оставляя кровоточащую [woundname]</Maneuver_Stab.rulePack.rulesStrings.19>
+
+	<!-- impaled == сажать на кол -->
+	<Maneuver_Stab.rulePack.rulesStrings.20>destroyed_past->прорезает</Maneuver_Stab.rulePack.rulesStrings.20>
+	<Maneuver_Stab.rulePack.rulesStrings.21>destroyed_past->пробивает</Maneuver_Stab.rulePack.rulesStrings.21>
+	<Maneuver_Stab.rulePack.rulesStrings.22>destroyed_past->пропарывает</Maneuver_Stab.rulePack.rulesStrings.22>
+
+	<Maneuver_Stab.rulePack.rulesStrings.23>destroyed_present->прорезая</Maneuver_Stab.rulePack.rulesStrings.23>
+	<Maneuver_Stab.rulePack.rulesStrings.24>destroyed_present->пробивая</Maneuver_Stab.rulePack.rulesStrings.24>
+	<Maneuver_Stab.rulePack.rulesStrings.25>destroyed_present->пропарывая</Maneuver_Stab.rulePack.rulesStrings.25>
+
+	<Maneuver_Stab.rulePack.rulesStrings.26>destroyed_suffix->прямо сквозь</Maneuver_Stab.rulePack.rulesStrings.26>
+	<Maneuver_Stab.rulePack.rulesStrings.27>destroyed_suffix->так, что остаётся опрятное отверстие,</Maneuver_Stab.rulePack.rulesStrings.27>
+	<Maneuver_Stab.rulePack.rulesStrings.28>destroyed_suffix(recipient_flesh!=Mechanoid,target_part_destroyed_count==1)->и оставляет истекать кровавой влагой</Maneuver_Stab.rulePack.rulesStrings.28>
+	<Maneuver_Stab.rulePack.rulesStrings.29>destroyed_suffix(target_part_destroyed_count==1)->и оставляет истекать непойми какой жидкостью</Maneuver_Stab.rulePack.rulesStrings.29>
+
+	<!-- крушащий урон: кастеты-камни-дубины -->
+	<!-- Простор для творчества большой, потому как "В знач. самоуправщины, едва ли не из каждого сло́ва можно образовать глаг., означающий бить" (Даль) -->
+	<Maneuver_Smash_Damage.rulePack.rulesStrings.0>damaged_inf(p=4)->сокрушить</Maneuver_Smash_Damage.rulePack.rulesStrings.0>
+	<Maneuver_Smash_Damage.rulePack.rulesStrings.1>damaged_inf->отмутузить</Maneuver_Smash_Damage.rulePack.rulesStrings.1>
+	<Maneuver_Smash_Damage.rulePack.rulesStrings.2>damaged_inf->исколошматить</Maneuver_Smash_Damage.rulePack.rulesStrings.2>
+	<Maneuver_Smash_Damage.rulePack.rulesStrings.3>damaged_inf->прихлопнуть</Maneuver_Smash_Damage.rulePack.rulesStrings.3>
+	<Maneuver_Smash_Damage.rulePack.rulesStrings.4>damaged_inf->ударить</Maneuver_Smash_Damage.rulePack.rulesStrings.4>
+
+	<Maneuver_Smash_Damage.rulePack.rulesStrings.5>damaged_past(p=4)->крушит</Maneuver_Smash_Damage.rulePack.rulesStrings.5>
+	<Maneuver_Smash_Damage.rulePack.rulesStrings.6>damaged_past->мутузит</Maneuver_Smash_Damage.rulePack.rulesStrings.6>
+	<Maneuver_Smash_Damage.rulePack.rulesStrings.7>damaged_past->колошматит</Maneuver_Smash_Damage.rulePack.rulesStrings.7>
+	<Maneuver_Smash_Damage.rulePack.rulesStrings.8>damaged_past->вмазывает</Maneuver_Smash_Damage.rulePack.rulesStrings.8>
+	<Maneuver_Smash_Damage.rulePack.rulesStrings.9>damaged_past->бъёт</Maneuver_Smash_Damage.rulePack.rulesStrings.9>
+
+	<Maneuver_Smash_Damage.rulePack.rulesStrings.10>damaged_present->круша</Maneuver_Smash_Damage.rulePack.rulesStrings.10>
+	<Maneuver_Smash_Damage.rulePack.rulesStrings.11>damaged_present->измутузивая</Maneuver_Smash_Damage.rulePack.rulesStrings.11>
+	<Maneuver_Smash_Damage.rulePack.rulesStrings.12>damaged_present->изколошмачивая</Maneuver_Smash_Damage.rulePack.rulesStrings.12>
+	<Maneuver_Smash_Damage.rulePack.rulesStrings.13>damaged_present->расшибая</Maneuver_Smash_Damage.rulePack.rulesStrings.13>
+	<Maneuver_Smash_Damage.rulePack.rulesStrings.14>damaged_present->рассаживая</Maneuver_Smash_Damage.rulePack.rulesStrings.14>
+
+	<Maneuver_Smash_Damage.rulePack.rulesStrings.15>destroyed_past->раздрабливает</Maneuver_Smash_Damage.rulePack.rulesStrings.15>
+	<Maneuver_Smash_Damage.rulePack.rulesStrings.16>destroyed_past->сокрушает</Maneuver_Smash_Damage.rulePack.rulesStrings.16>
+	<Maneuver_Smash_Damage.rulePack.rulesStrings.17>destroyed_past->разносит</Maneuver_Smash_Damage.rulePack.rulesStrings.17>
+	<Maneuver_Smash_Damage.rulePack.rulesStrings.18>destroyed_past->изничтожает</Maneuver_Smash_Damage.rulePack.rulesStrings.18>
+	<Maneuver_Smash_Damage.rulePack.rulesStrings.19>destroyed_past->разбивает</Maneuver_Smash_Damage.rulePack.rulesStrings.19>
+
+	<Maneuver_Smash_Damage.rulePack.rulesStrings.20>destroyed_present->дробя</Maneuver_Smash_Damage.rulePack.rulesStrings.20>
+	<Maneuver_Smash_Damage.rulePack.rulesStrings.21>destroyed_present->сокрушая</Maneuver_Smash_Damage.rulePack.rulesStrings.21>
+	<Maneuver_Smash_Damage.rulePack.rulesStrings.22>destroyed_present->разнося</Maneuver_Smash_Damage.rulePack.rulesStrings.22>
+	<Maneuver_Smash_Damage.rulePack.rulesStrings.23>destroyed_present->изничтожая</Maneuver_Smash_Damage.rulePack.rulesStrings.23>
+	<Maneuver_Smash_Damage.rulePack.rulesStrings.24>destroyed_present->разбивая</Maneuver_Smash_Damage.rulePack.rulesStrings.24>
+
+	<Maneuver_Smash.rulePack.rulesStrings.0>flavortextconsequence(recipient_flesh!=Mechanoid)->оставляя порядочный синяк</Maneuver_Smash.rulePack.rulesStrings.0>
+	<Maneuver_Smash.rulePack.rulesStrings.1>flavortextconsequence->оставляя там видимый след от удара</Maneuver_Smash.rulePack.rulesStrings.1>
+	<Maneuver_Smash.rulePack.rulesStrings.2>flavortextconsequence->сшибая [recipient_possesive] с ног</Maneuver_Smash.rulePack.rulesStrings.2>
+	<Maneuver_Smash.rulePack.rulesStrings.3>flavortextconsequence->опрокидывая [recipient_possesive] в сторону</Maneuver_Smash.rulePack.rulesStrings.3>
+
+	<Maneuver_Smash.rulePack.rulesStrings.4>destroyed_suffix->на части</Maneuver_Smash.rulePack.rulesStrings.4>
+	<Maneuver_Smash.rulePack.rulesStrings.5>destroyed_suffix->[to] куски</Maneuver_Smash.rulePack.rulesStrings.5>
+	<Maneuver_Smash.rulePack.rulesStrings.6>destroyed_suffix(recipient_flesh!=Mechanoid)->в пыль</Maneuver_Smash.rulePack.rulesStrings.6>
+	<Maneuver_Smash.rulePack.rulesStrings.7>destroyed_suffix->на фрагменты</Maneuver_Smash.rulePack.rulesStrings.7>
+
+	<!-- рваные раны, обычно от когтей -->
+	<Maneuver_Scratch_Damage.rulePack.rulesStrings.0>damaged_inf(p=4)->изодрать</Maneuver_Scratch_Damage.rulePack.rulesStrings.0>
+	<Maneuver_Scratch_Damage.rulePack.rulesStrings.1>damaged_inf->вспороть</Maneuver_Scratch_Damage.rulePack.rulesStrings.1>
+	<Maneuver_Scratch_Damage.rulePack.rulesStrings.2>damaged_inf->порвать</Maneuver_Scratch_Damage.rulePack.rulesStrings.2>
+	<Maneuver_Scratch_Damage.rulePack.rulesStrings.3>damaged_inf->изпластать</Maneuver_Scratch_Damage.rulePack.rulesStrings.3>
+
+	<Maneuver_Scratch_Damage.rulePack.rulesStrings.4>damaged_past(p=4)->рвёт</Maneuver_Scratch_Damage.rulePack.rulesStrings.4>
+	<Maneuver_Scratch_Damage.rulePack.rulesStrings.5>damaged_past->распарывает</Maneuver_Scratch_Damage.rulePack.rulesStrings.5>
+	<Maneuver_Scratch_Damage.rulePack.rulesStrings.6>damaged_past->раздирает</Maneuver_Scratch_Damage.rulePack.rulesStrings.6>
+	<Maneuver_Scratch_Damage.rulePack.rulesStrings.7>damaged_past->испластывает</Maneuver_Scratch_Damage.rulePack.rulesStrings.7>
+
+	<Maneuver_Scratch_Damage.rulePack.rulesStrings.8>damaged_present->рвя</Maneuver_Scratch_Damage.rulePack.rulesStrings.8>
+	<Maneuver_Scratch_Damage.rulePack.rulesStrings.9>damaged_present->распарывая</Maneuver_Scratch_Damage.rulePack.rulesStrings.9>
+	<Maneuver_Scratch_Damage.rulePack.rulesStrings.10>damaged_present->раздирая</Maneuver_Scratch_Damage.rulePack.rulesStrings.10>
+	<Maneuver_Scratch_Damage.rulePack.rulesStrings.11>damaged_present->пластуя</Maneuver_Scratch_Damage.rulePack.rulesStrings.11>
+
+	<!-- изрывать/издирать: в оригинале tear off/rip = вырвать, но тогда не срастётся с damage_suffix -->
+	<Maneuver_Scratch_Damage.rulePack.rulesStrings.12>destroyed_past->растерзывает</Maneuver_Scratch_Damage.rulePack.rulesStrings.12>
+	<Maneuver_Scratch_Damage.rulePack.rulesStrings.13>destroyed_past->вспарывает</Maneuver_Scratch_Damage.rulePack.rulesStrings.13>
+	<Maneuver_Scratch_Damage.rulePack.rulesStrings.14>destroyed_past->изрывает</Maneuver_Scratch_Damage.rulePack.rulesStrings.14>
+	<Maneuver_Scratch_Damage.rulePack.rulesStrings.15>destroyed_past->шинкует</Maneuver_Scratch_Damage.rulePack.rulesStrings.15>
+	<Maneuver_Scratch_Damage.rulePack.rulesStrings.16>destroyed_past->издирает</Maneuver_Scratch_Damage.rulePack.rulesStrings.16>
+
+	<Maneuver_Scratch_Damage.rulePack.rulesStrings.17>destroyed_present->растерзывая</Maneuver_Scratch_Damage.rulePack.rulesStrings.17>
+	<Maneuver_Scratch_Damage.rulePack.rulesStrings.18>destroyed_present->вспарывая</Maneuver_Scratch_Damage.rulePack.rulesStrings.18>
+	<Maneuver_Scratch_Damage.rulePack.rulesStrings.19>destroyed_present->изрывая</Maneuver_Scratch_Damage.rulePack.rulesStrings.19>
+	<Maneuver_Scratch_Damage.rulePack.rulesStrings.20>destroyed_present->шинкуя</Maneuver_Scratch_Damage.rulePack.rulesStrings.20>
+	<Maneuver_Scratch_Damage.rulePack.rulesStrings.21>destroyed_present->издирая</Maneuver_Scratch_Damage.rulePack.rulesStrings.21>
+
+	<Maneuver_Scratch.rulePack.rulesStrings.0>woundname->раны</Maneuver_Scratch.rulePack.rulesStrings.0>
+	<Maneuver_Scratch.rulePack.rulesStrings.1>woundname(p=0.3)-прорехи</Maneuver_Scratch.rulePack.rulesStrings.1>
+
+	<Maneuver_Scratch.rulePack.rulesStrings.2>flavortextsituation(recipient_flesh!=Mechanoid)->так, что из [woundname] сочится кровь,</Maneuver_Scratch.rulePack.rulesStrings.2>
+	<Maneuver_Scratch.rulePack.rulesStrings.3>flavortextsituation->так, что из [woundname] сочится жидкость,</Maneuver_Scratch.rulePack.rulesStrings.3>
+
+	<Maneuver_Scratch.rulePack.rulesStrings.4>flavortextconsequence(recipient_flesh!=Mechanoid)->глубоко разверзая плоть</Maneuver_Scratch.rulePack.rulesStrings.4>
+	<Maneuver_Scratch.rulePack.rulesStrings.5>flavortextconsequence(recipient_flesh==Mechanoid)->обнажая механические внутренности</Maneuver_Scratch.rulePack.rulesStrings.5>
+	<Maneuver_Scratch.rulePack.rulesStrings.6>flavortextconsequence(recipient_flesh!=Mechanoid)->оставляя жуткие [woundname]</Maneuver_Scratch.rulePack.rulesStrings.6>
+
+	<Maneuver_Scratch.rulePack.rulesStrings.7>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] лохмотья</Maneuver_Scratch.rulePack.rulesStrings.7>
+	<Maneuver_Scratch.rulePack.rulesStrings.8>destroyed_suffix->в лоскуты</Maneuver_Scratch.rulePack.rulesStrings.8>
+	<Maneuver_Scratch.rulePack.rulesStrings.9>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] ошмётки</Maneuver_Scratch.rulePack.rulesStrings.9>
+	<Maneuver_Scratch.rulePack.rulesStrings.10>destroyed_suffix->в клочья</Maneuver_Scratch.rulePack.rulesStrings.10>
+	<Maneuver_Scratch.rulePack.rulesStrings.11>destroyed_suffix->[to] куски</Maneuver_Scratch.rulePack.rulesStrings.11>
+	<Maneuver_Scratch.rulePack.rulesStrings.12>destroyed_suffix(recipient_flesh!=Mechanoid)->в кровавое месиво</Maneuver_Scratch.rulePack.rulesStrings.122>
+
+	<!-- тычки-затрещины, повреждения как от дробящих -->
+	<Poke.rulePack.rulesStrings.0>damaged_inf(p=2)->ткнуть</Poke.rulePack.rulesStrings.0>
+	<Poke.rulePack.rulesStrings.1>damaged_inf(p=2)->пырнуть</Poke.rulePack.rulesStrings.1>
+	<Poke.rulePack.rulesStrings.2>damaged_inf->толкнуть</Poke.rulePack.rulesStrings.2>
+	<Poke.rulePack.rulesStrings.3>damaged_inf->пихнуть</Poke.rulePack.rulesStrings.3>
+	<Poke.rulePack.rulesStrings.4>damaged_inf->ударить</Poke.rulePack.rulesStrings.4>
+
+	<Poke.rulePack.rulesStrings.5>damaged_past(p=2)->тыкает</Poke.rulePack.rulesStrings.5>
+	<Poke.rulePack.rulesStrings.6>damaged_past(p=2)->пыряет</Poke.rulePack.rulesStrings.6>
+	<Poke.rulePack.rulesStrings.7>damaged_past->толкает</Poke.rulePack.rulesStrings.7>
+	<Poke.rulePack.rulesStrings.8>damaged_past->пихает</Poke.rulePack.rulesStrings.8>
+	<Poke.rulePack.rulesStrings.9>damaged_past->бьёт</Poke.rulePack.rulesStrings.9>
+
+	<Poke.rulePack.rulesStrings.10>damaged_present(p=2)->тыкая</Poke.rulePack.rulesStrings.10>
+	<Poke.rulePack.rulesStrings.11>damaged_present(p=2)->пыряя</Poke.rulePack.rulesStrings.11>
+	<!-- ??? пока оставим как есть за неимением вариантов -->
+	<Poke.rulePack.rulesStrings.12>damaged_present->толкая</Poke.rulePack.rulesStrings.12>
+	<Poke.rulePack.rulesStrings.13>damaged_present->пихая</Poke.rulePack.rulesStrings.13>
+	<Poke.rulePack.rulesStrings.14>damaged_present->ударяя</Poke.rulePack.rulesStrings.14>
+
+	<Poke.rulePack.rulesStrings.15>flavortextconsequence(recipient_flesh!=Mechanoid)->оставляя порядочный синяк</Poke.rulePack.rulesStrings.15>
+	<Poke.rulePack.rulesStrings.16>flavortextconsequence->оставляя там видимый след от удара</Poke.rulePack.rulesStrings.16>
+	<Poke.rulePack.rulesStrings.17>flavortextconsequence->сшибая [recipient_possesive] с ног</Poke.rulePack.rulesStrings.17>
+	<Poke.rulePack.rulesStrings.18>flavortextconsequence->сбивая [recipient_possesive] в сторону</Poke.rulePack.rulesStrings.18>
+
+	<Poke.rulePack.rulesStrings.19>destroyed_past->раздрабливает</Poke.rulePack.rulesStrings.19>
+	<Poke.rulePack.rulesStrings.20>destroyed_past->сокрушает</Poke.rulePack.rulesStrings.20>
+	<Poke.rulePack.rulesStrings.21>destroyed_past->разносит</Poke.rulePack.rulesStrings.21>
+	<Poke.rulePack.rulesStrings.22>destroyed_past->изничтожает</Poke.rulePack.rulesStrings.22>
+	<Poke.rulePack.rulesStrings.23>destroyed_past->разбивает</Poke.rulePack.rulesStrings.23>
+
+	<Poke.rulePack.rulesStrings.24>destroyed_present->раздрабливая</Poke.rulePack.rulesStrings.24>
+	<Poke.rulePack.rulesStrings.25>destroyed_present->сокрушая</Poke.rulePack.rulesStrings.25>
+	<Poke.rulePack.rulesStrings.26>destroyed_present->разнося</Poke.rulePack.rulesStrings.26>
+	<Poke.rulePack.rulesStrings.27>destroyed_present->изничтожая</Poke.rulePack.rulesStrings.27>
+	<Poke.rulePack.rulesStrings.28>destroyed_present->разбивая</Poke.rulePack.rulesStrings.28>
+
+	<Poke.rulePack.rulesStrings.29>destroyed_suffix->на части</Poke.rulePack.rulesStrings.29>
+	<Poke.rulePack.rulesStrings.30>destroyed_suffix->[to] куски</Poke.rulePack.rulesStrings.30>
+	<!-- TODO: to a fine mist -->
+	<Poke.rulePack.rulesStrings.31>destroyed_suffix(recipient_flesh!=Mechanoid)->в пыль</Poke.rulePack.rulesStrings.31>
+	<Poke.rulePack.rulesStrings.32>destroyed_suffix->на фрагменты</Poke.rulePack.rulesStrings.32>
+
+	<!-- укусы и клевки -->
+	<Bite.rulePack.rulesStrings.0>damaged_inf->укусить</Bite.rulePack.rulesStrings.0>
+	<Bite.rulePack.rulesStrings.1>damaged_inf->загрызть</Bite.rulePack.rulesStrings.1>
+	<Bite.rulePack.rulesStrings.2>damaged_inf(p=0.5)->тяпнуть</Bite.rulePack.rulesStrings.2>
+
+	<Bite.rulePack.rulesStrings.3>damaged_past->кусает</Bite.rulePack.rulesStrings.3>
+	<Bite.rulePack.rulesStrings.4>damaged_past->хватает</Bite.rulePack.rulesStrings.4>
+	<Bite.rulePack.rulesStrings.5>damaged_past->тяпает</Bite.rulePack.rulesStrings.5>
+	<Bite.rulePack.rulesStrings.6>damaged_past->терзает</Bite.rulePack.rulesStrings.6>
+	<Bite.rulePack.rulesStrings.7>damaged_past->рвёт</Bite.rulePack.rulesStrings.7>
+
+	<Bite.rulePack.rulesStrings.8>damaged_present->искусывая</Bite.rulePack.rulesStrings.8>
+	<Bite.rulePack.rulesStrings.9>damaged_present->разгрызая</Bite.rulePack.rulesStrings.9>
+	<Bite.rulePack.rulesStrings.10>damaged_present->прикусывая</Bite.rulePack.rulesStrings.10>
+	<Bite.rulePack.rulesStrings.11>damaged_present->истерзывая</Bite.rulePack.rulesStrings.11>
+	<Bite.rulePack.rulesStrings.12>damaged_present->рвя</Bite.rulePack.rulesStrings.12>
+
+	<Bite.rulePack.rulesStrings.13>flavortextconsequence(recipient_flesh!=Mechanoid)->глубоко разверзая плоть</Bite.rulePack.rulesStrings.13>
+	<Bite.rulePack.rulesStrings.14>flavortextconsequence(recipient_flesh==Mechanoid)->обнажая механические внутренности</Bite.rulePack.rulesStrings.14>
+	<Bite.rulePack.rulesStrings.15>flavortextconsequence(recipient_flesh!=Mechanoid)->оставляя на коже вызывающие ужас отметины</Bite.rulePack.rulesStrings.15>
+	<Bite.rulePack.rulesStrings.16>flavortextconsequence(recipient_flesh==Mechanoid)->оставляя на металле вызывающие ужас отметины</Bite.rulePack.rulesStrings.16>
+
+	<Bite.rulePack.rulesStrings.17>destroyed_past->сжирает</Bite.rulePack.rulesStrings.17>
+	<Bite.rulePack.rulesStrings.18>destroyed_past->расчленяет</Bite.rulePack.rulesStrings.18>
+	<Bite.rulePack.rulesStrings.19>destroyed_past->раздирает</Bite.rulePack.rulesStrings.19>
+	<!-- почему бы и нет, разорять можно и зубами-когтями -->
+	<Bite.rulePack.rulesStrings.20>destroyed_past->разоряет</Bite.rulePack.rulesStrings.20>
+
+	<Bite.rulePack.rulesStrings.21>destroyed_present->сжирая</Bite.rulePack.rulesStrings.21>
+	<Bite.rulePack.rulesStrings.22>destroyed_present->расчленяя</Bite.rulePack.rulesStrings.22>
+	<Bite.rulePack.rulesStrings.23>destroyed_present->раздирая</Bite.rulePack.rulesStrings.23>
+	<Bite.rulePack.rulesStrings.24>destroyed_present->разоряя</Bite.rulePack.rulesStrings.24>
+
+	<Bite.rulePack.rulesStrings.25>destroyed_suffix->в клочья</Bite.rulePack.rulesStrings.25>
+	<Bite.rulePack.rulesStrings.26>destroyed_suffix->на части</Bite.rulePack.rulesStrings.26>
+	<Bite.rulePack.rulesStrings.27>destroyed_suffix->[to] лоскуты</Bite.rulePack.rulesStrings.27>
+	<Bite.rulePack.rulesStrings.28>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] лохмотья</Bite.rulePack.rulesStrings.28>
+	<Bite.rulePack.rulesStrings.29>destroyed_suffix(recipient_flesh!=Mechanoid)->во что-то неузнаваемое</Bite.rulePack.rulesStrings.29>
 
 </LanguageData>
