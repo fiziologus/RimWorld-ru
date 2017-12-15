@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- SPECIAL: Terrains from natural stones -->
+	<!-- Перевести это через лекала в Keyed/Misc невозможно: движок берёт нелокализованные строки для материала -->
+	<!-- description нигде не отображается, пока без перевода -->
+
+	<Sandstone_Rough.label>грубый песчаник</Sandstone_Rough.label>
+	<Sandstone_Rough.description>Rough, natural sandstone ground.</Sandstone_Rough.description>
+	<Sandstone_RoughHewn.label>тёсанный песчаник</Sandstone_RoughHewn.label>
+	<Sandstone_RoughHewn.description>Roughly cut natural sandstone floor.</Sandstone_RoughHewn.description>
+	<Sandstone_Smooth.label>ровный песчаник</Sandstone_Smooth.label>
+	<Sandstone_Smooth.description>Smoothed natural sandstone floor.</Sandstone_Smooth.description>
+
+	<Granite_Rough.label>грубый гранит</Granite_Rough.label>
+  <Granite_Rough.description>Rough, natural granite ground.</Granite_Rough.description>
+	<Granite_RoughHewn.label>тёсанный гранит</Granite_RoughHewn.label>
+  <Granite_RoughHewn.description>Roughly cut natural granite floor.</Granite_RoughHewn.description>
+	<Granite_Smooth.label>ровный гранит</Granite_Smooth.label>
+  <Granite_Smooth.description>Smoothed natural granite floor.</Granite_Smooth.description>
+
+	<Limestone_Rough.label>грубый известняк</Limestone_Rough.label>
+  <Limestone_Rough.description>Rough, natural limestone ground.</Limestone_Rough.description>
+	<Limestone_RoughHewn.label>тёсанный известняк</Limestone_RoughHewn.label>
+  <Limestone_RoughHewn.description>Roughly cut natural limestone floor.</Limestone_RoughHewn.description>
+	<Limestone_Smooth.label>ровный известняк</Limestone_Smooth.label>
+  <Limestone_Smooth.description>Smoothed natural limestone floor.</Limestone_Smooth.description>
+
+	<Slate_Rough.label>грубый сланец</Slate_Rough.label>
+  <Slate_Rough.description>Rough, natural slate ground.</Slate_Rough.description>
+	<Slate_RoughHewn.label>тёсанный сланец</Slate_RoughHewn.label>
+  <Slate_RoughHewn.description>Roughly cut natural slate floor.</Slate_RoughHewn.description>
+	<Slate_Smooth.label>ровный сланец</Slate_Smooth.label>
+  <Slate_Smooth.description>Smoothed natural slate floor.</Slate_Smooth.description>
+
+	<Marble_Rough.label>грубый мрамор</Marble_Rough.label>
+  <Marble_Rough.description>Rough, natural marble ground.</Marble_Rough.description>
+	<Marble_RoughHewn.label>тёсанный мрамор</Marble_RoughHewn.label>
+  <Marble_RoughHewn.description>Roughly cut natural marble floor.</Marble_RoughHewn.description>
+	<Marble_Smooth.label>ровный мрамор</Marble_Smooth.label>
+  <Marble_Smooth.description>Smoothed natural marble floor.</Marble_Smooth.description>
+
+</LanguageData>
