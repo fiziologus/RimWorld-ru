@@ -41,20 +41,4 @@
 	<CarpetDark.label>тёмный ковёр</CarpetDark.label>
 	<CarpetDark.description>Деловито выглядящий ковёр тёмно-серого цвета.</CarpetDark.description>
 
-	<!-- GENERATED -->
-
-	<!-- Используем лекала из Keyed/Misc.xml -->
-
-	<Granite_Smooth.description>Гладкий природный гранитный пол.</Granite_Smooth.description>
-
-	<Limestone_Rough.description>Грубая природная известняковая основа.</Limestone_Rough.description>
-	<Limestone_Smooth.description>Гладкий природный известняковый пол.</Limestone_Smooth.description>
-
-	<Slate_Rough.description>Грубая природная основа из сланца.</Slate_Rough.description>
-	<Slate_RoughHewn.description>Естественный пол из грубо обтёсанного сланца</Slate_RoughHewn.description>.
-	<Slate_Smooth.description>Гладкий природный пол из сланца.</Slate_Smooth.description>
-
-	<Marble_Rough.description>Грубая природная мраморная основа.</Marble_Rough.description>
-	<Marble_Smooth.description>Гладкий природный мраморный пол.</Marble_Smooth.description>
-
 </LanguageData>
