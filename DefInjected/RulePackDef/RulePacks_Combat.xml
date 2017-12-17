@@ -40,9 +40,9 @@
 	<Combat_MeleeIncludes.rulePack.rulesStrings.22>bodypart_adjective->несокрушимый</Combat_MeleeIncludes.rulePack.rulesStrings.22>
 	<!-- что массажируем; 26, если больше трёх -->
 	<Combat_MeleeIncludes.rulePack.rulesStrings.23>targetlist(recipient_part_count==1)->[recipient_part0_label]</Combat_MeleeIncludes.rulePack.rulesStrings.23>
-	<Combat_MeleeIncludes.rulePack.rulesStrings.24>targetlist(recipient_part_count==2)->[recipient_part0_label] и [recipient_part1_label]</Combat_MeleeIncludes.rulePack.rulesStrings.24>
-	<Combat_MeleeIncludes.rulePack.rulesStrings.25>targetlist(recipient_part_count==3)->[recipient_part0_label], [recipient_part1_label] да [recipient_part2_label]</Combat_MeleeIncludes.rulePack.rulesStrings.25>
-	<Combat_MeleeIncludes.rulePack.rulesStrings.26>targetlist->[recipient_part0_label], [recipient_part1_label], [recipient_part2_label] да [recipient_part3_label]</Combat_MeleeIncludes.rulePack.rulesStrings.26>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.24>targetlist(recipient_part_count==2)->[recipient_part0_label] с [recipient_part1_label]</Combat_MeleeIncludes.rulePack.rulesStrings.24>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.25>targetlist(recipient_part_count==3)->[recipient_part0_label] с [recipient_part1_label] и [recipient_part2_label]</Combat_MeleeIncludes.rulePack.rulesStrings.25>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.26>targetlist->[recipient_part0_label], [recipient_part1_label], [recipient_part2_label] и [recipient_part3_label]</Combat_MeleeIncludes.rulePack.rulesStrings.26>
 	<!-- нанесено ранение -->
 	<Combat_MeleeIncludes.rulePack.rulesStrings.27>damaged_present->раня</Combat_MeleeIncludes.rulePack.rulesStrings.27>
 	<Combat_MeleeIncludes.rulePack.rulesStrings.28>damaged_present->увеча</Combat_MeleeIncludes.rulePack.rulesStrings.28>
@@ -107,14 +107,14 @@
 	<Combat_MeleeIncludes.rulePack.rulesStrings.74>painevent->от увечий</Combat_MeleeIncludes.rulePack.rulesStrings.74>
 	<Combat_MeleeIncludes.rulePack.rulesStrings.75>painevent->от ран</Combat_MeleeIncludes.rulePack.rulesStrings.75>
 	<!-- снаряды для взрывов -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.76>mortarshell->shell</Combat_MeleeIncludes.rulePack.rulesStrings.76>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.77>mortarshell->shot</Combat_MeleeIncludes.rulePack.rulesStrings.77>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.78>mortarshell->projectile</Combat_MeleeIncludes.rulePack.rulesStrings.78>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.79>mortarshell->explosive</Combat_MeleeIncludes.rulePack.rulesStrings.79>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.80>mortarshell->bomb</Combat_MeleeIncludes.rulePack.rulesStrings.80>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.81>mortarshell(p=0.3)->ballistic shell</Combat_MeleeIncludes.rulePack.rulesStrings.81>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.82>mortarshell(p=0.3)->ballistic shot</Combat_MeleeIncludes.rulePack.rulesStrings.82>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.83>mortarshell(p=0.3)->ballistic projectile</Combat_MeleeIncludes.rulePack.rulesStrings.83>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.76>mortarshell->снаряд</Combat_MeleeIncludes.rulePack.rulesStrings.76>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.77>mortarshell->выстред</Combat_MeleeIncludes.rulePack.rulesStrings.77>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.78>mortarshell->боеприпас</Combat_MeleeIncludes.rulePack.rulesStrings.78>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.79>mortarshell->взрывчатки</Combat_MeleeIncludes.rulePack.rulesStrings.79>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.80>mortarshell->бомба</Combat_MeleeIncludes.rulePack.rulesStrings.80>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.81>mortarshell(p=0.3)->баллистический снаряд</Combat_MeleeIncludes.rulePack.rulesStrings.81>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.82>mortarshell(p=0.3)->баллистический выстрел</Combat_MeleeIncludes.rulePack.rulesStrings.82>
+	<Combat_MeleeIncludes.rulePack.rulesStrings.83>mortarshell(p=0.3)->баллистический боеприпас</Combat_MeleeIncludes.rulePack.rulesStrings.83>
 
 	<Combat_MeleeIncludes.rulePack.rulesStrings.84>to->на</Combat_MeleeIncludes.rulePack.rulesStrings.84>
 	<Combat_MeleeIncludes.rulePack.rulesStrings.85>to->в</Combat_MeleeIncludes.rulePack.rulesStrings.85>
@@ -127,14 +127,14 @@
 	<!-- нанесение ран, увечий и прочих радостей -->
 	<!-- что поломали (по количеству) -->
 	<Combat_WoundIncludes.rulePack.rulesStrings.0>destroyed_targets(recipient_part_destroyed_count==1)->[recipient_part_destroyed0_label]</Combat_WoundIncludes.rulePack.rulesStrings.0>
-	<Combat_WoundIncludes.rulePack.rulesStrings.1>destroyed_targets(recipient_part_destroyed_count==2)->[recipient_part_destroyed0_label] и [recipient_part_destroyed1_label]</Combat_WoundIncludes.rulePack.rulesStrings.1>
-	<Combat_WoundIncludes.rulePack.rulesStrings.2>destroyed_targets(recipient_part_destroyed_count==3)->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], да [recipient_part_destroyed2_label]</Combat_WoundIncludes.rulePack.rulesStrings.2>
-	<Combat_WoundIncludes.rulePack.rulesStrings.3>destroyed_targets->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], [recipient_part_destroyed2_label], да [recipient_part_destroyed3_label]</Combat_WoundIncludes.rulePack.rulesStrings.3>
+	<Combat_WoundIncludes.rulePack.rulesStrings.1>destroyed_targets(recipient_part_destroyed_count==2)->[recipient_part_destroyed0_label] с [recipient_part_destroyed1_label]</Combat_WoundIncludes.rulePack.rulesStrings.1>
+	<Combat_WoundIncludes.rulePack.rulesStrings.2>destroyed_targets(recipient_part_destroyed_count==3)->[recipient_part_destroyed0_label] с [recipient_part_destroyed1_label] и [recipient_part_destroyed2_label]</Combat_WoundIncludes.rulePack.rulesStrings.2>
+	<Combat_WoundIncludes.rulePack.rulesStrings.3>destroyed_targets->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], [recipient_part_destroyed2_label] и [recipient_part_destroyed3_label]</Combat_WoundIncludes.rulePack.rulesStrings.3>
 	<!-- что только погнули -->
 	<Combat_WoundIncludes.rulePack.rulesStrings.4>damaged_targets(recipient_part_damaged_count==1)->[recipient_part_damaged0_label]</Combat_WoundIncludes.rulePack.rulesStrings.4>
-	<Combat_WoundIncludes.rulePack.rulesStrings.5>damaged_targets(recipient_part_damaged_count==2)->[recipient_part_damaged0_label] и [recipient_part_damaged1_label]</Combat_WoundIncludes.rulePack.rulesStrings.5>
-	<Combat_WoundIncludes.rulePack.rulesStrings.6>damaged_targets(recipient_part_damaged_count==3)->[recipient_part_damaged0_label], [recipient_part_damaged1_label], да [recipient_part_damaged2_label]</Combat_WoundIncludes.rulePack.rulesStrings.6>
-	<Combat_WoundIncludes.rulePack.rulesStrings.7>damaged_targets->[recipient_part_damaged0_label], [recipient_part_damaged1_label], [recipient_part_damaged2_label], да [recipient_part_damaged3_label]</Combat_WoundIncludes.rulePack.rulesStrings.7>
+	<Combat_WoundIncludes.rulePack.rulesStrings.5>damaged_targets(recipient_part_damaged_count==2)->[recipient_part_damaged0_label] с [recipient_part_damaged1_label]</Combat_WoundIncludes.rulePack.rulesStrings.5>
+	<Combat_WoundIncludes.rulePack.rulesStrings.6>damaged_targets(recipient_part_damaged_count==3)->[recipient_part_damaged0_label] с [recipient_part_damaged1_label] и [recipient_part_damaged2_label]</Combat_WoundIncludes.rulePack.rulesStrings.6>
+	<Combat_WoundIncludes.rulePack.rulesStrings.7>damaged_targets->[recipient_part_damaged0_label], [recipient_part_damaged1_label], [recipient_part_damaged2_label] и [recipient_part_damaged3_label]</Combat_WoundIncludes.rulePack.rulesStrings.7>
 	<!-- уровень мастерства -->
 	<Combat_WoundIncludes.rulePack.rulesStrings.8>expertly->со знанием дела</Combat_WoundIncludes.rulePack.rulesStrings.8>
 	<Combat_WoundIncludes.rulePack.rulesStrings.9>expertly->искустно</Combat_WoundIncludes.rulePack.rulesStrings.9>
@@ -165,18 +165,19 @@
 	<Combat_WoundIncludes.rulePack.rulesStrings.34>expertly->сродни художнику</Combat_WoundIncludes.rulePack.rulesStrings.34>
 	<Combat_WoundIncludes.rulePack.rulesStrings.35>expertly->сродни профи</Combat_WoundIncludes.rulePack.rulesStrings.35>
 
-  <Combat_WoundIncludes.rulePack.rulesStrings.36>expert->expert</Combat_WoundIncludes.rulePack.rulesStrings.36>
-  <Combat_WoundIncludes.rulePack.rulesStrings.37>expert->adept</Combat_WoundIncludes.rulePack.rulesStrings.37>
-  <Combat_WoundIncludes.rulePack.rulesStrings.38>expert->adroit</Combat_WoundIncludes.rulePack.rulesStrings.38>
-  <Combat_WoundIncludes.rulePack.rulesStrings.39>expert->deft</Combat_WoundIncludes.rulePack.rulesStrings.39>
-  <Combat_WoundIncludes.rulePack.rulesStrings.40>expert->skillful</Combat_WoundIncludes.rulePack.rulesStrings.40>
-  <Combat_WoundIncludes.rulePack.rulesStrings.41>expert->slick</Combat_WoundIncludes.rulePack.rulesStrings.41>
-  <Combat_WoundIncludes.rulePack.rulesStrings.42>expert->professional</Combat_WoundIncludes.rulePack.rulesStrings.42>
-  <Combat_WoundIncludes.rulePack.rulesStrings.43>expert->apt</Combat_WoundIncludes.rulePack.rulesStrings.43>
-  <Combat_WoundIncludes.rulePack.rulesStrings.44>expert->dexterous</Combat_WoundIncludes.rulePack.rulesStrings.44>
-  <Combat_WoundIncludes.rulePack.rulesStrings.45>expert->clever</Combat_WoundIncludes.rulePack.rulesStrings.45>
-  <Combat_WoundIncludes.rulePack.rulesStrings.46>expert->masterful</Combat_WoundIncludes.rulePack.rulesStrings.46>
-  <Combat_WoundIncludes.rulePack.rulesStrings.47>expert->artistic</Combat_WoundIncludes.rulePack.rulesStrings.47>
+	<!-- прилагательное для выстрела -->
+	<Combat_WoundIncludes.rulePack.rulesStrings.36>expert->опытным</Combat_WoundIncludes.rulePack.rulesStrings.36>
+	<Combat_WoundIncludes.rulePack.rulesStrings.37>expert->искусным</Combat_WoundIncludes.rulePack.rulesStrings.37>
+	<Combat_WoundIncludes.rulePack.rulesStrings.38>expert->ловким</Combat_WoundIncludes.rulePack.rulesStrings.38>
+	<Combat_WoundIncludes.rulePack.rulesStrings.39>expert->спорым</Combat_WoundIncludes.rulePack.rulesStrings.39>
+	<Combat_WoundIncludes.rulePack.rulesStrings.40>expert->умелым</Combat_WoundIncludes.rulePack.rulesStrings.40>
+	<Combat_WoundIncludes.rulePack.rulesStrings.41>expert->складным</Combat_WoundIncludes.rulePack.rulesStrings.41>
+	<Combat_WoundIncludes.rulePack.rulesStrings.42>expert->профессиональным</Combat_WoundIncludes.rulePack.rulesStrings.42>
+	<Combat_WoundIncludes.rulePack.rulesStrings.43>expert->подходящим</Combat_WoundIncludes.rulePack.rulesStrings.43>
+	<Combat_WoundIncludes.rulePack.rulesStrings.44>expert->поднаторелым</Combat_WoundIncludes.rulePack.rulesStrings.44>
+	<Combat_WoundIncludes.rulePack.rulesStrings.45>expert->толковым</Combat_WoundIncludes.rulePack.rulesStrings.45>
+	<Combat_WoundIncludes.rulePack.rulesStrings.46>expert->мастерским</Combat_WoundIncludes.rulePack.rulesStrings.46>
+	<Combat_WoundIncludes.rulePack.rulesStrings.47>expert->артистичным</Combat_WoundIncludes.rulePack.rulesStrings.47>
 
 	<!-- Попадание в рукопашной -->
 	<Combat_Hit.rulePack.rulesStrings.0>logentry(p=0.3)->[initiator_definite] [damaged_past] [recipient_part0_label] [recipient_definite].</Combat_Hit.rulePack.rulesStrings.0>
@@ -246,182 +247,252 @@
 	<Combat_Dodge.rulePack.rulesStrings.3>result->но финтом [recipient_definite] обводит [initiator_possessive] вокруг пальца</Combat_Dodge.rulePack.rulesStrings.3>
 	<Combat_Dodge.rulePack.rulesStrings.4>result->но атака была толково отражена</Combat_Dodge.rulePack.rulesStrings.4>
 
-  <Combat_RangedIncludes.rulePack.rulesStrings.0>initiator_definite->[initiator_labelDefinite]</Combat_RangedIncludes.rulePack.rulesStrings.0>
-  <Combat_RangedIncludes.rulePack.rulesStrings.1>initiator_definite->[initiator_nameShortDef]</Combat_RangedIncludes.rulePack.rulesStrings.1>
-  <Combat_RangedIncludes.rulePack.rulesStrings.2>recipient_definite->[recipient_labelDefinite]</Combat_RangedIncludes.rulePack.rulesStrings.2>
-  <Combat_RangedIncludes.rulePack.rulesStrings.3>recipient_definite->[recipient_nameShortDef]</Combat_RangedIncludes.rulePack.rulesStrings.3>
-  <Combat_RangedIncludes.rulePack.rulesStrings.4>originalTarget_definite->[originalTarget_labelDefinite]</Combat_RangedIncludes.rulePack.rulesStrings.4>
-  <Combat_RangedIncludes.rulePack.rulesStrings.5>originalTarget_definite->[originalTarget_nameShortDef]</Combat_RangedIncludes.rulePack.rulesStrings.5>
+	<!-- стрельба-метание -->
+	<!-- кто где и где кто -->
+	<Combat_RangedIncludes.rulePack.rulesStrings.0>initiator_definite->[initiator_labelDefinite]</Combat_RangedIncludes.rulePack.rulesStrings.0>
+	<Combat_RangedIncludes.rulePack.rulesStrings.1>initiator_definite->[initiator_nameShortDef]</Combat_RangedIncludes.rulePack.rulesStrings.1>
 
-  <Combat_RangedFire.rulePack.rulesStrings.0>logentry->[initiator_definite] [shotat] [recipient_definite] with [initiator_possessive] [weapon_label].</Combat_RangedFire.rulePack.rulesStrings.0>
-  <Combat_RangedFire.rulePack.rulesStrings.1>logentry->[initiator_definite] [shot] [initiator_possessive] [weapon_label] at [recipient_definite].</Combat_RangedFire.rulePack.rulesStrings.1>
-  <Combat_RangedFire.rulePack.rulesStrings.2>logentry->[initiator_definite] [shotat] [recipient_definite].</Combat_RangedFire.rulePack.rulesStrings.2>
-  <Combat_RangedFire.rulePack.rulesStrings.3>logentry->[initiator_definite] [shot_a] [weapon_projectile_label] [burst] at [recipient_definite].</Combat_RangedFire.rulePack.rulesStrings.3>
-  <Combat_RangedFire.rulePack.rulesStrings.4>logentry(recipient_missing==True)->[initiator_definite] [shot_a] [weapon_projectile_label].</Combat_RangedFire.rulePack.rulesStrings.4>
-  <Combat_RangedFire.rulePack.rulesStrings.5>logentry(recipient_missing==True)->[initiator_definite] [shot] [initiator_possessive] [weapon_label].</Combat_RangedFire.rulePack.rulesStrings.5>
-  <Combat_RangedFire.rulePack.rulesStrings.6>shot_a->[shotadverb] [shotverb] a</Combat_RangedFire.rulePack.rulesStrings.6>
-  <Combat_RangedFire.rulePack.rulesStrings.7>shot_a(p=2)->[shotverb] a</Combat_RangedFire.rulePack.rulesStrings.7>
-  <Combat_RangedFire.rulePack.rulesStrings.8>shot(p=2)->[shotverb]</Combat_RangedFire.rulePack.rulesStrings.8>
-  <Combat_RangedFire.rulePack.rulesStrings.9>shot->[shotadverb] [shotverb]</Combat_RangedFire.rulePack.rulesStrings.9>
-  <Combat_RangedFire.rulePack.rulesStrings.10>shotat->shot [aburst] at</Combat_RangedFire.rulePack.rulesStrings.10>
-  <Combat_RangedFire.rulePack.rulesStrings.11>shotat->[shotadverb] shot [aburst] at</Combat_RangedFire.rulePack.rulesStrings.11>
-  <Combat_RangedFire.rulePack.rulesStrings.12>shotat(p=0.5)->tried to shoot [aburst] at</Combat_RangedFire.rulePack.rulesStrings.12>
-  <Combat_RangedFire.rulePack.rulesStrings.13>shotat(p=0.3)->took a shot at</Combat_RangedFire.rulePack.rulesStrings.13>
-  <Combat_RangedFire.rulePack.rulesStrings.14>shotat(p=0.2)->took a [shotadjective] shot at</Combat_RangedFire.rulePack.rulesStrings.14>
-  <Combat_RangedFire.rulePack.rulesStrings.15>shotat->fired [aburst] at</Combat_RangedFire.rulePack.rulesStrings.15>
-  <Combat_RangedFire.rulePack.rulesStrings.16>shotat->fired [aburst] [shotadverb] at</Combat_RangedFire.rulePack.rulesStrings.16>
-  <Combat_RangedFire.rulePack.rulesStrings.17>shotat(p=0.5)->aimed and fired [aburst] at</Combat_RangedFire.rulePack.rulesStrings.17>
-  <Combat_RangedFire.rulePack.rulesStrings.18>shotat(p=0.3)->opened fire at</Combat_RangedFire.rulePack.rulesStrings.18>
-  <Combat_RangedFire.rulePack.rulesStrings.19>aburst-></Combat_RangedFire.rulePack.rulesStrings.19>
-  <Combat_RangedFire.rulePack.rulesStrings.20>aburst(burst==True,p=3)->a burst</Combat_RangedFire.rulePack.rulesStrings.20>
-  <Combat_RangedFire.rulePack.rulesStrings.21>burst-></Combat_RangedFire.rulePack.rulesStrings.21>
-  <Combat_RangedFire.rulePack.rulesStrings.22>burst(burst==True,p=3)->burst</Combat_RangedFire.rulePack.rulesStrings.22>
-  <Combat_RangedFire.rulePack.rulesStrings.23>shotverb->shot</Combat_RangedFire.rulePack.rulesStrings.23>
-  <Combat_RangedFire.rulePack.rulesStrings.24>shotverb->fired</Combat_RangedFire.rulePack.rulesStrings.24>
-  <Combat_RangedFire.rulePack.rulesStrings.25>shotverb->discharged</Combat_RangedFire.rulePack.rulesStrings.25>
-  <Combat_RangedFire.rulePack.rulesStrings.26>shotadverb->carefully</Combat_RangedFire.rulePack.rulesStrings.26>
-  <Combat_RangedFire.rulePack.rulesStrings.27>shotadverb->quickly</Combat_RangedFire.rulePack.rulesStrings.27>
-  <Combat_RangedFire.rulePack.rulesStrings.28>shotadverb->precisely</Combat_RangedFire.rulePack.rulesStrings.28>
-  <Combat_RangedFire.rulePack.rulesStrings.29>shotadverb->deliberately</Combat_RangedFire.rulePack.rulesStrings.29>
-  <Combat_RangedFire.rulePack.rulesStrings.30>shotadverb(initiator_flesh!=Mechanoid)->gingerly</Combat_RangedFire.rulePack.rulesStrings.30>
-  <Combat_RangedFire.rulePack.rulesStrings.31>shotadverb->precisely</Combat_RangedFire.rulePack.rulesStrings.31>
-  <Combat_RangedFire.rulePack.rulesStrings.32>shotadverb(initiator_flesh!=Mechanoid)->warily</Combat_RangedFire.rulePack.rulesStrings.32>
-  <Combat_RangedFire.rulePack.rulesStrings.33>shotadjective->careful</Combat_RangedFire.rulePack.rulesStrings.33>
-  <Combat_RangedFire.rulePack.rulesStrings.34>shotadjective->quick</Combat_RangedFire.rulePack.rulesStrings.34>
-  <Combat_RangedFire.rulePack.rulesStrings.35>shotadjective->deliberate</Combat_RangedFire.rulePack.rulesStrings.35>
-  <Combat_RangedFire.rulePack.rulesStrings.36>shotadjective->precise</Combat_RangedFire.rulePack.rulesStrings.36>
-  <Combat_RangedFire.rulePack.rulesStrings.37>shotadjective(initiator_flesh!=Mechanoid)->wary</Combat_RangedFire.rulePack.rulesStrings.37>
+	<Combat_RangedIncludes.rulePack.rulesStrings.2>recipient_definite->[recipient_labelDefinite]</Combat_RangedIncludes.rulePack.rulesStrings.2>
+	<Combat_RangedIncludes.rulePack.rulesStrings.3>recipient_definite->[recipient_nameShortDef]</Combat_RangedIncludes.rulePack.rulesStrings.3>
 
-  <Combat_RangedDamage.rulePack.rulesStrings.0>logentry->[initiator_definite]'s [weapon_projectile_label] [destroyed_past] [recipient_definite]'s [destroyed_targets].</Combat_RangedDamage.rulePack.rulesStrings.0>
-  <Combat_RangedDamage.rulePack.rulesStrings.1>logentry->[initiator_definite]'s [weapon_projectile_label] [destroyed_past] [recipient_definite]'s [destroyed_targets] [to] [destroyed_suffix].</Combat_RangedDamage.rulePack.rulesStrings.1>
-  <Combat_RangedDamage.rulePack.rulesStrings.2>logentry->[initiator_definite]'s [weapon_projectile_label] [destroyed_past] [recipient_definite]'s [destroyed_targets] [expertly].</Combat_RangedDamage.rulePack.rulesStrings.2>
-  <Combat_RangedDamage.rulePack.rulesStrings.3>logentry(p=2)->[initiator_definite]'s [weapon_projectile_label] [missed] [originalTarget_definite] and [destroyed_past] [recipient_definite]'s [destroyed_targets].</Combat_RangedDamage.rulePack.rulesStrings.3>
-  <Combat_RangedDamage.rulePack.rulesStrings.4>logentry(p=2)->[initiator_definite]'s [weapon_projectile_label] [missed] [originalTarget_definite], [destroyed_present] [recipient_definite]'s [destroyed_targets].</Combat_RangedDamage.rulePack.rulesStrings.4>
-  <Combat_RangedDamage.rulePack.rulesStrings.5>logentry->[recipient_definite]'s [destroyed_targets] was [destroyed_past] by [initiator_definite]'s [weapon_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.5>
-  <Combat_RangedDamage.rulePack.rulesStrings.6>logentry->[recipient_definite]'s [destroyed_targets] was [destroyed_past] by [initiator_definite]'s [expert] [weapon_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.6>
-  <Combat_RangedDamage.rulePack.rulesStrings.7>logentry->[recipient_definite]'s [destroyed_targets] was [destroyed_past] into [destroyed_suffix] by [initiator_definite]'s [weapon_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.7>
-  <Combat_RangedDamage.rulePack.rulesStrings.8>logentry(recipient_partDestroyed_count==0)->[initiator_definite]'s [weapon_projectile_label] [damaged_past] [recipient_definite]'s [damaged_targets].</Combat_RangedDamage.rulePack.rulesStrings.8>
-  <Combat_RangedDamage.rulePack.rulesStrings.9>logentry(recipient_partDestroyed_count==0)->[initiator_definite]'s [weapon_projectile_label] [damaged_past] [recipient_definite]'s [damaged_targets] [expertly].</Combat_RangedDamage.rulePack.rulesStrings.9>
-  <Combat_RangedDamage.rulePack.rulesStrings.10>logentry(recipient_partDestroyed_count==0,p=2)->[initiator_definite]'s [weapon_projectile_label] [missed] [originalTarget_definite] and [damaged_past] [recipient_definite]'s [damaged_targets].</Combat_RangedDamage.rulePack.rulesStrings.10>
-  <Combat_RangedDamage.rulePack.rulesStrings.11>logentry(recipient_partDestroyed_count==0,p=2)->[initiator_definite]'s [weapon_projectile_label] [missed] [originalTarget_definite], [damaged_present] [recipient_definite]'s [damaged_targets].</Combat_RangedDamage.rulePack.rulesStrings.11>
-  <Combat_RangedDamage.rulePack.rulesStrings.12>logentry(recipient_partDestroyed_count==0)->[recipient_definite]'s [damaged_targets] was [damagedverb_past] by [initiator_definite]'s [weapon_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.12>
-  <Combat_RangedDamage.rulePack.rulesStrings.13>logentry(recipient_partDestroyed_count==0)->[recipient_definite]'s [damaged_targets] was [damagedverb_past] by [initiator_definite]'s [expert] [weapon_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.13>
-  <Combat_RangedDamage.rulePack.rulesStrings.14>logentry(p=3)->[initiator_definite]'s [weapon_projectile_label] [destroyed_past] [recipient_definite]'s [destroyed_targets] and [damaged_past] [recipient_possessive] [damaged_targets].</Combat_RangedDamage.rulePack.rulesStrings.14>
-  <Combat_RangedDamage.rulePack.rulesStrings.15>logentry(p=6)->[initiator_definite]'s [weapon_projectile_label] [missed] [originalTarget_definite], [destroyed_present] [recipient_definite]'s [destroyed_targets] and [damaged_present] [recipient_possessive] [damaged_targets].</Combat_RangedDamage.rulePack.rulesStrings.15>
-  <Combat_RangedDamage.rulePack.rulesStrings.16>logentry(p=0.2)->[initiator_definite] hit [recipient_definite] with a [weapon_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.16>
-  <Combat_RangedDamage.rulePack.rulesStrings.17>logentry(p=0.2)->[initiator_definite]'s [weapon_projectile_label] hit [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.17>
-  <Combat_RangedDamage.rulePack.rulesStrings.18>logentry(p=0.4)->[initiator_definite] [missed] [originalTarget_definite] and hit [recipient_definite] with a [weapon_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.18>
-  <Combat_RangedDamage.rulePack.rulesStrings.19>logentry(p=0.4)->[initiator_definite]'s [weapon_projectile_label] [missed] [originalTarget_definite] and hit [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.19>
-  <Combat_RangedDamage.rulePack.rulesStrings.20>logentry(p=0.2)->[initiator_definite] hit [recipient_definite] with a [weapon_projectile_label] intended for [originalTarget_definite].</Combat_RangedDamage.rulePack.rulesStrings.20>
-  <Combat_RangedDamage.rulePack.rulesStrings.21>weapon_projectile_label(p=0.05)->shot</Combat_RangedDamage.rulePack.rulesStrings.21>
-  <Combat_RangedDamage.rulePack.rulesStrings.22>destroyed_past->shattered</Combat_RangedDamage.rulePack.rulesStrings.22>
-  <Combat_RangedDamage.rulePack.rulesStrings.23>destroyed_past->crushed</Combat_RangedDamage.rulePack.rulesStrings.23>
-  <Combat_RangedDamage.rulePack.rulesStrings.24>destroyed_past->obliterated</Combat_RangedDamage.rulePack.rulesStrings.24>
-  <Combat_RangedDamage.rulePack.rulesStrings.25>destroyed_past->annihilated</Combat_RangedDamage.rulePack.rulesStrings.25>
-  <Combat_RangedDamage.rulePack.rulesStrings.26>destroyed_past->pierced</Combat_RangedDamage.rulePack.rulesStrings.26>
-  <Combat_RangedDamage.rulePack.rulesStrings.27>destroyed_past->perforated</Combat_RangedDamage.rulePack.rulesStrings.27>
-  <Combat_RangedDamage.rulePack.rulesStrings.28>destroyed_past->punctured</Combat_RangedDamage.rulePack.rulesStrings.28>
-  <Combat_RangedDamage.rulePack.rulesStrings.29>destroyed_present->shattering</Combat_RangedDamage.rulePack.rulesStrings.29>
-  <Combat_RangedDamage.rulePack.rulesStrings.30>destroyed_present->crushing</Combat_RangedDamage.rulePack.rulesStrings.30>
-  <Combat_RangedDamage.rulePack.rulesStrings.31>destroyed_present->obliterating</Combat_RangedDamage.rulePack.rulesStrings.31>
-  <Combat_RangedDamage.rulePack.rulesStrings.32>destroyed_present->annihilating</Combat_RangedDamage.rulePack.rulesStrings.32>
-  <Combat_RangedDamage.rulePack.rulesStrings.33>destroyed_present->piercing</Combat_RangedDamage.rulePack.rulesStrings.33>
-  <Combat_RangedDamage.rulePack.rulesStrings.34>destroyed_present->perforating</Combat_RangedDamage.rulePack.rulesStrings.34>
-  <Combat_RangedDamage.rulePack.rulesStrings.35>destroyed_present->puncturing</Combat_RangedDamage.rulePack.rulesStrings.35>
-  <Combat_RangedDamage.rulePack.rulesStrings.36>destroyed_suffix->pieces</Combat_RangedDamage.rulePack.rulesStrings.36>
-  <Combat_RangedDamage.rulePack.rulesStrings.37>destroyed_suffix->bits</Combat_RangedDamage.rulePack.rulesStrings.37>
-  <Combat_RangedDamage.rulePack.rulesStrings.38>destroyed_suffix->a fine mist</Combat_RangedDamage.rulePack.rulesStrings.38>
-  <Combat_RangedDamage.rulePack.rulesStrings.39>destroyed_suffix->fragments</Combat_RangedDamage.rulePack.rulesStrings.39>
-  <Combat_RangedDamage.rulePack.rulesStrings.40>destroyed_suffix(p=0.5)->a holey mess</Combat_RangedDamage.rulePack.rulesStrings.40>
-  <Combat_RangedDamage.rulePack.rulesStrings.41>destroyed_suffix(recipient_flesh!=Mechanoid,p=0.2)->ground beef</Combat_RangedDamage.rulePack.rulesStrings.41>
-  <Combat_RangedDamage.rulePack.rulesStrings.42>damaged_past->wounded</Combat_RangedDamage.rulePack.rulesStrings.42>
-  <Combat_RangedDamage.rulePack.rulesStrings.43>damaged_past->injured</Combat_RangedDamage.rulePack.rulesStrings.43>
-  <Combat_RangedDamage.rulePack.rulesStrings.44>damaged_past->pierced</Combat_RangedDamage.rulePack.rulesStrings.44>
-  <Combat_RangedDamage.rulePack.rulesStrings.45>damaged_past->damaged</Combat_RangedDamage.rulePack.rulesStrings.45>
-  <Combat_RangedDamage.rulePack.rulesStrings.46>damaged_past->shot</Combat_RangedDamage.rulePack.rulesStrings.46>
-  <Combat_RangedDamage.rulePack.rulesStrings.47>damaged_present->wounding</Combat_RangedDamage.rulePack.rulesStrings.47>
-  <Combat_RangedDamage.rulePack.rulesStrings.48>damaged_present->injuring</Combat_RangedDamage.rulePack.rulesStrings.48>
-  <Combat_RangedDamage.rulePack.rulesStrings.49>damaged_present->piercing</Combat_RangedDamage.rulePack.rulesStrings.49>
-  <Combat_RangedDamage.rulePack.rulesStrings.50>damaged_present->damaging</Combat_RangedDamage.rulePack.rulesStrings.50>
-  <Combat_RangedDamage.rulePack.rulesStrings.51>damaged_present->shooting</Combat_RangedDamage.rulePack.rulesStrings.51>
-  <Combat_RangedDamage.rulePack.rulesStrings.52>damaged_suffix->in an ugly fashion</Combat_RangedDamage.rulePack.rulesStrings.52>
-  <Combat_RangedDamage.rulePack.rulesStrings.53>damaged_suffix(recipient_flesh!=Mechanoid)->with visible blood</Combat_RangedDamage.rulePack.rulesStrings.53>
-  <Combat_RangedDamage.rulePack.rulesStrings.54>damaged_suffix(recipient_flesh!=Mechanoid)->with the flesh visible</Combat_RangedDamage.rulePack.rulesStrings.54>
-  <Combat_RangedDamage.rulePack.rulesStrings.55>to->на</Combat_RangedDamage.rulePack.rulesStrings.55>
-  <Combat_RangedDamage.rulePack.rulesStrings.56>to->в</Combat_RangedDamage.rulePack.rulesStrings.56>
-  <Combat_RangedDamage.rulePack.rulesStrings.57>missed->missed</Combat_RangedDamage.rulePack.rulesStrings.57>
-  <Combat_RangedDamage.rulePack.rulesStrings.58>missed->narrowly missed</Combat_RangedDamage.rulePack.rulesStrings.58>
+	<Combat_RangedIncludes.rulePack.rulesStrings.4>originalTarget_definite->[originalTarget_labelDefinite]</Combat_RangedIncludes.rulePack.rulesStrings.4>
+	<Combat_RangedIncludes.rulePack.rulesStrings.5>originalTarget_definite->[originalTarget_nameShortDef]</Combat_RangedIncludes.rulePack.rulesStrings.5>
 
-  <Combat_RangedMiss.rulePack.rulesStrings.0>logentry->[initiator_definite]'s [weapon_projectile_label] [missed].</Combat_RangedMiss.rulePack.rulesStrings.0>
-  <Combat_RangedMiss.rulePack.rulesStrings.1>logentry->[initiator_definite] missed [originalTarget_definite].</Combat_RangedMiss.rulePack.rulesStrings.1>
-  <Combat_RangedMiss.rulePack.rulesStrings.2>logentry->[originalTarget_definite] [avoidance], [initiator_definite]'s [weapon_projectile_label] [missing].</Combat_RangedMiss.rulePack.rulesStrings.2>
-  <Combat_RangedMiss.rulePack.rulesStrings.3>missed(p=4)->missed</Combat_RangedMiss.rulePack.rulesStrings.3>
-  <Combat_RangedMiss.rulePack.rulesStrings.4>missed(p=2)->missed by a small margin</Combat_RangedMiss.rulePack.rulesStrings.4>
-  <Combat_RangedMiss.rulePack.rulesStrings.5>missed(p=2)->missed by a wide margin</Combat_RangedMiss.rulePack.rulesStrings.5>
-  <Combat_RangedMiss.rulePack.rulesStrings.6>missed->went wide</Combat_RangedMiss.rulePack.rulesStrings.6>
-  <Combat_RangedMiss.rulePack.rulesStrings.7>missed->flew into the air</Combat_RangedMiss.rulePack.rulesStrings.7>
-  <Combat_RangedMiss.rulePack.rulesStrings.8>missed->flew high into the air</Combat_RangedMiss.rulePack.rulesStrings.8>
-  <Combat_RangedMiss.rulePack.rulesStrings.9>missed->dug into the ground</Combat_RangedMiss.rulePack.rulesStrings.9>
-  <Combat_RangedMiss.rulePack.rulesStrings.10>missed->caromed off [originalTarget_definite]'s cover</Combat_RangedMiss.rulePack.rulesStrings.10>
-  <Combat_RangedMiss.rulePack.rulesStrings.11>missed->skipped off the ground and was lost</Combat_RangedMiss.rulePack.rulesStrings.11>
-  <Combat_RangedMiss.rulePack.rulesStrings.12>missed->dug a divot out of the ground</Combat_RangedMiss.rulePack.rulesStrings.12>
-  <Combat_RangedMiss.rulePack.rulesStrings.13>missed(p=0.2)->passed within millimeters of [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.13>
-  <Combat_RangedMiss.rulePack.rulesStrings.14>missed->passed within centimeters of [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.14>
-  <Combat_RangedMiss.rulePack.rulesStrings.15>missed->passed within a meter of [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.15>
-  <Combat_RangedMiss.rulePack.rulesStrings.16>missed->was blown offcourse</Combat_RangedMiss.rulePack.rulesStrings.16>
-  <Combat_RangedMiss.rulePack.rulesStrings.17>missing->missing</Combat_RangedMiss.rulePack.rulesStrings.17>
-  <Combat_RangedMiss.rulePack.rulesStrings.18>missing->missing by a small margin</Combat_RangedMiss.rulePack.rulesStrings.18>
-  <Combat_RangedMiss.rulePack.rulesStrings.19>missing->missing by a wide margin</Combat_RangedMiss.rulePack.rulesStrings.19>
-  <Combat_RangedMiss.rulePack.rulesStrings.20>missing->going wide</Combat_RangedMiss.rulePack.rulesStrings.20>
-  <Combat_RangedMiss.rulePack.rulesStrings.21>missing->flying into the air</Combat_RangedMiss.rulePack.rulesStrings.21>
-  <Combat_RangedMiss.rulePack.rulesStrings.22>missing->flying high into the air</Combat_RangedMiss.rulePack.rulesStrings.22>
-  <Combat_RangedMiss.rulePack.rulesStrings.23>missing->digging into the ground</Combat_RangedMiss.rulePack.rulesStrings.23>
-  <Combat_RangedMiss.rulePack.rulesStrings.24>missing->skipping off the ground and becoming lost</Combat_RangedMiss.rulePack.rulesStrings.24>
-  <Combat_RangedMiss.rulePack.rulesStrings.25>missing->digging a divot out of the ground</Combat_RangedMiss.rulePack.rulesStrings.25>
-  <Combat_RangedMiss.rulePack.rulesStrings.26>missing(p=0.2)->passing within millimeters of [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.26>
-  <Combat_RangedMiss.rulePack.rulesStrings.27>missing->passing within centimeters of [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.27>
-  <Combat_RangedMiss.rulePack.rulesStrings.28>missing->passing within a meter of [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.28>
-  <Combat_RangedMiss.rulePack.rulesStrings.29>missing->blowing offcourse</Combat_RangedMiss.rulePack.rulesStrings.29>
-  <Combat_RangedMiss.rulePack.rulesStrings.30>avoidance(originalTarget_mobile==True)->jerked aside at the last second</Combat_RangedMiss.rulePack.rulesStrings.30>
-  <Combat_RangedMiss.rulePack.rulesStrings.31>avoidance(originalTarget_mobile==True)->stumbled in an attempt to escape</Combat_RangedMiss.rulePack.rulesStrings.31>
-  <Combat_RangedMiss.rulePack.rulesStrings.32>avoidance(originalTarget_mobile==True)->threw [originalTarget_objective]self to the ground</Combat_RangedMiss.rulePack.rulesStrings.32>
-  <Combat_RangedMiss.rulePack.rulesStrings.33>avoidance(originalTarget_mobile==True,p=0.3)->ducked behind the nearest piece of cover</Combat_RangedMiss.rulePack.rulesStrings.33>
-  <Combat_RangedMiss.rulePack.rulesStrings.34>avoidance(originalTarget_mobile==True,p=0.3)->leaped behind the nearest piece of cover</Combat_RangedMiss.rulePack.rulesStrings.34>
+	<!-- стреляем -->
+	<!-- shot и fire здесь нельзя перевести, как стрелять, потому что есть дротики (пилумы). Нужно применять синонимы --> 
+	<!-- заумный оборот, но приходится извращаться -->
+	<Combat_RangedFire.rulePack.rulesStrings.0>logentry->С помощью [weapon_label] [initiator_definite] [shotat] [recipient_definite].</Combat_RangedFire.rulePack.rulesStrings.0>
+	<Combat_RangedFire.rulePack.rulesStrings.1>logentry->[initiator_definite] [shot] [weapon_label] в [recipient_definite].</Combat_RangedFire.rulePack.rulesStrings.1>
+	<Combat_RangedFire.rulePack.rulesStrings.2>logentry->[initiator_definite] [shotat] [recipient_definite].</Combat_RangedFire.rulePack.rulesStrings.2>
+	<Combat_RangedFire.rulePack.rulesStrings.3>logentry->[initiator_definite] [throw] [burst] [weapon_projectile_label] в [recipient_definite].</Combat_RangedFire.rulePack.rulesStrings.3>
+	<!-- палим на удачу -->
+	<Combat_RangedFire.rulePack.rulesStrings.4>logentry(recipient_missing==True)->[initiator_definite] [throw] [weapon_projectile_label].</Combat_RangedFire.rulePack.rulesStrings.4>
+	<Combat_RangedFire.rulePack.rulesStrings.5>logentry(recipient_missing==True)->[initiator_definite] [shot] [weapon_label].</Combat_RangedFire.rulePack.rulesStrings.5>
 
-  <Combat_ExplosionImpact.rulePack.rulesStrings.0>prefix->The [blast] [fromof] [initiator_definite]'s [weapon_projectile_label]</Combat_ExplosionImpact.rulePack.rulesStrings.0>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.1>prefix->The [blast] [fromof] [initiator_definite]'s [weapon_label]</Combat_ExplosionImpact.rulePack.rulesStrings.1>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.2>prefix->The [blast] [fromof] [initiator_definite]'s [mortarshell]</Combat_ExplosionImpact.rulePack.rulesStrings.2>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.3>prefix->The [blast] [fromof] [initiator_definite]'s [weapon_projectile_label]</Combat_ExplosionImpact.rulePack.rulesStrings.3>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.4>prefix->The [blast] [fromof] [initiator_definite]'s [weapon_label]</Combat_ExplosionImpact.rulePack.rulesStrings.4>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.5>prefix->The [blast] [fromof] [initiator_definite]'s [mortarshell]</Combat_ExplosionImpact.rulePack.rulesStrings.5>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.6>prefix->[initiator_definite]'s [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.6>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.7>prefix->[initiator_definite]'s [weapon_projectile_label] [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.7>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.8>prefix->[initiator_definite]'s [mortarshell] [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.8>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.9>prefix->[initiator_definite]'s [weapon_label] [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.9>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.10>prefix->[initiator_definite]'s [weapon_projectile_label]</Combat_ExplosionImpact.rulePack.rulesStrings.10>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.11>prefix->[initiator_definite]'s [mortarshell]</Combat_ExplosionImpact.rulePack.rulesStrings.11>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.12>prefix->[initiator_definite]'s [weapon_label]</Combat_ExplosionImpact.rulePack.rulesStrings.12>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.13>logentry->[prefix] [injured] [recipient_definite].</Combat_ExplosionImpact.rulePack.rulesStrings.13>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.14>logentry->[prefix] [destroyed_past] [recipient_definite]'s [destroyed_targets].</Combat_ExplosionImpact.rulePack.rulesStrings.14>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.15>logentry->[prefix] [destroyed_past] [recipient_definite]'s [destroyed_targets] [flavortextadverb].</Combat_ExplosionImpact.rulePack.rulesStrings.15>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.16>logentry->[prefix] [flavortextadverb] [destroyed_past] [recipient_definite]'s [destroyed_targets].</Combat_ExplosionImpact.rulePack.rulesStrings.16>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.17>logentry->[prefix] [destroyed_past] [recipient_definite]'s [destroyed_targets] and [damaged_past] [recipient_possessive] [damaged_targets].</Combat_ExplosionImpact.rulePack.rulesStrings.17>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.18>logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] [recipient_definite]'s [damaged_targets].</Combat_ExplosionImpact.rulePack.rulesStrings.18>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.19>logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] [recipient_definite]'s [damaged_targets] [flavortextadverb].</Combat_ExplosionImpact.rulePack.rulesStrings.19>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.20>logentry(recipient_part_destroyed_count==0)->[prefix] [flavortextadverb] [damaged_past] [recipient_definite]'s [damaged_targets].</Combat_ExplosionImpact.rulePack.rulesStrings.20>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.21>logentry->[recipient_definite] was [damaged_past] by [initiator_definite].</Combat_ExplosionImpact.rulePack.rulesStrings.21>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.22>logentry->[recipient_definite] was [damaged_past] [flavortextadverb] by [initiator_definite].</Combat_ExplosionImpact.rulePack.rulesStrings.22>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.23>logentry->[recipient_definite] was [damaged_past].</Combat_ExplosionImpact.rulePack.rulesStrings.23>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.24>logentry(p=0.001)->[recipient_definite] was caught in an explosion.</Combat_ExplosionImpact.rulePack.rulesStrings.24>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.25>logentry(p=0.001)->[recipient_definite] was hit by an explosion.</Combat_ExplosionImpact.rulePack.rulesStrings.25>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.26>blast->explosion</Combat_ExplosionImpact.rulePack.rulesStrings.26>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.27>blast->blast</Combat_ExplosionImpact.rulePack.rulesStrings.27>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.28>blast->shockwave</Combat_ExplosionImpact.rulePack.rulesStrings.28>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.29>blast->detonation</Combat_ExplosionImpact.rulePack.rulesStrings.29>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.30>blast->discharge</Combat_ExplosionImpact.rulePack.rulesStrings.30>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.31>blast->impact</Combat_ExplosionImpact.rulePack.rulesStrings.31>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.32>fromof->from</Combat_ExplosionImpact.rulePack.rulesStrings.32>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.33>fromof->of</Combat_ExplosionImpact.rulePack.rulesStrings.33>
+	<!-- используется с выстрелами, которые пускают -->
+	<Combat_RangedFire.rulePack.rulesStrings.6>throw->[shotadverb] [throwverb]</Combat_RangedFire.rulePack.rulesStrings.6>
+	<Combat_RangedFire.rulePack.rulesStrings.7>throw(p=2)->[throwverb]</Combat_RangedFire.rulePack.rulesStrings.7>
 
+	<!-- стреляет из: используется с оружием -->
+	<!-- используем стандартное 'разряжает', т.к. 'стреляет из' есть в первом шаблоне -->
+  <Combat_RangedFire.rulePack.rulesStrings.8>shot(p=2)->[chargeverb]</Combat_RangedFire.rulePack.rulesStrings.8>
+  <Combat_RangedFire.rulePack.rulesStrings.9>shot->[shotadverb] [chargeverb]</Combat_RangedFire.rulePack.rulesStrings.9>
+
+	<!-- стреляет в: используется с оружием и целью -->
+	<Combat_RangedFire.rulePack.rulesStrings.10>shotat->[shotverb] [aburst]</Combat_RangedFire.rulePack.rulesStrings.10>
+	<Combat_RangedFire.rulePack.rulesStrings.11>shotat->[shotadverb] [shotverb] [aburst]</Combat_RangedFire.rulePack.rulesStrings.11>
+	<Combat_RangedFire.rulePack.rulesStrings.12>shotat(p=0.5)->пытается поразить [aburst]</Combat_RangedFire.rulePack.rulesStrings.12>
+	<!-- took a shot at в оригинале -->
+	<Combat_RangedFire.rulePack.rulesStrings.13>shotat(p=0.3)->делает залп по</Combat_RangedFire.rulePack.rulesStrings.13>
+	<Combat_RangedFire.rulePack.rulesStrings.14>shotat(p=0.2)->делает [shotadjective] залп по</Combat_RangedFire.rulePack.rulesStrings.14>
+	<Combat_RangedFire.rulePack.rulesStrings.15>shotat(p=0.5)->прицеливается и обстреливает [aburst]</Combat_RangedFire.rulePack.rulesStrings.15>
+	<Combat_RangedFire.rulePack.rulesStrings.16>shotat(p=0.3)->открывает огонь по</Combat_RangedFire.rulePack.rulesStrings.16>
+
+	<Combat_RangedFire.rulePack.rulesStrings.17>throwverb->пускает</Combat_RangedFire.rulePack.rulesStrings.17>
+	<Combat_RangedFire.rulePack.rulesStrings.18>throwverb->плюёт</Combat_RangedFire.rulePack.rulesStrings.18>
+
+	<Combat_RangedFire.rulePack.rulesStrings.19>aburst-></Combat_RangedFire.rulePack.rulesStrings.19>
+	<Combat_RangedFire.rulePack.rulesStrings.20>aburst(burst==True,p=3)->очередью</Combat_RangedFire.rulePack.rulesStrings.20>
+	<Combat_RangedFire.rulePack.rulesStrings.21>burst-></Combat_RangedFire.rulePack.rulesStrings.21>
+	<Combat_RangedFire.rulePack.rulesStrings.22>burst(burst==True,p=3)->очередь</Combat_RangedFire.rulePack.rulesStrings.22>
+
+	<Combat_RangedFire.rulePack.rulesStrings.23>shotverb->осыпает</Combat_RangedFire.rulePack.rulesStrings.23>
+	<Combat_RangedFire.rulePack.rulesStrings.24>shotverb->обстреливает</Combat_RangedFire.rulePack.rulesStrings.24>
+
+	<!-- в оригинале это shotverb->discharged, производит выстрел/разряжает, что не подходит к шаблону -->
+	<Combat_RangedFire.rulePack.rulesStrings.25>chargeverb->разряжает</Combat_RangedFire.rulePack.rulesStrings.25>
+	<!-- резерв под chargeverb -->
+	<Combat_RangedFire.rulePack.rulesStrings.26>reserv-></Combat_RangedFire.rulePack.rulesStrings.26>
+
+	<Combat_RangedFire.rulePack.rulesStrings.27>shotadverb->осторожно</Combat_RangedFire.rulePack.rulesStrings.27>
+	<Combat_RangedFire.rulePack.rulesStrings.28>shotadverb->наспех</Combat_RangedFire.rulePack.rulesStrings.28>
+	<Combat_RangedFire.rulePack.rulesStrings.29>shotadverb->не спеша</Combat_RangedFire.rulePack.rulesStrings.29>
+	<Combat_RangedFire.rulePack.rulesStrings.30>shotadverb(initiator_flesh!=Mechanoid)->робко</Combat_RangedFire.rulePack.rulesStrings.30>
+	<Combat_RangedFire.rulePack.rulesStrings.31>shotadverb->куда надо</Combat_RangedFire.rulePack.rulesStrings.31>
+	<Combat_RangedFire.rulePack.rulesStrings.32>shotadverb(initiator_flesh!=Mechanoid)->с оглядкой</Combat_RangedFire.rulePack.rulesStrings.32>
+
+	<Combat_RangedFire.rulePack.rulesStrings.33>shotadjective->осторожный</Combat_RangedFire.rulePack.rulesStrings.33>
+	<Combat_RangedFire.rulePack.rulesStrings.34>shotadjective->беглый</Combat_RangedFire.rulePack.rulesStrings.34>
+	<Combat_RangedFire.rulePack.rulesStrings.35>shotadjective->неторопливый</Combat_RangedFire.rulePack.rulesStrings.35>
+	<Combat_RangedFire.rulePack.rulesStrings.36>shotadjective->точный</Combat_RangedFire.rulePack.rulesStrings.36>
+	<Combat_RangedFire.rulePack.rulesStrings.37>shotadjective(initiator_flesh!=Mechanoid)->осмотрительный</Combat_RangedFire.rulePack.rulesStrings.37>
+
+	<!-- попадания палки-стрелялки-больно-издали-ударялки -->
+	<!-- что-то сломали попаданием -->
+	<Combat_RangedDamage.rulePack.rulesStrings.0>logentry->[weapon_projectile_label] [initiator_definite] [destroyed_past] [destroyed_targets] у [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.0>
+	<!-- убираем [to] в [destroyed_suffix], т.к. не везде возможны парные (в/на) варианты -->
+	<Combat_RangedDamage.rulePack.rulesStrings.1>logentry->[weapon_projectile_label] [initiator_definite] [destroyed_past] [destroyed_suffix] [destroyed_targets] у [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.1>
+	<!-- пуля 'like pro' не в силах: меняем 'выстрел стрелка' на 'стрелок выстрелом' -->
+	<Combat_RangedDamage.rulePack.rulesStrings.2>logentry->[initiator_definite] с помощью [weapon_projectile_label] [expertly] [destroyed_past] [destroyed_targets] у [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.2>
+	<!-- попали, но не туда, куда хотелось -->
+	<Combat_RangedDamage.rulePack.rulesStrings.3>logentry(p=2)->[weapon_projectile_label] [initiator_definite] [missed] [originalTarget_definite] и [destroyed_past] [destroyed_targets] у [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.3>
+	<Combat_RangedDamage.rulePack.rulesStrings.4>logentry(p=2)->[weapon_projectile_label] [initiator_definite] [missed] [originalTarget_definite], [destroyed_present] [destroyed_targets] у [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.4>
+	<!-- обратный хоровод: дичь подбита охотником -->
+	<!-- приходится ломать фразу, т.к. 'пуля повреждает' и 'цель повреждает-ся', но 'цели повреждаются' -->
+	<Combat_RangedDamage.rulePack.rulesStrings.5>logentry->[destroyed_targets] у [recipient_definite] [destroyed_past]ся от попадания [weapon_projectile_label] [initiator_definite].</Combat_RangedDamage.rulePack.rulesStrings.5>
+	<Combat_RangedDamage.rulePack.rulesStrings.6>logentry->[destroyed_targets] [recipient_definite] [destroyed_past]ся от [expert] попадания [weapon_projectile_label] [initiator_definite].</Combat_RangedDamage.rulePack.rulesStrings.6>
+	<!-- убираем into в destroyed_suffix, т.к. убрали туда [to] до этого -->
+	<Combat_RangedDamage.rulePack.rulesStrings.7>logentry->[destroyed_targets] [recipient_definite] [destroyed_past]ся [destroyed_suffix] от [weapon_projectile_label] [initiator_definite].</Combat_RangedDamage.rulePack.rulesStrings.7>
+	<!-- ничего не сломали, зато что-то погнули: тоже хорошо -->
+	<Combat_RangedDamage.rulePack.rulesStrings.8>logentry(recipient_partDestroyed_count==0)->[weapon_projectile_label] [initiator_definite] [damaged_past] [damaged_targets] у [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.8>
+	<Combat_RangedDamage.rulePack.rulesStrings.9>logentry(recipient_partDestroyed_count==0)->[initiator_definite] с помощью [weapon_projectile_label] [expertly] [damaged_past] [damaged_targets] у [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.9>
+	<!-- попадание не туда -->
+	<Combat_RangedDamage.rulePack.rulesStrings.10>logentry(recipient_partDestroyed_count==0,p=2)->[weapon_projectile_label] [initiator_definite] [missed] [originalTarget_definite] и [damaged_past] [damaged_targets] у [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.10>
+	<Combat_RangedDamage.rulePack.rulesStrings.11>logentry(recipient_partDestroyed_count==0,p=2)->[weapon_projectile_label] [initiator_definite] [missed] [originalTarget_definite], [damaged_present] [damaged_targets] у [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.11>
+	<!-- обратный хоровод -->
+	<Combat_RangedDamage.rulePack.rulesStrings.12>logentry(recipient_partDestroyed_count==0)->[damaged_targets] [recipient_definite] [damaged_past]ся попаданием [weapon_projectile_label] [initiator_definite].</Combat_RangedDamage.rulePack.rulesStrings.12>
+	<Combat_RangedDamage.rulePack.rulesStrings.13>logentry(recipient_partDestroyed_count==0)->[damaged_targets] [recipient_definite] [damaged_past]ся от [expert] попадания [weapon_projectile_label] [initiator_definite].</Combat_RangedDamage.rulePack.rulesStrings.13>
+
+	<!-- и погнули, и поломали - прелесть -->
+	<Combat_RangedDamage.rulePack.rulesStrings.14>logentry(p=3)->[weapon_projectile_label] [initiator_definite] [destroyed_past] [destroyed_targets] и [damaged_past] [damaged_targets] у [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.14>
+	<Combat_RangedDamage.rulePack.rulesStrings.15>logentry(p=6)->[weapon_projectile_label] [initiator_definite] [missed] [originalTarget_definite], [destroyed_present] [recipient_definite] [destroyed_targets] и [damaged_present] [recipient_objective] [damaged_targets].</Combat_RangedDamage.rulePack.rulesStrings.15>
+
+	<!-- ничего не поломали, ничего не погнули - пичалька -->
+	<Combat_RangedDamage.rulePack.rulesStrings.16>logentry(p=0.2)->[initiator_definite] попадает [weapon_projectile_label] в [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.16>
+	<Combat_RangedDamage.rulePack.rulesStrings.17>logentry(p=0.2)->[weapon_projectile_label] [initiator_definite] попадает в [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.17>
+	<Combat_RangedDamage.rulePack.rulesStrings.18>logentry(p=0.4)->[initiator_definite] [missed] [originalTarget_definite] и вгоняет [weapon_projectile_label] в [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.18>
+	<Combat_RangedDamage.rulePack.rulesStrings.19>logentry(p=0.4)->[weapon_projectile_label] [initiator_definite] [missed] [originalTarget_definite] и поражает [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.19>
+	<Combat_RangedDamage.rulePack.rulesStrings.20>logentry(p=0.2)->[initiator_definite] попадает [weapon_projectile_label] для [originalTarget_definite] в [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.20>
+
+	<!-- редко появляющийся синоним-заглушка для пули -->
+	<Combat_RangedDamage.rulePack.rulesStrings.21>weapon_projectile_label(p=0.05)->залп</Combat_RangedDamage.rulePack.rulesStrings.21>
+
+	<Combat_RangedDamage.rulePack.rulesStrings.22>destroyed_past->разносит</Combat_RangedDamage.rulePack.rulesStrings.22>
+	<Combat_RangedDamage.rulePack.rulesStrings.23>destroyed_past->изминает</Combat_RangedDamage.rulePack.rulesStrings.23>
+	<Combat_RangedDamage.rulePack.rulesStrings.24>destroyed_past->сносит</Combat_RangedDamage.rulePack.rulesStrings.24>
+	<Combat_RangedDamage.rulePack.rulesStrings.25>destroyed_past->изничтожает</Combat_RangedDamage.rulePack.rulesStrings.25>
+	<Combat_RangedDamage.rulePack.rulesStrings.26>destroyed_past->пробивает</Combat_RangedDamage.rulePack.rulesStrings.26>
+	<Combat_RangedDamage.rulePack.rulesStrings.27>destroyed_past->издырявливает</Combat_RangedDamage.rulePack.rulesStrings.27>
+	<Combat_RangedDamage.rulePack.rulesStrings.28>destroyed_past->прошибает</Combat_RangedDamage.rulePack.rulesStrings.28>
+
+	<Combat_RangedDamage.rulePack.rulesStrings.29>destroyed_present->разнося</Combat_RangedDamage.rulePack.rulesStrings.29>
+	<Combat_RangedDamage.rulePack.rulesStrings.30>destroyed_present->изминая</Combat_RangedDamage.rulePack.rulesStrings.30>
+	<Combat_RangedDamage.rulePack.rulesStrings.31>destroyed_present->снося</Combat_RangedDamage.rulePack.rulesStrings.31>
+	<Combat_RangedDamage.rulePack.rulesStrings.32>destroyed_present->изничтожая</Combat_RangedDamage.rulePack.rulesStrings.32>
+	<Combat_RangedDamage.rulePack.rulesStrings.33>destroyed_present->пробивая</Combat_RangedDamage.rulePack.rulesStrings.33>
+	<Combat_RangedDamage.rulePack.rulesStrings.34>destroyed_present->издырявливая</Combat_RangedDamage.rulePack.rulesStrings.34>
+	<Combat_RangedDamage.rulePack.rulesStrings.35>destroyed_present->прошибая</Combat_RangedDamage.rulePack.rulesStrings.35>
+
+	<Combat_RangedDamage.rulePack.rulesStrings.36>destroyed_suffix->[to] куски</Combat_RangedDamage.rulePack.rulesStrings.36>
+	<Combat_RangedDamage.rulePack.rulesStrings.37>destroyed_suffix->в щепки</Combat_RangedDamage.rulePack.rulesStrings.37>
+	<Combat_RangedDamage.rulePack.rulesStrings.38>destroyed_suffix->в пыль</Combat_RangedDamage.rulePack.rulesStrings.38>
+	<Combat_RangedDamage.rulePack.rulesStrings.39>destroyed_suffix->на фрагменты</Combat_RangedDamage.rulePack.rulesStrings.39>
+	<Combat_RangedDamage.rulePack.rulesStrings.40>destroyed_suffix(p=0.5)->в решето</Combat_RangedDamage.rulePack.rulesStrings.40>
+	<!-- в принципе здесь 'фарш', но это сильно грубо -->
+	<Combat_RangedDamage.rulePack.rulesStrings.41>destroyed_suffix(recipient_flesh!=Mechanoid,p=0.2)->[to] перемолотое мясо</Combat_RangedDamage.rulePack.rulesStrings.41>
+
+	<Combat_RangedDamage.rulePack.rulesStrings.42>damaged_past->ранит</Combat_RangedDamage.rulePack.rulesStrings.42>
+	<Combat_RangedDamage.rulePack.rulesStrings.43>damaged_past->увечит</Combat_RangedDamage.rulePack.rulesStrings.43>
+	<Combat_RangedDamage.rulePack.rulesStrings.44>damaged_past->пронзает</Combat_RangedDamage.rulePack.rulesStrings.44>
+	<Combat_RangedDamage.rulePack.rulesStrings.45>damaged_past->повреждает</Combat_RangedDamage.rulePack.rulesStrings.45>
+	<Combat_RangedDamage.rulePack.rulesStrings.46>damaged_past->прошивает</Combat_RangedDamage.rulePack.rulesStrings.46>
+
+	<Combat_RangedDamage.rulePack.rulesStrings.47>damaged_present->изранивая</Combat_RangedDamage.rulePack.rulesStrings.47>
+	<Combat_RangedDamage.rulePack.rulesStrings.48>damaged_present->увеча</Combat_RangedDamage.rulePack.rulesStrings.48>
+	<Combat_RangedDamage.rulePack.rulesStrings.49>damaged_present->пронзая</Combat_RangedDamage.rulePack.rulesStrings.49>
+	<Combat_RangedDamage.rulePack.rulesStrings.50>damaged_present->повреждая</Combat_RangedDamage.rulePack.rulesStrings.50>
+	<Combat_RangedDamage.rulePack.rulesStrings.51>damaged_present->прошивая</Combat_RangedDamage.rulePack.rulesStrings.51>
+
+	<!-- нигде не используется в текущих шаблонах -->
+	<Combat_RangedDamage.rulePack.rulesStrings.52>damaged_suffix->in an ugly fashion</Combat_RangedDamage.rulePack.rulesStrings.52>
+	<Combat_RangedDamage.rulePack.rulesStrings.53>damaged_suffix(recipient_flesh!=Mechanoid)->with visible blood</Combat_RangedDamage.rulePack.rulesStrings.53>
+	<Combat_RangedDamage.rulePack.rulesStrings.54>damaged_suffix(recipient_flesh!=Mechanoid)->with the flesh visible</Combat_RangedDamage.rulePack.rulesStrings.54>
+
+	<Combat_RangedDamage.rulePack.rulesStrings.55>to->на</Combat_RangedDamage.rulePack.rulesStrings.55>
+	<Combat_RangedDamage.rulePack.rulesStrings.56>to->в</Combat_RangedDamage.rulePack.rulesStrings.56>
+
+	<Combat_RangedDamage.rulePack.rulesStrings.57>missed->не попадает в</Combat_RangedDamage.rulePack.rulesStrings.57>
+	<Combat_RangedDamage.rulePack.rulesStrings.58>missed->чуточку не попадает в</Combat_RangedDamage.rulePack.rulesStrings.58>
+
+	<!-- промахи при стрельбе -->
+	<Combat_RangedMiss.rulePack.rulesStrings.0>logentry->[weapon_projectile_label] [initiator_definite] [missed].</Combat_RangedMiss.rulePack.rulesStrings.0>
+	<Combat_RangedMiss.rulePack.rulesStrings.1>logentry->[initiator_definite] мажет по [originalTarget_definite].</Combat_RangedMiss.rulePack.rulesStrings.1>
+	<Combat_RangedMiss.rulePack.rulesStrings.2>logentry->[originalTarget_definite] [avoidance], и [weapon_projectile_label] [initiator_definite] [missing].</Combat_RangedMiss.rulePack.rulesStrings.2>
+
+	<!-- здесь 'промахивается' для пули/стрелы/дротика, не для стрелка -->
+	<Combat_RangedMiss.rulePack.rulesStrings.3>missed(p=4)->летит мимо</Combat_RangedMiss.rulePack.rulesStrings.3>
+	<Combat_RangedMiss.rulePack.rulesStrings.4>missed(p=2)->просвистывает над ухом [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.4>
+	<Combat_RangedMiss.rulePack.rulesStrings.5>missed(p=2)->улетает в сторону от цели</Combat_RangedMiss.rulePack.rulesStrings.5>
+	<Combat_RangedMiss.rulePack.rulesStrings.6>missed->попадает в молоко</Combat_RangedMiss.rulePack.rulesStrings.6>
+	<Combat_RangedMiss.rulePack.rulesStrings.7>missed->прочерчивает воздух</Combat_RangedMiss.rulePack.rulesStrings.7>
+	<Combat_RangedMiss.rulePack.rulesStrings.8>missed->летит в небо</Combat_RangedMiss.rulePack.rulesStrings.8>
+	<Combat_RangedMiss.rulePack.rulesStrings.9>missed->зарывается в землю</Combat_RangedMiss.rulePack.rulesStrings.9>
+	<Combat_RangedMiss.rulePack.rulesStrings.10>missed->отскакивает от укрытия [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.10>
+	<Combat_RangedMiss.rulePack.rulesStrings.11>missed->рикошетит от земли и теряется</Combat_RangedMiss.rulePack.rulesStrings.11>
+	<Combat_RangedMiss.rulePack.rulesStrings.12>missed->выпахивает дёрн</Combat_RangedMiss.rulePack.rulesStrings.12>
+	<Combat_RangedMiss.rulePack.rulesStrings.13>missed(p=0.2)->проодит в миллиметре от [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.13>
+	<Combat_RangedMiss.rulePack.rulesStrings.14>missed->проходит в сантиметре [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.14>
+	<Combat_RangedMiss.rulePack.rulesStrings.15>missed->проходит в метре от [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.15>
+	<Combat_RangedMiss.rulePack.rulesStrings.16>missed->летит не туда</Combat_RangedMiss.rulePack.rulesStrings.16>
+
+	<!-- те же фразы, что и в missed, но с учётом сложносочинёного предложения -->
+	<Combat_RangedMiss.rulePack.rulesStrings.17>missing->летит мимо</Combat_RangedMiss.rulePack.rulesStrings.17>
+	<Combat_RangedMiss.rulePack.rulesStrings.18>missing->просвистывает у н[originalTarget_possesive] над ухом</Combat_RangedMiss.rulePack.rulesStrings.18>
+	<Combat_RangedMiss.rulePack.rulesStrings.19>missing->улетает в сторону</Combat_RangedMiss.rulePack.rulesStrings.19>
+	<Combat_RangedMiss.rulePack.rulesStrings.20>missing->попадает в молоко</Combat_RangedMiss.rulePack.rulesStrings.20>
+	<Combat_RangedMiss.rulePack.rulesStrings.21>missing->прочерчивает воздух</Combat_RangedMiss.rulePack.rulesStrings.21>
+	<Combat_RangedMiss.rulePack.rulesStrings.22>missing->летит в небо</Combat_RangedMiss.rulePack.rulesStrings.22>
+	<Combat_RangedMiss.rulePack.rulesStrings.23>missing->зарывается в землю</Combat_RangedMiss.rulePack.rulesStrings.23>
+	<Combat_RangedMiss.rulePack.rulesStrings.24>missing->рикошетит от земли и теряется</Combat_RangedMiss.rulePack.rulesStrings.24>
+	<Combat_RangedMiss.rulePack.rulesStrings.25>missing->выпахивает дёрн</Combat_RangedMiss.rulePack.rulesStrings.25>
+	<Combat_RangedMiss.rulePack.rulesStrings.26>missing(p=0.2)->проходит в миллиметре от н[originalTarget_possesive]</Combat_RangedMiss.rulePack.rulesStrings.26>
+	<Combat_RangedMiss.rulePack.rulesStrings.27>missing->проходит в сантиметре от [originalTarget_possesive]</Combat_RangedMiss.rulePack.rulesStrings.27>
+	<Combat_RangedMiss.rulePack.rulesStrings.28>missing->проходит в метре от [originalTarget_possesive]</Combat_RangedMiss.rulePack.rulesStrings.28>
+	<Combat_RangedMiss.rulePack.rulesStrings.29>missing->летит не туда</Combat_RangedMiss.rulePack.rulesStrings.29>
+
+	<Combat_RangedMiss.rulePack.rulesStrings.30>avoidance(originalTarget_mobile==True)->отскакивает в последний момент</Combat_RangedMiss.rulePack.rulesStrings.30>
+	<Combat_RangedMiss.rulePack.rulesStrings.31>avoidance(originalTarget_mobile==True)->спотыкается, пытаясь убежать</Combat_RangedMiss.rulePack.rulesStrings.31>
+	<Combat_RangedMiss.rulePack.rulesStrings.32>avoidance(originalTarget_mobile==True)->прижимается к земле</Combat_RangedMiss.rulePack.rulesStrings.32>
+	<Combat_RangedMiss.rulePack.rulesStrings.33>avoidance(originalTarget_mobile==True,p=0.3)->ныряет за ближайшее укрытие</Combat_RangedMiss.rulePack.rulesStrings.33>
+	<Combat_RangedMiss.rulePack.rulesStrings.34>avoidance(originalTarget_mobile==True,p=0.3)->сигает за ближайшее укрытие</Combat_RangedMiss.rulePack.rulesStrings.34>
+
+	<!-- взрывы -->
+	<Combat_ExplosionImpact.rulePack.rulesStrings.0>prefix->[blast] [fromof] [weapon_projectile_label] [initiator_definite]</Combat_ExplosionImpact.rulePack.rulesStrings.0>
+	<Combat_ExplosionImpact.rulePack.rulesStrings.1>prefix->[blast] [fromof] [weapon_label] [initiator_definite]</Combat_ExplosionImpact.rulePack.rulesStrings.1>
+	<Combat_ExplosionImpact.rulePack.rulesStrings.2>prefix->[blast] [fromof] [mortarshell] [initiator_definite]</Combat_ExplosionImpact.rulePack.rulesStrings.2>
+	<!-- полный дубль первых трёх строк: то ли баг, то ли так задумано -->
+	<Combat_ExplosionImpact.rulePack.rulesStrings.3>prefix->[blast] [fromof] [weapon_projectile_label] [initiator_definite]</Combat_ExplosionImpact.rulePack.rulesStrings.3>
+	<Combat_ExplosionImpact.rulePack.rulesStrings.4>prefix->[blast] [fromof] [weapon_label] [initiator_definite]</Combat_ExplosionImpact.rulePack.rulesStrings.4>
+	<Combat_ExplosionImpact.rulePack.rulesStrings.5>prefix->[blast] [fromof] [mortarshell] [initiator_definite]</Combat_ExplosionImpact.rulePack.rulesStrings.5>
+
+	<!-- Jon's blast ???? -->
+	<Combat_ExplosionImpact.rulePack.rulesStrings.6>prefix->[blast]</Combat_ExplosionImpact.rulePack.rulesStrings.6>
+	<!-- следующие 3 строки уже есть, как вариант первых трёх шаблонов -->
+	<Combat_ExplosionImpact.rulePack.rulesStrings.7>reserv->[initiator_definite]'s [weapon_projectile_label] [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.7>
+	<Combat_ExplosionImpact.rulePack.rulesStrings.8>reserv->[initiator_definite]'s [mortarshell] [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.8>
+	<Combat_ExplosionImpact.rulePack.rulesStrings.9>reserv->[initiator_definite]'s [weapon_label] [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.9>
+	<Combat_ExplosionImpact.rulePack.rulesStrings.10>prefix->[weapon_projectile_label] [initiator_definite]</Combat_ExplosionImpact.rulePack.rulesStrings.10>
+	<Combat_ExplosionImpact.rulePack.rulesStrings.11>prefix->[mortarshell] [initiator_definite]</Combat_ExplosionImpact.rulePack.rulesStrings.11>
+	<Combat_ExplosionImpact.rulePack.rulesStrings.12>prefix->[weapon_label] [initiator_definite]</Combat_ExplosionImpact.rulePack.rulesStrings.12>
+
+	<Combat_ExplosionImpact.rulePack.rulesStrings.13>logentry->[prefix] [injured] [recipient_definite].</Combat_ExplosionImpact.rulePack.rulesStrings.13>
+
+	<Combat_ExplosionImpact.rulePack.rulesStrings.14>logentry->[prefix] [destroyed_past] [destroyed_targets] у [recipient_definite].</Combat_ExplosionImpact.rulePack.rulesStrings.14>
+	<Combat_ExplosionImpact.rulePack.rulesStrings.15>logentry->[prefix] [flavortextadverb] [destroyed_past] [destroyed_targets] у [recipient_definite].</Combat_ExplosionImpact.rulePack.rulesStrings.15>
+	<!-- копия предыдущего шаблона с изменённым порядком слов -->
+	<Combat_ExplosionImpact.rulePack.rulesStrings.16>reserv->[prefix] [flavortextadverb] [destroyed_past] [recipient_definite]'s [destroyed_targets].</Combat_ExplosionImpact.rulePack.rulesStrings.16>
+	<Combat_ExplosionImpact.rulePack.rulesStrings.17>logentry->[prefix] [destroyed_past] [destroyed_targets] и [damaged_past] [damaged_targets] у [recipient_definite].</Combat_ExplosionImpact.rulePack.rulesStrings.17>
+
+	<Combat_ExplosionImpact.rulePack.rulesStrings.18>logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] [damaged_targets] у [recipient_definite].</Combat_ExplosionImpact.rulePack.rulesStrings.18>
+	<Combat_ExplosionImpact.rulePack.rulesStrings.19>logentry(recipient_part_destroyed_count==0)->[prefix] [flavortextadverb] [damaged_past] [damaged_targets] у [recipient_definite].</Combat_ExplosionImpact.rulePack.rulesStrings.19>
+	<Combat_ExplosionImpact.rulePack.rulesStrings.20>logentry(recipient_part_destroyed_count==0)->[prefix] [flavortextadverb] [damaged_past] [recipient_definite] [damaged_targets].</Combat_ExplosionImpact.rulePack.rulesStrings.20>
+
+	<!-- возвратный глагол как тест: непонятно, что здесь используется -->
+	<Combat_ExplosionImpact.rulePack.rulesStrings.21>logentry->[recipient_definite] [damaged_past]ся [initiator_definite].</Combat_ExplosionImpact.rulePack.rulesStrings.21>
+	<Combat_ExplosionImpact.rulePack.rulesStrings.22>logentry->[recipient_definite] [flavortextadverb] [damaged_past]ся [initiator_definite].</Combat_ExplosionImpact.rulePack.rulesStrings.22>
+	<Combat_ExplosionImpact.rulePack.rulesStrings.23>logentry->[recipient_definite] [damaged_past]ся.</Combat_ExplosionImpact.rulePack.rulesStrings.23>
+
+	<Combat_ExplosionImpact.rulePack.rulesStrings.24>logentry(p=0.001)->[recipient_definite] попадает под взрыв.</Combat_ExplosionImpact.rulePack.rulesStrings.24>
+	<Combat_ExplosionImpact.rulePack.rulesStrings.25>logentry(p=0.001)->[recipient_definite] поражается взрывом.</Combat_ExplosionImpact.rulePack.rulesStrings.25>
+
+	<Combat_ExplosionImpact.rulePack.rulesStrings.26>blast->взрыв</Combat_ExplosionImpact.rulePack.rulesStrings.26>
+	<Combat_ExplosionImpact.rulePack.rulesStrings.27>blast->взрывная волна</Combat_ExplosionImpact.rulePack.rulesStrings.27>
+	<Combat_ExplosionImpact.rulePack.rulesStrings.28>blast->ударная волна</Combat_ExplosionImpact.rulePack.rulesStrings.28>
+	<Combat_ExplosionImpact.rulePack.rulesStrings.29>blast->детонация</Combat_ExplosionImpact.rulePack.rulesStrings.29>
+	<Combat_ExplosionImpact.rulePack.rulesStrings.30>blast->разрыв</Combat_ExplosionImpact.rulePack.rulesStrings.30>
+	<Combat_ExplosionImpact.rulePack.rulesStrings.31>blast->воздействие</Combat_ExplosionImpact.rulePack.rulesStrings.31>
+
+	<Combat_ExplosionImpact.rulePack.rulesStrings.32>fromof->от</Combat_ExplosionImpact.rulePack.rulesStrings.32>
+	<Combat_ExplosionImpact.rulePack.rulesStrings.33>fromof-></Combat_ExplosionImpact.rulePack.rulesStrings.33>
 
 </LanguageData>
