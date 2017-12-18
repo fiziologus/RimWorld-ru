@@ -37,10 +37,9 @@
 
 	<!-- Outlanders -->
 
-	<Villager.label>житель</Villager.label>
-	<Villager.labelPlural>жители</Villager.labelPlural>
+	<Villager.labelMale>житель</Villager.labelMale>
 	<Villager.labelFemale>жительница</Villager.labelFemale>
-	<Villager.labelFemalePlural>жительницы</Villager.labelFemalePlural>
+	<Villager.labelPlural>жители</Villager.labelPlural>
 
 	<TownCouncilman.label>городской советник</TownCouncilman.label>
 	<TownCouncilman.labelPlural>городские советники</TownCouncilman.labelPlural>
@@ -69,10 +68,9 @@
 	<!-- Player -->
 
 	<!--Необходимо для избежания тавтологии «поселенец Поселения»-->
-	<Colonist.label>житель</Colonist.label>
-	<Colonist.labelPlural>жители</Colonist.labelPlural>
+	<Colonist.labelMale>житель</Colonist.labelMale>
 	<Colonist.labelFemale>жительница</Colonist.labelFemale>
-	<Colonist.labelFemalePlural>жительницы</Colonist.labelFemalePlural>
+	<Colonist.labelPlural>жители</Colonist.labelPlural>
 
 	<Tribesperson.label>член племени</Tribesperson.label>
 	<Tribesperson.labelPlural>члены племени</Tribesperson.labelPlural>
@@ -87,37 +85,31 @@
 
 	<!-- Special -->
 
-	<Slave.label>раб</Slave.label>
-	<Slave.labelPlural>рабы</Slave.labelPlural>
+	<Slave.labelMale>раб</Slave.labelMale>
 	<Slave.labelFemale>рабыня</Slave.labelFemale>
-	<Slave.labelFemalePlural>рабыни</Slave.labelFemalePlural>
+	<Slave.labelPlural>рабы</Slave.labelPlural>
 
-	<WildMan.label>дикарь</WildMan.label>
-	<WildMan.labelPlural>дикари</WildMan.labelPlural>
+	<WildMan.labelMale>дикарь</WildMan.labelMale>
 	<WildMan.labelFemale>дикарка</WildMan.labelFemale>
-	<WildMan.labelFemalePlural>дикарки</WildMan.labelFemalePlural>
+	<WildMan.labelPlural>дикари</WildMan.labelPlural>
 
 	<!-- Tribal -->
 
-	<TribalWarrior.label>воитель</TribalWarrior.label>
-	<TribalWarrior.labelPlural>воители</TribalWarrior.labelPlural>
+	<TribalWarrior.labelMale>воитель</TribalWarrior.labelMale>
 	<TribalWarrior.labelFemale>воительница</TribalWarrior.labelFemale>
-	<TribalWarrior.labelFemalePlural>воительницы</TribalWarrior.labelFemalePlural>
+	<TribalWarrior.labelPlural>воители</TribalWarrior.labelPlural>
 
-	<TribalTrader.label>торговец</TribalTrader.label>
-	<TribalTrader.labelPlural>торговецы</TribalTrader.labelPlural>
+	<TribalTrader.labelMale>торговец</TribalTrader.labelMale>
 	<TribalTrader.labelFemale>торговка</TribalTrader.labelFemale>
-	<TribalTrader.labelFemalePlural>торговки</TribalTrader.labelFemalePlural>
+	<TribalTrader.labelPlural>торговецы</TribalTrader.labelPlural>
 
-	<TribalArcher.label>лучник</TribalArcher.label>
-	<TribalArcher.labelPlural>лучники</TribalArcher.labelPlural>
+	<TribalArcher.labelMale>лучник</TribalArcher.labelMale>
 	<TribalArcher.labelFemale>лучница</TribalArcher.labelFemale>
-	<TribalArcher.labelFemalePlural>лучницы</TribalArcher.labelFemalePlural>
+	<TribalArcher.labelPlural>лучники</TribalArcher.labelPlural>
 
-	<TribalHunter.label>охотник</TribalHunter.label>
-	<TribalHunter.labelPlural>охотники</TribalHunter.labelPlural>
+	<TribalHunter.labelMale>охотник</TribalHunter.labelMale>
 	<TribalHunter.labelFemale>охотница</TribalHunter.labelFemale>
-	<TribalHunter.labelFemalePlural>охотницы</TribalHunter.labelFemalePlural>
+	<TribalHunter.labelPlural>охотники</TribalHunter.labelPlural>
 
 	<TribalHeavyArcher.label>стрелок</TribalHeavyArcher.label>
 	<TribalHeavyArcher.labelPlural>стрелки</TribalHeavyArcher.labelPlural>

@@ -4,40 +4,32 @@
 	<YorkshireTerrier.label>йоркширский терьер</YorkshireTerrier.label>
 	<YorkshireTerrier.labelPlural>йоркширские терьеры</YorkshireTerrier.labelPlural>
 	<YorkshireTerrier.lifeStages.0.label>щенок йорка</YorkshireTerrier.lifeStages.0.label>
-	<YorkshireTerrier.lifeStages.1.label>молодой йоркширский терьер</YorkshireTerrier.lifeStages.1.label>
 	<YorkshireTerrier.lifeStages.1.labelMale>молодой кобель йорка</YorkshireTerrier.lifeStages.1.labelMale>
 	<YorkshireTerrier.lifeStages.1.labelFemale>молодая сука йорка</YorkshireTerrier.lifeStages.1.labelFemale>
-	<YorkshireTerrier.lifeStages.2.label>йоркширский терьер</YorkshireTerrier.lifeStages.2.label>
 	<YorkshireTerrier.lifeStages.2.labelMale>кобель йорка</YorkshireTerrier.lifeStages.2.labelMale>
 	<YorkshireTerrier.lifeStages.2.labelFemale>сука йорка</YorkshireTerrier.lifeStages.2.labelFemale>
 
 	<Husky.label>хаски</Husky.label>
 	<Husky.labelPlural>хаски</Husky.labelPlural>
 	<Husky.lifeStages.0.label>щенок хаски</Husky.lifeStages.0.label>
-	<Husky.lifeStages.1.label>молодой хаски</Husky.lifeStages.1.label>
 	<Husky.lifeStages.1.labelMale>молодой кобель хаски</Husky.lifeStages.1.labelMale>
 	<Husky.lifeStages.1.labelFemale>молодая сука хаски</Husky.lifeStages.1.labelFemale>
-	<Husky.lifeStages.2.label>хаски</Husky.lifeStages.2.label>
 	<Husky.lifeStages.2.labelMale>кобель хаски</Husky.lifeStages.2.labelMale>
 	<Husky.lifeStages.2.labelFemale>сука хаски</Husky.lifeStages.2.labelFemale>
 
 	<LabradorRetriever.label>лабрадор-ретривер</LabradorRetriever.label>
 	<LabradorRetriever.labelPlural>лабрадоры-ретриверы</LabradorRetriever.labelPlural>
 	<LabradorRetriever.lifeStages.0.label>щенок лабрадора</LabradorRetriever.lifeStages.0.label>
-	<LabradorRetriever.lifeStages.1.label>молодой лабрадор-ретривер</LabradorRetriever.lifeStages.1.label>
 	<LabradorRetriever.lifeStages.1.labelMale>молодой кобель лабрадора</LabradorRetriever.lifeStages.1.labelMale>
 	<LabradorRetriever.lifeStages.1.labelFemale>молодая сука лабрадора</LabradorRetriever.lifeStages.1.labelFemale>
-	<LabradorRetriever.lifeStages.2.label>лабрадор-ретривер</LabradorRetriever.lifeStages.2.label>
 	<LabradorRetriever.lifeStages.2.labelMale>кобель лабрадора</LabradorRetriever.lifeStages.2.labelMale>
 	<LabradorRetriever.lifeStages.2.labelFemale>сука лабрадора</LabradorRetriever.lifeStages.2.labelFemale>
 
 	<Cat.label>кошка</Cat.label>
 	<Cat.labelPlural>кошки</Cat.labelPlural>
 	<Cat.lifeStages.0.label>котёнок</Cat.lifeStages.0.label>
-	<Cat.lifeStages.1.label>молодая кошка</Cat.lifeStages.1.label>
 	<Cat.lifeStages.1.labelMale>молодой кот</Cat.lifeStages.1.labelMale>
 	<Cat.lifeStages.1.labelFemale>молодая кошка</Cat.lifeStages.1.labelFemale>
-	<Cat.lifeStages.2.label>кошка</Cat.lifeStages.2.label>
 	<Cat.lifeStages.2.labelMale>кот</Cat.lifeStages.2.labelMale>
 	<Cat.lifeStages.2.labelFemale>кошка</Cat.lifeStages.2.labelFemale>
 
