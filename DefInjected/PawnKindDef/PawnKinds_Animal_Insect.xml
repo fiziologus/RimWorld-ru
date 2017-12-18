@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+	<!-- у скарабея и спелопеды деление гендерное разделение только у взрослых особей -->
 	<Megascarab.label>мегаскарабей</Megascarab.label>
 	<Megascarab.labelPlural>мегаскарабеи</Megascarab.labelPlural>
 	<Megascarab.lifeStages.0.label>личинка мегаскарабея</Megascarab.lifeStages.0.label>
 	<Megascarab.lifeStages.1.label>нимфа мегаскарабея</Megascarab.lifeStages.1.label>
-	<Megascarab.lifeStages.1.labelMale>самец мегаскарабея</Megascarab.lifeStages.1.labelMale>
-	<Megascarab.lifeStages.1.labelFemale>самка мегаскарабея</Megascarab.lifeStages.1.labelFemale>
-	<Megascarab.lifeStages.2.label>мегаскарабей</Megascarab.lifeStages.2.label>
 	<Megascarab.lifeStages.2.labelMale>самец мегаскарабея</Megascarab.lifeStages.2.labelMale>
 	<Megascarab.lifeStages.2.labelFemale>самка мегаскарабея</Megascarab.lifeStages.2.labelFemale>
 
@@ -15,19 +13,14 @@
 	<Spelopede.labelPlural>спелопеды</Spelopede.labelPlural>
 	<Spelopede.lifeStages.0.label>личинка спелопеды</Spelopede.lifeStages.0.label>
 	<Spelopede.lifeStages.1.label>нимфа спелопеды</Spelopede.lifeStages.1.label>
-	<Spelopede.lifeStages.1.labelMale>самец спелопеды</Spelopede.lifeStages.1.labelMale>
-	<Spelopede.lifeStages.1.labelFemale>самка спелопеды</Spelopede.lifeStages.1.labelFemale>
-	<Spelopede.lifeStages.2.label>спелопеда</Spelopede.lifeStages.2.label>
 	<Spelopede.lifeStages.2.labelMale>самец спелопеды</Spelopede.lifeStages.2.labelMale>
 	<Spelopede.lifeStages.2.labelFemale>самка спелопеды</Spelopede.lifeStages.2.labelFemale>
 
 	<Megaspider.label>мегапаук</Megaspider.label>
 	<Megaspider.labelPlural>мегапауки</Megaspider.labelPlural>
 	<Megaspider.lifeStages.0.label>паучок</Megaspider.lifeStages.0.label>
-	<Megaspider.lifeStages.1.label>молодой паук</Megaspider.lifeStages.1.label>
 	<Megaspider.lifeStages.1.labelMale>самец паука</Megaspider.lifeStages.1.labelMale>
 	<Megaspider.lifeStages.1.labelFemale>самка паука</Megaspider.lifeStages.1.labelFemale>
-	<Megaspider.lifeStages.2.label>мегапаук</Megaspider.lifeStages.2.label>
 	<Megaspider.lifeStages.2.labelMale>самец мегапаука</Megaspider.lifeStages.2.labelMale>
 	<Megaspider.lifeStages.2.labelFemale>самка мегапаука</Megaspider.lifeStages.2.labelFemale>
 

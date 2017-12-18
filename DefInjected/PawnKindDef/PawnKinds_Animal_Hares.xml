@@ -5,20 +5,16 @@
 	<Hare.label>русак</Hare.label>
 	<Hare.labelPlural>русаки</Hare.labelPlural>
 	<Hare.lifeStages.0.label>зайчонок-русак</Hare.lifeStages.0.label>
-	<Hare.lifeStages.1.label>молодой русак</Hare.lifeStages.1.label>
 	<Hare.lifeStages.1.labelMale>молодой заяц-русак</Hare.lifeStages.1.labelMale>
 	<Hare.lifeStages.1.labelFemale>молодая заячиха-русак</Hare.lifeStages.1.labelFemale>
-	<Hare.lifeStages.2.label>русак</Hare.lifeStages.2.label>
 	<Hare.lifeStages.2.labelMale>заяц-русак</Hare.lifeStages.2.labelMale>
 	<Hare.lifeStages.2.labelFemale>заячиха-русак</Hare.lifeStages.2.labelFemale>
 
 	<Snowhare.label>беляк</Snowhare.label>
 	<Snowhare.labelPlural>беляки</Snowhare.labelPlural>
 	<Snowhare.lifeStages.0.label>заячонок-беляк</Snowhare.lifeStages.0.label>
-	<Snowhare.lifeStages.1.label>молодой беляк</Snowhare.lifeStages.1.label>
 	<Snowhare.lifeStages.1.labelMale>молодой заяц-беляк</Snowhare.lifeStages.1.labelMale>
 	<Snowhare.lifeStages.1.labelFemale>молодая заячиха-беляк</Snowhare.lifeStages.1.labelFemale>
-	<Snowhare.lifeStages.2.label>беляк</Snowhare.lifeStages.2.label>
 	<Snowhare.lifeStages.2.labelMale>заяц-беляк</Snowhare.lifeStages.2.labelMale>
 	<Snowhare.lifeStages.2.labelFemale>заячиха-беляк</Snowhare.lifeStages.2.labelFemale>
 
