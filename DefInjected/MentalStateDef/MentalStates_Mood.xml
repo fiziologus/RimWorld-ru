@@ -69,7 +69,7 @@
 	<BedroomTantrum.beginLetterLabel>вспышка гнева</BedroomTantrum.beginLetterLabel>
 	<BedroomTantrum.beginLetter>{0} вспыхивает от злости. HECAP собирантся разнести мебель у себя в комнате.</BedroomTantrum.beginLetter>
 	<BedroomTantrum.recoveryMessage>Вспышка гнева у {0} прошла.</BedroomTantrum.recoveryMessage>
-	<BedroomBedroomTantrum.baseInspectLine>Душевное состояние: Вспышка гнева</BedroomTantrum.baseInspectLine>
+	<BedroomTantrum.baseInspectLine>Душевное состояние: Вспышка гнева</BedroomTantrum.baseInspectLine>
 
 	<SadisticRage.label>садистский раж</SadisticRage.label>
 	<SadisticRage.beginLetterLabel>садистский раж</SadisticRage.beginLetterLabel>

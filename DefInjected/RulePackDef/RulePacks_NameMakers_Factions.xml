@@ -3,9 +3,9 @@
 
 	<!-- Player -->
 
-	<NamerFactionPlayerRandomized.rulepack.rulesStrings.0>name->[colonyname]</NamerFactionPlayerRandomized.rulepack.rulesStrings.0>
 	<NamerFactionBasePlayerColony.rulepack.rulesStrings.0>name->Поселение</NamerFactionBasePlayerColony.rulepack.rulesStrings.0>
 	<NamerFactionBasePlayerTribe.rulepack.rulesStrings.0>name->Деревня</NamerFactionBasePlayerTribe.rulepack.rulesStrings.0>
+	<NamerFactionPlayerColonyRandomized.rulepack.rulesStrings.0>name->[colonyname]</NamerFactionPlayerColonyRandomized.rulepack.rulesStrings.0>
 
 	<!-- Pirate -->
 

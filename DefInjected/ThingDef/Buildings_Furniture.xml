@@ -85,7 +85,7 @@
 
 	<SunLamp.label>лампа солнечного света</SunLamp.label>
 	<SunLamp.description>Освещает местность достаточно ярко для выращивания растений, однако съедает немерено мощности. Самостоятельно отключается ночью.</SunLamp.description>
-	<SunLamp.comps.2.offMessage>Оключена не время сна растений</SunLamp.comps.2.offMessage>
+	<SunLamp.comps.3.offMessage>Оключена не время сна растений</SunLamp.comps.3.offMessage>
 
 	<!--============================== Storage ==============================-->
 
