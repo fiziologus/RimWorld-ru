@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<!-- glow -->
 	<Dark>Темно</Dark>
 	<Lit>Светло</Lit>
-	<LitBrightly>Очень светло</LitBrightly>
+	<LitBrightly>Ярко</LitBrightly>
 
 	<!-- history upload pref -->
 	<Unspecified>Ещё не решено</Unspecified>
@@ -12,19 +12,19 @@
 	<Never>Не позволять</Never>
 
 	<!-- Price types -->
-	<PriceTypeVeryCheap>очень дешёвая</PriceTypeVeryCheap>
+	<PriceTypeVeryCheap>грошовая</PriceTypeVeryCheap>
 	<PriceTypeCheap>дешёвая</PriceTypeCheap>
 	<PriceTypeNormal>нормальная</PriceTypeNormal>
 	<PriceTypeExpensive>высокая</PriceTypeExpensive>
 	<PriceTypeExorbitant>непомерная</PriceTypeExorbitant>
 
 	<!-- Storage priority labels -->
-	<StoragePriorityUnstored>не использовать</StoragePriorityUnstored>
+	<StoragePriorityUnstored>не складывать</StoragePriorityUnstored>
 	<StoragePriorityLow>низкий</StoragePriorityLow>
 	<StoragePriorityNormal>обычный</StoragePriorityNormal>
-	<StoragePriorityPreferred>повышенный</StoragePriorityPreferred>
-	<StoragePriorityImportant>высокий</StoragePriorityImportant>
-	<StoragePriorityCritical>максимальный</StoragePriorityCritical>
+	<StoragePriorityPreferred>обычно сюда</StoragePriorityPreferred>
+	<StoragePriorityImportant>чаще сюда</StoragePriorityImportant>
+	<StoragePriorityCritical>всегда сюда</StoragePriorityCritical>
 
 	<!-- Food type flags -->
 	<FoodTypeFlags_VegetableOrFruit>овощи/фрукты</FoodTypeFlags_VegetableOrFruit>
@@ -40,17 +40,18 @@
 	<FoodTypeFlags_Kibble>еда для животных</FoodTypeFlags_Kibble>
 
 	<!-- Quality category -->
-	<QualityCategory_Awful>ужасно -3</QualityCategory_Awful>
-	<QualityCategory_Shoddy>отвратно -2</QualityCategory_Shoddy>
-	<QualityCategory_Poor>плохо -1</QualityCategory_Poor>
-	<QualityCategory_Normal>нормально 0</QualityCategory_Normal>
-	<QualityCategory_Good>хорошо 1</QualityCategory_Good>
-	<QualityCategory_Superior>отлично 2</QualityCategory_Superior>
-	<QualityCategory_Excellent>превосходно 3</QualityCategory_Excellent>
-	<QualityCategory_Masterwork>шедевр 4</QualityCategory_Masterwork>
-	<QualityCategory_Legendary>легенда 5</QualityCategory_Legendary>
-	<QualityCategoryShort_Awful>ужасн</QualityCategoryShort_Awful>
-	<QualityCategoryShort_Shoddy>отвр</QualityCategoryShort_Shoddy>
+	<QualityCategory_Awful>отвратно</QualityCategory_Awful>
+	<QualityCategory_Shoddy>дрянно</QualityCategory_Shoddy>
+	<QualityCategory_Poor>плохо</QualityCategory_Poor>
+	<QualityCategory_Normal>нормально</QualityCategory_Normal>
+	<QualityCategory_Good>хорошо</QualityCategory_Good>
+	<QualityCategory_Superior>отлично</QualityCategory_Superior>
+	<QualityCategory_Excellent>превосходно</QualityCategory_Excellent>
+	<QualityCategory_Masterwork>шедевр</QualityCategory_Masterwork>
+	<QualityCategory_Legendary>легенда</QualityCategory_Legendary>
+
+	<QualityCategoryShort_Awful>отвр</QualityCategoryShort_Awful>
+	<QualityCategoryShort_Shoddy>дрян</QualityCategoryShort_Shoddy>
 	<QualityCategoryShort_Poor>плох</QualityCategoryShort_Poor>
 	<QualityCategoryShort_Normal>норм</QualityCategoryShort_Normal>
 	<QualityCategoryShort_Good>хор</QualityCategoryShort_Good>
@@ -60,21 +61,21 @@
 	<QualityCategoryShort_Legendary>леген</QualityCategoryShort_Legendary>
 
 	<!-- Hunger -->
-	<HungerLevel_Starving>Голодает</HungerLevel_Starving>
-	<HungerLevel_UrgentlyHungry>Недоедает</HungerLevel_UrgentlyHungry>
-	<HungerLevel_Hungry>Хочет есть</HungerLevel_Hungry>
-	<HungerLevel_Fed>Накормлен</HungerLevel_Fed>
+	<HungerLevel_Starving>Истожение</HungerLevel_Starving>
+	<HungerLevel_UrgentlyHungry>Сильный голод</HungerLevel_UrgentlyHungry>
+	<HungerLevel_Hungry>Голод</HungerLevel_Hungry>
+	<HungerLevel_Fed>Поевши</HungerLevel_Fed>
 
 	<!-- -Fatigue -->
-	<HungerLevel_Exhausted>Обессилел(а)</HungerLevel_Exhausted>
-	<HungerLevel_VeryTired>Очень устал(а)</HungerLevel_VeryTired>
-	<HungerLevel_Tired>Устал(а)</HungerLevel_Tired>
-	<HungerLevel_Rested>Отдохнул(а)</HungerLevel_Rested>
+	<HungerLevel_Exhausted>Изнурённость</HungerLevel_Exhausted>
+	<HungerLevel_VeryTired>Утомлёность</HungerLevel_VeryTired>
+	<HungerLevel_Tired>Усталость</HungerLevel_Tired>
+	<HungerLevel_Rested>Отдохнувши</HungerLevel_Rested>
 
 	<!-- Hilliness -->
 	<Hilliness_Flat>равнина</Hilliness_Flat>
-	<Hilliness_SmallHills>возвышенности</Hilliness_SmallHills>
-	<Hilliness_LargeHills>большие холмы</Hilliness_LargeHills>
+	<Hilliness_SmallHills>пригорки</Hilliness_SmallHills>
+	<Hilliness_LargeHills>взгорья</Hilliness_LargeHills>
 	<Hilliness_Mountainous>горы</Hilliness_Mountainous>
 	<Hilliness_Impassable>непроходимые горы</Hilliness_Impassable>
 
@@ -93,15 +94,15 @@
 	<ContentSource_SteamWorkshop>Мастерская Steam</ContentSource_SteamWorkshop>
 
 	<!-- Medical care category -->
-	<MedicalCareCategory_NoCare>Без медицинской помощи</MedicalCareCategory_NoCare>
+	<MedicalCareCategory_NoCare>Без медицинского ухода</MedicalCareCategory_NoCare>
 	<MedicalCareCategory_NoMeds>Врачебный уход, но без лекарств</MedicalCareCategory_NoMeds>
-	<MedicalCareCategory_HerbalOrWorse>Врачебный уход и лечебные травы</MedicalCareCategory_HerbalOrWorse>
-	<MedicalCareCategory_NormalOrWorse>Применять медикаменты</MedicalCareCategory_NormalOrWorse>
-	<MedicalCareCategory_Best>Применять лучшие медицинские препараты</MedicalCareCategory_Best>
+	<MedicalCareCategory_HerbalOrWorse>Лечебные травы или хуже</MedicalCareCategory_HerbalOrWorse>
+	<MedicalCareCategory_NormalOrWorse>Медикаменты или хуже</MedicalCareCategory_NormalOrWorse>
+	<MedicalCareCategory_Best>Наулучший медицинский уход</MedicalCareCategory_Best>
 
 	<!-- Hostility response mode -->
 	<HostilityResponseMode_Ignore>Игнорировать</HostilityResponseMode_Ignore>
-	<HostilityResponseMode_Attack>Атаковать</HostilityResponseMode_Attack>
+	<HostilityResponseMode_Attack>Нападать</HostilityResponseMode_Attack>
 	<HostilityResponseMode_Flee>Убегать</HostilityResponseMode_Flee>
 
 	<!-- HediffGrowthMode -->
@@ -114,7 +115,7 @@
 	<TechLevel_Neolithic>неолит</TechLevel_Neolithic>
 	<TechLevel_Medieval>средневековье</TechLevel_Medieval>
 	<TechLevel_Industrial>индустриальный</TechLevel_Industrial>
-	<TechLevel_Spacer>космический</TechLevel_Spacer>
+	<TechLevel_Spacer>космо</TechLevel_Spacer>
 	<TechLevel_Ultra>ультра</TechLevel_Ultra>
 	<TechLevel_Transcendent>трансцендентальный</TechLevel_Transcendent>
 
@@ -124,12 +125,12 @@
 
 	<!-- Pawn generation context -->
 	<PawnGenerationContext_All>все персонажи</PawnGenerationContext_All>
-	<PawnGenerationContext_PlayerStarter>персонажи игрока</PawnGenerationContext_PlayerStarter>
+	<PawnGenerationContext_PlayerStarter>начальные персонажи</PawnGenerationContext_PlayerStarter>
 	<PawnGenerationContext_NonPlayer>неигровые персонажи</PawnGenerationContext_NonPlayer>
 
 	<!-- Animal name display mode -->
 	<ShowAnimalNames>Названия животных</ShowAnimalNames>
-	<AnimalNameDisplayMode_TameNamed>Прирученные (только имена)</AnimalNameDisplayMode_TameNamed>
+	<AnimalNameDisplayMode_TameNamed>Прирученные (только с именем)</AnimalNameDisplayMode_TameNamed>
 	<AnimalNameDisplayMode_TameAll>Прирученные (все)</AnimalNameDisplayMode_TameAll>
 
 	<!-- Temperature -->

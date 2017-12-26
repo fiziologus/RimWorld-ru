@@ -11,19 +11,19 @@
 
 	<ScenPart_StartingResearchFinished>Уже исследовано: {0}</ScenPart_StartingResearchFinished>
 
-	<ScenPart_ArriveInDropPods>Прибытие в спасательных капсулах.</ScenPart_ArriveInDropPods>
+	<ScenPart_ArriveInDropPods>Прибытие в капсулах.</ScenPart_ArriveInDropPods>
 
-	<ScenPart_StatFactor>Все значения "{0}" в мире будут изменены будут умножены на {1}.</ScenPart_StatFactor>
+	<ScenPart_StatFactor>Все значения "{0}" в мире умножаться на {1}.</ScenPart_StatFactor>
 
 
 	<!-- Pawn modifiers -->
-	<ScenPart_PawnsHaveHediff>{0} имеют {1} шанс начать с {2}.</ScenPart_PawnsHaveHediff>
+	<ScenPart_PawnsHaveHediff>{0} с вероятностью {1} начнёт с {2}.</ScenPart_PawnsHaveHediff>
 	<ConfigurableSeverity>трудности: {0}</ConfigurableSeverity>
 
-	<ScenPart_SetNeed>{0} имеют {1} шанс получить {2} установленной в диапазоне от {3} до {4}.</ScenPart_SetNeed>
+	<ScenPart_SetNeed>{0} с верояностью {1} получит {2} в диапазоне от {3} до {4}.</ScenPart_SetNeed>
 	<ConfigurableLevel>уровень: {0}</ConfigurableLevel>
 
-	<ScenPart_PawnsHaveTrait>У {0} есть {1} шанс начать с чертой: {2}</ScenPart_PawnsHaveTrait>
+	<ScenPart_PawnsHaveTrait>{0} с вероятностью {1} начанёт с чертой: {2}</ScenPart_PawnsHaveTrait>
 	<ScenPart_OnPawnDeathExplode>Персонажи и существа взрываются при смерти ({0}, радиус взрыва {1}).</ScenPart_OnPawnDeathExplode>
 
 	<!-- Pawn filters -->
@@ -39,6 +39,6 @@
 	<ScenPart_PermaGameCondition>Постоянные условия</ScenPart_PermaGameCondition>
 	<ScenPart_DisableIncident>Эти происшествия отключены</ScenPart_DisableIncident>
 	<ScenPart_CreateIncident>Происшествие создано</ScenPart_CreateIncident>
-	<ScenPart_DisallowBuilding>Невозможно построить</ScenPart_DisallowBuilding>
+	<ScenPart_DisallowBuilding>Не будет возможности построить</ScenPart_DisallowBuilding>
 
 </LanguageData>

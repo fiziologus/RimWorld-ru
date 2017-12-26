@@ -9,8 +9,8 @@
 	<ClickToJumpTo>Нажмите, чтобы перейти к:</ClickToJumpTo>
 	<CannotDoThisWork>{0} не может выполнять работу такого типа.</CannotDoThisWork>
 	<NoneBrackets>(отсутствуют)</NoneBrackets>
-	<IncapableOfWorkTypeBecauseOfCapacities>Этот поселенец не может выполнять работу такого типа из-за состояния своего здоровья.</IncapableOfWorkTypeBecauseOfCapacities>
-	<EmergencyWorkMarker>E</EmergencyWorkMarker>
+	<IncapableOfWorkTypeBecauseOfCapacities>По состоянию здоровья этот поселенец не в силах выполнять работу такого типа.</IncapableOfWorkTypeBecauseOfCapacities>
+	<EmergencyWorkMarker>Сроч</EmergencyWorkMarker>
 	<SelectedWorkTypeWithVeryBadSkill>Внимание: среднее значение соответствующих навыков слишком низкое.</SelectedWorkTypeWithVeryBadSkill>
 
 	<!-- Assign tab -->
@@ -19,7 +19,7 @@
 	<ApparelForcedLower>(принудительно)</ApparelForcedLower>
 	<ForcedApparel>Принудительно носимая одежда</ForcedApparel>
 	<AssignTabEdit>Изменить...</AssignTabEdit>
-	<ManageDrugPolicies>Управление приёмом наркотиков</ManageDrugPolicies>
+	<ManageDrugPolicies>Управление приёмом препаратов</ManageDrugPolicies>
 
 	<!-- Restrictions tab -->
 	<Copy>Копировать</Copy>
@@ -33,7 +33,7 @@
 	<!-- Factions tab -->
 	<Hostile>Враждебные</Hostile>
 	<DefeatedLower>побеждена</DefeatedLower>
-	<HostileTo>Враг фракции {0}</HostileTo>
+	<HostileTo>Враги {0}</HostileTo>
 	<CurrentGoodwill>Текущие отношения с этой фракцией.</CurrentGoodwill>
 
 	<!-- Social tab -->
@@ -57,20 +57,20 @@
 
 	<!-- History tab - Statistics -->
 	<Playtime>Время игры</Playtime>
-	<Storyteller>Рассказчик</Storyteller>
-	<ThisMapColonyWealthTotal>Общее богатство поселения (на этой карте)</ThisMapColonyWealthTotal>
+	<Storyteller>Повествователь</Storyteller>
+	<ThisMapColonyWealthTotal>Богатство поселения (на этой карте)</ThisMapColonyWealthTotal>
 	<ThisMapColonyWealthItems>Богатство по предметам (на этой карте)</ThisMapColonyWealthItems>
 	<ThisMapColonyWealthBuildings>Богатство по постройкам (на этой карте)</ThisMapColonyWealthBuildings>
-	<NumThreatBigs>Основные угрозы</NumThreatBigs>
+	<NumThreatBigs>Главные угрозы</NumThreatBigs>
 	<NumEnemyRaids>Вражеские набеги</NumEnemyRaids>
 	<ThisMapDamageTaken>Полученный урон (на этой карте)</ThisMapDamageTaken>
 	<ColonistsKilled>Поселенцев убито</ColonistsKilled>
 	<ColonistsLaunched>Поселенцев отправлено в космос</ColonistsLaunched>
 
 	<!-- Research tab -->
-	<ProjectTechLevel>технический уровень проекта</ProjectTechLevel>
-	<YourTechLevel>ваш технический уровень</YourTechLevel>
+	<ProjectTechLevel>уровень технологий проекта</ProjectTechLevel>
+	<YourTechLevel>ваш уровень технологий</YourTechLevel>
 	<ResearchCostMultiplier>мультипликатор стоимости</ResearchCostMultiplier>
-	<ResearchCostComparison>Базовая стоимость проекта — {0}, и с вашим техническим уровнем она равна {1}.</ResearchCostComparison>
+	<ResearchCostComparison>Базовая стоимость проекта — {0} для вашего уровня технологий равна {1}.</ResearchCostComparison>
 
 </LanguageData>
