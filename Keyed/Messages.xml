@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<MessageSiegersAssaulting>Осаждающие {0} из фракции {1} начали штурм поселения.</MessageSiegersAssaulting>
+	<MessageSiegersAssaulting>Осаждающие {0} из {1} начали штурм поселения.</MessageSiegersAssaulting>
 
-	<MessageRaidersBeginningAssault>{0} из фракции {1} идут на штурм.</MessageRaidersBeginningAssault>
-	<MessageRaidersDetectedEarlyAssault>{0} из фракции {1} обнаружили вас и решили начать штурм раньше раньше.</MessageRaidersDetectedEarlyAssault>
-	<MessageRaidersKidnapping>{0} из фракции {1} решили похитить кого смогут и уйти.</MessageRaidersKidnapping>
-	<MessageRaidersStealing>{0} из {1} решили украсть что смогут и уйти.</MessageRaidersStealing>
+	<MessageRaidersBeginningAssault>{0} из {1} идут на штурм.</MessageRaidersBeginningAssault>
+	<MessageRaidersDetectedEarlyAssault>{0} из {1} обнаружили вас и начали штурм раньше.</MessageRaidersDetectedEarlyAssault>
+	<MessageRaidersKidnapping>{0} из {1} решают захватить, кого получится, и уйти.</MessageRaidersKidnapping>
+	<MessageRaidersStealing>{0} из {1} решают забрать, что получится, и уйти.</MessageRaidersStealing>
 
-	<MessageRaidersLeaving>{0} из фракции {1} отступают.</MessageRaidersLeaving>
-	<MessageRaidersGivenUpLeaving>{0} из {1} сдались и уходят.</MessageRaidersGivenUpLeaving>
-	<MessageRaidersSatisfiedLeaving>{0} из {1} довольны разгромом и уходят.</MessageRaidersSatisfiedLeaving>
+	<MessageRaidersLeaving>{0} из {1} уходят.</MessageRaidersLeaving>
+	<MessageRaidersGivenUpLeaving>{0} из {1} уступают и уходят.</MessageRaidersGivenUpLeaving>
+	<MessageRaidersSatisfiedLeaving>{0} из {1} удовлетворены разгромом и уходят.</MessageRaidersSatisfiedLeaving>
 
-	<MessageFightersFleeing>{0} из фракции {1} спасаются бегством.</MessageFightersFleeing>
-	<MessageFriendlyFightersLeaving>Дружественные {0} из фракции {1} уходят.</MessageFriendlyFightersLeaving>
+	<MessageFightersFleeing>{0} из {1} спасаются бегством.</MessageFightersFleeing>
+	<MessageFriendlyFightersLeaving>Дружественные {0} из {1} уходят.</MessageFriendlyFightersLeaving>
 
-	<MessageVisitorsTakingWounded>{0} из фракции {1} забирают с собой раненого гостя.</MessageVisitorsTakingWounded>
-	<MessageVisitorsTrappedLeaving>{0} из фракции {1} попали в ловушку и пытаются выбраться на свободу.</MessageVisitorsTrappedLeaving>
-	<MessageVisitorsDangerousTemperature>{0} из фракции {1} уходят из-за неблагоприятных температурных условий.</MessageVisitorsDangerousTemperature>
+	<MessageVisitorsTakingWounded>{0} из {1} забирают с собой раненого гостя.</MessageVisitorsTakingWounded>
+	<MessageVisitorsTrappedLeaving>{0} из фракции {1} попали в западню и пробивают путь к спасению.</MessageVisitorsTrappedLeaving>
+	<MessageVisitorsDangerousTemperature>{0} из {1} уходят опасной температуры.</MessageVisitorsDangerousTemperature>
 
-	<MessageWornApparelDeterioratedAway>{0}, носимое {1}, износилось окончательно и рассыпалось в прах.</MessageWornApparelDeterioratedAway>
+	<MessageWornApparelDeterioratedAway>{0} на {1} в конец изнашивается.</MessageWornApparelDeterioratedAway>
 
-	<MessageSeasonBegun>Начался сезон: {0}.</MessageSeasonBegun>
+	<MessageSeasonBegun>Начинается {0}.</MessageSeasonBegun>
 
 	<MessageShipHasLeftCommsRange>{0} покинул зону связи.</MessageShipHasLeftCommsRange>
 
-	<MessageNeedBeaconToTradeWithShip>Для торговли с кораблём вам нужен торговый маяк. Маяк должен быть подключён к электричеству.</MessageNeedBeaconToTradeWithShip>
+	<MessageNeedBeaconToTradeWithShip>Для торговли с кораблём вам нужен торговый маяк.\n\nМаяк должен быть подключён к электричеству.</MessageNeedBeaconToTradeWithShip>
 
 	<MessageBillComplete>Задача завершена: {0}.</MessageBillComplete>
 
-	<MessageFullyHealed>{0} полностью здоров(а).</MessageFullyHealed>
+	<MessageFullyHealed>{0} полностью выздоравливает.</MessageFullyHealed>
 
-	<MessagePrisonerIsEscaping>Заключённый {0} устроил побег!</MessagePrisonerIsEscaping>
+	<MessagePrisonerIsEscaping>Узник {0} устраивает побег!</MessagePrisonerIsEscaping>
 
-	<MessageOutOfNearbyShellsFor>{0} не может найти снарядов для {1}.</MessageOutOfNearbyShellsFor>
+	<MessageOutOfNearbyShellsFor>{0} не может найти свободные снаряды для {1}.</MessageOutOfNearbyShellsFor>
 
-	<MessageAnimalsGoPsychoHunted>Внимание: это животное, {0}, скорее всего нападёт, если причинить ему вред.</MessageAnimalsGoPsychoHunted>
-	<MessageAnimalManhuntsOnTameFailed>Внимание: {0} может атаковать при неудачной попытке приручения ({1} шанс).</MessageAnimalManhuntsOnTameFailed>
+	<MessageAnimalsGoPsychoHunted>Внимание: получив ранение, {0} скорее всего нападёт.</MessageAnimalsGoPsychoHunted>
+	<MessageAnimalManhuntsOnTameFailed>Внимание: при неудавшейся попытке приручения {0} может и напасть (вероятность {1}).</MessageAnimalManhuntsOnTameFailed>
 
-	<LetterLabelMessageRecruitSuccess>Новый рекрут</LetterLabelMessageRecruitSuccess>
-	<MessageRecruitSuccess>{0} успешно завербовал(а) {1} (с шансом {2}).</MessageRecruitSuccess>
-	<MessageTameSuccess>{0} успешно приручил(а) {1} с вероятностью {2}.</MessageTameSuccess>
-	<MessageTameAndNameSuccess>{0} успешно приручил(а) {1} с вероятностью {2} и назвал(а) HIS {3}.</MessageTameAndNameSuccess>
+	<LetterLabelMessageRecruitSuccess>Новичок</LetterLabelMessageRecruitSuccess>
+	<MessageRecruitSuccess>{0} успешно переманивает {1} (вероятность {2}).</MessageRecruitSuccess>
+	<MessageTameSuccess>{0} успешно приручает {1} (вероятность {2}).</MessageTameSuccess>
+	<MessageTameAndNameSuccess>{0} успешно приручает {1} (вероятность {2}) и называет HIS {3}.</MessageTameAndNameSuccess>
 
 	<MessageColonyCannotAfford>Поселение не может позволить себе эту сделку.</MessageColonyCannotAfford>
 	<MessageColonyNotEnoughSilver>Вам не хватает серебра.</MessageColonyNotEnoughSilver>
@@ -49,40 +49,40 @@
 	<MessageCriticalAlert>ВНИМАНИЕ: {0}</MessageCriticalAlert>
 
 	<MessageMustDesignateHarvestable>Нужно указать созревшие собираемые растения.</MessageMustDesignateHarvestable>
-	<MessageMustDesignateHarvestableWood>Нужно указать достаточно выросшие растения.</MessageMustDesignateHarvestableWood>
+	<MessageMustDesignateHarvestableWood>Нужно указать достаточно выросшие деревья.</MessageMustDesignateHarvestableWood>
 	<MessageMustDesignatePlants>Нужно указать растения.</MessageMustDesignatePlants>
-	<MessageMustDesignateHaulable>Нужно указать предметы, которые можно переносить. Некоторые предметы можно переносить всегда, их нельзя отметить для переноски.</MessageMustDesignateHaulable>
+	<MessageMustDesignateHaulable>Нужно указать предметы, которые можно переносить. Какие-то предметы всегда переносятся и отметить их нельзя.</MessageMustDesignateHaulable>
 	<MessageMustDesignateMineable>Нужно указать непроходимую добываемую породу.</MessageMustDesignateMineable>
 	<MessageMustDesignateHuntable>Нужно указать животных, на которых можно охотиться.</MessageMustDesignateHuntable>
 	<MessageMustDesignateTameable>Нужно указать приручаемых животных.</MessageMustDesignateTameable>
-	<MessageMustDesignateClaimable>Нужно указать древние заброшенные сооружения.</MessageMustDesignateClaimable>
+	<MessageMustDesignateClaimable>Нужно указать заброшенные искуственные сооружения.</MessageMustDesignateClaimable>
 	<MessageMustDesignateSmoothableFloor>Нужно указать неровную каменную поверхность.</MessageMustDesignateSmoothableFloor>
-	<MessageNothingCanRemoveThickRoofs>Потолок в виде горной породы удалить невозможно.</MessageNothingCanRemoveThickRoofs>
-	<MessageAlreadyInStorage>Находится на хранении, по мере необходимости будет перемещено в первую очередь.</MessageAlreadyInStorage>
+	<MessageNothingCanRemoveThickRoofs>Ничто не в силах убрать толстый потолок.</MessageNothingCanRemoveThickRoofs>
+	<MessageAlreadyInStorage>Уже на складе и, если понадобиться, будет перемещено в хранилище с высоким приоритером.</MessageAlreadyInStorage>
 	<MessageMustDesignateStrippable>Нужно указать мертвых или тяжелораненых, с которых можно снять одежду.</MessageMustDesignateStrippable>
 	<MessageMustDesignateSlaughterable>Нужно указать прирученное животное, принадлежащее поселению.</MessageMustDesignateSlaughterable>
 	<MessageMustDesignateOpenable>Нужно указать закопанные могилы или саркофаги.</MessageMustDesignateOpenable>
 
 	<MessageRefusedArrest>{0} сопротивляется аресту!</MessageRefusedArrest>
 
-	<MessageNoMedicalBeds>Нет доступных мед. кроватей.</MessageNoMedicalBeds>
+	<MessageNoMedicalBeds>Нет доступных медкоек.</MessageNoMedicalBeds>
 	<MessageNoAnimalBeds>Нет доступных спальных мест для животных.</MessageNoAnimalBeds>
-	<MessageTooLowMedCare>Для операции требуется {0} или лучше, а текущий уровень снабжения {1} медикаментами — "{2}".</MessageTooLowMedCare>
+	<MessageTooLowMedCare>Для операции требуется {0} или лучше, а текущий уровень ухода за {1} — "{2}".</MessageTooLowMedCare>
 
-	<PawnDiedBecauseOf>{0} умер из-за {1}.</PawnDiedBecauseOf>
+	<PawnDiedBecauseOf>{0} умерает из-за {1}.</PawnDiedBecauseOf>
 
 	<MessageNoLongerDowned>{0} снова может ходить.</MessageNoLongerDowned>
 
-	<MessageInvoluntarySleep>{0} упал в обморок от переутомления.</MessageInvoluntarySleep>
+	<MessageInvoluntarySleep>{0} подает без чувств от изнеможения.</MessageInvoluntarySleep>
 
-	<MessageMedicalOperationFailureCatastrophic>{0} совершил серьёзную ошибку во время оперирования {1}.</MessageMedicalOperationFailureCatastrophic>
-	<MessageMedicalOperationFailureMinor>{0} совершил ошибку во время оперирования {1}.</MessageMedicalOperationFailureMinor>
-	<MessageMedicalOperationFailureRidiculous>{0} совершил нелепую ошибку во время оперирования {1}.</MessageMedicalOperationFailureRidiculous>
+	<MessageMedicalOperationFailureCatastrophic>{0} совершает серьёзную ошибку во время оперирования {1}.</MessageMedicalOperationFailureCatastrophic>
+	<MessageMedicalOperationFailureMinor>{0} совершает ошибку во время оперирования {1}.</MessageMedicalOperationFailureMinor>
+	<MessageMedicalOperationFailureRidiculous>{0} совершает нелепую ошибку во время оперирования {1}.</MessageMedicalOperationFailureRidiculous>
 	<MessageMedicalOperationFailureFatal>При оперировании {1} {0} совершает роковую ошибку из-за неординарных проблем: {2}</MessageMedicalOperationFailureFatal>
 
 	<MessageMedicalOperationWillAngerFaction>Эта операция возмутит {0}.</MessageMedicalOperationWillAngerFaction>
 
-	<MessagePawnExitMapRelationsGain>Так как {0} покинул поселение в здравии, отношения с {1} улучшились на {2}.</MessagePawnExitMapRelationsGain>
+	<MessagePawnExitMapRelationsGain>{0} покидает вас в здравии, отчего отношения с {1} улучшаются на {2}.</MessagePawnExitMapRelationsGain>
 
 	<MessageMiscarriedStarvation>У {0} из-за голода произошёл выкидыш.</MessageMiscarriedStarvation>
 	<MessageMiscarriedPoorHealth>У {0} из-за плохого здоровья произошёл выкидыш.</MessageMiscarriedPoorHealth>
@@ -90,43 +90,43 @@
 
 	<MessageNuzzledPawnGaveNameTo>{0} назвал {1} {2} после осмотра.</MessageNuzzledPawnGaveNameTo>
 
-	<MessageNoHandlerSkilledEnough>Никто не сможет приручить {0} (требуется {2} уровня {1}. У {3}, лучшего животновода, уровень {4}).</MessageNoHandlerSkilledEnough>
+	<MessageNoHandlerSkilledEnough>Никто не сможет приручить {0} (требуется уровень {1} в {2}, а у лучшего зверолова, {3} только {4}).</MessageNoHandlerSkilledEnough>
 
-	<MessageEatenByPredator>{0} был съеден {1}.</MessageEatenByPredator>
-	<MessageAttackedByPredator>{0} атакован {1}!</MessageAttackedByPredator>
+	<MessageEatenByPredator>{1} съедает {0}.</MessageEatenByPredator>
+	<MessageAttackedByPredator>{1} нападает на {0}!</MessageAttackedByPredator>
 
 	<MessageHiveReproduced>Улей насекомых размножился.</MessageHiveReproduced>
 
-	<MessageTraderCaravanLeaving>Торговый караван из фракции {0} уходит.</MessageTraderCaravanLeaving>
+	<MessageTraderCaravanLeaving>Торговый караван {0} уходит.</MessageTraderCaravanLeaving>
 
-	<MessageCantSelectDeadPawn>{0} мёртв.</MessageCantSelectDeadPawn>
+	<MessageCantSelectDeadPawn>{0} нет в живых.</MessageCantSelectDeadPawn>
 	<MessageCantSelectOffMapPawn>{0} за пределами карты.</MessageCantSelectOffMapPawn>
 
-	<MessageSocialFight>{0} повздорил(а) с {1}. Причина: {2}.</MessageSocialFight>
+	<MessageSocialFight>{0} сцепляется с {1}. Причина: {2}.</MessageSocialFight>
 
-	<MessageNewMarriageCeremony>Поселенцы собираются, чтобы отпраздновать свадьбу {0} и {1}.</MessageNewMarriageCeremony>
-	<MessageMarriageCeremonyStarts>{0} и {1} начинают свою свадебную церемонию!</MessageMarriageCeremonyStarts>
+	<MessageNewMarriageCeremony>Поселенцы собираются, чтобы отпраздновать свадьбу {0} с {1}.</MessageNewMarriageCeremony>
+	<MessageMarriageCeremonyStarts>{0} и {1} начинают свадебную церемонию!</MessageMarriageCeremonyStarts>
 	<MessageMarriageCeremonyCalledOff>Свадебная церемония {0} и {1} была отменена.</MessageMarriageCeremonyCalledOff>
 	<MessageNewlyMarried>{0} и {1} поженились. Поселенцы празднуют в честь этого события.</MessageNewlyMarried>
-	<MessageMarriageCeremonyAfterPartyFinished>Свадебная церемония {0} и {1} завершилась.</MessageMarriageCeremonyAfterPartyFinished>
+	<MessageMarriageCeremonyAfterPartyFinished>Свадьба {0} с {1} завершилась.</MessageMarriageCeremonyAfterPartyFinished>
 
 	<MessageNewBondRelation>{0} и {1} привязались друг к другу.</MessageNewBondRelation>
-	<MessageNewBondRelationNewName>{0} и {1} привязались друг к другу. {0} назвал(а) HIM {2}.</MessageNewBondRelationNewName>
+	<MessageNewBondRelationNewName>{0} и {1} привязались друг к другу. {0} называет {1} {2}.</MessageNewBondRelationNewName>
 
-	<MessageBondedAnimalMentalBreak>У {0} произошёл нервный срыв из-за смерти {1}.</MessageBondedAnimalMentalBreak>
-	<MessageNamedBondedAnimalMentalBreak>У {0} по имени {1} произошёл нервный срыв из-за смерти {2}.</MessageNamedBondedAnimalMentalBreak>
+	<MessageBondedAnimalMentalBreak>У {0} нервный срыв из-за смерти {1}.</MessageBondedAnimalMentalBreak>
+	<MessageNamedBondedAnimalMentalBreak>У {0} по кличке {1} нервный срыв из-за смерти {2}.</MessageNamedBondedAnimalMentalBreak>
 	<MessageBondedAnimalsMentalBreak>У всех животных ({0}) произошёл нервный срыв из-за смерти {1}.</MessageBondedAnimalsMentalBreak>
 
-	<MessageSuccessfullyRemovedHediff>{0} успешно устранил(а) {2} у {1}.</MessageSuccessfullyRemovedHediff>
+	<MessageSuccessfullyRemovedHediff>{0} успешно излечивает {2} у {1}.</MessageSuccessfullyRemovedHediff>
 
-	<MessageShipChunkDrop>Обломок космического корабля упал с неба и приземлился поблизости.</MessageShipChunkDrop>
+	<MessageShipChunkDrop>Обломок космического корабля падает с неба и приземляется поблизости.</MessageShipChunkDrop>
 
 	<MessagePartyCalledOff>Вечеринка была отменена.</MessagePartyCalledOff>
 	<MessagePartyFinished>Вечеринка завершилась.</MessagePartyFinished>
 
-	<MessageCannotSellItemsReason>Некоторые предметы не могут стать предметом торговли, т.к.: </MessageCannotSellItemsReason>
+	<MessageCannotSellItemsReason>Некоторыми предметами нельзя торговать, так как.: </MessageCannotSellItemsReason>
 
-	<MessageConstructionFailed>{1} не удалось создать {0}. Некоторая часть ресурсов была потрачена впустую.</MessageConstructionFailed>
+	<MessageConstructionFailed>{1} не удалось собрать {0}. Часть ресурсов истратилась впустую.</MessageConstructionFailed>
 
 	<MessageScreenshotSavedAs>Снимок экрана сохранён как: {0}</MessageScreenshotSavedAs>
 
@@ -138,36 +138,36 @@
 
 	<MessageRottedAwayInStorage>{0} сгнило на складе.</MessageRottedAwayInStorage>
 
-	<MessageFoodPoisoning>{0} получил(а) пищевое отравление из-за того, что съел(а) {1}.</MessageFoodPoisoning>
+	<MessageFoodPoisoning>Съев {1}, {0} получает пищевое отравление.</MessageFoodPoisoning>
 
 	<MessageFailedToSendCaravanBecausePawnLost>Невозможно отправить караван, поскольку кто-то из поселенцев, заключённых или животных пропал.</MessageFailedToSendCaravanBecausePawnLost>
-	<MessageCaravanFormationPaused>Формирование каравана продолжится, как только все оправятся после нервного срыва.</MessageCaravanFormationPaused>
-	<MessageCaravanFormationUnpaused>Поселенцы продолжили формирование каравана.</MessageCaravanFormationUnpaused>
+	<MessageCaravanFormationPaused>Сбор каравана продолжатся, как только все оправятся после нервного срыва.</MessageCaravanFormationPaused>
+	<MessageCaravanFormationUnpaused>Поселенцы продолжили сбор каравана.</MessageCaravanFormationUnpaused>
 
-	<MessageCaravanMemberHasExtremeMentalBreak>У кого-то из вашего каравана произошёл нервный срыв.</MessageCaravanMemberHasExtremeMentalBreak>
+	<MessageCaravanMemberHasExtremeMentalBreak>У одного из участников каравана нервный срыв.</MessageCaravanMemberHasExtremeMentalBreak>
 
 	<MessageMaxPlanetCoveragePerformanceWarning>Внимание: генерация целой планеты может занять много времени.</MessageMaxPlanetCoveragePerformanceWarning>
 
-	<MessagePlantDiedOfCold>Растение {0} погибло от холода.</MessagePlantDiedOfCold>
+	<MessagePlantDiedOfCold>{0} погибает от холода.</MessagePlantDiedOfCold>
 	<MessagePlantDiedOfRot_LeftUnharvested>{0} сгнивает на корню, будучи несобранным.</MessagePlantDiedOfRot_LeftUnharvested>
 	<MessagePlantDiedOfRot_ExposedToLight>Оставленное на свету {0} погибает.</MessagePlantDiedOfRot_ExposedToLight>
 	<MessagePlantDiedOfRot>{0} сгнивает на корню.</MessagePlantDiedOfRot>
 	<MessagePlantDiedOfPoison>{0} погибает от яда.</MessagePlantDiedOfPoison>
 	<MessagePlantDiedOfBlight>{0} погибает из-за болезни.</MessagePlantDiedOfBlight>
 
-	<MessagePawnBeingBurned>{0} сожжен(а) перегретым воздухом!</MessagePawnBeingBurned>
+	<MessagePawnBeingBurned>{0} сгорает в перегретом воздухе!</MessagePawnBeingBurned>
 
-	<MessageAccidentalOverdose>{0} получил(а) передозировку наркотика: {1}!</MessageAccidentalOverdose>
+	<MessageAccidentalOverdose>{0} случайно принимает больше, чем надо {1}!</MessageAccidentalOverdose>
 
-	<MessageCaravanArrivedAtDestination>Караван {0} прибыл к месту назначения.</MessageCaravanArrivedAtDestination>
+	<MessageCaravanArrivedAtDestination>Караван {0} прибывает к месту назначения.</MessageCaravanArrivedAtDestination>
 
 	<MessageCaravanIsVisitingSettlement>Караван {0} прибыл в {1}.</MessageCaravanIsVisitingSettlement>
 
 	<MessageCaravanEnteredWorldObject>Караван {0} прибыл в {1}.</MessageCaravanEnteredWorldObject>
 
-	<MessagePawnLeftMapAndCreatedCaravan>{0} покинул это место и сформировал караван.</MessagePawnLeftMapAndCreatedCaravan>
+	<MessagePawnLeftMapAndCreatedCaravan>{0} покидает это место и формирует караван.</MessagePawnLeftMapAndCreatedCaravan>
 
-	<MessageSettledInExistingMap>Вы успешно поселились в этом месте.</MessageSettledInExistingMap>
+	<MessageSettledInExistingMap>Вы успешно заселили новую местность.</MessageSettledInExistingMap>
 
 	<MessageAmbushVictory>Победа! Через {0} караван самостоятельно продолжит путь. Вы можете отправить караван, перейдя на карту мира.</MessageAmbushVictory>
 
@@ -177,69 +177,69 @@
 
 	<MessageRescueeJoined>Вы спасли {0}, и HE теперь с вами!</MessageRescueeJoined>
 
-	<MessageAttackedCaravanIsNowHostile>Из-за того, что вы напали на караван {0}, эта фракция теперь враждебна по отношению к вам.</MessageAttackedCaravanIsNowHostile>
-	<MessageFactionPawnCrushed>{0} потеряли людей из-за обрушения крыши. Отношение фракции к вам ухудшилось до {1}</MessageFactionPawnCrushed>
-	<MessageFactionPawnLost>{0} потеряли {1}. Отношение фракции к вам ухудшилось до {2}</MessageFactionPawnLost>
+	<MessageAttackedCaravanIsNowHostile>Dы напали на караван {0}, и теперь они враждебны к вам.</MessageAttackedCaravanIsNowHostile>
+	<MessageFactionPawnCrushed>{0} потеряли людей из-за обрушения крыши. Их отношение к вам: {1}</MessageFactionPawnCrushed>
+	<MessageFactionPawnLost>{0} потеряли {1}. Их отношение к вам: {2}</MessageFactionPawnLost>
 
-	<MessageTransporterUnreachable>Как минимум одна транспортная капсула недоступна.</MessageTransporterUnreachable>
+	<MessageTransporterUnreachable>Некоторые транспортные капсулы недоступны.</MessageTransporterUnreachable>
 	<MessageTransportersNotAdjacent>Все стартовые площадки, относящиеся к выбранным капсулам, должны находиться вплотную друг к другу.</MessageTransportersNotAdjacent>
 
-	<MessageTransportersLoadCanceled_TransporterDestroyed>Погрузка отменена, поскольку одна из капсул была уничтожена.</MessageTransportersLoadCanceled_TransporterDestroyed>
-	<MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>Погрузка отменена, поскольку одна из пусковых установок была уничтожена.</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
+	<MessageTransportersLoadCanceled_TransporterDestroyed>Погрузка отменена из-за уничтожения одной из капсул.</MessageTransportersLoadCanceled_TransporterDestroyed>
+	<MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>Погрузка отменена из-за уничтожения одной из пусковых установок.</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
 
-	<MessageTransportersLoadingProcessStarted>Поселенцы начали погрузку указанных вами предметов в капсулы.</MessageTransportersLoadingProcessStarted>
+	<MessageTransportersLoadingProcessStarted>Поселенцы начали погрузку указанных предметов в капсулы.</MessageTransportersLoadingProcessStarted>
 
-	<MessageTransportPodsArrived>Ваши транспортные капсулы прибыли к месту назначения.</MessageTransportPodsArrived>
-	<MessageTransportPodsArrivedAndLost>Ваши транспортные капсулы прибыли к месту назначения, но поскольку рядом не было ни одного вашего поселенца, их содержимое потеряно безвозвратно.</MessageTransportPodsArrivedAndLost>
-	<MessageTransportPodsArrivedAndAddedToCaravan>Ваши транспортные капсулы прибыли к месту назначения. Пассажиры и груз подобраны вашим караваном.</MessageTransportPodsArrivedAndAddedToCaravan>
+	<MessageTransportPodsArrived>Транспортные капсулы прибыли к месту назначения.</MessageTransportPodsArrived>
+	<MessageTransportPodsArrivedAndLost>Транспортные капсулы прибыли к месту назначения, но рядом не оказалось ни одного вашего поселенца, и их содержимое потеряно безвозвратно.</MessageTransportPodsArrivedAndLost>
+	<MessageTransportPodsArrivedAndAddedToCaravan>Транспортные капсулы прибыли к месту назначения. Их содержимое добавлено в караван.</MessageTransportPodsArrivedAndAddedToCaravan>
 	<MessageTransportPodsArrived_BecameHostile>{0} теперь враждебны к вам.</MessageTransportPodsArrived_BecameHostile>
 
-	<MessageFailedToLoadTransportersBecauseColonistLost>Погрузка отменена, поскольку один из поселенцев пропал.</MessageFailedToLoadTransportersBecauseColonistLost>
+	<MessageFailedToLoadTransportersBecauseColonistLost>Погрузка отменена из-за пропажи одного из поселенцев.</MessageFailedToLoadTransportersBecauseColonistLost>
 
-	<MessageFinishedLoadingTransporters>Погрузка транспортных капсул завершена.</MessageFinishedLoadingTransporters>
+	<MessageFinishedLoadingTransporters>Поселенцы завершили загрузку транспортных капсул.</MessageFinishedLoadingTransporters>
 
 	<MessageTransportPodsDestinationIsInvalid>Выбрано неподходящее место назначения.</MessageTransportPodsDestinationIsInvalid>
-	<MessageTransportPodsDestinationIsTooFar>Каждая капсула должна иметь в баках хотя бы {0} единиц топлива, чтобы долететь сюда.</MessageTransportPodsDestinationIsTooFar>
+	<MessageTransportPodsDestinationIsTooFar>Чтобы отослать капсулы так далеко, каждой пусковой установке нужно хотя бы {0} единиц топлива.</MessageTransportPodsDestinationIsTooFar>
 
-	<MessageReformedCaravan>Караван готов к пути.</MessageReformedCaravan>
+	<MessageReformedCaravan>Караван пересобран.</MessageReformedCaravan>
 
-	<MessageCantBanishLastColonist>Последнего поселенца вы прогнать не сможете..</MessageCantBanishLastColonist>
+	<MessageCantBanishLastColonist>Последнего поселенца вы прогнать не сможете.</MessageCantBanishLastColonist>
 
-	<MessageCantEquipIncapableOfViolence>Невозможно взять {0}: этот поселенец неспособен к насилию.</MessageCantEquipIncapableOfViolence>
-	<MessageCantEquipIncapableOfManipulation>Поселенец не в состоянии взять это оружие.</MessageCantEquipIncapableOfManipulation>
+	<MessageCantEquipIncapableOfViolence>Невозможно взять {0}: поселенец неприемлет жестокость.</MessageCantEquipIncapableOfViolence>
+	<MessageCantEquipIncapableOfManipulation>Невозможно взять: не в состоянии.</MessageCantEquipIncapableOfManipulation>
 
-	<MessageSlaughteringBondedAnimal>Если вы убьёте {0}, {1} расстроится из-за своей привязанности к этому животному.</MessageSlaughteringBondedAnimal>
+	<MessageSlaughteringBondedAnimal>Убийство {0} расстроит {1} из-за привязанности к этому зверьку.</MessageSlaughteringBondedAnimal>
 
-	<MessageCaravanRunOutOfFood>В {0} закончилась еда ({1}).</MessageCaravanRunOutOfFood>
+	<MessageCaravanRunOutOfFood>У {0} закончилась провизия ({1}).</MessageCaravanRunOutOfFood>
 
 	<MessageSelectOwnBaseToFormCaravan>Чтобы снарядить караван, выберите своё поселение или любое место, где есть ваши поселенцы.</MessageSelectOwnBaseToFormCaravan>
 
-	<MessageScreenResTooSmallForUIScale>При таком разрешении и таком масштабе интерфейса он не будет помещаться на экране. Пожалуйста, уменьшите масштаб интерфейса или выберите другое разрешение.</MessageScreenResTooSmallForUIScale>
+	<MessageScreenResTooSmallForUIScale>При таком разрешении и масштабе интерфейса его элементы не будут помещаться на экране. Пожалуйста, уменьшите масштаб интерфейса, либо увеличьте разрешение.</MessageScreenResTooSmallForUIScale>
 
 	<MessageYouHaveToReformCaravanNow>Нужно отправляться прямо сейчас! Все, кто останется, будут брошены на произвол судьбы.</MessageYouHaveToReformCaravanNow>
 
-	<MessageDefendersAttacking>Ваши {2} атакованы фракцией {1}. Их {0} нападают на вас.</MessageDefendersAttacking>
+	<MessageDefendersAttacking>{0} из {1} нападают на ваших {2}.</MessageDefendersAttacking>
 
 	<MessageSelfTendUnsatisfied>Чтобы сделать возможным самолечение, {0} нужно назначить Врачом.</MessageSelfTendUnsatisfied>
-	<MessageCannotSelfTendEver>{0} не в состоянии выполнять работу Врача, включая самолечение.</MessageCannotSelfTendEver>
+	<MessageCannotSelfTendEver>{0} не в состоянии выполнять работу Врача, и потому излечить себя не сможет.</MessageCannotSelfTendEver>
 
 	<MessageCantAddWaypointBecauseImpassable>Эта область непроходима.</MessageCantAddWaypointBecauseImpassable>
 	<MessageCantAddWaypointBecauseUnreachable>К этому месту невозможно пройти из последней точки маршрута.</MessageCantAddWaypointBecauseUnreachable>
 	<MessageCantAddWaypointBecauseLimit>Невозможно создать более {0} точек маршрута.</MessageCantAddWaypointBecauseLimit>
 	<MessageCantRemoveWaypointBecauseFirst>Эту точку маршрута невозможно удалить.</MessageCantRemoveWaypointBecauseFirst>
 
-	<MessageCantDoExecutionBecauseNoWardenCapableOfViolence>Казнь невозможно осуществить: ни один из надзирателей не способен к насилию.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
+	<MessageCantDoExecutionBecauseNoWardenCapableOfViolence>Никто из надзирателей неприемлет насилие. Осуществить казнь невозможно.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
 
 	<MessageSiteCountdownBecauseNoMoreEnemies>Вы победили всех противников. Через {0} караван продолжит свой путь.</MessageSiteCountdownBecauseNoMoreEnemies>
 	<MessageSiteCountdownBecauseNoEnemiesInitially>Через {0} караван продолжит путь. Вы можете досрочно отправить караван, перейдя на карту мира.</MessageSiteCountdownBecauseNoEnemiesInitially>
 
 	<MessageCantBanishDownedPawn>Невозможно прогнать {0}, пока HE не в состоянии ходить.</MessageCantBanishDownedPawn>
 
-	<MessageSleepingPawnsWokenUp>{0} просыпается.</MessageSleepingPawnsWokenUp>
+	<MessageSleepingPawnsWokenUp>{0} пробуждается.</MessageSleepingPawnsWokenUp>
 
 	<MessageCompSpawnerSpawnedItem>Произведён предмет: {0}.</MessageCompSpawnerSpawnedItem>
 
-	<MessageHediffCuredByItem>Излечено нездоровое состояние: {0}.</MessageHediffCuredByItem>
+	<MessageHediffCuredByItem>Недомогание излечено: {0}.</MessageHediffCuredByItem>
 	<MessageBodyPartCuredByItem>Востановлена часть тела: {0}.</MessageBodyPartCuredByItem>
 	<MessageResearchProjectFinishedByItem>Получена технология: {0}.</MessageResearchProjectFinishedByItem>
 
@@ -253,7 +253,7 @@
 	<MessageTornadoLeftMap>Смерч ушёл.</MessageTornadoLeftMap>
 	<MessageTornadoDissipated>Смерч развеялся.</MessageTornadoDissipated>
 
-	<MessagePeaceTalksNoDiplomat>Нет способного к переговорам находящегося в сознании</MessagePeaceTalksNoDiplomat>
+	<MessagePeaceTalksNoDiplomat>Никого в сознании и способного к переговорам нет</MessagePeaceTalksNoDiplomat>
 
 	<MessageWarningCavePlantsExposedToLight>Внимание: на свету {0} не может существовать.</MessageWarningCavePlantsExposedToLight>
 

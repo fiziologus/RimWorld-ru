@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<!-- WITab titles -->
@@ -21,11 +21,11 @@
 	<BanishTipWillDie>{0} скорее всего погибнет.</BanishTipWillDie>
 
 	<!-- Caravan inspect -->
-	<CaravanColonists>Путешественники</CaravanColonists>
-	<CaravanPrisonersAndAnimals>Заключённые и животные</CaravanPrisonersAndAnimals>
+	<CaravanColonists>Поселенцы</CaravanColonists>
+	<CaravanPrisonersAndAnimals>Узники и звери</CaravanPrisonersAndAnimals>
 	<CaravanItems>Груз</CaravanItems>
 	<OpenSpecificTabButtonTip>Нажмите, чтобы увидеть подробности.</OpenSpecificTabButtonTip>
-	<CaravanPrisoners>Заключённые</CaravanPrisoners>
+	<CaravanPrisoners>Узники</CaravanPrisoners>
 	<CaravanWeaponsAndApparel>Вещи</CaravanWeaponsAndApparel>
 	<NoneCapable>Нет способностей</NoneCapable>
 

@@ -84,7 +84,7 @@
 	<ModTargetVersion>Необходимая версия: {0}</ModTargetVersion>
 	<ModNotMadeForThisVersion>Эта модификация была разработана не для этой версии RimWorld и, скорее всего, будет неправильно работать.</ModNotMadeForThisVersion>
 	<MessageModNeedsWellFormattedTargetVersion>Модификации требуется правильно отформатированная версия в About.xml. Например: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
-	<DragToReorder>Перетаскивайте выбранный мод для изменения его положения в очереди загрузки.</DragToReorder>
+	<DragToReorder>Перетаскивайте для изменения порядка.</DragToReorder>
 
 	<!--=========== Выбор сценария =============-->
 
@@ -110,8 +110,8 @@
 
 	<!--=========== Выбор рассказчика ==========-->
 
-	<ChooseAIStoryteller>Выбор ИИ-рассказчика</ChooseAIStoryteller>
-	<HowStorytellersWork>ИИ-рассказчик создаёт события, например, пиратские нападения, падения ресурсов или нападения животных. То, что он выберет, будет влиять на историю вашего поселения.</HowStorytellersWork>
+	<ChooseAIStoryteller>Выбор ИИ-повествователя</ChooseAIStoryteller>
+	<HowStorytellersWork>ИИ-повествователь создаёт события, вроде набегов пиратов, падения ресурсов или нападения зверей. То, что он выберет, повлияет на историю вашего поселения. Выбрать повествователя можно в любое время.</HowStorytellersWork>
 	<MustChooseDifficulty>Пожалуйста, выберите сложность.</MustChooseDifficulty>
 	<Difficulty>Сложность</Difficulty>
 
@@ -124,12 +124,12 @@
 	<CannotLandBiome>Вы не можете приземлиться в этом биоме: {0}</CannotLandBiome>
 	<BiomeNotImplemented>Такой биом не найден.</BiomeNotImplemented>
 	<CannotLandImpassableMountains>Вы не можете приземлиться в непроходимых горах.</CannotLandImpassableMountains>
-	<BaseAlreadyThere>Фракция {0} уже разместила там базу.</BaseAlreadyThere>
+	<BaseAlreadyThere>Здесь уже база {0}.</BaseAlreadyThere>
 	<YourBaseAlreadyThere>Вы уже разместили там базу.</YourBaseAlreadyThere>
 	<TileOccupied>Это место занято.</TileOccupied>
 	<FactionBaseAdjacent>Поселения нельзя располагать вплотную друг к другу.</FactionBaseAdjacent>
 	<Biome>Биом</Biome>
-	<Terrain>Поверхность</Terrain>
+	<Terrain>Рельеф</Terrain>
 	<Road>Дорога</Road>
 	<River>Река</River>
 	<Elevation>Высота</Elevation>
@@ -144,8 +144,8 @@
 	<HasCoast2>побережье с юга</HasCoast2>
 	<HasCoast3>побережье с запада</HasCoast3>
 	<HasCaves>пещеры</HasCaves>
-	<FactionBase>База фракции</FactionBase>
-	<StoneTypesHere>Типы пород</StoneTypesHere>
+	<FactionBase>База</FactionBase>
+	<StoneTypesHere>Породы</StoneTypesHere>
 	<TimeZone>Часовой пояс</TimeZone>
 	<MovementTimeNow>Текущее время прохождения</MovementTimeNow>
 	<MovementTimeSummer>Время прохождения летом</MovementTimeSummer>
@@ -158,16 +158,16 @@
 
 	<CreateCharacters>Создание персонажей</CreateCharacters>
 	<FirstNameDesc>Имя персонажа.\n\nОтображается только в некоторых меню.</FirstNameDesc>
-	<ShortIdentifierDesc>Короткий идентификатор персонажа.\n\nОтображается везде. Может быть именем, фамилией или прозвищем.</ShortIdentifierDesc>
+	<ShortIdentifierDesc>Как персонажа зовут коротко.\n\nОтображается везде. Может быть именем, фамилией или вообще прозвищем.</ShortIdentifierDesc>
 	<LastNameDesc>Фамилия персонажа.\n\nОтображается только в некоторых меню.</LastNameDesc>
 	<Randomize>Случайно</Randomize>
 	<AgeIndicator>возраст {0}</AgeIndicator>
-	<Backstory>Биография</Backstory>
+	<Backstory>Прошлое</Backstory>
 	<IncapableOf>Не может заниматься</IncapableOf>
 	<Traits>Черты характера</Traits>
 	<PermanentMoodEffect>Постоянные эффекты настроения</PermanentMoodEffect>
 	<Skills>Навыки</Skills>
-	<NoneLower>отсутствует</NoneLower>
+	<NoneLower>нет</NoneLower>
 	<Adulthood>Зрелость</Adulthood>
 	<Childhood>Детство</Childhood>
 	<Male>мужского пола</Male>
@@ -187,7 +187,7 @@
 	<Back>Назад</Back>
 	<Gameplay>Игра</Gameplay>
 	<ConfirmQuit>Выйти? Весь несохранённый прогресс будет потерян.</ConfirmQuit>
-	<EveryoneNeedsValidName>Пожалуйста, введите корректные имена, прозвища и фамилии для поселенцев.</EveryoneNeedsValidName>
+	<EveryoneNeedsValidName>Каждый нуждвется в подлинном имени.</EveryoneNeedsValidName>
 	<Quit>Выйти</Quit>
 	<Ignore>Игнорировать</Ignore>
 
@@ -196,6 +196,6 @@
 	<GeneratingWorld>Создание мира</GeneratingWorld>
 	<GeneratingPlanet>Создание планеты</GeneratingPlanet>
 	<GeneratingMap>Создание карты</GeneratingMap>
-	<GeneratingMapForNewEncounter>Создание карты для боя</GeneratingMapForNewEncounter>
+	<GeneratingMapForNewEncounter>Создание карты для столкновения</GeneratingMapForNewEncounter>
 
 </LanguageData>

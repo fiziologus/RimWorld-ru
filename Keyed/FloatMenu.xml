@@ -2,12 +2,12 @@
 <LanguageData>
 
 	<CallOnRadio>Связаться с {0}</CallOnRadio>
-	<CannotUseReason>Невозможно использовать: {0}</CannotUseReason>
-	<CannotUseSolarFlare>Невозможно использовать: солнечная вспышка</CannotUseSolarFlare>
-	<CannotUseNoPower>Невозможно использовать: нет энергии</CannotUseNoPower>
-	<CannotUseNoPath>Невозможно использовать: нельзя пройти</CannotUseNoPath>
-	<CannotUseReserved>Невозможно использовать: занято</CannotUseReserved>
-	<CannotUseFull>Невозможно использовать: заполнено</CannotUseFull>
+	<CannotUseReason>Нельзя воспользоваться: {0}</CannotUseReason>
+	<CannotUseSolarFlare>Нельзя воспользоваться: солнечная вспышка</CannotUseSolarFlare>
+	<CannotUseNoPower>Нельзя воспользоваться: нет энергии</CannotUseNoPower>
+	<CannotUseNoPath>Нельзя воспользоваться: не подойти</CannotUseNoPath>
+	<CannotUseReserved>Нельзя воспользоваться: занято</CannotUseReserved>
+	<CannotUseFull>Нельзя воспользоваться: заполнено</CannotUseFull>
 	<LeaderUnavailable>лидер {0} недоступен</LeaderUnavailable>
 	<LeaderUnavailableNoLeader>лидер недоступен</LeaderUnavailableNoLeader>
 
@@ -15,47 +15,47 @@
 
 	<OutOfRange>вне зоны поражения</OutOfRange>
 	<CannotHitTarget>невозможно попасть в цель</CannotHitTarget>
-	<IsIncapableOfViolenceLower>{0} не способен(на) на насилие</IsIncapableOfViolenceLower>
-	<IncapableOfViolenceLower>не способен(на) на насилие</IncapableOfViolenceLower>
-	<IsNotDraftedLower>{0} не призван</IsNotDraftedLower>
+	<IsIncapableOfViolenceLower>{0} неприемлемо насилие</IsIncapableOfViolenceLower>
+	<IncapableOfViolenceLower>не приемлет жестокость</IncapableOfViolenceLower>
+	<IsNotDraftedLower>{0} не в призыве</IsNotDraftedLower>
 	<CannotOrderNonControlledLower>нельзя отдавать приказы неподконтрольной единице</CannotOrderNonControlledLower>
 	<CannotAttackSelf>нападать на самого себя нельзя</CannotAttackSelf>
 
 	<OrderManThing>Занять {0}</OrderManThing>
 
-	<MeleeAttack>Ближний бой с {0}</MeleeAttack>
+	<MeleeAttack>Атаковать {0} врукопашную</MeleeAttack>
 	<MeleeAttackToDeath>Добить {0} врукопашную</MeleeAttackToDeath>
-	<NoPath>нет прохода</NoPath>
+	<NoPath>не пройти</NoPath>
 
 	<ForbiddenLower>запрещено</ForbiddenLower>
 	<ForbiddenOutsideAllowedAreaLower>вне разрешённой области</ForbiddenOutsideAllowedAreaLower>
-	<NotInHomeArea>вне домашней области</NotInHomeArea>
+	<NotInHomeArea>не в домашней области</NotInHomeArea>
 	<BurningLower>горит</BurningLower>
-	<NoEmptyPlaceLower>нет свободного места, настроенного для хранения этого</NoEmptyPlaceLower>
-	<AlreadyFilledLower>уже заполнен</AlreadyFilledLower>
+	<NoEmptyPlaceLower>нет пустого доступного места для хранения этого</NoEmptyPlaceLower>
+	<AlreadyFilledLower>уже достоточно наполнено</AlreadyFilledLower>
 	<MissingMaterials>нужны материал</MissingMaterials>
 	<MissingSkill>слишком низкий навык</MissingSkill>
 	<NoEmptyGraveLower>нет пустой могилы, предназначенной для этого</NoEmptyGraveLower>
-	<AnimalInteractedTooRecently>животное обучалось совсем недавно</AnimalInteractedTooRecently>
-	<NoUsableFood>нет применимой еды</NoUsableFood>
+	<AnimalInteractedTooRecently>с животным совсем недавно общались</AnimalInteractedTooRecently>
+	<NoUsableFood>нет подходящей еды</NoUsableFood>
 	<NoFood>нет еды</NoFood>
 	<AnimalsSkillTooLow>слишком низкий навык работы с животными</AnimalsSkillTooLow>
 	<ConstructionSkillTooLow>слишком низкий навык сборки</ConstructionSkillTooLow>
 	<NoComponentsToRepair>нужны компоненты</NoComponentsToRepair>
 	<NoFuelToRefuel>нужно {0}</NoFuelToRefuel>
 	<NoWort>нужно сусло</NoWort>
-	<TheOnlyAvailableFoodIsInStorageOfHigherPriority>доступная еда — на складе с более высоким приоритетом</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
-	<NoFoodToFillHopper>нет подходящей еды</NoFoodToFillHopper>
+	<TheOnlyAvailableFoodIsInStorageOfHigherPriority>доступная еда на складе с более высоким приоритетом</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+	<NoFoodToFillHopper>нет годных продуктов</NoFoodToFillHopper>
 	<SelfTendDisabled>самолечение недоступно</SelfTendDisabled>
-	<ReservedForPrisoners>выделено для заключённых</ReservedForPrisoners>
+	<ReservedForPrisoners>выделено для узников</ReservedForPrisoners>
 	<CannotReach>вне досягаемости</CannotReach>
-	<NotSurgeryReady>не проведена подготовка к операции</NotSurgeryReady>
+	<NotSurgeryReady>нет подготовки к операции</NotSurgeryReady>
 	<CantSowCavePlantBecauseOfLight>слишком ярко</CantSowCavePlantBecauseOfLight>
 	<CantSowCavePlantBecauseUnroofed>нет потолка</CantSowCavePlantBecauseUnroofed>
 
 	<ConsumeThing>Употребить {0}</ConsumeThing>
 
-	<CannotGoNoPath>Невозможно пройти сюда: нет прохода</CannotGoNoPath>
+	<CannotGoNoPath>Невозможно пройти сюда: нет пути</CannotGoNoPath>
 	<GoHere>Идти сюда</GoHere>
 
 	<Arrest>Арестовать {0}</Arrest>
@@ -68,13 +68,13 @@
 	<Rescue>Спасти {0}</Rescue>
 	<CannotRescue>Невозможно спасти</CannotRescue>
 
-	<CarryToCryptosleepCasket>Перенести {0} в контейнер криптосна</CarryToCryptosleepCasket>
-	<CannotCarryToCryptosleepCasket>Невозможно перенести в контейнер криптосна</CannotCarryToCryptosleepCasket>
+	<CarryToCryptosleepCasket>Перенести {0} в раку криптосна</CarryToCryptosleepCasket>
+	<CannotCarryToCryptosleepCasket>Невозможно перенести в раку криптосна</CannotCarryToCryptosleepCasket>
 
-	<NoCryptosleepCasket>Нет доступных контейнеров криптосна.</NoCryptosleepCasket>
-	<NoPrisonerBed>Нет доступных свободных кроватей для заключённых в закрытом помещении.</NoPrisonerBed>
-	<NoNonPrisonerBed>Нет доступных свободных кроватей для поселенецев.</NoNonPrisonerBed>
-	<NoAnimalBed>Нет доступных свободных кроватей для животных.</NoAnimalBed>
+	<NoCryptosleepCasket>Нет доступных рак криптосна.</NoCryptosleepCasket>
+	<NoPrisonerBed>Нет доступных свободных кроватей для заключённых в закрытом помещении с подходящей температурой.</NoPrisonerBed>
+	<NoNonPrisonerBed>Нет доступных свободных кроватей для поселенецев в подходящей температуре.</NoNonPrisonerBed>
+	<NoAnimalBed>Нет доступных свободных кроватей для животных в подходящей температуре.</NoAnimalBed>
 	<Reserved>Занято кем-то другим.</Reserved>
 	<ReservedBy>Занято {0}</ReservedBy>
 	<IsReservedBy>{0} уже используется {1}.</IsReservedBy>
@@ -83,15 +83,15 @@
 	<Incapable>неспособен</Incapable>
 	<IncapableOfCapacity>неспособен {0}</IncapableOfCapacity>
 
-	<MinSkill>мин. уровень навыка</MinSkill>
+	<MinSkill>минимальный навык</MinSkill>
 
 	<Equip>Взять оружие: {0}</Equip>
 	<EquipWarningBrawler>(драчун будет недоволен)</EquipWarningBrawler>
 	<CannotEquip>Невозможно взять оружие: {0}</CannotEquip>
 
-	<ForceWear>Надеть {0}</ForceWear>
+	<ForceWear>Вынудить надеть {0}</ForceWear>
 	<CannotWear>Невозможно надеть {0}</CannotWear>
-	<CannotWearBecauseOfMissingBodyParts>отсутствуют части тела</CannotWearBecauseOfMissingBodyParts>
+	<CannotWearBecauseOfMissingBodyParts>нет части тела</CannotWearBecauseOfMissingBodyParts>
 
 	<CannotPickUp>Невозможно взять {0}</CannotPickUp>
 	<CannotPickUpAll>Невозможно взять {0} (всё)</CannotPickUpAll>
@@ -118,8 +118,8 @@
 	<Drop>Бросить {0}</Drop>
 
 	<UseMedicalBed>Отдыхать до выздоровления</UseMedicalBed>
-	<NotInjured>Не ранен</NotInjured>
-	<SomeoneElseSleeping>{0} уже спит здесь</SomeoneElseSleeping>
+	<NotInjured>Без ранений</NotInjured>
+	<SomeoneElseSleeping>Занято {0}</SomeoneElseSleeping>
 
 	<TradeWith>Торговать с {0}</TradeWith>
 	<CannotTrade>Не может торговать</CannotTrade>
@@ -129,26 +129,26 @@
 	<VisitPeaceTalks>Посетить {0}</VisitPeaceTalks>
 	<VisitSite>Посетить {0}</VisitSite>
 	<VisitEscapeShip>Посетить {0}</VisitEscapeShip>
-	<AttackSite>Напасть на {0}</AttackSite>
-	<AttackSettlement>Напасть на {0}</AttackSettlement>
+	<AttackSite>Атаковать {0}</AttackSite>
+	<AttackSettlement>Атаковать {0}</AttackSettlement>
 
 	<!-- Specific thing interactions -->
-	<EnterCryptosleepCasket>Войти в контейнер криптосна</EnterCryptosleepCasket>
-	<OpenCryptosleepCasket>Открыть контейнер криптосна</OpenCryptosleepCasket>
-
-	<CannotGenericWork>Невозможно {0} {1}</CannotGenericWork>
+	<EnterCryptosleepCasket>Влезть в раку криптосна</EnterCryptosleepCasket>
+	<OpenCryptosleepCasket>Открыть раку криптосна</OpenCryptosleepCasket>
 
 	<!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
-	<CannotMissingHealthActivities>Сейчас нельзя: поселенец не может {0} из-за проблем со здоровьем</CannotMissingHealthActivities>
+	<CannotGenericWork>Невозможно {0} {1}</CannotGenericWork>
+
+	<CannotMissingHealthActivities>Сейчас нельзя: не в состоянии {0}</CannotMissingHealthActivities>
 
 	<!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
-	<CannotGenericAlreadyAm>Поселенец уже начал {0}: {1}</CannotGenericAlreadyAm>
+	<CannotGenericAlreadyAm>Уже {0} {1}</CannotGenericAlreadyAm>
 
-	<CannotPrioritizeWorkTypeDisabled>Невозможно выполнить: поселенец никогда не будет {0}</CannotPrioritizeWorkTypeDisabled>
+	<CannotPrioritizeWorkTypeDisabled>Невозможно выполнить: никогда не станет {0}</CannotPrioritizeWorkTypeDisabled>
 
-	<CannotPrioritizeWorkGiverDisabled>Невозможно выполнить: поселенец никогда не будет {0}</CannotPrioritizeWorkGiverDisabled>
+	<CannotPrioritizeWorkGiverDisabled>Невозможно выполнить: никогда не станет {0}</CannotPrioritizeWorkGiverDisabled>
 
-	<CannotPrioritizeNotAssignedToWorkType>Невозможно выполнить: поселенец не назначен {0}</CannotPrioritizeNotAssignedToWorkType>
+	<CannotPrioritizeNotAssignedToWorkType>Невозможно выполнить: не назначен {0}</CannotPrioritizeNotAssignedToWorkType>
 
 	<CannotPrioritizeResearch>Сейчас нельзя: исследование — долгосрочная задача</CannotPrioritizeResearch>
 
@@ -159,7 +159,7 @@
 
 	<!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
 	<!-- В русском это убрано и в gerund идёт просто «Починить» стену, «Отнести» металл... -->
-	<PrioritizeGeneric>{0} {1}</PrioritizeGeneric>
+	<PrioritizeGeneric>Сперва {0} {1}</PrioritizeGeneric>
 
 	<DropAtEdge>Сбросить с краю</DropAtEdge>
 	<DropInCenter>Сбросить в центр</DropInCenter>
