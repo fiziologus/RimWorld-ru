@@ -176,7 +176,7 @@
 	<Maneuver_Scratch.rulePack.rulesStrings.9>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] ошмётки</Maneuver_Scratch.rulePack.rulesStrings.9>
 	<Maneuver_Scratch.rulePack.rulesStrings.10>destroyed_suffix->в клочья</Maneuver_Scratch.rulePack.rulesStrings.10>
 	<Maneuver_Scratch.rulePack.rulesStrings.11>destroyed_suffix->[to] куски</Maneuver_Scratch.rulePack.rulesStrings.11>
-	<Maneuver_Scratch.rulePack.rulesStrings.12>destroyed_suffix(recipient_flesh!=Mechanoid)->в кровавое месиво</Maneuver_Scratch.rulePack.rulesStrings.122>
+	<Maneuver_Scratch.rulePack.rulesStrings.12>destroyed_suffix(recipient_flesh!=Mechanoid)->в кровавое месиво</Maneuver_Scratch.rulePack.rulesStrings.12>
 
 	<!-- тычки-затрещины, повреждения как от дробящих -->
 	<Poke.rulePack.rulesStrings.0>damaged_inf(p=2)->ткнуть</Poke.rulePack.rulesStrings.0>
