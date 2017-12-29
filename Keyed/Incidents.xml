@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<!--нHIS и т.д. — не опечатки, а необходимости, продиктованные суровой реальностью. Преобразует «его/её» в «него/неё».-->
@@ -78,10 +78,10 @@
 
 	<!-- Distant psychic drone -->
 	<LetterLabelPsychicDrone>Гул</LetterLabelPsychicDrone>
-	<LetterIncidentPsychicDrone>Все поселенцы {0} содрогаются от боли!\n\nГде-то вдалеке заворочился мотор ненависти. Он проецирует по всей местности сильнейщий влияющий на психику гул на частоте, влияющей, похоже, только на представителей {0}. На пару дней настроение у некоторых людей будет чуточку хуже.</LetterIncidentPsychicDrone>
+	<LetterIncidentPsychicDrone>Все поселенцы {0} содрогаются от боли!\n\nГде-то вдалеке заворочился мотор ненависти. Он проецирует по всей местности сильнейщий влияющий на психику гул на частоте, затрагивающей, похоже, только на представителей {0}. На пару дней настроение у некоторых людей будет чуточку хуже.</LetterIncidentPsychicDrone>
 
 	<LetterLabelPsychicSoothe>Умиротворение</LetterLabelPsychicSoothe>
-	<LetterIncidentPsychicSoothe>Все поселенцы {0} улыбаются в блаженстве!\n\nГде-то вдалеке заворочился мотор счастья. Он проецирует по всей местности сильнейший влияющий на психику гул на частоте, влияющей, похоже, только на представителей {0}. На пару дней настроение у некоторых людей будет на самую малость лучше.</LetterIncidentPsychicSoothe>
+	<LetterIncidentPsychicSoothe>Все поселенцы {0} улыбаются в блаженстве!\n\nГде-то вдалеке заворочился мотор счастья. Он проецирует по всей местности сильнейший влияющий на психику гул на частоте, затрагивающей, похоже, только на представителей {0}. На пару дней настроение у некоторых людей будет на самую малость лучше.</LetterIncidentPsychicSoothe>
 
 	<!-- Beavers -->
 	<LetterLabelBeaversArrived>Бобры!</LetterLabelBeaversArrived>
@@ -89,7 +89,7 @@
 
 	<!-- Refugee chased -->
 	<RefugeeChasedTitle>У {0} гонятся за беженцем</RefugeeChasedTitle>
-	<RefugeeChasedInitial>Неподалёку {0} по имени {1} взывает к вам. HISCAP преследуют {2} из {3}.\n\nHECAP молит о помощи, предлагая взамен присоединиться к поселению. Биологически HIM {4} лет.\n\nБудьте осторожны: согласившись, придётся отбиваться от {2} у нHIS на хвосте.</RefugeeChasedInitial>
+	<RefugeeChasedInitial>Неподалёку {1} по имени {0} взывает к вам. HISCAP преследуют {2} из {3}.\n\nHECAP молит о помощи, предлагая взамен присоединиться к поселению. Биологически HIM {4} лет.\n\nБудьте осторожны: согласившись, придётся отбиваться от {2} у нHIS на хвосте.</RefugeeChasedInitial>
 	<RefugeeChasedInitial_Accept>Предложить укрытие</RefugeeChasedInitial_Accept>
 	<RefugeeChasedInitial_Reject>Игнорировать сообщение</RefugeeChasedInitial_Reject>
 	<RefugeeChasedRejected>{0} в панике вопит из хрипящего динамика прежде, чем не обрываете связь.</RefugeeChasedRejected>
