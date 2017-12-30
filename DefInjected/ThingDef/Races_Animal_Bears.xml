@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<!-- Animal_Leather, Animal_Meat и Animal_Corpse могут собираться по лекалам из Keyed/Misc.xml -->
-	<!-- LeatherLabel, LeatherDesc = кожа {0}а (в соответствии с точным переводом) -->
-	<!-- MeatLabel, MeatDesc = мясо {0}а -->
-	<!-- CorpseLabel, CorpseDesc = туша {0}а (в игре corpse универсальный термин для любого животного -->
 	<!--Одно мясо идёт на всех медведей, поэтому мясо медведя-->
 
 	<GrizzlyBear.label>гризли</GrizzlyBear.label>
@@ -18,7 +14,7 @@
 	<GrizzlyBear_Meat.label>медвежатина</GrizzlyBear_Meat.label>
 	<!-- <GrizzlyBear_Meat.description>Сырое мясо гризли.</GrizzlyBear_Meat.description> -->
 	<GrizzlyBear_Corpse.label>туша гризли</GrizzlyBear_Corpse.label>
-	<!-- <GrizzlyBear_Corpse.description>Мёртвый гризли</GrizzlyBear_Corpse.description> -->
+	<GrizzlyBear_Corpse.description>Мёртвый гризли</GrizzlyBear_Corpse.description>
 
 	<PolarBear.label>белый медведь</PolarBear.label>
 	<PolarBear.description>Живущий на Крайнем Севере огромный белый медведь. Толстая жировая прослойка и мех не даёт ему замёрзнуть зимой.\n\nОбычно поедающие рыбу и падаль белые медведи более чем способны воспользоваться невероятной силой да смертоносными когтями и для охоты. Для столь массивных созданий они поразительнене шустрые.</PolarBear.description>
@@ -30,6 +26,6 @@
 	<!-- <PolarBear_Leather.description>Шкура, снятая с белого медведя.</PolarBear_Leather.description> -->
 	<!-- useMeatFrom GrizzlyBear -->
 	<PolarBear_Corpse.label>туша белого медведя</PolarBear_Corpse.label>
-	<!-- <PolarBear_Corpse.description>Мёртвый белый медведь</PolarBear_Corpse.description> -->
+	<PolarBear_Corpse.description>Мёртвый белый медведь</PolarBear_Corpse.description>
 
 </LanguageData>

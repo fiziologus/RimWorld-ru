@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<!-- Animal_Leather, Animal_Meat и Animal_Corpse могут собираться по лекалам из Keyed/Misc.xml -->
-	<!-- LeatherLabel, LeatherDesc = кожа {0}а (в соответствии с точным переводом) -->
-	<!-- MeatLabel, MeatDesc = мясо {0}а -->
-	<!-- CorpseLabel, CorpseDesc = туша {0}а (в игре corpse универсальный термин для любого животного -->
 	<!--Одно мясо идёт на всех зайцев, поэтому мясо зайца-->
 
 	<Hare.label>русак</Hare.label>
@@ -16,7 +12,7 @@
 	<Hare_Meat.label>зайчатина</Hare_Meat.label>
 	<!-- <Hare_Meat.description>Сырое мясо зайца.</Hare_Meat.description> -->
 	<Hare_Corpse.label>тушка русака</Hare_Corpse.label>
-	<!-- <Hare_Corpse.description>Мёртвый заяц.</Hare_Corpse.description> -->
+	<Hare_Corpse.description>Мёртвый заяц.</Hare_Corpse.description>
 
 	<Snowhare.label>беляк</Snowhare.label>
 	<Snowhare.description>Выносливый зверёк, переживающий суровые северные зимы, роя в снегу норы и отыскивая под ним пропитание, либо пережидают самые неблагоприятные дни.</Snowhare.description>
@@ -26,6 +22,6 @@
 	<!-- <Snowhare_Leather.description>Шкура, снятая с беляка.</Snowhare_Leather.description>
 	useMeatFrom Hare -->
 	<Snowhare_Corpse.label>тушка беляка</Snowhare_Corpse.label>
-	<!-- <Snowhare_Corpse.description>Мёртвый беляк.</Snowhare_Corpse.description> -->
+	<Snowhare_Corpse.description>Мёртвый беляк.</Snowhare_Corpse.description>
 
 </LanguageData>

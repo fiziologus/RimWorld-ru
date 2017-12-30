@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<!-- Animal_Leather, Animal_Meat и Animal_Corpse могут собираться по лекалам из Keyed/Misc.xml -->
-	<!-- LeatherLabel, LeatherDesc = кожа {0}а (в соответствии с точным переводом) -->
-	<!-- MeatLabel, MeatDesc = мясо {0}а -->
-	<!-- CorpseLabel, CorpseDesc = туша {0}а (в игре corpse универсальный термин для любого животного -->
-
 	<Cobra.label>кобра</Cobra.label>
 	<Cobra.description>Большая змея. Если раздразнить, кобры мог стать весьма агрессивны: от этих созданий лучше держаться подальше.</Cobra.description>
 	<Cobra.tools.1.label>голова</Cobra.tools.1.label>
