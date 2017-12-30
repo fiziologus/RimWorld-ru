@@ -1,21 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<!-- Animal_Leather, Animal_Meat и Animal_Corpse могут собираться по лекалам из Keyed/Misc.xml -->
-	<!-- LeatherLabel, LeatherDesc = кожа {0}а (в соответствии с точным переводом) -->
-	<!-- MeatLabel, MeatDesc = мясо {0}а -->
-	<!-- CorpseLabel, CorpseDesc = туша {0}а (в игре corpse универсальный термин для любого животного -->
-
 	<Muffalo.label>муйвол</Muffalo.label>
 	<Muffalo.description>Крупное стадное травоядное, произошедшее от буйволов и приспособившееся к некоторым чуждым окружающим условиям. Миролюбивы, если не тревожить.</Muffalo.description>
 	<Muffalo.tools.0.label>голова</Muffalo.tools.0.label>
 	<Muffalo_Leather.label>шкура муйвола</Muffalo_Leather.label>
 	<Muffalo_Leather.stuffProps.stuffAdjective>шкуры муйвола</Muffalo_Leather.stuffProps.stuffAdjective>
 	<!-- <Muffalo_Leather.description>Шкура, снятая с муффало.</Muffalo_Leather.description> -->
-	<!-- <Muffalo_Meat.label>мясо муйвола</Muffalo_Meat.label> -->
+	<Muffalo_Meat.label>мясо муйвола</Muffalo_Meat.label>
 	<!-- <Muffalo_Meat.description>Сырое мясо муффало.</Muffalo_Meat.description> -->
-	<!-- <Muffalo_Corpse.label>туша муйвола</Muffalo_Corpse.label> -->
-	<!-- <Muffalo_Corpse.description>Мёртвый муйвол</Muffalo_Corpse.description> -->
+	<Muffalo_Corpse.label>туша муйвола</Muffalo_Corpse.label>
+	<Muffalo_Corpse.description>Мёртвый муйвол</Muffalo_Corpse.description>
 
 	<Gazelle.label>газель</Gazelle.label>
 	<Gazelle.description>Небольшая, чрезвычайно шустрая антилопа, известная своим удивительно длинным прыжком.</Gazelle.description>
@@ -48,13 +43,13 @@
 	<Rhinoceros.tools.0.label>рог</Rhinoceros.tools.0.label>
 	<Rhinoceros.tools.1.label>рог</Rhinoceros.tools.1.label>
 	<Rhinoceros.tools.3.label>голова</Rhinoceros.tools.3.label>
-	<!-- <Rhinoceros_Leather.label>кожа носорога</Rhinoceros_Leather.label> -->
+	<Rhinoceros_Leather.label>кожа носорога</Rhinoceros_Leather.label>
 	<Rhinoceros_Leather.stuffProps.stuffAdjective>кожи носорога</Rhinoceros_Leather.stuffProps.stuffAdjective>
 	<!-- <Rhinoceros_Leather.description>Кожа, снятая с носорога.</Rhinoceros_Leather.description> -->
-	<!-- <Rhinoceros_Meat.label>мясо носорога</Rhinoceros_Meat.label> -->
+	<Rhinoceros_Meat.label>мясо носорога</Rhinoceros_Meat.label>
 	<!-- <Rhinoceros_Meat.description>Сырое мясо носорога.</Rhinoceros_Meat.description> -->
-	<!-- <Rhinoceros_Corpse.label>туша носорога</Rhinoceros_Corpse.label> -->
-	<!-- <Rhinoceros_Corpse.description>Мёртвый носорог</Rhinoceros_Corpse.description> -->
+	<Rhinoceros_Corpse.label>туша носорога</Rhinoceros_Corpse.label>
+	<Rhinoceros_Corpse.description>Мёртвый носорог</Rhinoceros_Corpse.description>
 
 	<Dromedary.label>дромадер</Dromedary.label>
 	<Dromedary.description>Адаптировавшийся к выживания в засушливых местах, этот дальний родственник лошади может неделями обходиться без воды.</Dromedary.description>
@@ -64,9 +59,9 @@
 	<Dromedary_Leather.label>шкура верблюда</Dromedary_Leather.label>
 	<Dromedary_Leather.stuffProps.stuffAdjective>верблюжьей шкуры</Dromedary_Leather.stuffProps.stuffAdjective>
 	<!-- <Dromedary_Leather.description>Шкура, снятая с верблюда.</Dromedary_Leather.description> -->
-	<!-- <Dromedary_Meat.label>мясо верблюда</Dromedary_Meat.label> -->
+	<Dromedary_Meat.label>мясо верблюда</Dromedary_Meat.label>
 	<!-- <Dromedary_Meat.description>Сырое мясо верблюда.</Dromedary_Meat.description> -->
-	<!-- <Dromedary_Corpse.label>туша верблюда</Dromedary_Corpse.label> -->
-	<!-- <Dromedary_Corpse.description>Мёртвый верблюд</Dromedary_Corpse.description> -->
+	<Dromedary_Corpse.label>туша верблюда</Dromedary_Corpse.label>
+	<Dromedary_Corpse.description>Мёртвый верблюд</Dromedary_Corpse.description>
 
 </LanguageData>

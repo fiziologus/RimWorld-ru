@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<!-- Animal_Leather, Animal_Meat и Animal_Corpse могут собираться по лекалам из Keyed/Misc.xml -->
-	<!-- LeatherLabel, LeatherDesc = кожа {0}а (в соответствии с точным переводом) -->
-	<!-- MeatLabel, MeatDesc = мясо {0}а -->
-	<!-- CorpseLabel, CorpseDesc = туша {0}а (в игре corpse универсальный термин для любого животного -->
 	<Cougar.label>пума</Cougar.label>
 	<Cougar.description>Одни из самых опасных больших кошек, пумы — охотники-одиночки с длинными острыми зубами и когтями. Перед прыжком они крадучись незаметно приближаются к своей жертве.\n\nОни не откажутся от поддатливой человечины, хотя обычно люди их пищей не являются.</Cougar.description>
 	<Cougar.tools.0.label>левая лапа</Cougar.tools.0.label>

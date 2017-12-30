@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<!-- Animal_Leather, Animal_Meat и Animal_Corpse могут собираться по лекалам из Keyed/Misc.xml -->
-	<!-- LeatherLabel, LeatherDesc = кожа {0}а (в соответствии с точным переводом) -->
-	<!-- MeatLabel, MeatDesc = мясо {0}а -->
-	<!-- CorpseLabel, CorpseDesc = туша {0}а (в игре corpse универсальный термин для любого животного -->
 	<Elephant.label>слон</Elephant.label>
 	<Elephant.description>Крупнейшее геннетически не изменённое наземное животных. Он может пользоваться своими бивнеми как орудиями для перемещения чего-либо, либо как смертоносным оружием.</Elephant.description>
 	<Elephant.tools.0.label>бивни</Elephant.tools.0.label>
@@ -13,25 +9,25 @@
 	<Elephant.tools.3.label>голова</Elephant.tools.3.label>
 	<Elephant_Leather.label>слоновья кожа</Elephant_Leather.label>
 	<Elephant_Leather.stuffProps.stuffAdjective>слоновьей кожи</Elephant_Leather.stuffProps.stuffAdjective>
-	<!-- <Elephant_Leather.description>Кожа, снятая со слона.</Elephant_Leather.description>
+	<!-- <Elephant_Leather.description>Кожа, снятая со слона.</Elephant_Leather.description> -->
 	<Elephant_Meat.label>мясо слона</Elephant_Meat.label>
-	<Elephant_Meat.description>Сырое мясо слона.</Elephant_Meat.description>
+	<!-- <Elephant_Meat.description>Сырое мясо слона.</Elephant_Meat.description> -->
 	<Elephant_Corpse.label>туша слона</Elephant_Corpse.label>
-	<Elephant_Corpse.description>Мёртвый слон.</Elephant_Corpse.description> -->
+	<Elephant_Corpse.description>Мёртвый слон.</Elephant_Corpse.description>
 
-	<Megasloth.label>мегатерий</Megasloth.label>
+	<Megasloth.label>мегаленивец</Megasloth.label>
 	<!-- gestator - латынь!!! -->
 	<Megasloth.description>Травоядный гигант-одиночка. Стёртый с лика Земли кореными жителями американского континента он давно вымер, чтобы позже быть возвраженным назад передовыми технологиями клонирования и искусственных гестаторов.</Megasloth.description>
 	<Megasloth.tools.0.label>левая лапа</Megasloth.tools.0.label>
 	<Megasloth.tools.1.label>правая лапа</Megasloth.tools.1.label>
 	<Megasloth.tools.3.label>голова</Megasloth.tools.3.label>
-	<Megasloth_Leather.label>шкура мегатерия</Megasloth_Leather.label>
+	<Megasloth_Leather.label>шкура мегаленивца</Megasloth_Leather.label>
 	<!-- <Megasloth_Leather.description>Шкура, снятая с гигантского ленивца.</Megasloth_Leather.description> -->
-	<Megasloth_Leather.stuffProps.stuffAdjective>шкуры метатерия</Megasloth_Leather.stuffProps.stuffAdjective>
-	<Megasloth_Meat.label>мясо мегатерия</Megasloth_Meat.label>
+	<Megasloth_Leather.stuffProps.stuffAdjective>шкуры мегаленивца</Megasloth_Leather.stuffProps.stuffAdjective>
+	<Megasloth_Meat.label>мясо мегаленивца</Megasloth_Meat.label>
 	<!-- <Megasloth_Meat.description>Сырое мясо гигантского ленивца.</Megasloth_Meat.description> -->
-	<Megasloth_Corpse.label>туша мегатерия</Megasloth_Corpse.label>
-	<!-- <Megasloth_Corpse.description>Мёртвый гигантский ленивец</Megasloth_Corpse.description> -->
+	<Megasloth_Corpse.label>туша мегаленивца</Megasloth_Corpse.label>
+	<Megasloth_Corpse.description>Мёртвый мегаленивец</Megasloth_Corpse.description>
 
 	<Thrumbo.label>трумбо</Thrumbo.label>
 	<Thrumbo.description>Гигантское создание неизвестного происхождения. Мирные по натуре трумбо чрезвычайно опасны, когда разъярены. Их длинный мех исключительно красив и ценен, а бритвенно острый рог высоко ценится у большей части торговцев. Легенды говорят, что старый трумбо - мудрейшее создание во вселеной, попусту предпочевшее не разговаривать.</Thrumbo.description>

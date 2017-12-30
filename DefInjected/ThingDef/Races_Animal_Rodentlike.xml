@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<!-- Animal_Leather, Animal_Meat и Animal_Corpse могут собираться по лекалам из Keyed/Misc.xml -->
-	<!-- LeatherLabel, LeatherDesc = кожа {0}а (в соответствии с точным переводом) -->
-	<!-- MeatLabel, MeatDesc = мясо {0}а -->
-	<!-- CorpseLabel, CorpseDesc = туша {0}а (в игре corpse универсальный термин для любого животного -->
-
 	<Squirrel.label>белка</Squirrel.label>
 	<Squirrel.description>Один из многих выносливых, способных жить в любых условия видов грызунов, повсюду следующий за человеком.</Squirrel.description>
 	<Squirrel.tools.0.label>левая лапа</Squirrel.tools.0.label>
@@ -17,7 +12,7 @@
 	<Squirrel_Meat.label>бельчатина</Squirrel_Meat.label>
 	<!-- <Squirrel_Meat.description>Сырое мясо белки.</Squirrel_Meat.description> -->
 	<Squirrel_Corpse.label>тушка белки</Squirrel_Corpse.label>
-	<Squirrel_Corpse.description>Мёртвая белка.</Squirrel_Corpse.description>
+	<Squirrel_Corpse.description>Мёртвая белка</Squirrel_Corpse.description>
 
 	<Alphabeaver.label>альфабобёр</Alphabeaver.label>
 	<Alphabeaver.description>Крупный бобр, продукт генной инженерии для добычи древесины с неуступающей машинам производительностью. Без специализированного питания эти животные впадают в неконтролируемое состояние, толкающее их съедать деревья целиком.</Alphabeaver.description>
@@ -30,7 +25,7 @@
 	<Alphabeaver_Meat.label>мясо альфабобра</Alphabeaver_Meat.label>
 	<!-- <Alphabeaver_Meat.description>Сырое мясо альфабобра.</Alphabeaver_Meat.description> -->
 	<Alphabeaver_Corpse.label>тушка альфабобра</Alphabeaver_Corpse.label>
-	<!-- <Alphabeaver_Corpse.description>Мёртвый альфабобёр.</Alphabeaver_Corpse.description> -->
+	<Alphabeaver_Corpse.description>Мёртвый альфабобр</Alphabeaver_Corpse.description>
 
 	<Capybara.label>капибара</Capybara.label>
 	<Capybara.description>Крупнейший грызун в природе, капибара хорошо приспособлена к знойным джунглям.</Capybara.description>
@@ -79,10 +74,10 @@
 	<Raccoon_Leather.label>шкурка енота</Raccoon_Leather.label>
 	<!-- <Raccoon_Leather.description>Шкурка, снятая с енота.</Raccoon_Leather.description> -->
 	<Raccoon_Leather.stuffProps.stuffAdjective>шкурки енота</Raccoon_Leather.stuffProps.stuffAdjective>
-	<!-- <Raccoon_Meat.label>мясо енота</Raccoon_Meat.label>
-	<Raccoon_Meat.description>Сырое мясо енота.</Raccoon_Meat.description> -->
+	<Raccoon_Meat.label>мясо енота</Raccoon_Meat.label>
+	<!-- <Raccoon_Meat.description>Сырое мясо енота.</Raccoon_Meat.description> -->
 	<Raccoon_Corpse.label>тушка енота</Raccoon_Corpse.label>
-	<!-- <Raccoon_Corpse.description>Мёртвый енот.</Raccoon_Corpse.description> -->
+	<Raccoon_Corpse.description>Мёртвый енот</Raccoon_Corpse.description>
 
 	<Rat.label>крыса</Rat.label>
 	<Rat.description>Известный многим по загаженым кухням и распространяющейся хвори грызун. Ести практически всё, живет практически везде.</Rat.description>

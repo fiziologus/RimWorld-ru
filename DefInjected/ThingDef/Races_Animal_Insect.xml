@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<!-- Animal_Leather, Animal_Meat и Animal_Corpse могут собираться по лекалам из Keyed/Misc.xml -->
-	<!-- LeatherLabel, LeatherDesc = кожа {0}а (в соответствии с точным переводом) -->
-	<!-- MeatLabel, MeatDesc = мясо {0}а -->
-	<!-- CorpseLabel, CorpseDesc = туша {0}а (в игре corpse универсальный термин для любого животного -->
 	<!--Одно мясо идёт на всех насекомых, поэтому мясо насекомого и сырые внутренности насекомого-->
 
 	<Megascarab.label>мегаскарабей</Megascarab.label>
@@ -13,7 +9,7 @@
 	<!-- LeatherAmount 0
 	useMeatFrom Megaspider -->
 	<Megascarab_Corpse.label>туша мегаскарабея</Megascarab_Corpse.label>
-	<!-- <Megascarab_Corpse.description>Мёртвый мегаскарабей.</Megascarab_Corpse.description> -->
+	<Megascarab_Corpse.description>Мёртвый мегаскарабей</Megascarab_Corpse.description>
 
 	<Spelopede.label>спелопеда</Spelopede.label>
 	<Spelopede.description>Не крупное, не мелкое, с овцу размером генно-модифицированное насекомое. Спелопеды, средняя каста улья отвечают за большую часть рабочих задач, а также помогают своими жвалами в битве.</Spelopede.description>
@@ -28,8 +24,8 @@
 	<Megaspider.tools.1.label>голова</Megaspider.tools.1.label>
 	<!-- LeatherAmount 0 -->
 	<Megaspider_Meat.label>мясо насекомых</Megaspider_Meat.label>
-	<!-- <Megaspider_Meat.description>Сырые внутренности насекомого.</Megaspider_Meat.description>
+	<!-- <Megaspider_Meat.description>Сырые внутренности насекомого.</Megaspider_Meat.description> -->
 	<Megaspider_Corpse.label>туша мегапаука</Megaspider_Corpse.label>
-	<Megaspider_Corpse.description>Мёртвый мегапаук.</Megaspider_Corpse.description> -->
+	<Megaspider_Corpse.description>Мёртвый мегапаук</Megaspider_Corpse.description> -->
 
 </LanguageData>

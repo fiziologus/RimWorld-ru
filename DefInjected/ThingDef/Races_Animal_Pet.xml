@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<!-- Animal_Leather, Animal_Meat и Animal_Corpse могут собираться по лекалам из Keyed/Misc.xml -->
-	<!-- LeatherLabel, LeatherDesc = кожа {0}а (в соответствии с точным переводом) -->
-	<!-- MeatLabel, MeatDesc = мясо {0}а -->
-	<!-- CorpseLabel, CorpseDesc = туша {0}а (в игре corpse универсальный термин для любого животного -->
 	<YorkshireTerrier.label>йоркширский терьер</YorkshireTerrier.label>
 	<YorkshireTerrier.description>Небольшая уравновешенаня собака. Разводимая изначально для ловли крыс, позже она стала животным для показов и дружеского общения.</YorkshireTerrier.description>
 	<YorkshireTerrier.tools.0.label>левая лапа</YorkshireTerrier.tools.0.label>
@@ -16,7 +12,7 @@
 	<YorkshireTerrier_Meat.label>мясо терьера</YorkshireTerrier_Meat.label>
 	<!-- <YorkshireTerrier_Meat.description>Сырое мясо йоркширского терьера.</YorkshireTerrier_Meat.description> -->
 	<YorkshireTerrier_Corpse.label>тушка терьера</YorkshireTerrier_Corpse.label>
-	<!-- <YorkshireTerrier_Corpse.description>Мёртвый йоркширский терьер.</YorkshireTerrier_Corpse.description> -->
+	<YorkshireTerrier_Corpse.description>Мёртвый йоркширский терьер.</YorkshireTerrier_Corpse.description>
 
 	<Husky.label>хаски</Husky.label>
 	<Husky.description>Крупная полная жизни собака с густой шерстью, чтобы не чувствовать неудобств в условиях Арктики.</Husky.description>
@@ -29,7 +25,7 @@
 	<Husky_Meat.label>мясо хаски</Husky_Meat.label>
 	<!-- <Husky_Meat.description>Сырое мясо хаски.</Husky_Meat.description> -->
 	<Husky_Corpse.label>туша хаски</Husky_Corpse.label>
-	<!-- <Husky_Corpse.description>Мёртвый хаски.</Husky_Corpse.description> -->
+	<Husky_Corpse.description>Мёртвый хаски.</Husky_Corpse.description>
 
 	<LabradorRetriever.label>лабрадор-ретривер</LabradorRetriever.label>
 	<LabradorRetriever.description>Очень многогранная собака средних размеров. Изначально выведенный, чтобы приносить подбитую на охоте птицу, лабрадор и прекрасный сторож, и приятель по игре и член семьи.</LabradorRetriever.description>
@@ -42,7 +38,7 @@
 	<LabradorRetriever_Meat.label>мясо лабрадора</LabradorRetriever_Meat.label>
 	<!-- <LabradorRetriever_Meat.description>Сырое мясо лабрадор-ретривера.</LabradorRetriever_Meat.description> -->
 	<LabradorRetriever_Corpse.label>туша лабрадора</LabradorRetriever_Corpse.label>
-	<!-- <LabradorRetriever_Corpse.description>Мёртвый лабрадор-ретривер.</LabradorRetriever_Corpse.description> -->
+	<LabradorRetriever_Corpse.description>Мёртвый лабрадор-ретривер.</LabradorRetriever_Corpse.description>
 
 	<Cat.label>кошка</Cat.label>
 	<Cat.description>Кошка, один из первых домашних питомцев человека — небольшие охотящиеся на мелких грызунов и птиц. Известные своей отстранённость кошки тем не менее любимы многими за невозмутимость, свободолюдие и прелесной шёрстки, которую очень приятно гладить.</Cat.description>
