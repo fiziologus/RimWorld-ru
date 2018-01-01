@@ -94,7 +94,7 @@
 
 	<!-- "приводит к взрыву как/взрывается чем" -->
 	<Transition_DiedExplosive.rulePack.rulesStrings.9>flavor(p=0.2)->химическим [fireball]</Transition_DiedExplosive.rulePack.rulesStrings.9>
-	<Transition_DiedExplosive.rulePack.rulesStrings.10>flavor->[color] [fireball]</Transition_DiedExplosive.rulePack.rulesStrings.10>
+	<Transition_DiedExplosive.rulePack.rulesStrings.10>flavor->[color]ым [fireball]</Transition_DiedExplosive.rulePack.rulesStrings.10>
 	<Transition_DiedExplosive.rulePack.rulesStrings.11>flavor->[large] [fireball]</Transition_DiedExplosive.rulePack.rulesStrings.11>
 	<Transition_DiedExplosive.rulePack.rulesStrings.12>flavor(p=4)->[fireball]</Transition_DiedExplosive.rulePack.rulesStrings.12>
 	<Transition_DiedExplosive.rulePack.rulesStrings.13>flavor(p=4)-></Transition_DiedExplosive.rulePack.rulesStrings.13>
