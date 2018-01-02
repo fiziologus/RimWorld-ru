@@ -3,26 +3,43 @@
 
 	<PowerConduit.label>кабель</PowerConduit.label>
 	<PowerConduit.description>Набор электрических проводов для передачи электроэнергии. Может быть размещён под стенами и другими постройками.</PowerConduit.description>
+	<PowerConduit_Blueprint.label>кабель (проект)</PowerConduit_Blueprint.label>
+	<PowerConduit_Frame.label>кабель (заготовка)</PowerConduit_Frame.label>
 
 	<PowerSwitch.label>выключатель</PowerSwitch.label>
 	<PowerSwitch.description>Включает и выключает электропитание.</PowerSwitch.description>
+	<PowerSwitch_Blueprint.label>выключатель (проект)</PowerSwitch_Blueprint.label>
+	<PowerSwitch_Frame.label>выключатель (заготовка)</PowerSwitch_Frame.label>
 
 	<WoodFiredGenerator.label>угольный генератор</WoodFiredGenerator.label>
 	<WoodFiredGenerator.description>Производит электричество, сжигая дерево. Необходимо заправлять вручную.</WoodFiredGenerator.description>
+	<WoodFiredGenerator_Blueprint.label>угольный генератор (проект)</WoodFiredGenerator_Blueprint.label>
+	<WoodFiredGenerator_Frame.label>угольный генератор (заготовка)</WoodFiredGenerator_Frame.label>
 
 	<ChemfuelPoweredGenerator.label>топливный генератор</ChemfuelPoweredGenerator.label>
 	<ChemfuelPoweredGenerator.description>Производит электричество, сжигая химтопливо. Необходимо заправлять вручную.</ChemfuelPoweredGenerator.description>
+	<ChemfuelPoweredGenerator_Blueprint.label>топливный генератор (проект)</ChemfuelPoweredGenerator_Blueprint.label>
+	<ChemfuelPoweredGenerator_Frame.label>топливный генератор (заготовка)</ChemfuelPoweredGenerator_Frame.label>
 
 	<Battery.label>аккумулятор</Battery.label>
 	<Battery.description>Запасает энергию, когда её в избытке, и отдает при нехватке. Внимание: при воздействии дождя, либо огня заряженные аккумуляторы, как правило, взрываются.</Battery.description>
+	<Battery_Blueprint.label>аккумулятор (проект)</Battery_Blueprint.label>
+	<Battery_Blueprint_Install.label>аккумулятор (проект)</Battery_Blueprint_Install.label>
+	<Battery_Frame.label>аккумулятор (заготовка)</Battery_Frame.label>
 
-	<SolarGenerator.label>солнечный генератор</SolarGenerator.label>
+	<SolarGenerator.label>солнечная панель</SolarGenerator.label>
 	<SolarGenerator.description>Производит электричество из солнечного света. Не работает в темноте.</SolarGenerator.description>
+	<SolarGenerator_Blueprint.label>солнечная панель (проект)</SolarGenerator_Blueprint.label>
+	<SolarGenerator_Frame.label>солнечная панель (заготовка)</SolarGenerator_Frame.label>
 
 	<GeothermalGenerator.label>геотермальный генератор</GeothermalGenerator.label>
 	<GeothermalGenerator.description>Вырабатывает энергию из паровых гейзеров. Должен быть размещён на гейзере.</GeothermalGenerator.description>
+	<GeothermalGenerator_Blueprint.label>геотермальный генератор (проект)</GeothermalGenerator_Blueprint.label>
+	<GeothermalGenerator_Frame.label>геотермальный генератор (заготовка)</GeothermalGenerator_Frame.label>
 
 	<WindTurbine.label>ветровая турбина</WindTurbine.label>
 	<WindTurbine.description>Электрогенератор, питаемый силой ветра. Требует приличное пространство перед и за собой для оптимального воздушного потока.</WindTurbine.description>
+	<WindTurbine_Blueprint.label>ветровая турбина (проект)</WindTurbine_Blueprint.label>
+	<WindTurbine_Frame.label>ветровая турбина (заготовка)</WindTurbine_Frame.label>
 
 </LanguageData>

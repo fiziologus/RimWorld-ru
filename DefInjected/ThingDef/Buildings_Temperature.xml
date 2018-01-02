@@ -3,17 +3,28 @@
 
 	<Campfire.label>костёр</Campfire.label>
 	<Campfire.description>Для приготовления еды и обогрева. Полностью выгорает через пару дней. Как и любой источник тепла, должен размещаться внутри закрытого помещения, которое он будет обогревать. Топливо можно добавлять.</Campfire.description>
+	<Campfire_Blueprint.label>костёр (проект)</Campfire_Blueprint.label>
+	<Campfire_Frame.label>костёр (заготовка)</Campfire_Frame.label>
 
 	<PassiveCooler.label>испарительный охладитель</PassiveCooler.label>
 	<PassiveCooler.description>Традиционная, не требующая электричества система охлаждения, работающая за счет испарения воды. Перестанет действовать и исчезнет через несколько дней.</PassiveCooler.description>
+	<PassiveCooler_Blueprint.label>испарительный охладитель (проект)</PassiveCooler_Blueprint.label>
+	<PassiveCooler_Frame.label>испарительный охладитель (заготовка)</PassiveCooler_Frame.label>
 
 	<Heater.label>обогреватель</Heater.label>
 	<Heater.description>Электрическое устройство, которое превращает электричество в тепло. Может автоматически отключаться при достижении определённой температуры.</Heater.description>
+	<Heater_Blueprint.label>обогреватель (проект)</Heater_Blueprint.label>
+	<Heater_Blueprint_Install.label>обогреватель (проект)</Heater_Blueprint_Install.label>
+	<Heater_Frame.label>обогреватель (заготовка)</Heater_Frame.label>
 
 	<Cooler.label>кондиционер</Cooler.label>
 	<Cooler.description>Встраиваемое в стену электрическое устройство нагоняющее холодный воздух в помещение. Его задняя стенка производит массу тепла. Может использоваться для охлаждения помещения летом или для устройства морозильной камеры.</Cooler.description>
+	<Cooler_Blueprint.label>кондиционер (проект)</Cooler_Blueprint.label>
+	<Cooler_Frame.label>кондиционер (заготовка)</Cooler_Frame.label>
 
 	<Vent.label>вентиляция</Vent.label>
 	<Vent.description>Простая отдушина для выравнивания температуры в двух помещениях, не позволяя при этом проходить людям.</Vent.description>
+	<Vent_Blueprint.label>вентиляция (проект)</Vent_Blueprint.label>
+	<Vent_Frame.label>вентиляция (заготовка)</Vent_Frame.label>
 
 </LanguageData>

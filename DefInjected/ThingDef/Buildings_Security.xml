@@ -3,11 +3,16 @@
 
 	<Sandbags.label>мешки с песком</Sandbags.label>
 	<Sandbags.description>Укрытие от пуль..</Sandbags.description>
+	<Sandbags_Blueprint.label>мешки с песком (проект)</Sandbags_Blueprint.label>
+	<Sandbags_Frame.label>мешки с песком (заготовка)</Sandbags_Frame.label>
 
 	<!--=============== Improvised turret ===============-->
 
 	<TurretGun.label>самодельная турель</TurretGun.label>
 	<TurretGun.description>Самодельная турель, сама стреляющая в ближайшего противника. При повреждении взрывается. Её наспех слепленые мозги не отличаются сообразительностью и не могут быть управляемы напрямую, поэтому остерегайтесь дружеского огня.</TurretGun.description>
+	<TurretGun_Blueprint.label>самодельная турель (проект)</TurretGun_Blueprint.label>
+	<TurretGun_Blueprint_Install.label>самодельная турель (проект)</TurretGun_Blueprint_Install.label>
+	<TurretGun_Frame.label>самодельная турель (заготовка)</TurretGun_Frame.label>
 
 	<Bullet_TurretImprovised.label>пуля самодельной турели</Bullet_TurretImprovised.label>
 	<Gun_TurretImprovised.label>орудие самодельной турели</Gun_TurretImprovised.label>
@@ -17,6 +22,9 @@
 
 	<Turret_Mortar.label>миномёт</Turret_Mortar.label>
 	<Turret_Mortar.description>Миномёт для стрельбы всеми видами снарядов. Управляется человеком. При повреждении взрывается.</Turret_Mortar.description>
+	<Turret_Mortar_Blueprint.label>миномёт (проект)</Turret_Mortar_Blueprint.label>
+	<Turret_Mortar_Blueprint_Install.label>миномёт (проект)</Turret_Mortar_Blueprint_Install.label>
+	<Turret_Mortar_Frame.label>миномёт (заготовка)</Turret_Mortar_Frame.label>
 
 	<Artillery_Mortar.label>миномёт</Artillery_Mortar.label>
 	<Artillery_Mortar.description>Миномётное орудие. Перебрасывает снаряды через стены. Бьёт далеко, но не сильно точно.</Artillery_Mortar.description>
@@ -25,20 +33,32 @@
 
 	<TrapDeadfall.label>ловушка</TrapDeadfall.label>
 	<TrapDeadfall.description>Подвешанная тяжесть, утыканная шипами, удерживается чувствительным спусковым механизмом. Когда жертва цепляет спуск, высвобождённая тяжесть опускается на её голову или корпус.</TrapDeadfall.description>
+	<TrapDeadfall_Blueprint.label>ловушка (проект)</TrapDeadfall_Blueprint.label>
+	<TrapDeadfall_Frame.label>ловушка (заготовка)</TrapDeadfall_Frame.label>
 
 	<TrapIED_HighExplosive.label>мина-фугас</TrapIED_HighExplosive.label>
 	<TrapIED_HighExplosive.description>Миномётный снаряд с импровизированным детонатором. Когда кто-либо цепляет спуск, снаряд детонирует. Самодельный детонатор имеет различную задержку, что может позволить проворному противнику спастись.</TrapIED_HighExplosive.description>
+	<TrapIED_HighExplosive_Blueprint.label>мина-фугас (проект)</TrapIED_HighExplosive_Blueprint.label>
+	<TrapIED_HighExplosive_Frame.label>мина-фугас (заготовка)</TrapIED_HighExplosive_Frame.label>
 
 	<TrapIED_Incendiary.label>зажигательная мина</TrapIED_Incendiary.label>
 	<TrapIED_Incendiary.description>Перемешанные взрывчатка и горючая паста с химическим детонатором для распыления. Химический детонатор прост и надежен.</TrapIED_Incendiary.description>
+	<TrapIED_Incendiary_Blueprint.label>зажигательная мина (проект)</TrapIED_Incendiary_Blueprint.label>
+	<TrapIED_Incendiary_Frame.label>зажигательная мина (заготовка)</TrapIED_Incendiary_Frame.label>
 
 	<TrapIED_EMP.label>ЭМИ мина</TrapIED_EMP.label>
 	<TrapIED_EMP.description>Простая ловушка из ЭМИ-снаряда и самодельного детонатора. Взрыв может обездвижить механических созданий на пару секунд. Сработать может и на создание, невосприимчивое к ЭМИ.</TrapIED_EMP.description>
+	<TrapIED_EMP_Blueprint.label>ЭМИ мина (проект)</TrapIED_EMP_Blueprint.label>
+	<TrapIED_EMP_Frame.label>ЭМИ мина (заготовка)</TrapIED_EMP_Frame.label>
 
 	<TrapIED_Firefoam.label>ловушка с пеной</TrapIED_Firefoam.label>
 	<TrapIED_Firefoam.description>При касании кем-либо спуска взрывается, разбрасывая вокруг себя гасящую огонь пену.</TrapIED_Firefoam.description>
+	<TrapIED_Firefoam_Blueprint.label>ловушка с пеной (проект)</TrapIED_Firefoam_Blueprint.label>
+	<TrapIED_Firefoam_Frame.label>ловушка с пеной (заготовка)</TrapIED_Firefoam_Frame.label>
 
 	<TrapIED_AntigrainWarhead.label>мина с античастицей</TrapIED_AntigrainWarhead.label>
 	<TrapIED_AntigrainWarhead.description>Крошечная боеголовка с самодельным детонатором. Когда срабатывает, порождает пожары и огромный взрыв.</TrapIED_AntigrainWarhead.description>
+	<TrapIED_AntigrainWarhead_Blueprint.label>мина с античастицей (проект)</TrapIED_AntigrainWarhead_Blueprint.label>
+	<TrapIED_AntigrainWarhead_Frame.label>мина с античастицей (заготовка)</TrapIED_AntigrainWarhead_Frame.label>
 
 </LanguageData>

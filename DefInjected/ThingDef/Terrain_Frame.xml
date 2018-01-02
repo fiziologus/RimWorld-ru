@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Concrete_Blueprint.label>бетон (проект)</Concrete_Blueprint.label>
+	<Concrete_Frame.label>бетон (заготовка)</Concrete_Frame.label>
+
+	<PavedTile_Blueprint.label>брусчатка (проект)</PavedTile_Blueprint.label>
+	<PavedTile_Frame.label>брусчатка (заготовка)</PavedTile_Frame.label>
+
+	<WoodPlankFloor_Blueprint.label>деревянный пол (проект)</WoodPlankFloor_Blueprint.label>
+	<WoodPlankFloor_Frame.label>деревянный пол (заготовка)</WoodPlankFloor_Frame.label>
+
+	<MetalTile_Blueprint.label>металлическая плитка (проект)</MetalTile_Blueprint.label>
+	<MetalTile_Frame.label>металлическая плитка (заготовка)</MetalTile_Frame.label>
+
+	<SilverTile_Blueprint.label>серебряная плитка (проект)</SilverTile_Blueprint.label>
+	<SilverTile_Frame.label>серебряная плитка (заготовка)</SilverTile_Frame.label>
+
+	<GoldTile_Blueprint.label>золотая плитка (проект)</GoldTile_Blueprint.label>
+	<GoldTile_Frame.label>золотая плитка (заготовка)</GoldTile_Frame.label>
+
+	<SterileTile_Blueprint.label>стерильная плитка (проект)</SterileTile_Blueprint.label>
+	<SterileTile_Frame.label>стерильная плитка (заготовка)</SterileTile_Frame.label>
+
+	<CarpetRed_Blueprint.label>красный ковёр (проект)</CarpetRed_Blueprint.label>
+	<CarpetRed_Frame.label>красный ковёр (заготовка)</CarpetRed_Frame.label>
+
+	<CarpetGreen_Blueprint.label>зелёный ковёр (проект)</CarpetGreen_Blueprint.label>
+	<CarpetGreen_Frame.label>зелёный ковёр (заготовка)</CarpetGreen_Frame.label>
+
+	<CarpetBlue_Blueprint.label>синий ковёр (проект)</CarpetBlue_Blueprint.label>
+	<CarpetBlue_Frame.label>синий ковёр (заготовка)</CarpetBlue_Frame.label>
+
+	<CarpetCream_Blueprint.label>кремовый ковёр (проект)</CarpetCream_Blueprint.label>
+	<CarpetCream_Frame.label>кремовый ковёр (заготовка)</CarpetCream_Frame.label>
+
+	<CarpetDark_Blueprint.label>тёмный ковёр (проект)</CarpetDark_Blueprint.label>
+	<CarpetDark_Frame.label>тёмный ковёр (заготовка)</CarpetDark_Frame.label>
+
+	<TileSandstone_Blueprint.label>плитка из песчаника (проект)</TileSandstone_Blueprint.label>
+	<TileSandstone_Frame.label>плитка из песчаника (заготовка)</TileSandstone_Frame.label>
+
+	<TileGranite_Blueprint.label>гранитная плитка (проект)</TileGranite_Blueprint.label>
+	<TileGranite_Frame.label>гранитная плитка (заготовка)</TileGranite_Frame.label>
+
+	<TileLimestone_Blueprint.label>плитка из известняка (проект)</TileLimestone_Blueprint.label>
+	<TileLimestone_Frame.label>плитка из известняка (заготовка)</TileLimestone_Frame.label>
+
+	<TileSlate_Blueprint.label>сланцевая плитка (проект)</TileSlate_Blueprint.label>
+	<TileSlate_Frame.label>сланцевая плитка (заготовка)</TileSlate_Frame.label>
+
+	<TileMarble_Blueprint.label>мраморная плитка (проект)</TileMarble_Blueprint.label>
+	<TileMarble_Frame.label>мраморная плитка (заготовка)</TileMarble_Frame.label>
+
+	<FlagstoneSandstone_Blueprint.label>плитняк из песчаника (проект)</FlagstoneSandstone_Blueprint.label>
+	<FlagstoneSandstone_Frame.label>плитняк из песчаника (заготовка)</FlagstoneSandstone_Frame.label>
+
+	<FlagstoneGranite_Blueprint.label>гранитный плитняк (проект)</FlagstoneGranite_Blueprint.label>
+	<FlagstoneGranite_Frame.label>гранитный плитняк (заготовка)</FlagstoneGranite_Frame.label>
+
+	<FlagstoneLimestone_Blueprint.label>известняковый плитняк (проект)</FlagstoneLimestone_Blueprint.label>
+	<FlagstoneLimestone_Frame.label>известняковый плитняк (заготовка)</FlagstoneLimestone_Frame.label>
+
+	<FlagstoneSlate_Blueprint.label>сланцевый плитняк (проект)</FlagstoneSlate_Blueprint.label>
+	<FlagstoneSlate_Frame.label>сланцевый плитняк (заготовка)</FlagstoneSlate_Frame.label>
+
+	<FlagstoneMarble_Blueprint.label>мраморный плитняк (проект)</FlagstoneMarble_Blueprint.label>
+	<FlagstoneMarble_Frame.label>мраморный плитняк (заготовка)</FlagstoneMarble_Frame.label>
+
+</LanguageData>

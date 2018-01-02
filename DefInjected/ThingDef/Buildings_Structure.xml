@@ -5,13 +5,19 @@
 
 	<Door.label>дверь</Door.label>
 	<Door.description>Разделяет помещения. Нужно открывать и закрывать вручную, что замедляет передвижение.</Door.description>
+	<Door_Blueprint.label>дверь (проект)</Door_Blueprint.label>
+	<Door_Frame.label>дверь (заготовка)</Door_Frame.label>
 
 	<Autodoor.label>автодверь</Autodoor.label>
 	<Autodoor.description>Разделяет помещения. Механическое управление позволяет проходить через дверь без задержки.</Autodoor.description>
+	<Autodoor_Blueprint.label>автодверь (проект)</Autodoor_Blueprint.label>
+	<Autodoor_Frame.label>автодверь (заготовка)</Autodoor_Frame.label>
 
 	<!--========================= Walls =============================-->
 
 	<Wall.label>стена</Wall.label>
 	<Wall.description>Непроходимая стена. Способна удержать крышу.</Wall.description>
+	<Wall_Blueprint.label>стена (проект)</Wall_Blueprint.label>
+	<Wall_Frame.label>стена (заготовка)</Wall_Frame.label>
 
 </LanguageData>

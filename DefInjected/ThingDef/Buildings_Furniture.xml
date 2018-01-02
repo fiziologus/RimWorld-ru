@@ -8,21 +8,39 @@
 
 	<Bed.label>кровать</Bed.label>
 	<Bed.description>Уютный матрас и простыни в каркасе для отдыха.</Bed.description>
+	<Bed_Blueprint.label>кровать (проект)</Bed_Blueprint.label>
+	<Bed_Blueprint_Install.label>кровать (проект)</Bed_Blueprint_Install.label>
+	<Bed_Frame.label>кровать (заготовка)</Bed_Frame.label>
 
 	<DoubleBed.label>двойная кровать</DoubleBed.label>
 	<DoubleBed.description>Простая вдвое шире обычной кровать для двух человек.</DoubleBed.description>
+	<DoubleBed_Blueprint.label>двойная кровать (проект)</DoubleBed_Blueprint.label>
+	<DoubleBed_Blueprint_Install.label>двойная кровать (проект)</DoubleBed_Blueprint_Install.label>
+	<DoubleBed_Frame.label>двойная кровать (заготовка)</DoubleBed_Frame.label>
 
 	<RoyalBed.label>царское ложе</RoyalBed.label>
 	<RoyalBed.description>Роскошная, с золотыми вставками кровать в самый раз для голубых кровей. Крайне удобная и прекрасная. Подойдёт и на двоих.</RoyalBed.description>
+	<RoyalBed_Blueprint.label>царское ложе (проект)</RoyalBed_Blueprint.label>
+	<RoyalBed_Blueprint_Install.label>царское ложе (проект)</RoyalBed_Blueprint_Install.label>
+	<RoyalBed_Frame.label>царское ложе (заготовка)</RoyalBed_Frame.label>
 
 	<HospitalBed.label>больничная койка</HospitalBed.label>
 	<HospitalBed.description>Кровать, специально предназначенная для нездоровых людей. Увеличивает успешность медицинских процедур.</HospitalBed.description>
+	<HospitalBed_Blueprint.label>больничная койка (проект)</HospitalBed_Blueprint.label>
+	<HospitalBed_Blueprint_Install.label>больничная койка (проект)</HospitalBed_Blueprint_Install.label>
+	<HospitalBed_Frame.label>больничная койка (заготовка)</HospitalBed_Frame.label>
 
 	<Bedroll.label>спальник</Bedroll.label>
 	<Bedroll.description>Простая, расстилаемая прямо на полу постель обычно из ткани, либо шкур и зачастую с меховой подкладкой. Лёгкий и может быть скатан в рулон для облегчения переноски, но не настолько же удобен, как привычная кровать.</Bedroll.description>
+	<Bedroll_Blueprint.label>спальник (проект)</Bedroll_Blueprint.label>
+	<Bedroll_Blueprint_Install.label>спальник (проект)</Bedroll_Blueprint_Install.label>
+	<Bedroll_Frame.label>спальник (заготовка)</Bedroll_Frame.label>
 
 	<BedrollDouble.label>парный спальник</BedrollDouble.label>
 	<BedrollDouble.description>Простая, расстилаемая прямо на полу постель двойной штртны обычно из ткани, либо шкур и зачастую с меховой подкладкой. Лёгкий и может быть скатан в рулон для облегчения переноски, но не настолько же удобен, как привычная кровать.</BedrollDouble.description>
+	<BedrollDouble_Blueprint.label>парный спальник (проект)</BedrollDouble_Blueprint.label>
+	<BedrollDouble_Blueprint_Install.label>парный спальник (проект)</BedrollDouble_Blueprint_Install.label>
+	<BedrollDouble_Frame.label>парный спальник (заготовка)</BedrollDouble_Frame.label>
 
 	<!--=========================== Animal beds ===============================-->
 
@@ -31,70 +49,127 @@
 
 	<AnimalSleepingBox.label>ящик для животных</AnimalSleepingBox.label>
 	<AnimalSleepingBox.description>Небольшой короб, чтобы внутри могло спать животное. Подходит для кур, кошек, небольших собачек и прочих мелких животных.</AnimalSleepingBox.description>
+	<AnimalSleepingBox_Blueprint.label>ящик для животных (проект)</AnimalSleepingBox_Blueprint.label>
+	<AnimalSleepingBox_Blueprint_Install.label>ящик для животных (проект)</AnimalSleepingBox_Blueprint_Install.label>
+	<AnimalSleepingBox_Frame.label>ящик для животных (заготовка)</AnimalSleepingBox_Frame.label>
 
-	<AnimalBed.label>кровать для животных</AnimalBed.label>
+	<AnimalBed.label>лежанка</AnimalBed.label>
 	<AnimalBed.description>Мягкая кровать для животных. Подходит любому животному.</AnimalBed.description>
+	<AnimalBed_Blueprint.label>лежанка (проект)</AnimalBed_Blueprint.label>
+	<AnimalBed_Blueprint_Install.label>лежанка (проект)</AnimalBed_Blueprint_Install.label>
+	<AnimalBed_Frame.label>лежанка (заготовка)</AnimalBed_Frame.label>
 
 	<!--======================= Basic domestic furniture ==============================-->
 
 	<Stool.label>табуретка</Stool.label>
 	<Stool.description>Простая подставка для сидения.</Stool.description>
+	<Stool_Blueprint.label>табуретка (проект)</Stool_Blueprint.label>
+	<Stool_Blueprint_Install.label>табуретка (проект)</Stool_Blueprint_Install.label>
+	<Stool_Frame.label>табуретка (заготовка)</Stool_Frame.label>
 
 	<DiningChair.label>стул</DiningChair.label>
 	<DiningChair.description>Удобный и привлекательный стул для сидения за столом.</DiningChair.description>
+	<DiningChair_Blueprint.label>стул (проект)</DiningChair_Blueprint.label>
+	<DiningChair_Blueprint_Install.label>стул (проект)</DiningChair_Blueprint_Install.label>
+	<DiningChair_Frame.label>стол (заготовка)</DiningChair_Frame.label>
 
 	<Armchair.label>кресло</Armchair.label>
 	<Armchair.description>Большое, мягкое и удобное сиденье. Великолепно, чтобы расслабиться.</Armchair.description>
+	<Armchair_Blueprint.label>кресло (проект)</Armchair_Blueprint.label>
+	<Armchair_Blueprint_Install.label>кресло (проект)</Armchair_Blueprint_Install.label>
+	<Armchair_Frame.label>кресло (заготовка)</Armchair_Frame.label>
 
 	<!--======================= Tables ==============================-->
 
 	<EndTable.label>тумбочка</EndTable.label>
 	<EndTable.description>Небольшай прикроватный столик. Делает соседние кровати чуточку удобней. Можно поставить прямо в изголовье кровати. Установка более, чем одной тумбочки к кровати не даёт никакого эффекта.</EndTable.description>
+	<EndTable_Blueprint.label>тумбочка (проект)</EndTable_Blueprint.label>
+	<EndTable_Blueprint_Install.label>тумбочка (проект)</EndTable_Blueprint_Install.label>
+	<EndTable_Frame.label>тумбочка (заготовка)</EndTable_Frame.label>
 
 	<Table1x2c.label>стол (1х2)</Table1x2c.label>
 	<Table1x2c.description>Люди будут есть за столом, если рядом есть стулья.</Table1x2c.description>
+	<Table1x2c_Blueprint.label>стол (1х2) (проект)</Table1x2c_Blueprint.label>
+	<Table1x2c_Blueprint_Install.label>стол (1х2) (проектblueprint)</Table1x2c_Blueprint_Install.label>
+	<Table1x2c_Frame.label>стол (1х2) (заготовка)</Table1x2c_Frame.label>
 
 	<Table2x2c.label>стол (2х2)</Table2x2c.label>
 	<Table2x2c.description>Люди будут есть за столом, если рядом есть стулья.</Table2x2c.description>
+	<Table2x2c_Blueprint.label>стол (2х2) (проект)</Table2x2c_Blueprint.label>
+	<Table2x2c_Blueprint_Install.label>стол (2х2) (проект)</Table2x2c_Blueprint_Install.label>
+	<Table2x2c_Frame.label>стол (2х2) (заготовка)</Table2x2c_Frame.label>
 
 	<Table2x4c.label>стол (2х4)</Table2x4c.label>
 	<Table2x4c.description>Люди будут есть за столом, если рядом есть стулья.</Table2x4c.description>
+	<Table2x4c_Blueprint.label>стол (2х4) (проект)</Table2x4c_Blueprint.label>
+	<Table2x4c_Blueprint_Install.label>стол (2х4) (проект)</Table2x4c_Blueprint_Install.label>
+	<Table2x4c_Frame.label>стол (2х4) (заготовка)</Table2x4c_Frame.label>
 
 	<Table3x3c.label>стол (3х3)</Table3x3c.label>
 	<Table3x3c.description>Люди будут есть за столом, если рядом есть стулья.</Table3x3c.description>
+	<Table3x3c_Blueprint.label>стол (3х3) (проект)</Table3x3c_Blueprint.label>
+	<Table3x3c_Blueprint_Install.label>стол (3х3) (проект)</Table3x3c_Blueprint_Install.label>
+	<Table3x3c_Frame.label>стол (3х3) (заготовка)</Table3x3c_Frame.label>
 
 	<PlantPot.label>цветочный горшок</PlantPot.label>
 	<PlantPot.description>Посадите здесь декоративные цветы, чтобы улучшить настроение людей вокруг.</PlantPot.description>
+	<PlantPot_Blueprint.label>цветочный горшок (проект)</PlantPot_Blueprint.label>
+	<PlantPot_Blueprint_Install.label>цветочный горшок (проект)</PlantPot_Blueprint_Install.label>
+	<PlantPot_Frame.label>цветочный горшок (заготовка)</PlantPot_Frame.label>
 
 	<!-- ======================== Lighting ======================= -->
 
 	<TorchLamp.label>факел</TorchLamp.label>
 	<TorchLamp.description>Деревянный факел для освещения местности. Чтобы работать и двигаться в полную силу людям нужен свет. Может автоматически дозаправляться древесиной. Выделяет немного тепла.</TorchLamp.description>
+	<TorchLamp_Blueprint.label>факел (проект)</TorchLamp_Blueprint.label>
+	<TorchLamp_Frame.label>факел (заготовка)</TorchLamp_Frame.label>
+
 
 	<StandingLamp.label>светильник</StandingLamp.label>
 	<StandingLamp.description>Светильник освещающий местность. Чтобы работать и двигаться в полную силу людям нужен свет.</StandingLamp.description>
+	<StandingLamp_Blueprint.label>светильник (проект)</StandingLamp_Blueprint.label>
+	<StandingLamp_Blueprint_Install.label>светильник (проект)</StandingLamp_Blueprint_Install.label>
+	<StandingLamp_Frame.label>светильник (заготовка)</StandingLamp_Frame.label>
 
 	<StandingLamp_Red.label>светильник (красный)</StandingLamp_Red.label>
 	<StandingLamp_Red.description>Светильник освещающий местность красным светом.</StandingLamp_Red.description>
+	<StandingLamp_Red_Blueprint.label>светильник (красный) (проект)</StandingLamp_Red_Blueprint.label>
+	<StandingLamp_Red_Blueprint_Install.label>светильник (красный) (проект)</StandingLamp_Red_Blueprint_Install.label>
+	<StandingLamp_Red_Frame.label>светильник (красный) (заготовка)</StandingLamp_Red_Frame.label>
 
 	<StandingLamp_Green.label>светильник (зелёный)</StandingLamp_Green.label>
 	<StandingLamp_Green.description>Светильник освещающий местность зелёным светом.</StandingLamp_Green.description>
+	<StandingLamp_Green_Blueprint.label>светильник (зелёный) (проект)</StandingLamp_Green_Blueprint.label>
+	<StandingLamp_Green_Blueprint_Install.label>светильник (зелёный) (проект)</StandingLamp_Green_Blueprint_Install.label>
+	<StandingLamp_Green_Frame.label>светильник (зелёный) (заготовка)</StandingLamp_Green_Frame.label>
 
 	<StandingLamp_Blue.label>светильник (синий)</StandingLamp_Blue.label>
 	<StandingLamp_Blue.description>Светильник освещающий местность синим светом.</StandingLamp_Blue.description>
+	<StandingLamp_Blue_Blueprint.label>светильник (синий) (проект)</StandingLamp_Blue_Blueprint.label>
+	<StandingLamp_Blue_Blueprint_Install.label>светильник (синий) (проект)</StandingLamp_Blue_Blueprint_Install.label>
+	<StandingLamp_Blue_Frame.label>светильник (синий) (заготовка)</StandingLamp_Blue_Frame.label>
 
 	<SunLamp.label>лампа солнечного света</SunLamp.label>
 	<SunLamp.description>Освещает местность достаточно ярко для выращивания растений, однако съедает немерено мощности. Самостоятельно отключается ночью.</SunLamp.description>
-	<SunLamp.comps.2.offMessage>Оключена не время сна растений</SunLamp.comps.2.offMessage>
+	<SunLamp.comps.3.offMessage>Оключена на время сна растений</SunLamp.comps.3.offMessage>
+	<SunLamp_Blueprint.label>лампа солнечного света (проект)</SunLamp_Blueprint.label>
+	<SunLamp_Blueprint_Install.label>лампа солнечного света (проект)</SunLamp_Blueprint_Install.label>
+	<SunLamp_Frame.label>лампа солнечного света (заготовка)</SunLamp_Frame.label>
 
 	<!--============================== Storage ==============================-->
 
 	<Shelf.label>стелаж</Shelf.label>
 	<Shelf.description>Хранящиеся здесь предметы не будут портиться, даже вне помещения.</Shelf.description>
+	<Shelf_Blueprint.label>стелаж (проект)</Shelf_Blueprint.label>
+	<Shelf_Blueprint_Install.label>стелаж (проект)</Shelf_Blueprint_Install.label>
+	<Shelf_Frame.label>стелаж (заготовка)</Shelf_Frame.label>
 
 	<!--============================== Dressers ==============================-->
 
 	<Dresser.label>комод</Dresser.label>
 	<Dresser.description>Даёт небольшой прирост удобства для всех соседних кроватей. Установка более, чем одного комода к кровати не даёт никакого эффекта.</Dresser.description>
+	<Dresser_Blueprint.label>комод (проект)</Dresser_Blueprint.label>
+	<Dresser_Blueprint_Install.label>комод (проект)</Dresser_Blueprint_Install.label>
+	<Dresser_Frame.label>комод (заготовка)</Dresser_Frame.label>
 
 </LanguageData>
