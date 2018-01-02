@@ -8,75 +8,122 @@
 
 	<TableSculpting.label>стол скульптора</TableSculpting.label>
 	<TableSculpting.description>Рабочее место, оборудованное для ваяния скульптур.</TableSculpting.description>
+	<TableSculpting_Blueprint.label>стол скульптора (проект)</TableSculpting_Blueprint.label>
+	<TableSculpting_Frame.label>стол скульптора (заготовка)</TableSculpting_Frame.label>
 
 	<TableButcher.label>разделочный стол</TableButcher.label>
 	<TableButcher.description>Тяжёлый стол для разделки мёртвых существ на куски сырого мяса.</TableButcher.description>
+	<TableButcher_Blueprint.label>разделочный стол (проект)</TableButcher_Blueprint.label>
+	<TableButcher_Frame.label>разделочный стол (заготовка)</TableButcher_Frame.label>
 
 	<HandTailoringBench.label>стол портного</HandTailoringBench.label>
 	<HandTailoringBench.description>Рабочее место для ручного пошива одежды. Работает вполовину скорости пошивочного стола.</HandTailoringBench.description>
+	<HandTailoringBench_Blueprint.label>стол портного (проект)</HandTailoringBench_Blueprint.label>
+	<HandTailoringBench_Frame.label>стол портного (заготовка)</HandTailoringBench_Frame.label>
 
 	<ElectricTailoringBench.label>пошивочный стол</ElectricTailoringBench.label>
 	<ElectricTailoringBench.description>Рабочее место со швейной машиной для быстрого создания одежды. Может работать и без электричества с 40%-ной скоростью.</ElectricTailoringBench.description>
+	<ElectricTailoringBench_Blueprint.label>пошивочный стол (проект)</ElectricTailoringBench_Blueprint.label>
+	<ElectricTailoringBench_Frame.label>пошивочный стол (заготовка)</ElectricTailoringBench_Frame.label>
 
 	<FueledSmithy.label>кузня</FueledSmithy.label>
 	<FueledSmithy.description>Работающая на дереве кузня, оборудованная для производства немеханического оружия и инструментов.</FueledSmithy.description>
+	<FueledSmithy_Blueprint.label>кузня (проект)</FueledSmithy_Blueprint.label>
+	<FueledSmithy_Frame.label>кузня (заготовка)</FueledSmithy_Frame.label>
 
 	<ElectricSmithy.label>электрокузня</ElectricSmithy.label>
 	<ElectricSmithy.description>Работающая от электричества кузня, оборудованная для производства немеханического оружия и инструментов.</ElectricSmithy.description>
+	<ElectricSmithy_Blueprint.label>электрокузня (проект)</ElectricSmithy_Blueprint.label>
+	<ElectricSmithy_Frame.label>электрокузня (заготовка)</ElectricSmithy_Frame.label>
 
 	<TableMachining.label>сборочный стол</TableMachining.label>
 	<TableMachining.description>Рабочее место для сборки и разборки механизмов, наподобии огнестрельного оружия или тел механоидов.</TableMachining.description>
+	<TableMachining_Blueprint.label>сборочный стол (проект)</TableMachining_Blueprint.label>
+	<TableMachining_Frame.label>сборочный стол (заготовка)</TableMachining_Frame.label>
 
 	<ElectricStove.label>электроплита</ElectricStove.label>
 	<ElectricStove.description>Работающая от электричества плита, оборудованная столешницей для приготовления блюд.</ElectricStove.description>
+	<ElectricStove_Blueprint.label>электроплита (проект)</ElectricStove_Blueprint.label>
+	<ElectricStove_Frame.label>электроплита (заготовка)</ElectricStove_Frame.label>
 
 	<FueledStove.label>плита</FueledStove.label>
 	<FueledStove.description>Простая, на дровах плита, оборудованная столешницей для приготовления блюд.</FueledStove.description>
+	<FueledStove_Blueprint.label>плита (проект)</FueledStove_Blueprint.label>
+	<FueledStove_Frame.label>плита (заготовка)</FueledStove_Frame.label>
 
 	<TableStonecutter.label>камнерезный стол</TableStonecutter.label>
 	<TableStonecutter.description>Рабочий стол, оснащённый для резки камней на пригодные блоки.</TableStonecutter.description>
+	<TableStonecutter_Blueprint.label>камнерезный стол (проект)</TableStonecutter_Blueprint.label>
+	<TableStonecutter_Frame.label>камнерезный стол (заготовка)</TableStonecutter_Frame.label>
 
 	<Brewery.label>пивоварня</Brewery.label>
 	<Brewery.description>Рабочее место со всем необходимым для приготовления пива.</Brewery.description>
+	<Brewery_Blueprint.label>пивоварня (проект)</Brewery_Blueprint.label>
+	<Brewery_Frame.label>пивоварня (заготовка)</Brewery_Frame.label>
 
 	<DrugLab.label>химлаборатория</DrugLab.label>
 	<DrugLab.description>Рабочий стол с различными ёмкостями, нагревателями и измерительным оборудованием для изготовления разного рода химпрепаратов.</DrugLab.description>
+	<DrugLab_Blueprint.label>химлаборатория (проект)</DrugLab_Blueprint.label>
+	<DrugLab_Frame.label>химлаборатория (заготовка)</DrugLab_Frame.label>
 
 	<ElectricSmelter.label>электроплавильня</ElectricSmelter.label>
 	<ElectricSmelter.description>Извлекает пригодный к использованию металл из металлолома и прочих содержащих металл предметов. Потребляет уйму энергии.</ElectricSmelter.description>
+	<ElectricSmelter_Blueprint.label>электроплавильня (проект)</ElectricSmelter_Blueprint.label>
+	<ElectricSmelter_Frame.label>электроплавильня (заготовка)</ElectricSmelter_Frame.label>
 
 	<Refinery.label>перегонный куб</Refinery.label>
 	<Refinery.description>Установка для химической переработки. Используется для перегонки дерева в химтопливо.</Refinery.description>
+	<Refinery_Blueprint.label>перегонный куб (проект)</Refinery_Blueprint.label>
+	<Refinery_Frame.label>перегонный куб (заготовка)</Refinery_Frame.label>
 
 	<ComponentAssemblyBench.label>верстак для сборки компонентов</ComponentAssemblyBench.label>
 	<ComponentAssemblyBench.description>Рабочее место с передовыми инструментами для сборки компонентов из простейших материалов.</ComponentAssemblyBench.description>
+	<ComponentAssemblyBench_Blueprint.label>верстак для сборки компонентов (проект)</ComponentAssemblyBench_Blueprint.label>
+	<ComponentAssemblyBench_Frame.label>верстак для сборки компонентов (заготовка)</ComponentAssemblyBench_Frame.label>
 
 	<!-- ========== Non-standard work buildings ==============-->
 
 	<SimpleResearchBench.label>стол изыскателя</SimpleResearchBench.label>
 	<SimpleResearchBench.description>Простой рабочий стол с принадлежностями для письма и низко технологичными научными инструментами. Исследователи работают за ним над открытием новых вещей.</SimpleResearchBench.description>
+	<SimpleResearchBench_Blueprint.label>стол изыскателя (проект)</SimpleResearchBench_Blueprint.label>
+	<SimpleResearchBench_Frame.label>стол изыскателя (заготовка)</SimpleResearchBench_Frame.label>
 
 	<HiTechResearchBench.label>стол учёного</HiTechResearchBench.label>
 	<HiTechResearchBench.description>Высокотехнологичный рабочий стол компьютерами и электронными измерительными инструментами. Высокотехнологичный инструментарий ускоряет исследования. Требует электричества.</HiTechResearchBench.description>
+	<HiTechResearchBench_Blueprint.label>стол учёного (проект)</HiTechResearchBench_Blueprint.label>
+	<HiTechResearchBench_Frame.label>стол учёного (заготовка)</HiTechResearchBench_Frame.label>
 
 	<ElectricCrematorium.label>электрокрематорий</ElectricCrematorium.label>
 	<ElectricCrematorium.description>Для кремации тел. Питается электричеством.</ElectricCrematorium.description>
+	<ElectricCrematorium_Blueprint.label>электрокрематорий (проект)</ElectricCrematorium_Blueprint.label>
+	<ElectricCrematorium_Frame.label>электрокрематорий (заготовка)</ElectricCrematorium_Frame.label>
 
 	<HydroponicsBasin.label>гидропонный бассейн</HydroponicsBasin.label>
 	<HydroponicsBasin.description>Выращивайте растения быстр в ванне с искуственной питательной средой. Для работы требуется электроэнергию, а при его отключении, растения погибнут.</HydroponicsBasin.description>
+	<HydroponicsBasin_Blueprint.label>гидропонный бассейн (проект)</HydroponicsBasin_Blueprint.label>
+	<HydroponicsBasin_Frame.label>гидропонный бассейн (заготовка)</HydroponicsBasin_Frame.label>
 
 	<FermentingBarrel.label>бочка для брожения</FermentingBarrel.label>
 	<FermentingBarrel.description>Бочка для сбраживания сусла в пиво.</FermentingBarrel.description>
+	<FermentingBarrel_Blueprint.label>бочка для брожения (проект)</FermentingBarrel_Blueprint.label>
+	<FermentingBarrel_Blueprint_Install.label>бочка для брожения (проект)</FermentingBarrel_Blueprint_Install.label>
+	<FermentingBarrel_Frame.label>бочка для брожения (заготовка)</FermentingBarrel_Frame.label>
 
 	<DeepDrill.label>буровая установка</DeepDrill.label>
 	<DeepDrill.description>Оборудование глубинного бурения для извлечения минералов из недр. Используйте глубинный сканер для обнаружения месторождений.</DeepDrill.description>
+	<DeepDrill_Blueprint.label>буровая установка (проект)</DeepDrill_Blueprint.label>
+	<DeepDrill_Frame.label>буровая установка (заготовка)</DeepDrill_Frame.label>
 
 	<!--======================== Nutrient dispenser ==============================-->
 
 	<NutrientPasteDispenser.label>раздатчик пасты</NutrientPasteDispenser.label>
 	<NutrientPasteDispenser.description>Синтезирует питательную пасту из органического сырья. Требует меньше сырья и времени, чем любой другой метод приготовление пищи... однако есть пасту никто не любит. Работает не на грубом растительном сырье, вроде сена, а на сыром продовольствии.</NutrientPasteDispenser.description>
+	<NutrientPasteDispenser_Blueprint.label>раздатчик пасты (проект)</NutrientPasteDispenser_Blueprint.label>
+	<NutrientPasteDispenser_Frame.label>раздатчик пасты (заготовка)</NutrientPasteDispenser_Frame.label>
 
 	<Hopper.label>загрузочная воронка</Hopper.label>
 	<Hopper.description>Хранит ресурсы для использования в различных аппаратах, например раздатчиках пасты.</Hopper.description>
+	<Hopper_Blueprint.label>загрузочная воронка (проект)</Hopper_Blueprint.label>
+	<Hopper_Frame.label>загрузочная воронка (заготовка)</Hopper_Frame.label>
 
 </LanguageData>

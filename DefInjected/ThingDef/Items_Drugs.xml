@@ -29,7 +29,7 @@
 	<Penoxycyline.ingestible.ingestCommandString>Принять {0}</Penoxycyline.ingestible.ingestCommandString>
 	<Penoxycyline.ingestible.ingestReportString>Принимает {0}</Penoxycyline.ingestible.ingestReportString>
 
-	<Flake.label>«чешуйки»</Flake.label>
+	<Flake.label>чешуйки</Flake.label>
 	<Flake.description>Вещество с виде рыбьей чешуи, которое возможно выкурить для стимулирования короткой, но всеохватывающей эйфории. Не обременительно в производстве, легко вызывает привыкание.</Flake.description>
 	<Flake.ingestible.ingestCommandString>Выкурить {0}</Flake.ingestible.ingestCommandString>
 	<Flake.ingestible.ingestReportString>Курит {0}.</Flake.ingestible.ingestReportString>
@@ -44,7 +44,7 @@
 	<Yayo.ingestible.ingestCommandString>Нюхнуть {0}</Yayo.ingestible.ingestCommandString>
 	<Yayo.ingestible.ingestReportString>Вдыхает {0}.</Yayo.ingestible.ingestReportString>
 
-	<SmokeleafJoint.label>скрутка из дымолиста</SmokeleafJoint.label>
+	<SmokeleafJoint.label>скрутка дымолиста</SmokeleafJoint.label>
 	<SmokeleafJoint.description>Листья дымолиста, скрученные для курения. Поднимает настроение, но, в довекок, разжигает чувство голода, снижает сосредоточенность и замедляет движение. Употребление дымолиста может привести к зависимости. Для создание скрутки не нужны инструменты, только рабочее место.</SmokeleafJoint.description>
 	<SmokeleafJoint.ingestible.ingestCommandString>Выкурить дымолист</SmokeleafJoint.ingestible.ingestCommandString>
 	<SmokeleafJoint.ingestible.ingestReportString>Курит дымолист.</SmokeleafJoint.ingestible.ingestReportString>

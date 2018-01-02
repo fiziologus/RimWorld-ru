@@ -3,54 +3,87 @@
 
 	<OrbitalTradeBeacon.label>торговый маяк</OrbitalTradeBeacon.label>
 	<OrbitalTradeBeacon.description>Нужен для орбитальной торговли. Вы можете продавать только те вещи, которые находятся в радиусе действия маяка. Может быть установлен внутри помещения.</OrbitalTradeBeacon.description>
+	<OrbitalTradeBeacon_Blueprint.label>торговый маяк (проект)</OrbitalTradeBeacon_Blueprint.label>
+	<OrbitalTradeBeacon_Blueprint_Install.label>торговый маяк (проект)</OrbitalTradeBeacon_Blueprint_Install.label>
+	<OrbitalTradeBeacon_Frame.label>торговый маяк (заготовка)</OrbitalTradeBeacon_Frame.label>
 
 	<CommsConsole.label>консоль связи</CommsConsole.label>
 	<CommsConsole.description>Позволяет связаться по радио как с находящимися вдалеке торговцами, так и с другими группами в целях дипломатии и торговли.</CommsConsole.description>
+	<CommsConsole_Blueprint.label>консоль связи (проект)</CommsConsole_Blueprint.label>
+	<CommsConsole_Frame.label>консоль связи (заготовка)</CommsConsole_Frame.label>
 
-	<FirefoamPopper.label>хлопушка с пожарной пеной</FirefoamPopper.label>
-	<FirefoamPopper.description>Срабатывает от жара огня, либо при ручной активации, разбрасывая вокруг себя гасящую пламя пену.</FirefoamPopper.description>
+	<FirefoamPopper.label>пожарная хлопушка</FirefoamPopper.label>
+	<FirefoamPopper.description>Срабатывает от жара огня, либо запускается вручную, разбрасывая вокруг себя гасящую пламя пену.</FirefoamPopper.description>
 	<FirefoamPopper.comps.1.useLabel>Запустить пожарную хлопушку</FirefoamPopper.comps.1.useLabel>
+	<FirefoamPopper_Blueprint.label>пожарная хлопушка (проект)</FirefoamPopper_Blueprint.label>
+	<FirefoamPopper_Blueprint_Install.label>пожарная хлопушка (проект)</FirefoamPopper_Blueprint_Install.label>
+	<FirefoamPopper_Frame.label>пожарная хлопушка (заготовка)</FirefoamPopper_Frame.label>
 
 	<MoisturePump.label>осушитель</MoisturePump.label>
 	<MoisturePump.description>Очень медленно вытягивает влагу из окружающей местности, превращая болота или неглубокие водоёмы в сухую землю. На глубокой воде бессилен.</MoisturePump.description>
+	<MoisturePump_Blueprint.label>осушитель (проект)</MoisturePump_Blueprint.label>
+	<MoisturePump_Frame.label>осушитель (заготовка)</MoisturePump_Frame.label>
 
 	<GroundPenetratingScanner.label>глубинный сканер</GroundPenetratingScanner.label>
 	<GroundPenetratingScanner.description>Смотрящий вниз глубинный радар, совмещённый с сонаром и датчиками магнитного поля, позволяющий находить (но не распознавать) находящиеся глубоко под поверхностью полезные ископаемые. Требует огромного количества энергии.</GroundPenetratingScanner.description>
+	<GroundPenetratingScanner_Blueprint.label>глубинный сканер (проект)</GroundPenetratingScanner_Blueprint.label>
+	<GroundPenetratingScanner_Frame.label>глубинный сканер ()</GroundPenetratingScanner_Frame.label>
 
 	<LongRangeMineralScanner.label>сканер минералов дальнего действия</LongRangeMineralScanner.label>
 	<LongRangeMineralScanner.description>Автоматически обнаруживает ценные минералы, например золото или нефрит, в близлежащих областях (но не там, где построен). Скопления могут быть обнаружены, в среднем, один раз в 30 дней в радиусе 30 клеток. Установка дополнительных сканеров по соседству практически не влияет на эффективность поиска.</LongRangeMineralScanner.description>
+	<LongRangeMineralScanner_Blueprint.label>сканер минералов дальнего действия (проект)</LongRangeMineralScanner_Blueprint.label>
+	<LongRangeMineralScanner_Frame.label>сканер минералов дальнего действия (заготовка)</LongRangeMineralScanner_Frame.label>
 
 	<!--========================== Transport pods ============================-->
 
-	<PodLauncher.label>пусковая установка для капсул</PodLauncher.label>
-	<PodLauncher.description>Устройство для подачи топлива и запуска транспортной капсулы. Несколько пусковых установок могут работать, как одно целое, однако должны быть установлены бок о бок друг к другу..</PodLauncher.description>
+	<PodLauncher.label>пусковая катапульта</PodLauncher.label>
+	<PodLauncher.description>Заправляемое устройство для запуска транспортной капсулы. Несколько катапульт могут работать, как одно целое, однако должны быть установлены бок о бок друг к другу.</PodLauncher.description>
+	<PodLauncher_Blueprint.label>пусковая катапульта (проект)</PodLauncher_Blueprint.label>
+	<PodLauncher_Frame.label>пусковая катапульта (заготовка)</PodLauncher_Frame.label>
 
 	<TransportPod.label>транспортная капсула</TransportPod.label>
 	<TransportPod.description>Запускаемая по суборбитальной траектории транспортная капсула, приспособленная для людей, грузов, либо животных. Может быть использована для перемешения людей и грузов, внезапных атак, либо переброске подкрепления в битвах.</TransportPod.description>
+	<TransportPod_Blueprint.label>транспортная капсула (проект)</TransportPod_Blueprint.label>
+	<TransportPod_Frame.label>транспортная капсула (заготовка)</TransportPod_Frame.label>
 
 	<!--========================== Facilities ============================-->
 
 	<MultiAnalyzer.label>мультианализатор</MultiAnalyzer.label>
 	<MultiAnalyzer.description>Увеличивает скорость исследований. Должен быть размещен рядом со столом учёного. Один исследовательский стол может быть соеденен только с одним мультианализатором.</MultiAnalyzer.description>
+	<MultiAnalyzer_Blueprint.label>мультианализатор (проект)</MultiAnalyzer_Blueprint.label>
+	<MultiAnalyzer_Blueprint_Install.label>мультианализатор (проект)</MultiAnalyzer_Blueprint_Install.label>
+	<MultiAnalyzer_Frame.label>мультианализатор (заготовка)</MultiAnalyzer_Frame.label>
 
 	<VitalsMonitor.label>монитор пациента</VitalsMonitor.label>
 	<VitalsMonitor.description>Увеличивает качество лечения, успешность операций и скорость приобретения иммунитета, если размещён бок о бок с медицинской койкой. Эффективен только с медицинской койкой, с обычными кроватями пользы не принесёт. Присоединение к одной койке добавочных мониторов пациента не даст никакого эффекта.</VitalsMonitor.description>
+	<VitalsMonitor_Blueprint.label>монитор пациента (проект)</VitalsMonitor_Blueprint.label>
+	<VitalsMonitor_Blueprint_Install.label>монитор пациента (проект)</VitalsMonitor_Blueprint_Install.label>
+	<VitalsMonitor_Frame.label>монитор пациента (заготовка)</VitalsMonitor_Frame.label>
 
 	<ToolCabinet.label>шкаф для инструментов</ToolCabinet.label>
 	<ToolCabinet.description>Увеличивает скорость работы. Должен быть размещен рядом с рабочим местом. К одному рабочему месту могут быть одновременно привязаны только два шкафа для инструментов.</ToolCabinet.description>
+	<ToolCabinet_Blueprint.label>шкаф для инструментов (проект)</ToolCabinet_Blueprint.label>
+	<ToolCabinet_Blueprint_Install.label>шкаф для инструментов (проект)</ToolCabinet_Blueprint_Install.label>
+	<ToolCabinet_Frame.label>шкаф для инструментов (заготовка)</ToolCabinet_Frame.label>
 
 	<!--=========================== Graves ============================-->
 
 	<Grave.label>могила</Grave.label>
 	<Grave.description>Хороните мёртвых в могилах, чтобы дать им подобающее место последнего отдыха. Посещая захоронение, поселенцы могут придаться размышлениям.</Grave.description>
+	<Grave_Blueprint.label>могила (проект)</Grave_Blueprint.label>
+	<Grave_Frame.label>могила (заготовка)</Grave_Frame.label>
 
 	<Sarcophagus.label>саркофаг</Sarcophagus.label>
 	<Sarcophagus.description>Украшенный орнаментами погребальный сосуд для почетных усопших.</Sarcophagus.description>
+	<Sarcophagus_Blueprint.label>саркофаг (проект)</Sarcophagus_Blueprint.label>
+	<Sarcophagus_Frame.label>саркофаг (заготовка)</Sarcophagus_Frame.label>
 
 	<!--======================= Cryptosleep caskets ===========================-->
 
 	<CryptosleepCasket.label>рака криптосна</CryptosleepCasket.label>
 	<CryptosleepCasket.description>Автономный саркофаг, созданный для поддержания личности в состоянии анабиоза в течение многих лет.</CryptosleepCasket.description>
+	<CryptosleepCasket_Blueprint.label>рака криптосна (проект)</CryptosleepCasket_Blueprint.label>
+	<CryptosleepCasket_Frame.label>рака криптосна (заготовка)</CryptosleepCasket_Frame.label>
 
 	<AncientCryptosleepCasket.label>древний рака криптосна</AncientCryptosleepCasket.label>
 	<AncientCryptosleepCasket.description>Этот рака криптосна выглядит, будто пробыла здесь долгие годы. Кто знает, кто или что может быть внутри?</AncientCryptosleepCasket.description>

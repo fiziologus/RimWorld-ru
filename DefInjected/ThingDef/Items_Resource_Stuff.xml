@@ -53,9 +53,9 @@
 
 	<!--=============================== Wool ================================-->
 
-	<MegaslothWool.label>шерсть мегатерия</MegaslothWool.label>
-	<MegaslothWool.description>Дубоватая, но длинные нити подшёрстка делают её очень прочной. Очень тёплая.</MegaslothWool.description>
-	<MegaslothWool.stuffProps.stuffAdjective>шерсти мегатерия</MegaslothWool.stuffProps.stuffAdjective>
+	<MegaslothWool.label>шерсть мегаленивца</MegaslothWool.label>
+	<MegaslothWool.description>Дубовата, но длинные нити подшёрстка делают её очень прочной. Очень тёплая.</MegaslothWool.description>
+	<MegaslothWool.stuffProps.stuffAdjective>шерсти мегаленивца</MegaslothWool.stuffProps.stuffAdjective>
 
 	<MuffaloWool.label>шерсть муйвола</MuffaloWool.label>
 	<MuffaloWool.description>Мягкая, лёгкая и даёт очень хорошую защиту от холода и жара. Шерстяная одежда сохранит тепло даже в чрезвычайных условиях.</MuffaloWool.description>
