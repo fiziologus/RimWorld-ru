@@ -26,7 +26,7 @@ public class LanguageWorker_Russian : LanguageWorker
 		{
 			return str.Substring(0, str.Length - 1) + "а";
 		}
-		else if ( c == "е" )
+		else if ( c == "е" || c == "ё" )
 		{
 			return str.Substring(0, str.Length - 1) + "я";
 		}
