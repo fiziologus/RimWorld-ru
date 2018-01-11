@@ -4,6 +4,39 @@ using Verse;
 
 public class LanguageWorker_Russian : LanguageWorker
 {
+	public override string Pluralize(string str, int count = -1)
+	{
+		if (str.NullOrEmpty())
+		{
+			return str;
+		}
+		// Берём последнюю букву
+		char c = str[str.Length - 1];
+		// Если последняя А берём ещё и предпоследнюю
+		char c2 = (str.Length != 1 && c == "а") ? str[str.Length - 2] : '\0';
+		if ( "гкхжшщч".IndexOf(c) >= 0 )
+		{
+			return str + "и";
+		}
+		else if ( ( c == "а" && "гкхжшщч".IndexOf(c2) >= 0 ) || "йья".IndexOf(c) >= 0 )
+		{
+			return str.Substring(0, str.Length - 1) + "и";
+		}
+		else if ( c == "о" )
+		{
+			return str.Substring(0, str.Length - 1) + "а";
+		}
+		else if ( c == "е" )
+		{
+			return str.Substring(0, str.Length - 1) + "я";
+		}
+		else if ( c == "а" )
+		{
+			return str.Substring(0, str.Length - 1) + "ы";
+		}
+		else return str + "ы";
+	}
+
 	public override string OrdinalNumber(int number)
 	{
 		return number + "-й";
