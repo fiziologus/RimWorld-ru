@@ -4,7 +4,7 @@
 	<!-- =============== Medicine ==================== -->
 
 	<HerbalMedicine.label>зелёный сбор</HerbalMedicine.label>
-	<HerbalMedicine.description>Пучок травяных смесей, как правило, из врачующего корня. Не столь сильны, как промышленные медикаменты, но много лучше, чем ничего.</HerbalMedicine.description>
+	<HerbalMedicine.description>Пучок трав, как правило, здравокорня. Не столь сильны, как промышленные медикаменты, но много лучше, чем ничего.</HerbalMedicine.description>
 
 	<Medicine.label>медикаменты</Medicine.label>
 	<Medicine.description>Медперсонал используют это лечения раненых.</Medicine.description>

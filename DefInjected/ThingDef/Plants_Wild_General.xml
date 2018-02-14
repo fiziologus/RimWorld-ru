@@ -18,7 +18,7 @@
 	<PlantBrambles.label>заросли</PlantBrambles.label>
 	<PlantBrambles.description>Перепутанные колючие одревеневшие побеги, покрытые листьями. Почти останавливают любого, кто пойдём через них.</PlantBrambles.description>
 
-	<PlantWildHealroot.label>дикий врачующий корень</PlantWildHealroot.label>
-	<PlantWildHealroot.description>Медленно растушее растение, из которого получают зелёный сбор.\n\nЭту дикую разновидность врачующего корня тяжело выращивать. Он высоко ценим племенами холодных территорий.</PlantWildHealroot.description>
+	<PlantWildHealroot.label>дикий здравокорень</PlantWildHealroot.label>
+	<PlantWildHealroot.description>Медленно растушее растение, из которого получают зелёный сбор.\n\nЭту дикую разновидность здравокорня сложно выращивать. Он высоко ценим племенами холодных территорий.</PlantWildHealroot.description>
 
 </LanguageData>
