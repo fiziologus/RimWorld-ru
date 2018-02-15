@@ -32,12 +32,12 @@
 	<NamerFactionPirate.rulePack.rulesStrings.16>name->[groupname] [badassconcept]</NamerFactionPirate.rulePack.rulesStrings.16>
 	<NamerFactionPirate.rulePack.rulesStrings.17>name->[badassconcept]-[groupname]</NamerFactionPirate.rulePack.rulesStrings.17>
 	<!-- Меняем путь до файла для badassanimal -->
-	<NamerFactionPirate.rulesRaw.0.path>Words/Nouns/Animals_Badass_Plural</NamerFactionPirate.rulesRaw.0.path>
+	<NamerFactionPirate.rulePack.rulesRaw.0.path>Words/Nouns/Animals_Badass_Plural</NamerFactionPirate.rulesRaw.0.path>
 	<!-- badassadjective есть в Global -->
-	<NamerFactionPirate.rulesRaw.1.keyword>weapon_pl</NamerFactionPirate.rulesRaw.1.keyword>
-	<NamerFactionPirate.rulesRaw.1.path>Words/Nouns/Weapons_Plural</NamerFactionPirate.rulesRaw.1.path>
+	<NamerFactionPirate.rulePack.rulesRaw.1.keyword>weapon_pl</NamerFactionPirate.rulesRaw.1.keyword>
+	<NamerFactionPirate.rulePack.rulesRaw.1.path>Words/Nouns/Weapons_Plural</NamerFactionPirate.rulesRaw.1.path>
 	<!-- Меняем путь для badassperson -->
-	<NamerFactionPirate.rulesRaw.2.path>Words/Nouns/People_Badass_Plural</NamerFactionPirate.rulesRaw.2.path>
+	<NamerFactionPirate.rulePack.rulesRaw.2.path>Words/Nouns/People_Badass_Plural</NamerFactionPirate.rulesRaw.2.path>
 	<!-- badassconcept, groupname и badasscolor локальное определения; тронуть не получится -->
 	<!-- <NamerFactionPirate.rulesRaw.3.path></NamerFactionPirate.rulesRaw.3.path> -->
 
