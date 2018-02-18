@@ -78,8 +78,8 @@
 
 	<!-- Medical - Body and activities condition -->
 	<None>Нет</None>
-	<VeryPoor>Очень плохо</VeryPoor>
-	<Poor>Плохо</Poor>
+	<VeryPoor>Плохо</VeryPoor>
+	<Poor>Неважно</Poor>
 	<Weakened>Ослаблено</Weakened>
 	<GoodCondition>Хорошо</GoodCondition>
 	<Enhanced>Усилено</Enhanced>
