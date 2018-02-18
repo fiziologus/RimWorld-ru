@@ -4,7 +4,7 @@
 
 	<Shooting.label>стрельба</Shooting.label>
 	<Shooting.skillLabel>стрельба</Shooting.skillLabel>
-	<Shooting.description>Использование всех видов стрелкового оружия.</Shooting.description>
+	<Shooting.description>Использование разного рода нерукопашного оружия.</Shooting.description>
 
 	<Melee.label>рукопашная</Melee.label>
 	<Melee.skillLabel>рукопашная</Melee.skillLabel>
@@ -30,16 +30,16 @@
 	<Construction.skillLabel>сооружение</Construction.skillLabel>
 	<Construction.description>Лучшие сборщики создают постройки и мебель быстрее и лучше по качеству.</Construction.description>
 
-	<Growing.label>ращение</Growing.label>
-	<Growing.skillLabel>ращение</Growing.skillLabel>
+	<Growing.label>земледелие</Growing.label>
+	<Growing.skillLabel>земледелие</Growing.skillLabel>
 	<Growing.description>Посадка, уход и сбор посевов.</Growing.description>
 
 	<Mining.label>горное дело</Mining.label>
 	<Mining.skillLabel>горное дело</Mining.skillLabel>
 	<Mining.description>Рытье тунелей и добыча минералов, либо скрытых под землёй ресурсов.</Mining.description>
 
-	<Artistic.label>искусство</Artistic.label>
-	<Artistic.skillLabel>искусство</Artistic.skillLabel>
+	<Artistic.label>творчество</Artistic.label>
+	<Artistic.skillLabel>творчество</Artistic.skillLabel>
 	<Artistic.description>Создание предметов искусства.</Artistic.description>
 
 	<Crafting.label>ремесло</Crafting.label>
