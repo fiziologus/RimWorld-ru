@@ -1791,221 +1791,238 @@ HECAP до смерти начинает бояться грызунов пос�
 	</Pampered62>
 
 	<NinjaAssassin4>
-		<title>Ниньзя-убийца</title>
-		<titleShort>Ниньзя</titleShort>
+		<title>Нинзя-убийца</title>
+		<titleShort>Нинзя</titleShort>
 		<desc>NAME исполняет кинжально-точные устранения для межпланетного конгломерата. На самые сложные задания с изменением внешности, обманом, заговариванием зубов и максимально полезным насилием, как неотъемлемыми частями, назначают HIS.
 
 Не так пошедший скверный инцендент с цветком с горшке и устранением порождает в NAME отвращение к растительной жизни.</desc>
 	</NinjaAssassin4>
 
+<!-- Steve 'Thunder' Rahja -->
 	<MilitaryChild84>
-		<title>Military child</title>
-		<titleShort>Military</titleShort>
-		<desc>NAME grew up in a family with a rich military background. HISCAP teenage years were spent traveling system to system wherever HIS parents were deployed.
+		<title>Военное детство</title>
+		<titleShort>Военный</titleShort>
+		<desc>NAME растёт в семье с глубокими военными корнями. Юность HE проводит, путешествуя вместе с родителями из системы в систему, как приказ скажет.
 
-HECAP enlisted at age 18, following the tradition of HIS family.</desc>
+В 18 лет, следуя семейной традиции, NAME вступает в армию.</desc>
 	</MilitaryChild84>
 
 	<LazyProgrammer84>
 		<title>Lazy programmer</title>
 		<titleShort>Programmer</titleShort>
-		<desc>NAME independently developed software that had a competitive edge against local urbworld corporations.
+		<desc>NAME самостоятельно разрабатывает программное обеспечении, превосходящее в глазах пользователей продукцию местных корпораций мира-города.
 
-HISCAP legally questionable methods lead to a growing number in unsolved claims of intellectual property theft.</desc>
+Сомнительная легальность HIS способов работы ведёт к разрастанию числа неудовлетворённых претензий в хищении интеллектуальной собственности.</desc>
 	</LazyProgrammer84>
 
+<!-- Darius Coffey -->
 	<GangMember82>
-		<title>Gang member</title>
-		<titleShort>Ganger</titleShort>
-		<desc>NAME grew up homeless on an urbworld. HECAP was forced to fight and struggle for everything, making HIM hard and ruthless long before adulthood.
+		<title>Член шайки</title>
+		<titleShort>Гопота</titleShort>
+		<desc>NAME растёт в мире-городе без крыши над головой. Драки и борьба за любую малость ещё в детстве делают HIS жестокосердным и беспощадным.
 
-NAME would have stayed in those streets, had HE not been injured in a shootout and had his body confiscated for use by one of the worldwide city's ruling corporations.</desc>
+Не торчи NAME на улице, HE не поймал бы пулю в перестрелке, и тело бы HIS не забрала одна из правящих городом мировых корпораций.</desc>
 	</GangMember82>
+	<!-- Вообще-то ganger - бригадир, но здесь оно от gang+er -->
 
 	<MindwipedAssassin80>
-		<title>Mindwiped assassin</title>
-		<titleShort>Mindwipe</titleShort>
-		<desc>The corporation took and remade NAME. They trained HIM into an tool of destruction and subversion. HECAP took to HIS new life, finding satisfaction in the jobs they sent HIM on.
+		<title>Убийца-стиратель</title>
+		<titleShort>Стиратель</titleShort>
+		<desc>Корпорация прибрала и передалала NAME. Она вышколила HIS в инструмент уничтожения и низложения. NAME принимает новую жизнь, найдя в задачах, на которые HIS посылают, удовольствие.
 
-When HE learned that they planned on disposing of HIM, NAME turned on his masters, killing several and fleeing the planet.</desc>
+Узнав, что от нHIS хотят избавиться, NAME обращает оружие против собственных хозяев, убив малость народа и сбегая с планеты.</desc>
 	</MindwipedAssassin80>
 
+<!-- Afeeba 'Feeb' Dafo -->
 	<TestSubject90>
-		<title>Test subject</title>
-		<titleShort>Subject</titleShort>
-		<desc>Test subject #11,529,914 of experiment #56,048 spent her childhood in white rooms performing mental and physical tests.
+		<title>Подопытная</title>
+		<titleShort>Субъект</titleShort>
+		<desc>Детство подопытной #11,529,914 эксперимента #56,048 проходит за выполнением психологических и физических тестов в белых комнатах.
 
-Her only companion was a voice that called itself Mother. Mother rewarded success with praise - and failure with harsh punishment.</desc>
+Единственный HIS спутник — голос, зовущий себя Мать. За успех Мать вознаграждает похвалой... и суровой карой за неудачу.</desc>
 	</TestSubject90>
 
 	<TestSubject6>
-		<title>Test subject</title>
-		<titleShort>Subject</titleShort>
-		<desc>NAME's tests went from geometry to quantum physics, and she could run the grand gauntlet without a scratch.
+		<title>Подопытная</title>
+		<titleShort>Субъект</titleShort>
+		<desc>Испытания NAME переходят от геометрии к квантовой физике, и HE управляется огромной перчаткой без единой царапины.
 
-One day, Mother said that her final test lay beyond the red door, and that even if she couldn't hear her voice, Mother would always be there.</desc>
+В один из дней Мать сказала, что завершающее испытание находится за красной дверью, и что она всегда будет на ней, даже если NAME перестанет её слышать.</desc>
 	</TestSubject6>
 
+<!-- Dustin 'Duster' Bishop -->
 	<FireScarredChild32>
-		<title>Fire-scarred child</title>
-		<titleShort>Scarred</titleShort>
-		<desc>Duster was an active child who lived an uneventful childhood until he fell into a fire and suffered horrific burns to his hands and arms. Although the scars have faded, he can't bear to be in close proximity to fire.</desc>
+		<title>Обожённое дитя</title>
+		<titleShort>Обезображенный</titleShort>
+		<desc>NAME — бойкий малыш с небогатым на события детством, пока HE не падает в пламя, HIS ручки с ножками не покрываются ужасающими ожогами. И хотя шрамы сошли, даже находится близи огня для нHIS невыносимо.</desc>
 	</FireScarredChild32>
 
 	<SpaceshipSalesman6>
-		<title>Spaceship salesman</title>
-		<titleShort>Salesman</titleShort>
-		<desc>Duster tried his hand at various jobs, including building space rabbit cages and working at a mutant wheat research project. Finally, he found his true calling as a spacecraft salesman. Specializing in recreational spacecraft, his smooth talk and charming nature served him well.</desc>
+		<title>Продавец на космолёте</title>
+		<titleShort>Продавец</titleShort>
+		<desc>NAME перепробовал массу различных задач, включая создание клеток для космокроликов и работой над исследовательским проектом мутантной пшеницы. В конечном итоге, став продавцом на космическом судне, HE обретает своё истинное призвание. Спокойная речь и природная обаятельность как нельзя кстати подходят на кораблях для отдыха и развлечения, где NAME обычно и бывает.</desc>
 	</SpaceshipSalesman6>
 
+<!-- Michael 'Flea' Shepherd-Fin -->
 	<TechEnthusiast65>
-		<title>Tech enthusiast</title>
-		<titleShort>Tech nerd</titleShort>
-		<desc>Michael had all the latest gadgets as a child. He spent all his time playing games with AIs instead of with other children. He always felt awkward around new people.</desc>
+		<title>Интерес к технике</title>
+		<titleShort>Технарь</titleShort>
+		<desc>Ребёнком NAME имел все самые последние технические новинки. Вместо игр с другими детьми HE проводит всё время, играя с ИИ. А вблизи новых людей всегда чувствует неловкость.</desc>
 	</TechEnthusiast65>
 
 	<AIProgrammer5>
-		<title>AI programmer</title>
-		<titleShort>Programmer</titleShort>
-		<desc>Michael enlisted in the military's robotics division, developing smarter combat AI.
+		<title>Программист ИИ</title>
+		<titleShort>Программист</titleShort>
+		<desc>NAME зачисляют в подразделение войсковой робототехники, занимающейся улучшением боевого ИИ.
 
-The whole time he was there, he never spoke with another human. He spent all his time conversing with the AI he was developing.</desc>
+За всё время здесь HE не обмалвивается словечком ни с одним человеком. Всё время HE проводит, общаясь с разрабатываемым им ИИ.</desc>
 	</AIProgrammer5>
 
+<!-- Korwal 'Bomba' Ferrara -->
 	<DiplomatsChild66>
-		<title>Diplomat's child</title>
-		<titleShort>Diplomat</titleShort>
-		<desc>NAME was born in diplomatic family.
+		<title>Чадо дипломата</title>
+		<titleShort>Дипломат</titleShort>
+		<desc>NAME — отпрыск семьи дипломатов.
 
-Travelling often, HE was home-schooled and saw the world mostly through a computer.</desc>
+Почти всё время в дороге HE получает домашнее образование, а на мир обычно смотрит через экран компьютера.</desc>
 	</DiplomatsChild66>
 
 	<WhiteHatHacker49>
-		<title>White-hat hacker</title>
-		<titleShort>Hacker</titleShort>
-		<desc>From HIS computer, NAME helped rid the online world of bad people.</desc>
+		<title>Добрый хакер</title>
+		<titleShort>Хакер</titleShort>
+		<desc>Со своего компьютера NAME помогает избавить виртуальный мир от дряного люда.</desc>
 	</WhiteHatHacker49>
 
+<!-- Vitor 'Oahnip' Pinhao == trema-arte.pt/acervo/vítor-pinhão -->
 	<Winerunner96>
-		<title>Winerunner</title>
-		<titleShort>Winerunner</titleShort>
-		<desc>Abandoned by his parents, NAME was raised by the monks of the Novo Mosteiro dos Jeronimos monastery on Aracena VI.
+		<title>Сборщик вина</title>
+		<titleShort>Винохват</titleShort>
+		<desc>Брошенного собственными родителями NAME ростят монахи из прихода Ново Мостейро до Жеронимо на Арацена VI.
 
-The monks taught him discipline and hard work. In return, HE would go into the city and 'acquire' exotic wines for the monks' nightly tastings.</desc>
+Монахи обучили HIS послушанию и нелёгкому труду. NAME же, в свою очередь, посещает город и 'приобретает себе' экзотическии вина для ночных дегустаций монахов.</desc>
 	</Winerunner96>
 
 	<VinhoKing50>
-		<title>Vinho king</title>
-		<titleShort>Booze king</titleShort>
-		<desc>After prohibition came to Aracena VI, NAME expanded his underground liquor business until it dominated the market on two continents. They called him the Vinho King.
+		<title>Король Виньё</title>
+		<titleShort>Виноцарь</titleShort>
+		<desc>После прихода на Арацена IV 'сухого закона' NAME расширяет свой подпольный алкогольный бизнес, пока не подминает под себя рынки на двух континентах. Теперь HE Король Виньё.
 
-Though HE mostly controlled his competition by masterful political maneuvering, HE was not above the occasional beat-down or stiletto assassination.</desc>
+И хотя конкурентами HE по большей части управлял с помощью искусстного политического лавирования, но временами мог снизойти и до физического насилия, либо устранения оппонента.</desc>
 	</VinhoKing50>
 
+<!-- Levin 'Levin' Lossfelt -->
 	<StreetChild49>
-		<title>Street child</title>
-		<titleShort>Street</titleShort>
-		<desc>NAME's drug addict mother died, leaving HIM an orphan at a young age. To stay alive, HE resorted to theft, and when necessary, prostitution. When NAME was caught stealing from a church, the priestess saw a wounded but smart child, and took HIM in to give HIM a second chance at life.</desc>
+		<title>Бездомный</title>
+		<titleShort>Бомж</titleShort>
+		<desc>Пристрастившаяся к наркотиками мать NAME умерла, оставив HIS малолетним сиротой. Чтобы выжить NAME прибегает к воровству, а, если понадобится, и торговле собственным телом. Когда HIS ловят за руку на воровстве из церкви, священнослужительница видит в NAME израненного, но смышлённого малыша и оставляет себе, чтобы дать NAME второй шанс.</desc>
 	</StreetChild49>
 
 	<SlaveChemist35>
-		<title>Slave chemist</title>
-		<titleShort>Chemist</titleShort>
-		<desc>NAME became a gifted pharmaceutical scientist, but was captured by slavers. HECAP was sold to a warlord and forced to create drugs to test on other slaves. This left HIM with deep and troubling questions on the ethics of scientific research and medicine.</desc>
+		<title>Химик-раб</title>
+		<titleShort>Химик</titleShort>
+		<desc>NAME становится одарённым ученым с области лекарственных препаратов, но попадает в лапы работорговцев. HISCAP продают военноначальнику, где силой заставляют создавать различные препараты для обкатки на других рабах. Это порождает в NAME грубокие и тревожащие вопросы об моральной стороне научных и медицинских исследований.</desc>
 	</SlaveChemist35>
 
+<!-- Tomine 'Maskinnen' Maske -->
 	<SlaveFarmer49>
-		<title>Slave farmer</title>
-		<titleShort>Slave</titleShort>
-		<desc>Abandoned as a little girl, NAME was found by a farmer. Being infertile himself, the farmer kept her as a slave. The constant beatings left her scarred and unable to handle violence. After many years, she ran away.</desc>
+		<title>Рабство на ферме</title>
+		<titleShort>Рабыня</titleShort>
+		<desc>Брошенную маленькой девочкой NAME находит землевладелец. Своих детей он иметь не мог и держал HIS, как рабыню. Постоянные побои покрыли HIS шрамами и сделали неспособной к насилию. HECAP много лет спустя.</desc>
 	</SlaveFarmer49>
 
 	<RocketEngineer75>
-		<title>Rocket engineer</title>
-		<titleShort>Engineer</titleShort>
-		<desc>NAME won a grant to a top school and earned a degree in rocket engineering. After several years working for a space mining company she left to travel and see the universe.</desc>
+		<title>Инженер-ракетчик</title>
+		<titleShort>Инженер</titleShort>
+		<desc>NAME получает место в высшей школе и выучивается на инженера-ракетчика. Проработав несколько лет в горнодобывающей космической компании, HE покидает её, чтобы увидеть и исходить Вселенную.</desc>
 	</RocketEngineer75>
 
+<!-- Soren 'Grim' Reber -->
 	<MedievalSlave34>
-		<title>Medieval slave</title>
-		<titleShort>Slave</titleShort>
-		<desc>Born into slavery, Soren never knew his parents. He eventually escaped from his masters and boarded a military cargo ship, where he was pressed into military service.</desc>
+		<title>Средневековый раб</title>
+		<titleShort>Невольник</titleShort>
+		<desc>Рождённый в рабстве NAME ни разу не видел своих родителей. В конце концов HE сбегает от своих хозяев и попадает на военное грузовое судно, где против желания попадает в солдатские ряды.</desc>
 	</MedievalSlave34>
 
 	<SpaceMarine27>
-		<title>Space marine</title>
-		<titleShort>Marine</titleShort>
-		<desc>Soren joined a squad of space marines known for their brutal efficiency at killing. His last name and his lack of emotion during combat inspired his nickname: Grim.</desc>
+		<title>Космоморпех</title>
+		<titleShort>Морпех</titleShort>
+		<desc>NAME вступает в ряды извесного своей звериной жестокостью отряда. Фамилия и отсудствие эмоций в битве дали почву для прозвища NAME: Жнец.</desc>
 	</SpaceMarine27>
+	<!-- Grim от Grim Reaper == один из образов смерти -->
 
+<!-- Amelia 'Engie' Flais -->
 	<FoundryApprentice81>
-		<title>Foundry apprentice</title>
-		<titleShort>Foundryman</titleShort>
-		<desc>NAME grew up as an apprentice in the foundries of an industrial world. This experience gave HIM metalworking skills and strong muscles, but stunted HIS artistic development.</desc>
+		<title>Литейщик-подмастерье</title>
+		<titleShort>Литейщик</titleShort>
+		<desc>NAME мужает подмастерьем в литейных заводах индустриального мира. Этот опыт одаривает HIS умением работать с металлом и сильным телом, но забивает творческое начало.</desc>
 	</FoundryApprentice81>
 
 	<CombatEngineer42>
-		<title>Combat engineer</title>
-		<titleShort>Engineer</titleShort>
-		<desc>NAME became a combat engineer. HECAP built bases, fixed guns, and repaired vehicles for the army - when HE wasn't shooting at people, that is.</desc>
+		<title>Сапёр</title>
+		<titleShort>Сапёр</titleShort>
+		<desc>NAME становится сапёром. HECAP возводит укрепления, чинит орудия и латает технику во благо армии... если не стреляет в это время в людей.</desc>
 	</CombatEngineer42>
 
+<!-- Shaav Sautereau -->
 	<PrivilegedProdigy5>
-		<title>Privileged prodigy</title>
-		<titleShort>Prodigy</titleShort>
-		<desc>NAME was recognized as gifted early in his glitterworld upbringing. Luckily, HIS family was in a position to cultivate that genius through advanced education. HISCAP training included science, leadership, and the arts.</desc>
+		<title>Удачливая одарённость</title>
+		<titleShort>Одарённый</titleShort>
+		<desc>Родители с самого начала приметили одарённость живущего в сверкающем мире NAME. К счастью, в HIS семье считали, что нужно взращивать этот дар посредством прогрессивного обучения. В HIS подготовку входят наука, руководство и различные виды искусства.</desc>
 	</PrivilegedProdigy5>
 
 	<PlanetaryDiplomat42>
-		<title>Planetary diplomat</title>
-		<titleShort>Diplomat</titleShort>
-		<desc>NAME's passion and profession was interplanetary politics. HECAP was a master of social manipulation and negotiation and devoted HIMself to working towards peace, compromise and mutual benefit.</desc>
+		<title>Посол планеты</title>
+		<titleShort>Дипломат</titleShort>
+		<desc>Страстью и профессией NAME становится межпланетная политика. HECAP является знатоком управления людьми и переговоров и посвящает свою жизнь работе по достижению мира, взаимопонимания и взаимовыгодного сотрудничества.</desc>
 	</PlanetaryDiplomat42>
 
+<!-- Jered 'Jay' Martin -->
 	<ChildProdigy22>
-		<title>Child prodigy</title>
-		<titleShort>Prodigy</titleShort>
-		<desc>After graduating college at age twelve, Jered devoted his life to becoming immortal. However his research crossed the line when he tried to modify his body using gene therapy and mechanical augmentation. He was arrested and condemned to a prison planet.</desc>
+		<title>Вундеркинд</title>
+		<titleShort>Чудо</titleShort>
+		<desc>Окончив учёбу в двенадцать, NAME посвящает свою жизнь поиску бессмертия. Однако HE переходит черту в своих исследованиях, когда пытается видоизменить своё тело с помощью генной терапии и механических приращений. HISCAP арестовывают и высылают по приговору на планету-тюрьму.</desc>
 	</ChildProdigy22>
 
 	<RenegadeEngineer33>
-		<title>Renegade engineer</title>
-		<titleShort>Engineer</titleShort>
-		<desc>After a daring escape from the prison planet with a small crew of fellow inmates, Jered set his gaze on his homeworld.
+		<title>Инженер-ренегат</title>
+		<titleShort>Инженер</titleShort>
+		<desc>Совершив с небольшой группой сокамерников дерзкий побег с планеты-тюрьмы, NAME обращает взор на собственный родной мир.
 
-He travelled there, recruited more followers, hijacked a space cruiser, and launched into the void.</desc>
+HECAP направляется туда, набирает последователей, угоняет космический крейсер и уходит в Пустоту.</desc>
 	</RenegadeEngineer33>
 
+<!-- Vincent 'Alaska' Salaka -->
 	<BoneCollector51>
-		<title>Bone collector</title>
-		<titleShort>Pupil</titleShort>
-		<desc>Born to a family of fortune hunters, NAME always had a passion for ancient history.
+		<title>Собиратель костей</title>
+		<titleShort>Воспитаник</titleShort>
+		<desc>Рождённый в семье ловцов удачи NAME всегда испытывал страсть к древней истории.
 
-Though never a tough or social boy, HE loved to dig through history books as well as dirt piles.</desc>
+Не будучи ни крепышом, ни говоруном, HE одинакого любил ковыряться как в исторических книгах, так и в грязных кучах.</desc>
 	</BoneCollector51>
 
 	<Osteologist68>
-		<title>Osteologist</title>
-		<titleShort>Scholar</titleShort>
-		<desc>After graduating university at the top of his class, NAME quickly became a well-known and athletic college professor.
+		<title>Остеолог</title>
+		<titleShort>Учёный</titleShort>
+		<desc>Окончив университет с высшей среди класса оценкой, NAME быстро становится хорошо известным и физически активным преподавателем.
 
-With his new found fame and fitness came a sudden reluctance to preform menial labor - such tasks are better left to graduate students.</desc>
+С вновь обретёнными известностью и здоровьем неожиданно появляется и отвражение к черновой работе: эти задачи пускай делают аспиранты.</desc>
 	</Osteologist68>
 
+<!-- Joshua 'Gizmo' Nelson -->
 	<GNomeSculptor81>
-		<title>G-nome sculptor</title>
-		<titleShort>Sculptor</titleShort>
-		<desc>NAME was engineered in a lab as part of the G-nome Project. He was implanted at birth with encyclopedic knowledge of all aspects of xenobiology.
+		<title>Г-ном скульптор</title>
+		<titleShort>Ваятель</titleShort>
+		<desc>NAME создан в лаборатории, как часть Проекта Г-ном. При рождении в нHIS вживляют энциклопедический познания во всех аспектах ксенобиологии.
 
-The G-nome scientists nicknamed him Gizmo and occupied him with sculpting. He developed a love of sculpting gnomes and gnome accessories.</desc>
+Учёные проекта нарекают HIS 'Штуковина' и занимают скульптуров. В NAME развивается любовь к ваянию гномов и их вещей.</desc>
 	</GNomeSculptor81>
 
 	<Gnomebiologist56>
-		<title>Gnomebiologist</title>
-		<titleShort>Biologist</titleShort>
-		<desc>Gizmo was a xenobiology professor in a glitterworld university. He went to conferences and managed an art gallery.
+		<title>Гномобиолог</title>
+		<titleShort>Биолог</titleShort>
+		<desc>NAME — преподаватель ксенобиологии в университете сверкающего мира. HECAP посещает совещания и руководит художественной галереей.
 
-However, he never stopped sculpting yard gnomes, and considers this to be his true profession.</desc>
+Однако ж NAME так и не прекращает создавать дворовых гномов и полагает, что это и есть HIS истинная профессия.</desc>
 	</Gnomebiologist56>
 
 	<CircusPerformer69>
