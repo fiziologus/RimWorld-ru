@@ -27,18 +27,18 @@
 	<Ibex_Corpse.label>туша козерога</Ibex_Corpse.label>
 	<Ibex_Corpse.description>Мёртвый козерог</Ibex_Corpse.description>
 
-	<Elk.label>лось</Elk.label>
+	<Elk.label>марал</Elk.label>
 	<Elk.description>Крупный представитель оленьей семьи, хорошо приспособившийся к жизни в холодном климате.</Elk.description>
 	<Elk.tools.0.label>левое копыто</Elk.tools.0.label>
 	<Elk.tools.1.label>правое копыто</Elk.tools.1.label>
 	<Elk.tools.3.label>голова</Elk.tools.3.label>
-	<Elk_Leather.label>шкура лося</Elk_Leather.label>
-	<Elk_Leather.stuffProps.stuffAdjective>шкуры лося</Elk_Leather.stuffProps.stuffAdjective>
+	<Elk_Leather.label>шкура марала</Elk_Leather.label>
+	<Elk_Leather.stuffProps.stuffAdjective>шкуры марала</Elk_Leather.stuffProps.stuffAdjective>
 	<!-- <Elk_Leather.description>Кожа, снятая с лося.</Elk_Leather.description> -->
-	<Elk_Meat.label>мясо лося</Elk_Meat.label>
+	<Elk_Meat.label>мясо марала</Elk_Meat.label>
 	<!-- <Elk_Meat.description>Сырое мясо лося.</Elk_Meat.description> -->
-	<Elk_Corpse.label>туша лося</Elk_Corpse.label>
-	<Elk_Corpse.description>Мёртвый лось</Elk_Corpse.description>
+	<Elk_Corpse.label>туша марала</Elk_Corpse.label>
+	<Elk_Corpse.description>Мёртвый марал</Elk_Corpse.description>
 
 	<Caribou.label>карибу</Caribou.label>
 	<Caribou.description>Крупный представитель оленьей семьи, хорошо приспособившийся к жизни в холодном климате.</Caribou.description>
