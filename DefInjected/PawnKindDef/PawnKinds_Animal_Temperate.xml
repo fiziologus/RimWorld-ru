@@ -19,13 +19,13 @@
 	<Ibex.lifeStages.2.labelMale>козёл козерога</Ibex.lifeStages.2.labelMale>
 	<Ibex.lifeStages.2.labelFemale>коза козерога</Ibex.lifeStages.2.labelFemale>
 
-	<Elk.label>лось</Elk.label>
-	<Elk.labelPlural>лоси</Elk.labelPlural>
-	<Elk.lifeStages.0.label>лосёнок</Elk.lifeStages.0.label>
-	<Elk.lifeStages.1.labelMale>молодой лось</Elk.lifeStages.1.labelMale>
-	<Elk.lifeStages.1.labelFemale>молодая лосиха</Elk.lifeStages.1.labelFemale>
-	<Elk.lifeStages.2.labelMale>лось</Elk.lifeStages.2.labelMale>
-	<Elk.lifeStages.2.labelFemale>лосиха</Elk.lifeStages.2.labelFemale>
+	<Elk.label>марал</Elk.label>
+	<Elk.labelPlural>маралы</Elk.labelPlural>
+	<Elk.lifeStages.0.label>оленёнок марала</Elk.lifeStages.0.label>
+	<Elk.lifeStages.1.labelMale>самец марал</Elk.lifeStages.1.labelMale>
+	<Elk.lifeStages.1.labelFemale>самка марала</Elk.lifeStages.1.labelFemale>
+	<Elk.lifeStages.2.labelMale>рогач марала</Elk.lifeStages.2.labelMale>
+	<Elk.lifeStages.2.labelFemale>важенка марала</Elk.lifeStages.2.labelFemale>
 
 <!-- карибу == местное название северного оленя -->
 	<Caribou.label>карибу</Caribou.label>
