@@ -2025,32 +2025,34 @@ HECAP направляется туда, набирает последовате
 Однако ж NAME так и не прекращает создавать дворовых гномов и полагает, что это и есть HIS истинная профессия.</desc>
 	</Gnomebiologist56>
 
+<!-- Phillip 'Vector' Vector -->
 	<CircusPerformer69>
-		<title>Circus performer</title>
-		<titleShort>Performer</titleShort>
-		<desc>Growing up in the circus, NAME learned a lot of interesting things. More interesting then the balls he juggled were the pockets he picked between shows.
+		<title>Цирковой артист</title>
+		<titleShort>Циркач</titleShort>
+		<desc>Растуший в цирке NAME обучился массе интересного. Ещё интересней, когда мячики, которыми HE жонглирует, становятся карманами, что HE щипет между представлениями.
 
-A mistake with some firesticks made him develop a deathly fear of fire.</desc>
+Оплошность с факелами при жонглировании развивает в NAME смертельный страх перед огнём.</desc>
 	</CircusPerformer69>
 
 	<CriminalKingpin63>
-		<title>Criminal kingpin</title>
-		<titleShort>Kingpin</titleShort>
-		<desc>NAME discovered his gift - people did what he said, when he said it. Taking advantage of this, he set off for the rimworlds planets to make a name for himself in the criminal underworld.
+		<title>Преступная шишка</title>
+		<titleShort>Пахан</titleShort>
+		<desc>У NAME обнаруживается дар: люди делают, что HE скажет, когда NAME озвучивает это. Желая воспользоваться этим HE оправляется на окраинные планеты, чтобы сделать себе имя в преступном подполье.
 
-Having people do things for him taught him to avoid manual labor at all costs.</desc>
+Делающие всё для NAME люди научили HIS любой ценой избегать ручного труда.</desc>
 	</CriminalKingpin63>
 
+<!-- Emily 'Emmie' Young -->
 	<VatgrownSlavegirl4>
-		<title>Vatgrown slavegirl</title>
-		<titleShort>Slave girl</titleShort>
-		<desc>Emmie was vat-grown as a slave in an illegal urbworld laboratory. As a young child, she was taught only to cook, clean and serve her masters. For most of her childhood, she knew nothing else.</desc>
+		<title>Рабыня из пробирки</title>
+		<titleShort>Рабыня</titleShort>
+		<desc>NAME искуственно выращена в нелегальной лаборатории мира-города в качестве рабыни. С малых лет HIS обучают только готовить, прибирать и прислуживать своим хозяевам. Большего HE почти всё детство и не знала.</desc>
 	</VatgrownSlavegirl4>
 
 	<UrbworldSexSlave3>
-		<title>Urbworld sex slave</title>
-		<titleShort>Sex slave</titleShort>
-		<desc>Emmie was sold into sexual slavery. Having been designed to be inhumanly attractive and too weak to rebel against her masters, she was passed between dozens of owners and knew nothing of freedom.</desc>
+		<title>Секс-рабыня</title>
+		<titleShort>Секс-раб</titleShort>
+		<desc>NAME продают в сексуальное рабство. Созданная нечеловечески привлекательной, и слишком слабая, чтобы восстать против хозяев, HE переходила из рук в руки десятков владельцев и даже не знала, что такое свобода.</desc>
 	</UrbworldSexSlave3>
 
 	<GunKid57>
@@ -3821,20 +3823,36 @@ NAME был(а) лидером каравана. HECAP отвечал(а) за �
 HECAP и HIS люди преуспевали в этом, но их богатство делало их мишенью для разбойников. Часто им приходилось брать в руки оружие, чтобы отражать атаки бандитов и грабителей.</desc>
 	</Caravaneer77>
 
+<!-- Sarah 'Four Eyes' Renault -->
+	<AspiringPhysicist7>
+		<title>Будующий физик</title>
+		<titleShort>Студент</titleShort>
+		<desc>Первые годы жизни NAME, дочери инженера и врача, были интеллектуально насыщены. Посетив физическую лабораторию, HE решает стать кватновым физиком.
+
+У NAME, укушенной верблюдом, сброшенной с лошади и побегавшей от собаки, развился страх перед животными.</desc>
+	</AspiringPhysicist7>
+
+	<DeepSpaceSurveor17>
+		<title>Топограф космоглубин</title>
+		<titleShort>Топограф</titleShort>
+		<desc>NAME was a deep space surveyor. She studied which worlds were the most suitable for colonization.
+
+			Her expeditions were met by hostile natives, green-painted space-women, and wannabe Greek gods. Surviving many firefights, she learned to build rudimentary lathes and rock cannons to fend off enemies.</desc>
+	</DeepSpaceSurveor17>
+
+<!-- Tynan 'Tynan' Sylvester -->
 	<Punk70>
-		<title>Дворовая шпана</title>
-		<titleShort>Шпана</titleShort>
-		<desc>NAME провел(а) детство, продавая пятнадцатилетним поддельные сигареты. Как правило, внутри была измельчённая трава.</desc>
+		<title>Панк</title>
+		<titleShort>Панк</titleShort>
+		<desc>Детство NAME проводит, продавая пятнадцатилетним поддельные сигареты. Зачастую внутри них была рубленная трава.</desc>
 	</Punk70>
 
 	<GameDeveloper59>
-		<title>Инди-разработчик</title>
-		<titleShort>Инди-разработчик</titleShort>
-		<desc>Разработчик инди-игр
+		<title>Создатель игр</title>
+		<titleShort>Игродел</titleShort>
+		<desc>NAME — независимый игродел.
 
-NAME разрабатывал(а) инди-игры.
-
-HISCAP карьера после раннего успеха быстро пошла на спад и вскоре превратилась в бесконечный калейдоскоп из не находящих места идей, сорвавшихся сделок и проваленных пиар-компаний.</desc>
+После раннего успеха карьера NAME быстро скатилась до цирка ведущих не туда идей, ошибочных соглашений и отчаянных проваленых PR-трюков.</desc>
 	</GameDeveloper59>
 
 </BackstoryTranslations>
